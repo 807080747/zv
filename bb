@@ -1,8 +1,5 @@
-
- 
-
 全网通，#类型#
-贵州，http://139.196.151.191/udp/239.45.1.80:5140
+贵州,http://139.196.151.191/udp/239.45.1.80:5140
 CCTV1，http://go.bkpcp.top/mg/cctv1
 CCTV2，http://go.bkpcp.top/mg/cctv2
 CCTV3，http://go.bkpcp.top/mg/cctv3
