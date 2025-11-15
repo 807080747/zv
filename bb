@@ -1,7 +1,8 @@
- 
+
  
 
 全网通，#类型#
+贵州，http://139.196.151.191/udp/239.45.1.80:5140
 CCTV1，http://go.bkpcp.top/mg/cctv1
 CCTV2，http://go.bkpcp.top/mg/cctv2
 CCTV3，http://go.bkpcp.top/mg/cctv3
@@ -13,7 +14,7 @@ CCTV7，http://go.bkpcp.top/mg/cctv7
 CCTV8，http://go.bkpcp.top/mg/cctv8
 CCTV9，http://go.bkpcp.top/mg/cctv9
 CCTV10，http://go.bkpcp.top/mg/cctv10
-CCTV11，http://go.bkpcp.top/mg/cctv11
+CCTV11、http://go.bkpcp.top/mg/cctv11
 CCTV12，http://go.bkpcp.top/mg/cctv12
 CCTV13、http://go.bkpcp.top/mg/cctv13
 CCTV14、http://go.bkpcp.top/mg/cctv14
