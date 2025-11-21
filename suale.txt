@@ -1,5 +1,5 @@
-国外，#类型#
-访问www.lysc直播源，http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zhijd
+假假,#类型#
+直播源，http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zhijd
 免费更新，谨防受骗, http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshd
 ABN Afghanistan(540p)，https://mediaserver.abnvideos.com/streams/abnafghanistan.m3u8
 AMC(1080p)，https://amchls.wns.live/hls/stream.m3u8
@@ -87,8 +87,7 @@ AfroTurk电视(1080p)，https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u
 Amani电视(1080p)[非全天候]，https://goccn.cloud/hls/amanitv/index.m3u8
 彭博电视EMEA现场活动(720p)，https://bloomberg.com/media-manifest/streams/eu-event.m3u8
 ibn非洲电视台(720p),http://68.183.41.209:80
-移动，#类型#
-
+移动,#类型#
 CCTV1综合，https://live.chinacert.cftest5.cn/mg/?id=608807420
 CCTV2财经，https://live.chinacert.cftest5.cn/mg/?id=631780532
 CCTV3综合艺，https://live.chinacert.cftest5.cn/mg/?id=624878271
@@ -208,7 +207,7 @@ CETV1，https://live.chinacert.cftest5.cn/mg/?id=923287154
 CETV2，https://live.chinacert.cftest5.cn/mg/?id=923287211
 CETV4，https://live.chinacert.cftest5.cn/mg/?id=923287339
 山东教育, https://live.chinacert.cftest5.cn/mg/?id=609154353
-弯弯我，#类型#
+弯,#类型#
 凤凰中文, http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯, http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港, http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
@@ -220,7 +219,7 @@ VIU TV，http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 澳视澳门, http://php.jdshipin.com/TVOD/iptv.php?id=asam
 澳视卫星, http://php.jdshipin.com/TVOD/iptv.php?id=as
 澳门体育, http://cdn6.163189.xyz/163189/amty
-港澳特殊台测试，#类型#
+港澳特殊台测试.#类型#
 翡翠, http://hls.168.us.kg/u/81/master.m3u8
 TVB，https://6.cdn.loc.cc/163189.php?id=tvbd
 J1，http://php.jdshipin.com/TVOD/iptv.php?id=j1
@@ -735,19 +734,10 @@ DW之声，http://152.32.229.52:5050/4gtv-live071/index.m3u8?proxy=true
 轻松调频,http://sk.cri.cn/915.m3u8
 外语教学,http://sk.cri.cn/am1008.m3u8
 英语环球,http://sk.cri.cn/am846.m3u8
-极限,http://pull-skycorp.speedws.com:80/live/dc25575aa43be2692f778e090b22cce6.flv
-happy,http://pull-skycorp.speedws.com:80/live/8f1fe26b59bf1a83c9f9d84cd3d58a4c.flv
-香蕉,http://pull-skycorp.speedws.com:80/live/ae70b85da9d74fd30b8623986a0f307b.flv
-惊艳,http://pull-skycorp.speedws.com:80/live/0a80bd658ce9d272659a4fdd7941e104.flv
-潘多拉,http://pull-skycorp.speedws.com:80/live/c689f0b6a0811c3d44770c5464746180.flv
-彩虹电影,http://pull-skycorp.speedws.com:80/live/be1bd73615288f07e3932e342b8dc45b.flv
-彩虹k,http://pull-skycorp.speedws.com:80/live/31b4848bf370bb2bb2d6371fbc8f1a0c.flv
-彩虹e,http://pull-skycorp.speedws.com:80/live/1bb9cb88b7cff2406c6d96ee7a88fa6d.flv
-松视3,http://pull-skycorp.speedws.com:80/live/44a5c2de59cc6d433f8dc2f72d946c00.flv
-松视1,http://pull-skycorp.speedws.com:80/live/347d70341b729528ea95b84f2b83b1d4.flv
 粤语国际,http://sk.cri.cn/hxfh.m3u8
 刘德华抖音演唱会,#genre#
 上集,https://sns-video-default.xhscdn.com/stream/1/110/258/01e8d5752d2b128a010370019981d8805d_258.mp4
 中集,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8d575b81a468c4f0370019981d7590e_258.mp4
 
 下集,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8d576391a55d74f0370019981d9b2f3_258.mp4
+
