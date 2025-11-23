@@ -1,3 +1,114 @@
+Movies,#genre#
+[BD]dungeons dragons adventures,https://stream1.freetv.fun/50f69e2dc0de7ff4386b79a35a770a7f038186faf4fb72e393f8a8098874c094.m3u8
+[BD]meltem tv,https://stream1.freetv.fun/bdbe25bed8f732509a7af9418c3caad0fcff49ebe94caf7fc71eb78ad06e22f7.m3u8
+[BD]oneplanet hd,https://stream1.freetv.fun/8467aaf3f91862e4a70486b7ef919d789b7172d3ee25dd5fb6d8a8a7f0451f60.ctv
+[BD]RT Doc,https://stream1.freetv.fun/da993ad4c7f40c91984d0021cd7d45a80c44f6a42b15ebf7be9f942d06dc09d9.m3u8
+[BD]RT News,https://stream1.freetv.fun/fdee46a3fabf670f1f32fda8c4f0ed13054602bd49b6a85f7cc9b936ec02f148.m3u8
+[BD]reshet 13 comedy,https://stream1.freetv.fun/45b0f7b410ca1668469d2fbfaf8f166526383f8b7e67efda3b803a0a76718591.m3u8
+[HD]ช่อง exxxotica,https://stream1.freetv.fun/491d04a16e4ced5b63201f8c225f2a89fa1551ec686c4863e90a0e9cb94ab072.m3u8
+[HD]alba xxx 1,https://stream1.freetv.fun/198e72173bbbd2701989c077d068d85daac98469233e20ba3c9fede24af59687.m3u8
+Entertainment,#genre#
+[SD]tvt zgorzelec,https://stream1.freetv.fun/13ba4d050fcebda5c848c404e92ae85cdfe29623810bc376be064577ffd650cc.m3u8
+[SD]love boat,https://stream1.freetv.fun/2093491a9d41fa2ca85436e0348816ab3a30826b02f40aaa8c879d231119be8a.m3u8
+Generic,#genre#
+[BD]samuel goldwyn films,https://stream1.freetv.fun/3b49084dbf17d505bf35ea36f5c8edf2d8260ecfe1f1e83d4437c2c02606a008.m3u8
+Knowledge,#genre#
+[BD]rt-doc,https://stream1.freetv.fun/4fb0de9531463f93c6bd54ab7abc7b2dabff2cab3c1dfd195424288a2b44bf9c.m3u8
+Other,#genre#
+[BD]tv 100,https://stream1.freetv.fun/dbeb9e7bd1226ee15a0ad9d1f1265028d084a6696e280d31b2acd3fd559c4256.m3u8
+[BD]tv 100,https://stream1.freetv.fun/cd4d3ee7305c0c72e716703b77ed82dfd60888ba32b9df50723bbdcad9c980a6.m3u8
+News,#genre#
+[HD]africanews[geo-blocked],https://stream1.freetv.fun/2d8c78aa149d2b7d544f7b6c07458aa516ec7a73c1291ed5e9dc6034b0785d42.m3u8
+[BD]ми україна,https://stream1.freetv.fun/43a67aeea8f14f7498ca464aacace117aedceba37d489f8da857ca3490721dc4.ctv
+[BD]ми україна,https://stream1.freetv.fun/1e38cc0f4ae9db7f148f5bed557ed35f7d594ddc6d8a090c48fb469544c744dc.ctv
+Other,#genre#
+[HD]3030相声小品,https://stream1.freetv.fun/45d7b50f102128e684ddef8a72691ab6985d93f46f8e2eb7d693a7fcf6405415.ctv
+[BD]3说电影,https://stream1.freetv.fun/c5a2f22ff0bb436d059bd549c693d5d96b0194cacca05be90b0815202ab6b291.ctv
+[BD]b站王者荣耀,https://stream1.freetv.fun/4f3046ab17777be04f83643f5b1eae554d78232fbbbd7453d34e04bd7527ccc3.ctv
+Generic,#genre#
+[BD]12 канал,https://stream1.freetv.fun/08de73382e824ad7acc98c4ab59c4d7048c3842dd3637f97adde8e494bb913c3.m3u8
+Entertainment,#genre#
+[BD]dw russian,https://stream1.freetv.fun/099659a25ced8b1b9404b825a1fc55ca94fb910aeb0066ddbd61709379897f89.m3u8
+[BD]dw russian,https://stream1.freetv.fun/9a3794360186b2eebbceb21750b221624c9cfbb596708c25c970c668fa29a930.m3u8
+Sports,#genre#
+[BD]cna,https://stream1.freetv.fun/206e3b04525e02c7c1afa88cbcb2bd2905209075dce5f44f41f4ca9e46ce9b76.m3u8
+[BD]news malayalam 24x7[geo-blocked],https://stream1.freetv.fun/63b17b8d76d251f71d2be08dd9594db038e35f5feab16d73566b658af4aff9d9.m3u8
+Generic,#genre#
+[HD]hell's kitchen,https://stream1.freetv.fun/375db5440a1b30c7a0a23bdf35898ef34d5c40e56987e1babb2829fed7ffd465.m3u8
+[HD]hell's kitchen,https://stream1.freetv.fun/6c278b1a28a561ef6529d3d74d250eb83f21d411c7e3e4cecf296707755d2135.m3u8
+[BD]hell's kitchen germany,https://stream1.freetv.fun/79efd204806f3bb03f580873a7447481c55b6c62f65032c2aac46f8634d52139.m3u8
+[BD]hell's kitchen italy,https://stream1.freetv.fun/18b696a49819e0d3b139ef619ee352f63d61520759caec406a55faefb56d4a51.m3u8
+[BD]hell's kitchen,https://stream1.freetv.fun/353c697e7834ae893b03c1c121f11cbe8a9a8276ae1f06a0cb6f0e17e1359b28.m3u8
+[SD]kitchen battles,https://stream1.freetv.fun/bf43f2ad027352fc3d446587c7462d1f130583b00b6e41c01f0af8155d51f9db.m3u8
+[SD]america's test kitchen,https://stream1.freetv.fun/2017df1e951246c073ba9cd97c44f746cd3a5bf861e93b59b695382bc62e5234.m3u8
+[SD]america's test kitchen,https://stream1.freetv.fun/46b90f75ba00e87c7625d038d37e0922ab3831fd7d0dd6089e8ccd6040bff92a.m3u8
+[SD]hell's kitchen (1080p),https://stream1.freetv.fun/ae4846b2ae978fa3185bb17e7775d44f351b32a342db7fc9f6528ca00ef9619e.m3u8
+[BD]hell's kitchen,https://stream1.freetv.fun/a10e93505ea8ce6722bcf5e87c7ab8a87a44ffe5c02f717da970865ff58ad66a.m3u8
+News,#genre#
+[BD]24 канал,https://stream1.freetv.fun/e7638e4efba370602611586f007ee9bc6fdacb910e6b38e2465e09e95a1ebe88.ctv
+[BD]24 канал,https://stream1.freetv.fun/f1cf99bb39eaaefb6575a50436973bc6ddbfac09dd7acf354800cd9f6a3e458f.ctv
+[HD]24horas ᴴᴰ,https://stream1.freetv.fun/061a87d9ee45fcb4d75ca046a8f2e92156418d2e20c1f1376071c1066b53398d.m3u8
+Generic,#genre#
+[HD]fresh news,https://stream1.freetv.fun/98ce8bfee698ee1e1ab86cced5c6e4d5028657edf726710bfcb975cceb4157bb.m3u8
+[SD]2x2,https://stream1.freetv.fun/da4a8927151369f0d11fd7b3e76667eb9401b26648b65f9c867569aee47134b6.m3u8
+[SD]beverly hills 90210,https://stream1.freetv.fun/3935a90b6b9f095de338bee14752d37bf830ee815917f3220b4fe7bbbd161ee8.m3u8
+Knowledge,#genre#
+[SD]365 дней,https://stream1.freetv.fun/9e7b2b38c33771987c97074b5187134aa5bd5f6010e98797ffd686304450471e.m3u8
+Kids,#genre#
+[SD]3abn kids,https://stream1.freetv.fun/a5360b8262c6d16537682710111c89de13190c4bed5735a69f51d2e027299a57.m3u8
+[HD]3abn kids,https://stream1.freetv.fun/d33e7d7def20abbb0720be4c9b6c9631a610a8470a419f0fe73d741d2e988900.m3u8
+Other,#genre#
+[BD]yemen shabab,https://stream1.freetv.fun/2f79e065135ca2154037c44a1cec87cf6d8b1725baa41cc5abddb7457f36c1f6.m3u8
+News,#genre#
+[BD]latina noticias,https://stream1.freetv.fun/7530b08849327d77904651405030e3456807da600435c05850d8c861d93294cf.m3u8
+[HD]rtp noticias[geo-blocked],https://stream1.freetv.fun/79f48f373f53fe48f6a9f74b921a416184dbebf01d55a9b27de83573afada208.m3u8
+[HD]cctv-5 plus,https://stream1.freetv.fun/108d82489854941979c8696067772152a6db0066c2c342fa4de6f11616a1cf8d.ctv
+Movies,#genre#
+[VGA]5 star max usa *s[geo-blocked],https://stream1.freetv.fun/63593a9cdafaa4209b128122563a6ac8661a6370328f7492438b58f2b4501df8.m3u8
+Generic,#genre#
+[SD]5 star uk *s[geo-blocked],https://stream1.freetv.fun/5b134b20841f94a353e5419224536fea9e21c089539f941e74332aac98da7447.m3u8
+[VGA]5usa uk *s[geo-blocked],https://stream1.freetv.fun/20a91603827c29772f6ee60e8cb76c919fbde0a1a3e748773825e9dffe85062a.m3u8
+News,#genre#
+[BD]etv telangana[geo-blocked],https://stream1.freetv.fun/6af13e7a3da2037184f689fb6ae6da07517e823e9711b509cfa5b7bca77cf784.m3u8
+Generic,#genre#
+[HD]shalom world australia,https://stream1.freetv.fun/35523b399f198a8a08a129552c8327fd33f1707e033534a1c2123ac4d2067944.m3u8
+News,#genre#
+[BD]33 канал,https://stream1.freetv.fun/55865c504ba7673be4ac7edc0aa46ca50615a83583c90aa6918406ccf52205cd.m3u8
+[BD]7 канал,https://stream1.freetv.fun/79a456f2080e396f4b5625636def13b4263bbee5139a74d4f78f5c2144ea0b1e.m3u8
+[BD]новий канал,https://stream1.freetv.fun/b090e124b9d6ea0ed0e6ceccd11c3b7c2a28be78600a33e2b39093192d14ba98.ctv
+[BD]5 канал україна,https://stream1.freetv.fun/6bb4f01a3221a20504a64c9d787d07b59a2f6dc61cc26d7417756d25ccc66033.ctv
+[BD]8 канал україна,https://stream1.freetv.fun/002baa09e51ec41cb512e30e0b532a465080c5d66752bfbe23dfa72daa96612b.ctv
+[BD]8 канал україна,https://stream1.freetv.fun/52de232eaec82e66b2c4be0263998ae8a2b64ec0c13a65c8a4f2dedbd3f2d952.ctv
+[BD]новий канал,https://stream1.freetv.fun/ee8dfb1e388e674427802b521c68a7b3e728ef80cb9b8339657587222dc7ccca.ctv
+[BD]33 канал,https://stream1.freetv.fun/422988302fa8d3f6ecb860e8c978aeb671b704a816d73ccf7e3b381a3a9c9cac.ctv
+[SD]5 канал,https://stream1.freetv.fun/3307e4cfc8e2b1c9c79f4e6f703ae2ae1b22811c42279a55dd8f8f97cb88b05c.m3u8
+Movies,#genre#
+[HD]mediacorp 8 *lv,https://stream1.freetv.fun/88839f847cd689fe5af38b8f2d764eb6c25ed4049ca8dc6e61e9f6bc59f04d39.ctv
+Generic,#genre#
+[SD]9 волна,https://stream1.freetv.fun/d9363f56b6f21d34e8b0b65ec527ccb0e7e7d71e706dba1b5b66b3c88ddaccf0.m3u8
+News,#genre#
+[SD]99tv,https://stream1.freetv.fun/9b384289243ca63c20eff6d693c0a5289b92c82397c6b2dd3c083cac6d89955d.m3u8
+[SD]6 tv telugu[geo-blocked],https://stream1.freetv.fun/7a9f1333a48a8b46c3a21120b43579923288bb5da370e97b37e59f9d46a69b64.m3u8
+Entertainment,#genre#
+[BD]9x jalwa[geo-blocked],https://stream1.freetv.fun/dc010ceda83f97acf865017a554db6900f97a3ee4a929495b3ec2512a115f237.m3u8
+[SD]9x tashan,https://stream1.freetv.fun/75ca363af4ed6f8a5225340ae29d2e3221e39dbf26a1ad52b7fcd756d241b5e8.m3u8
+[VGA]9xm,https://stream1.freetv.fun/c0928bca835bf2cd1845ad814511052b5f0e120db15d637178aea3a8de201a00.m3u8
+Sports,#genre#
+[VGA]tv 1,https://stream1.freetv.fun/5d24eb8679cef232680dd9d24251f68c2a47ceef81d056789734e677a9945c5c.m3u8
+Generic,#genre#
+[BD]walla ! plus וואלה! חדשות,https://stream1.freetv.fun/50efbbf20b2f3345a8584ee068580bbf8c37733c3f450f6a102f12e2c4c72406.m3u8
+[BD]mgm plus marquee,https://stream1.freetv.fun/e7e97544cbd6a31faf5e719d594a81e24950954858e28c5b37968f2c06f342c6.m3u8
+[BD]walla ! plus וואלה! חדשות,https://stream1.freetv.fun/e9b9b363d2fa60dbc8fa5b43341982b55250573198ee4290e0c8cb621bf65276.m3u8
+[BD]voyages plus,https://stream1.freetv.fun/74229e8ce5ebe2271f9c654bc1d1cadd7dee17bbd56905471214b1ab2af288f2.m3u8
+[HD]fifa plus fr[geo-blocked],https://stream1.freetv.fun/1aa9425a49e43887fbb05db90675b3b4fd591c1383d615b70e3a40c9b3098627.m3u8
+[SD]феникс plus кино,https://stream1.freetv.fun/8d91d386321617166d5d184e2ee729984cfa35b783c5f8e269a1e302dee9afdc.m3u8
+[BD]viju plus megahit,https://stream1.freetv.fun/e633e9e851bfbf42e51fa49a2ada92e6adf0ff19c83a7d79f8f0bdd60c0f2e6a.m3u8
+[HD]fifa plus germany[geo-blocked],https://stream1.freetv.fun/457a55e91a009cb33a87fdf6be2cd184c6029b6f018a73f1decf930d4915f11e.m3u8
+[HD]fifa plus italy[geo-blocked],https://stream1.freetv.fun/099bf018c5f34ef29da43d772ddf51c3b766775ad46cfe3ad57f5d0892c7c203.m3u8
+[SD]auto plus,https://stream1.freetv.fun/fb98ea378ade3f4d68b5b8353d7ad25853106ac85d6cf5b6919b4b489b9f8a35.m3u8
+[SD]illusion plus,https://stream1.freetv.fun/33cf16d01927f476e24dfc6fa6cf51a537ea38d37f5790e5909e7c5913cff30c.m3u8
+[BD]viju plus serial,https://stream1.freetv.fun/a40dfb6af6346589f302f486d21e0a1f56b3f25ea6ab49b2f3bc7c103e162dd7.m3u8
+[SD]иллюзион plus,https://stream1.freetv.fun/07b511643fc1
 假假，#类型#
 直播源， http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zhijd
 免费更新，谨防受骗, http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshd
@@ -740,6 +851,7 @@ DW之声，http://152.32.229.52:5050/4gtv-live071/index.m3u8?proxy=true
 中集,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8d575b81a468c4f0370019981d7590e_258.mp4
 
 下集,https://sns-video-default.xhscdn.com/stream/79/110/258/01e8d576391a55d74f0370019981d9b2f3_258.mp4
+
 
 
 
