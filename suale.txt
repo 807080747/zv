@@ -1508,7 +1508,26 @@ YY李连杰台,http://jiaojirentv.top/2020/yy.php?id=1459869766
 外语教学,http://sk.cri.cn/am1008.m3u8
 英语环球,http://sk.cri.cn/am846.m3u8
 粤语国际,http://sk.cri.cn/hxfh.m3u8
-玫瑰测试_2025,#genre#
+玫瑰测试_8888,#genre#
+翡翠台,http://hls.168.us.kg/u/81/master.m3u8
+翡翠台,https://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
+
+
+TVBPlus,https://cdn6.101.qzz.io/163189/tvbp
+
+无线新闻台,https://cdn6.101.qzz.io/163189/wxxw
+
+潘多拉,http://hls-pull-wicketpw.speedws.com:80/live/4eca851e97a1a70457f8b079712ff203.flv
+惊艳台,http://hls-pull-wicketpw.speedws.com:80/live/8f7bb753b29f5e795d024cbfd2564e57.flv
+彩虹e,http://hls-pull-wicketpw.speedws.com:80/live/abc02b1a1f62c1c22ff05ad63cc67396.flv
+彩虹K,http://hls-pull-wicketpw.speedws.com:80/live/e463bae266fa264e1dfae699c49d7b6c.flv
+彩虹电影台,http://hls-pull-wicketpw.speedws.com:80/live/88490eb39605c131da7489c84098a80c.flv
+极限电影,http://hls-pull-wicketpw.speedws.com:80/live/43588106de3f8f148c05de2d0cb691f2.flv
+Happy,http://hls-pull-wicketpw.speedws.com:80/live/234440cdb2c4224fbf4e58b5c275448f.flv
+香蕉台,http://hls-pull-wicketpw.speedws.com:80/live/3b528ca01300ada8ca56d57ad7e5f5c3.flv
+松视1,http://hls-pull-wicketpw.speedws.com:80/live/638cf9111b45c7ea6efbb880755332b4.flv
+松视2,http://hls-pull-wicketpw.speedws.com:80/live/bb84830367968b5240ae7b68d1749779.flv
+松视3,http://hls-pull-wicketpw.speedws.com:80/live/79ea3eb5a88570969a065d53b1f6fcd9.flv
 
 
 
