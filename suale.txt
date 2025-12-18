@@ -1517,20 +1517,14 @@ TVBPlus,https://cdn6.101.qzz.io/163189/tvbp
 
 无线新闻台,https://cdn6.101.qzz.io/163189/wxxw
 
-潘多拉,http://hls-pull-wicketpw.speedws.com:80/live/4eca851e97a1a70457f8b079712ff203.flv
-惊艳台,http://hls-pull-wicketpw.speedws.com:80/live/8f7bb753b29f5e795d024cbfd2564e57.flv
-彩虹e,http://hls-pull-wicketpw.speedws.com:80/live/abc02b1a1f62c1c22ff05ad63cc67396.flv
-彩虹K,http://hls-pull-wicketpw.speedws.com:80/live/e463bae266fa264e1dfae699c49d7b6c.flv
-彩虹电影台,http://hls-pull-wicketpw.speedws.com:80/live/88490eb39605c131da7489c84098a80c.flv
-极限电影,http://hls-pull-wicketpw.speedws.com:80/live/43588106de3f8f148c05de2d0cb691f2.flv
-Happy,http://hls-pull-wicketpw.speedws.com:80/live/234440cdb2c4224fbf4e58b5c275448f.flv
-香蕉台,http://hls-pull-wicketpw.speedws.com:80/live/3b528ca01300ada8ca56d57ad7e5f5c3.flv
-松视1,http://hls-pull-wicketpw.speedws.com:80/live/638cf9111b45c7ea6efbb880755332b4.flv
-松视2,http://hls-pull-wicketpw.speedws.com:80/live/bb84830367968b5240ae7b68d1749779.flv
-松视3,http://hls-pull-wicketpw.speedws.com:80/live/79ea3eb5a88570969a065d53b1f6fcd9.flv
-
-
-
-
-
-
+松視1台,http://hls-pull-wicketpw.speedws.com:80/live/7c2bfbc9ef54c8959bc7b919510121d4.flv
+松視2台,http://hls-pull-wicketpw.speedws.com:80/live/2ce55eb467cce773db8acb6ab3041d04.flv
+松視3台,http://hls-pull-wicketpw.speedws.com:80/live/f284f368e92cc190751930dca39e23e2.flv
+彩虹e台,http://hls-pull-wicketpw.speedws.com:80/live/41a3cdc08f90ed4120e4fd7b331c13cd.flv
+彩虹k台,http://hls-pull-wicketpw.speedws.com:80/live/e76755452f0b931ca3cbac2738278650.flv
+彩虹台,http://hls-pull-wicketpw.speedws.com:80/live/ce65a6370da88e2c3f37db9cacda3ac9.flv
+潘朵台,http://hls-pull-wicketpw.speedws.com:80/live/ed85c2f3ac66c28e3030b115c415dc45.flv
+惊艳台,http://hls-pull-wicketpw.speedws.com:80/live/57f13ad59b960cea64dfae1bf4e912ee.flv
+香蕉台,http://hls-pull-wicketpw.speedws.com:80/live/5e6a7cb96b0031379c065eabdb2d52bd.flv
+happy,http://hls-pull-wicketpw.speedws.com:80/live/1f9775cf607756db14c6ff916339be9a.flv
+极限电影台,http://hls-pull-wicketpw.speedws.com:80/live/8d6b83f3a59e18518b16c5d891a8803e.flv
