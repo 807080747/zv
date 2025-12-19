@@ -251,6 +251,7 @@ CCTV17,http://mingjd.cn:7077/rtp/239.3.1.151:8144$北京联通
 广东卫视,http://mingjd.cn:7077/rtp/239.3.1.142:8048$北京联通
 贵州卫视,http://mingjd.cn:7077/rtp/239.3.1.149:8076$北京联通
 黑龙江卫视,http://mingjd.cn:7077/rtp/239.3.1.133:8016$北京联通
+
 湖北卫视,http://mingjd.cn:7077/rtp/239.3.1.138:8044$北京联通
 吉林卫视,http://mingjd.cn:7077/rtp/239.3.1.240:8172$北京联通
 纪实人文,http://mingjd.cn:7077/rtp/239.3.1.212:8060$北京联通
@@ -258,6 +259,7 @@ CCTV17,http://mingjd.cn:7077/rtp/239.3.1.151:8144$北京联通
 金鹰纪实,http://mingjd.cn:7077/rtp/239.3.1.58:8156$北京联通
 辽宁卫视,http://mingjd.cn:7077/rtp/239.3.1.210:8056$北京联通
 山东卫视,http://mingjd.cn:7077/rtp/239.3.1.209:8052$北京联通
+山东体育http://nw.jiayinkeji.xin/migunew/gtqilu.php?id=typd
 天津卫视,http://mingjd.cn:7077/rtp/239.3.1.141:1234$北京联通
 重庆卫视,http://mingjd.cn:7077/rtp/239.3.1.122:8160$北京联通
 卡酷少儿,http://mingjd.cn:7077/rtp/239.3.1.189:8000$北京联通
@@ -266,6 +268,7 @@ CCTV17,http://mingjd.cn:7077/rtp/239.3.1.151:8144$北京联通
 淘baby,http://mingjd.cn:7077/rtp/239.3.1.238:8001$北京联通
 淘萌宠,http://mingjd.cn:7077/rtp/239.3.1.102:8001$北京联通
 淘电影,http://mingjd.cn:7077/rtp/239.3.1.250:8001$北京联通
+
 北京体育,http://mingjd.cn:7077/rtp/239.3.1.243:8000$北京联通
 北京财经,http://mingjd.cn:7077/rtp/239.3.1.116:8000$北京联通
 北京国际,http://mingjd.cn:7077/rtp/239.3.1.235:8000$北京联通
@@ -1528,3 +1531,4 @@ TVBPlus,https://cdn6.101.qzz.io/163189/tvbp
 香蕉台,http://hls-pull-wicketpw.speedws.com:80/live/5e6a7cb96b0031379c065eabdb2d52bd.flv
 happy,http://hls-pull-wicketpw.speedws.com:80/live/1f9775cf607756db14c6ff916339be9a.flv
 极限电影台,http://hls-pull-wicketpw.speedws.com:80/live/8d6b83f3a59e18518b16c5d891a8803e.flv
+
