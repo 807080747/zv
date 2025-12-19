@@ -38,7 +38,7 @@ CGTN法，http://go.bkpcp.top/mg/cgtnf
 陕西卫视, http://go.bkpcp.top/mg/sxws
 兵团卫视, http://go.bkpcp.top/mg/btws
 黑龙江视, http://go.bkpcp.top/mg/hljws
-
+山东体育,http://nw.jiayinkeji.xin/migunew/gtqilu.php?id=typd
 
 辽宁移动，#类型#
 CCTV1，http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226190/index.m3u8
