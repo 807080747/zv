@@ -1,4 +1,4 @@
-全网通，#类型#
+全网通,#类型#
 贵州,http://139.196.151.191/udp/239.45.1.80:5140
 CCTV1，http://go.bkpcp.top/mg/cctv1
 CCTV2，http://go.bkpcp.top/mg/cctv2
@@ -40,7 +40,7 @@ CGTN法，http://go.bkpcp.top/mg/cgtnf
 黑龙江视, http://go.bkpcp.top/mg/hljws
 山东体育,http://nw.jiayinkeji.xin/migunew/gtqilu.php?id=typd
 
-辽宁移动，#类型#
+辽宁移动,#类型#
 CCTV1，http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226190/index.m3u8
 CCTV1，http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226675/index.m3u8
 CCTV1，http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226721/index.m3u8
