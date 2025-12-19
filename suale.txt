@@ -132,7 +132,7 @@ CETV-04,http://m.061899.xyz/mg/cetv4
 红色轮播,http://m.061899.xyz/mg/hslb
 金色剧场,http://m.061899.xyz/mg/jsjc
 乡村振兴,http://m.061899.xyz/mg/xczx
-
+山东体育,http://nw.jiayinkeji.xin/migunew/gtqilu.php?id=typd
 CGTN记录,https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 CGTN英语,https://english-livebkali.cgtn.com/live/encgtn.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
@@ -1531,4 +1531,5 @@ TVBPlus,https://cdn6.101.qzz.io/163189/tvbp
 香蕉台,http://hls-pull-wicketpw.speedws.com:80/live/5e6a7cb96b0031379c065eabdb2d52bd.flv
 happy,http://hls-pull-wicketpw.speedws.com:80/live/1f9775cf607756db14c6ff916339be9a.flv
 极限电影台,http://hls-pull-wicketpw.speedws.com:80/live/8d6b83f3a59e18518b16c5d891a8803e.flv
+
 
