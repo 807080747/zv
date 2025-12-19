@@ -119,8 +119,12 @@ CETV-04,http://m.061899.xyz/mg/cetv4
 重温经典,http://m.061899.xyz/mg/cwjd
 劲爆体育,http://m.061899.xyz/mg/jbty
 咪咕体育,http://m.061899.xyz/mg/mgty
+山东齐鲁,http://itms4.sdlk.vip:6721/hls/209/index.m3u8
+山东新闻,http://itms4.sdlk.vip:6721/hls/235/index.m3u8
 
-山东体育,http://live.xmcdn.com/live/805/64.m3u8
+济南综合,http://itms4.sdlk.vip:6721/hls/210/index.m3u8
+
+山东体育,http://itms4.sdlk.vip:6721/hls/239/index.m3u8
 山东体育,http://nw.jiayinkeji.xin/migunew/gtqilu.php?id=typd
 北京体育,http://m.061899.xyz/mg/bjty
 北京新闻,http://m.061899.xyz/mg/bjxw
@@ -1534,6 +1538,7 @@ TVBPlus,https://cdn6.101.qzz.io/163189/tvbp
 香蕉台,http://hls-pull-wicketpw.speedws.com:80/live/5e6a7cb96b0031379c065eabdb2d52bd.flv
 happy,http://hls-pull-wicketpw.speedws.com:80/live/1f9775cf607756db14c6ff916339be9a.flv
 极限电影台,http://hls-pull-wicketpw.speedws.com:80/live/8d6b83f3a59e18518b16c5d891a8803e.flv
+
 
 
 
