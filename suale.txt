@@ -1,6 +1,6 @@
 央视,#genre#
 CCTV1,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
-CCTV2,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2
+CCTV2,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2#http://42.243.94.30:5003/cctv2.m3u8?token=7375646f236ee63d7effb74871408730170079e7&z=1f4e
 CCTV3,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv3
 CCTV4,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv4
 CCTV5,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5
@@ -1541,6 +1541,7 @@ TVBPlus,https://cdn6.101.qzz.io/163189/tvbp
 香蕉台,http://hls-pull-wicketpw.speedws.com:80/live/5e6a7cb96b0031379c065eabdb2d52bd.flv
 happy,http://hls-pull-wicketpw.speedws.com:80/live/1f9775cf607756db14c6ff916339be9a.flv
 极限电影台,http://hls-pull-wicketpw.speedws.com:80/live/8d6b83f3a59e18518b16c5d891a8803e.flv
+
 
 
 
