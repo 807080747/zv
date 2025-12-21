@@ -123,7 +123,11 @@ CETV-04,http://m.061899.xyz/mg/cetv4
 山东新闻,http://itms4.sdlk.vip:6721/hls/235/index.m3u8
 济南综合,http://itms4.sdlk.vip:6721/hls/210/index.m3u8
 山东体育,http://144.255.44.83:7788/udp/239.21.1.141:5002
+山东体育,http://live.xmcdn.com/live/805/64.m3u8
 山东体育,http://nw.jiayinkeji.xin/migunew/gtqilu.php?id=typd
+山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
+山东体育,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000315/index.m3u8?IASHttpSessionId=
+
 山东体育,http://itms4.sdlk.vip:6721/hls/239/index.m3u8
 北京体育,http://m.061899.xyz/mg/bjty
 北京新闻,http://m.061899.xyz/mg/bjxw
@@ -1537,6 +1541,7 @@ TVBPlus,https://cdn6.101.qzz.io/163189/tvbp
 香蕉台,http://hls-pull-wicketpw.speedws.com:80/live/5e6a7cb96b0031379c065eabdb2d52bd.flv
 happy,http://hls-pull-wicketpw.speedws.com:80/live/1f9775cf607756db14c6ff916339be9a.flv
 极限电影台,http://hls-pull-wicketpw.speedws.com:80/live/8d6b83f3a59e18518b16c5d891a8803e.flv
+
 
 
 
