@@ -62,7 +62,7 @@ CGTN-法,http://go.bkpcp.top/mg/cgtnf
 广东影视,http://go.bkpcp.top/mg/gdys
 广东新闻,http://go.bkpcp.top/mg/gdxw
 广东民生,http://go.bkpcp.top/mg/gdms
-
+爱晚，http://php.jdshipin.com:8880/iptv.php?id=hngg
 CCTV1,http://m.061899.xyz/mg/cctv1
 CCTV2,http://m.061899.xyz/mg/cctv2
 CCTV3,http://m.061899.xyz/mg/cctv3
@@ -1755,6 +1755,7 @@ TVBPlus,https://cdn6.101.qzz.io/163189/tvbp
 香蕉台,http://hls-pull-wicketpw.speedws.com:80/live/5e6a7cb96b0031379c065eabdb2d52bd.flv
 happy,http://hls-pull-wicketpw.speedws.com:80/live/1f9775cf607756db14c6ff916339be9a.flv
 极限电影台,http://hls-pull-wicketpw.speedws.com:80/live/8d6b83f3a59e18518b16c5d891a8803e.flv
+
 
 
 
