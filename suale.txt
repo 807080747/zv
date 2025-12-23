@@ -401,50 +401,7 @@ CCTV15,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv15
 CCTV16,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16
 CCTV17,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
 
-CCTV1,http://go.bkpcp.top/mg/cctv1
-CCTV2,http://go.bkpcp.top/mg/cctv2
-CCTV3,http://go.bkpcp.top/mg/cctv3
-CCTV4,http://go.bkpcp.top/mg/cctv4
-CCTV5,http://go.bkpcp.top/mg/cctv5
-CCTV5+,http://go.bkpcp.top/mg/cctv5p
-CCTV6,http://go.bkpcp.top/mg/cctv6
-CCTV7,http://go.bkpcp.top/mg/cctv7
-CCTV8,http://go.bkpcp.top/mg/cctv8
-CCTV9,http://go.bkpcp.top/mg/cctv9
-CCTV10,http://go.bkpcp.top/mg/cctv10
-CCTV11,http://go.bkpcp.top/mg/cctv11
-CCTV12,http://go.bkpcp.top/mg/cctv12
-CCTV13,http://go.bkpcp.top/mg/cctv13
-CCTV14,http://go.bkpcp.top/mg/cctv14
-CCTV15,http://go.bkpcp.top/mg/cctv15
-CCTV16,http://go.bkpcp.top/mg/cctv16
-CCTV17,http://go.bkpcp.top/mg/cctv17
-cct4欧洲,http://go.bkpcp.top/mg/cctv4o
-cct4美洲,http://go.bkpcp.top/mg/cctv4m
-CGTN-西,http://go.bkpcp.top/mg/cgtne
-CGTN-阿,http://go.bkpcp.top/mg/cgtna
-CGTN-法,http://go.bkpcp.top/mg/cgtnf
-北京卫视,http://go.bkpcp.top/mg/bjws
-东方卫视,http://go.bkpcp.top/mg/dfws
-浙江卫视,http://go.bkpcp.top/mg/zjws
-江苏卫视,http://go.bkpcp.top/mg/jsws
-湖南卫视,http://go.bkpcp.top/mg/hunws
-广东卫视,http://go.bkpcp.top/mg/gdws
-深圳卫视,http://go.bkpcp.top/mg/szws
-山东卫视,http://go.bkpcp.top/mg/sdws
-河南卫视,http://go.bkpcp.top/mg/hnws
-江西卫视,http://go.bkpcp.top/mg/jxws
-湖北卫视,http://go.bkpcp.top/mg/hubws
-海南卫视,http://go.bkpcp.top/mg/hinws
-陕西卫视,http://go.bkpcp.top/mg/sxws
-兵团卫视,http://go.bkpcp.top/mg/btws
-黑龙江视,http://go.bkpcp.top/mg/hljws
-广东珠江,http://go.bkpcp.top/mg/gdzj
-广东体育,http://go.bkpcp.top/mg/gdty
-大湾区卫视,http://go.bkpcp.top/mg/gddwq
-广东影视,http://go.bkpcp.top/mg/gdys
-广东新闻,http://go.bkpcp.top/mg/gdxw
-广东民生,http://go.bkpcp.top/mg/gdms
+
 爱晚，http://php.jdshipin.com:8880/iptv.php?id=hngg
 
 CCTV1,http://m.061899.xyz/mg/cctv1
@@ -870,14 +827,10 @@ NewKID4,https://stream.ads.ottera.tv/playlist.m3u8?network_id=872
 RNA,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
 News,#genre#
 [HD]ช่อง exxxotica,https://stream1.freetv.fun/491d04a16e4ced5b63201f8c225f2a89fa1551ec686c4863e90a0e9cb94ab072.m3u8
-ABN Afghanistan(540p)，https://mediaserver.abnvideos.com/streams/abnafghanistan.m3u8
-AMC(1080p)，https://amchls.wns.live/hls/stream.m3u8
-彭博电视亚洲现场活动(720p),https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+
 Payam-e-Afghan TV(480p)[非24/7],https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
-彭博欧洲电视台(720p),https://bloomberg.com/media-manifest/streams/eu.m3u8
 硬碰硬格斗锦标赛,https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/2ee2b8d4-acc4-4296-9dc8-66f1ffd0fff8/5.m3u8
-ducktv(720p),https://jmp2.uk/sam-ESBC4700001GR.m3u8
-MTV横扫欧洲,http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
+
 News24(392p)[Not24/7],https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 全景电视(720p)[非24/7],http://198.244.188.94/panorama/livestream/playlist.m3u8
 博物馆电视英语(1080p),https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8
@@ -888,9 +841,9 @@ TNA Wrestling,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/
 斗鱼_神乐影院,http://zzy789.xyz/douyu1.php?id=122402
 斗鱼_可乐影院,http://zzy789.xyz/douyu1.php?id=20415
 斗鱼_特辑电影,http://zzy789.xyz/douyu1.php?id=3637778
- 精彩短剧看不停,https://live.ottiptv.cc/douyu/11824307
+
 经典鬼片3000部,https://yylunbo.ottiptv.cc/yy/29460894
-]3030相声小品,https://stream1.freetv.fun/45d7b50f102128e684ddef8a72691ab6985d93f46f8e2eb7d693a7fcf6405415.ctv
+3030相声小品,https://stream1.freetv.fun/45d7b50f102128e684ddef8a72691ab6985d93f46f8e2eb7d693a7fcf6405415.ctv
 3说电影,https://stream1.freetv.fun/c5a2f22ff0bb436d059bd549c693d5d96b0194cacca05be90b0815202ab6b291.ctv
 站王者荣耀,https://stream1.freetv.fun/4f3046ab17777be04f83643f5b1eae554d78232fbbbd7453d34e04bd7527ccc3.ctv
 
@@ -916,7 +869,7 @@ Channel [V],http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
 翡翠台-CH1,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台-CH2,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台-CH3,http://hls.168.us.kg/u/81/master.m3u8
-无线新闻，http://php.jdshipin.com:8880/smt.php?id=inews_twn
+无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 HOY76 频道,http://hls.168.us.kg/u/76/master.m3u8
 HOY78 频道,http://hls.168.us.kg/u/78/master.m3u8
 ASTRO-HD,https://smt.1678520.xyz/smt3.2.1.php?id=Aodhd
@@ -990,21 +943,8 @@ ViuTV-香港,http://hls.168.us.kg/u/99/master.m3u8
 Viu6TV-香港,http://hls.168.us.kg/u/96/master.m3u8
 超清频道,#genre#
 浙江卫视4K,https://stream1.freetv.fun/27bde01f6e5506617bec575ba1293bfc0a149bafe1eb681562f3d956baae616a.m3u8
-北京卫视4K,http://106.53.99.30/tv/bj.php?id=bjws4k
-南国都市4K,https://stream1.freetv.fun/4knan-guo-du-shi-1.m3u8
-北京卫视4K,https://shyd.695847.xyz/cms001/ch00000090990000001510/index.m3u8?IAS
-北京卫视4K,https://shyd.695847.xyz/cms001/ch00000090990000001500/index.m3u8?IAS
-湖南卫视4K,https://shyd.695847.xyz/cms001/ch00000090990000001710/index.m3u8?IAS
-东方卫视4K,https://shyd.695847.xyz/cms001/ch00000090990000001641/index.m3u8?IAS
-东方卫视4K,http://106.53.99.30/tv/api.php?id=dfws4k
-四川卫视4K,https://shyd.695847.xyz/cms001/ch00000090990000001690/index.m3u8?IAS
-山东卫视4K,https://shyd.695847.xyz/cms001/ch00000090990000001581/index.m3u8?IAS
-广东卫视4K,https://shyd.695847.xyz/cms001/ch00000090990000001540/index.m3u8?IAS
-广东卫视4K,https://shyd.695847.xyz/cms001/ch00000090990000001550/index.m3u8?IAS
-江苏卫视4K,https://shyd.695847.xyz/cms001/ch00000090990000001700/index.m3u8?IAS
-浙江卫视4K,https://shyd.695847.xyz/cms001/ch00000090990000001720/index.m3u8?IAS
-深圳卫视4K,https://shyd.695847.xyz/cms001/ch00000090990000001560/index.m3u8?HAS
-深圳卫视4K,https://shyd.695847.xyz/cms001/ch00000090990000001521/index.m3u8?IAS
+
+
 
 央视咪咕,#genre#
 CCTV-01咪咕,http://go.bkpcp.top/mg/cctv1
@@ -1881,6 +1821,7 @@ TVBPlus,https://cdn6.101.qzz.io/163189/tvbp
 香蕉台,http://hls-pull-wicketpw.speedws.com:80/live/81913f4135585bd3066c23e0910cb731.flv
 happy,http://hls-pull-wicketpw.speedws.com:80/live/1f9775cf607756db14c6ff916339be9a.flv
 极限电影台,http://hls-pull-wicketpw.speedws.com:80/live/8d6b83f3a59e18518b16c5d891a8803e.flv
+
 
 
 
