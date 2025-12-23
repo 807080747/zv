@@ -694,26 +694,23 @@ TVBS新聞,http://220.135.64.124:5050/li-4gtv-4gtv072/index.m3u8?proxy=true
 中天新闻,http://220.135.64.124:5050/4gtv-4gtv009/index.m3u8?proxy=true
 寰宇新聞,http://220.135.64.124:5050/litv-longturn14/index.m3u8?proxy=true
 东森新闻,http://220.135.64.124:5050/4gtv-4gtv152/index.m3u8?proxy=true
-台視新聞,http://220.135.64.124:5050/4gtv-4gtv051/index.m3u8?proxy=true
+
 華視新聞,http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
 中視新聞,http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
 民視新聞,http://220.135.64.124:5050/li-litv-ftv13/index.m3u8?proxy=true
 三立新闻,http://220.135.64.124:5050/iNEWS/index.m3u8?proxy=true
-TVBS ASIA,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14928.ts
-中天亚洲,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19449.ts
+
 镜新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
 寰宇新聞台灣,http://220.135.64.124:5050/li-4gtv-4gtv156/index.m3u8?proxy=true
 
-东森中国,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14941
-东森卫视,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14942
-东森美州,https://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/14945
-龙祥电影,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/54678.ts
+
+
 台視,http://220.135.64.124:5050/li-4gtv-4gtv066/index.m3u8?proxy=true
 台視,http://220.135.64.124:5050/4gtv-4gtv066/index.m3u8?proxy=true
 中視,http://220.135.64.124:5050/of-4gtv-4gtv040/index.m3u8?proxy=true
 華視,http://220.135.64.124:5050/of-4gtv-4gtv041/index.m3u8?proxy=true
 民視,http://220.135.64.124:5050/4gtv-4gtv002/index.m3u8?proxy=true
-TaiwanPlus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+
 Wild TV (1080p),https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 新唐人,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 Discovery Asia 
@@ -724,7 +721,7 @@ BBC EARTH,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStud
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 🇺🇸美国,#genre# 
 News max,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-CNN,https://d1vnr7amzbx49s.cloudfront.net/index_1.m3u8
+
 ABC_EAST,https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 ACC_NETWORK,https://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
 Animal_Planet,https://fl1.moveonjoy.com/Animal_Planet/index.m3u8
@@ -870,119 +867,21 @@ NewKID2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=878
 NewKID4,https://stream.ads.ottera.tv/playlist.m3u8?network_id=888
 NewKID4,https://stream.ads.ottera.tv/playlist.m3u8?network_id=872
 韩国音乐,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-
 RNA,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
-
-Movies,#genre#
-[BD]dungeons dragons adventures,https://stream1.freetv.fun/50f69e2dc0de7ff4386b79a35a770a7f038186faf4fb72e393f8a8098874c094.m3u8
-[BD]meltem tv,https://stream1.freetv.fun/bdbe25bed8f732509a7af9418c3caad0fcff49ebe94caf7fc71eb78ad06e22f7.m3u8
-[BD]oneplanet hd,https://stream1.freetv.fun/8467aaf3f91862e4a70486b7ef919d789b7172d3ee25dd5fb6d8a8a7f0451f60.ctv
-[BD]RT Doc,https://stream1.freetv.fun/da993ad4c7f40c91984d0021cd7d45a80c44f6a42b15ebf7be9f942d06dc09d9.m3u8
-[BD]RT News,https://stream1.freetv.fun/fdee46a3fabf670f1f32fda8c4f0ed13054602bd49b6a85f7cc9b936ec02f148.m3u8
-[BD]reshet 13 comedy,https://stream1.freetv.fun/45b0f7b410ca1668469d2fbfaf8f166526383f8b7e67efda3b803a0a76718591.m3u8
-[HD]ช่อง exxxotica,https://stream1.freetv.fun/491d04a16e4ced5b63201f8c225f2a89fa1551ec686c4863e90a0e9cb94ab072.m3u8
-[HD]alba xxx 1,https://stream1.freetv.fun/198e72173bbbd2701989c077d068d85daac98469233e20ba3c9fede24af59687.m3u8
-Entertainment,#genre#
-[SD]tvt zgorzelec,https://stream1.freetv.fun/13ba4d050fcebda5c848c404e92ae85cdfe29623810bc376be064577ffd650cc.m3u8
-[SD]love boat,https://stream1.freetv.fun/2093491a9d41fa2ca85436e0348816ab3a30826b02f40aaa8c879d231119be8a.m3u8
-Generic,#genre#
-[BD]samuel goldwyn films,https://stream1.freetv.fun/3b49084dbf17d505bf35ea36f5c8edf2d8260ecfe1f1e83d4437c2c02606a008.m3u8
-Knowledge,#genre#
-[BD]rt-doc,https://stream1.freetv.fun/4fb0de9531463f93c6bd54ab7abc7b2dabff2cab3c1dfd195424288a2b44bf9c.m3u8
-Other,#genre#
-[BD]tv 100,https://stream1.freetv.fun/dbeb9e7bd1226ee15a0ad9d1f1265028d084a6696e280d31b2acd3fd559c4256.m3u8
-[BD]tv 100,https://stream1.freetv.fun/cd4d3ee7305c0c72e716703b77ed82dfd60888ba32b9df50723bbdcad9c980a6.m3u8
 News,#genre#
-[HD]africanews[geo-blocked],https://stream1.freetv.fun/2d8c78aa149d2b7d544f7b6c07458aa516ec7a73c1291ed5e9dc6034b0785d42.m3u8
-[BD]ми україна,https://stream1.freetv.fun/43a67aeea8f14f7498ca464aacace117aedceba37d489f8da857ca3490721dc4.ctv
-[BD]ми україна,https://stream1.freetv.fun/1e38cc0f4ae9db7f148f5bed557ed35f7d594ddc6d8a090c48fb469544c744dc.ctv
-
+[HD]ช่อง exxxotica,https://stream1.freetv.fun/491d04a16e4ced5b63201f8c225f2a89fa1551ec686c4863e90a0e9cb94ab072.m3u8
 ABN Afghanistan(540p)，https://mediaserver.abnvideos.com/streams/abnafghanistan.m3u8
 AMC(1080p)，https://amchls.wns.live/hls/stream.m3u8
-阿富汗国际(720p)，https://hls.afintl.com/hls/stream.m3u8
-ATN新闻(720p)[非24/7]，https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
-阿富汗诺贝尔电影(720p)，https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8
-阿富汗诺贝尔电视台(720p)，https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/playlist.m3u8
-彭博亚洲电视(720p)，https://bloomberg.com/media-manifest/streams/asia.m3u8
-BBC亚太地区新闻(720p)，https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-巴哈电视(720p)[非24/7]，https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
-Dunya Naw TV(576p)，https://dunyanhls.wns.live/hls/stream.m3u8
-Eslah TV(720p)，https://eslahtvhls.wns.live/hls/stream.m3u8
-Maah TV(720p)[非24/7]，https://hls.maahtv.live/hls/stream.m3u8
-Kayhan TV(720p)，https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8
-彭博电视亚洲现场活动(720p)，https://bloomberg.com/media-manifest/streams/asia-event.m3u8
-Payam-e-Afghan TV(480p)[非24/7]，https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
-Sada-E-Haq电视(720p)，https://live.relentlessinnovations.net:1936/sadaehaq/sadaehaq/playlist.m3u8
-Sharq广播电视(1080p)，https://59nyqa5elwap-hls-live.5centscdn.com/Sharq/eec89088ee408b80387155272b113256.sdp/playlist.m3u8
-Tamadon TV(720p)，https://hls.tamadon.live/hls/stream.m3u8
-Watan-e-Maa电视(720p)，https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
-阿尔布卡纳莱音乐电视(720p)，https://albportal.net/albkanalemusic.m3u8
-彭博电视EMEA现场活动(720p)，https://bloomberg.com/media-manifest/streams/eu-event.m3u8
-欧洲新闻阿尔巴尼亚， https://gjirafa-video-live.gjirafa.net/gjvideo-live/2dw-zuf-1c9-pxu/index.m3u8
-彭博欧洲电视台(720p)，https://bloomberg.com/media-manifest/streams/eu.m3u8
-硬碰硬格斗锦标赛(720p),https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/2ee2b8d4-acc4-4296-9dc8-66f1ffd0fff8/5.m3u8
-ducktv(720p)，https://jmp2.uk/sam-ESBC4700001GR.m3u8
-MTV横扫欧洲，http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
-News24(392p)[Not24/7]，https://tv.balkanweb.com/news24/livestream/playlist.m3u8
-全景电视(720p)[非24/7]，http://198.244.188.94/panorama/livestream/playlist.m3u8
-博物馆电视英语(1080p)，https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8
-国际红地毯电视(1080p),https://fast-rakuten.okast.tv/fa2e8c4385712f9a9076eaf728c751de/channels/1a6ecfaa-40c6-41b8-8634-595c424f856e/21f67fd1-4d21-43ba-8ad8-3afac9982c25/master.m3u8
-人很棒(720p)，https://3ab76e42.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1Blb3BsZUFyZUF3ZXNvbWVfSExT/playlist.m3u8
-Revry(720p)，https://99d8b4b6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JldnJ5X0hMUw/playlist.m3u8
-阴影Black,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63920159db0dea0007dd9932/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c0251-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=93b44734-079b-4fec-a58c-6406103089cd
-Syri(720p)[非24/7]，https://stream.syritv.al/SyriTV/index.m3u8
-强人冠军联赛， https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
+彭博电视亚洲现场活动(720p),https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+Payam-e-Afghan TV(480p)[非24/7],https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
+彭博欧洲电视台(720p),https://bloomberg.com/media-manifest/streams/eu.m3u8
+硬碰硬格斗锦标赛,https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/2ee2b8d4-acc4-4296-9dc8-66f1ffd0fff8/5.m3u8
+ducktv(720p),https://jmp2.uk/sam-ESBC4700001GR.m3u8
+MTV横扫欧洲,http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
+News24(392p)[Not24/7],https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+全景电视(720p)[非24/7],http://198.244.188.94/panorama/livestream/playlist.m3u8
+博物馆电视英语(1080p),https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8
 TNA Wrestling,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea4dadce395f0007086df2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7788-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=649aa9eb-97bb-42d6-85e0-d0595821c87a
-顶级巴萨(1080p)，https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
-Tropoja电视(1080p)，https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
-世界乒乓球(720p),https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
-Zee One (720p),https://89ec2d15e090480bb419d940b8793b9c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_ZeeWorld-1/playlist.m3u8
-AfroTurk电视(1080p)，https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8
-非洲24(540p)，https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
-非洲24英语(1080p)，https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
-Al Araby TV2(1080p)，https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
-Amani电视(1080p)[非全天候]，https://goccn.cloud/hls/amanitv/index.m3u8
-Amou Yazid电视(576p)，http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
-CGTN阿拉伯语(1080p)[非24/7]，https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
-彭博电视EMEA现场活动(720p)，https://bloomberg.com/media-manifest/streams/eu-event.m3u8
-CNBC Arabiya(1080p)，https://cnbc-live.akamaized.net/cnbc/master.m3u8
-法国24阿拉伯语(1080p)，https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
-对于您的电视(480p)，https://stream.az-multimedia.com:3793/live/foryoutvlive.m3u8
-ibn非洲电视台(720p)，http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8
-Medi1电视非洲(1080p)[非24/7]，https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
-Medi1电视阿拉伯语(1080p)[非24/7]，https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
-Medi1电视马格里布(1080p)[非24/7]，https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
-PMC Royale(720p)[非24/7]，https://rohls.pmc.live/hls/stream.m3u8
-Qwest TV(1080p)，https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8
-reflet TV(1080p)，https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8
-Romanza+Africa(720p)，https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8
-TRT Arabi (1080p),http://185.234.111.229:8000/play/a002
-TVI非洲(480p)[非24/7]，https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
-BBC亚太地区新闻(720p)，https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-彭博亚洲电视(720p)，https://bloomberg.com/media-manifest/streams/asia.m3u8
-疯狂世界(720p)，https://ellastvmax.better-than.tv/freetv/madworldtv/index.m3u8
-彭博电视亚洲现场活动(720p)，https://bloomberg.com/media-manifest/streams/asia-event.m3u8
-TVE国际亚洲-大洋洲[地理封锁]， https://rtvelivestream.akamaized.net/rtvesec/int/tvei_asia_main.m3u8
-彭博欧洲电视台(720p)，https://bloomberg.com/media-manifest/streams/eu.m3u8
-彭博电视EMEA现场活动(720p)，https://bloomberg.com/media-manifest/streams/eu-event.m3u8
-硬碰硬格斗锦标赛(720p),https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/2ee2b8d4-acc4-4296-9dc8-66f1ffd0fff8/5.m3u8
-LA2 (1080p),http://185.189.225.150:85/TV2/index.m3u8
-MTV横扫欧洲，http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
-ducktv(720p)，https://jmp2.uk/sam-ESBC4700001GR.m3u8
-国际红地毯电视(1080p),https://fast-rakuten.okast.tv/fa2e8c4385712f9a9076eaf728c751de/channels/1a6ecfaa-40c6-41b8-8634-595c424f856e/21f67fd1-4d21-43ba-8ad8-3afac9982c25/master.m3u8
-人很棒(720p)，https://3ab76e42.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1Blb3BsZUFyZUF3ZXNvbWVfSExT/playlist.m3u8
-Revry(720p)，https://99d8b4b6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JldnJ5X0hMUw/playlist.m3u8
-TNA Wrestling,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea4dadce395f0007086df2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7788-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=649aa9eb-97bb-42d6-85e0-d0595821c87a
-阴影Black,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63920159db0dea0007dd9932/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c0251-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=93b44734-079b-4fec-a58c-6406103089cd
-强人冠军联赛， https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
-世界乒乓球(720p),https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
-Zee One (720p),https://89ec2d15e090480bb419d940b8793b9c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_ZeeWorld-1/playlist.m3u8
-非洲24(540p)，https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
-AfroTurk电视(1080p)，https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8
-非洲24英语(1080p)，https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
-Amani电视(1080p)[非全天候]，https://goccn.cloud/hls/amanitv/index.m3u8
-彭博电视EMEA现场活动(720p)，https://bloomberg.com/media-manifest/streams/eu-event.m3u8
-ibn非洲电视台(720p),http://68.183.41.209:80
 阿飞,#genre#
 斗鱼_冰冰经典,http://zzy789.xyz/douyu1.php?id=74374
 斗鱼_星爷影院,http://zzy789.xyz/douyu1.php?id=508118
@@ -1970,7 +1869,7 @@ YY李连杰台,http://jiaojirentv.top/2020/yy.php?id=1459869766
 TVBPlus,https://cdn6.101.qzz.io/163189/tvbp
 
 无线新闻台,https://cdn6.101.qzz.io/163189/wxxw
-
+[HD]alba xxx 1,https://stream1.freetv.fun/198e72173bbbd2701989c077d068d85daac98469233e20ba3c9fede24af59687.m3u8
 松視1台,http://hls-pull-wicketpw.speedws.com:80/live/7c2bfbc9ef54c8959bc7b919510121d4.flv
 松視2台,http://hls-pull-wicketpw.speedws.com:80/live/99465857f488f0bc76a9e4f7435eb9eb.flv
 松視3台,http://hls-pull-wicketpw.speedws.com:80/live/f284f368e92cc190751930dca39e23e2.flv
@@ -1982,6 +1881,7 @@ TVBPlus,https://cdn6.101.qzz.io/163189/tvbp
 香蕉台,http://hls-pull-wicketpw.speedws.com:80/live/81913f4135585bd3066c23e0910cb731.flv
 happy,http://hls-pull-wicketpw.speedws.com:80/live/1f9775cf607756db14c6ff916339be9a.flv
 极限电影台,http://hls-pull-wicketpw.speedws.com:80/live/8d6b83f3a59e18518b16c5d891a8803e.flv
+
 
 
 
