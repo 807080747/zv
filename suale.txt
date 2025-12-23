@@ -260,7 +260,8 @@ IPTV相声小品,http://144.255.40.79:4022/rtp/239.21.1.126:5002
 综合测试,http://144.255.40.79:4022/rtp/239.21.1.203:5002
 邹城新闻,http://144.255.40.79:4022/rtp/239.21.1.185:5002
 山东组播线路2,#genre#
-CCTV1,http://144.255.40.79:4022/rtp/239.21.1.1:5002
+
+CCTV1,http://39.89.120.213:8188/rtp/239.253.254.77:8000
 CCTV2,http://39.89.120.213:8188/rtp/239.253.254.232:8000
 CCTV3,http://39.89.120.213:8188/rtp/239.253.254.191:8000
 CCTV4,http://39.89.120.213:8188/rtp/239.253.254.111:8000
@@ -361,7 +362,7 @@ CHC家庭影院,http://39.89.120.213:8188/rtp/239.253.254.152:8000
 游戏风云,http://39.89.120.213:8188/rtp/239.253.254.95:8000
 
 cctv,#genre#
-CCTV1,http://39.89.120.213:8188/rtp/239.253.254.77:8000
+CCTV1,http://144.255.40.79:4022/rtp/239.21.1.1:5002
 CCTV2,http://144.255.40.79:4022/rtp/239.21.1.2:5002
 CCTV3,http://144.255.40.79:4022/rtp/239.21.1.3:5002
 CCTV4,http://144.255.40.79:4022/rtp/239.21.1.4:5002
@@ -382,7 +383,7 @@ CCTV14,http://144.255.40.79:4022/rtp/239.21.1.15:5002
 CCTV15,http://144.255.40.79:4022/rtp/239.21.1.16:5002
 CCTV17,http://144.255.40.79:4022/rtp/239.21.1.206:5002
 CCTV1,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
-CCTV2,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2#http://42.243.94.30:5003/cctv2.m3u8?token=7375646f236ee63d7effb74871408730170079e7&z=1f4e
+CCTV2,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2
 CCTV3,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv3
 CCTV4,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv4
 CCTV5,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5
@@ -2139,6 +2140,7 @@ TVBPlus,https://cdn6.101.qzz.io/163189/tvbp
 香蕉台,http://hls-pull-wicketpw.speedws.com:80/live/81913f4135585bd3066c23e0910cb731.flv
 happy,http://hls-pull-wicketpw.speedws.com:80/live/1f9775cf607756db14c6ff916339be9a.flv
 极限电影台,http://hls-pull-wicketpw.speedws.com:80/live/8d6b83f3a59e18518b16c5d891a8803e.flv
+
 
 
 
