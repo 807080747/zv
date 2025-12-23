@@ -1,5 +1,6 @@
 
 河北组播,#genre#
+湖北,http://119.99.164.152:7088/rtp/239.254.96.182:9172
 CCTV-1,http://106.9.173.48:5555/rtp/239.254.200.45:8008
 CCTV-2,http://106.9.173.48:5555/rtp/239.254.200.158:6000
 CCTV-3,http://106.9.173.48:5555/rtp/239.254.200.13:6000
@@ -2483,6 +2484,7 @@ YY李连杰台,http://jiaojirentv.top/2020/yy.php?id=1459869766
 香蕉台,http://hls-pull-wicketpw.speedws.com:80/live/81913f4135585bd3066c23e0910cb731.flv
 happy,http://hls-pull-wicketpw.speedws.com:80/live/1f9775cf607756db14c6ff916339be9a.flv
 极限电影台,http://hls-pull-wicketpw.speedws.com:80/live/8d6b83f3a59e18518b16c5d891a8803e.flv
+
 
 
 
