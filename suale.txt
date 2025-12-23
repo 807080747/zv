@@ -1073,8 +1073,7 @@ SPACE,http://148.113.160.49:14170/
 TVB，https://6.cdn.loc.cc/163189.php?id=tvbd
 J1，http://php.jdshipin.com/TVOD/iptv.php?id=j1
 凤凰中文, https://cdn6.101.qzz.io/163189/fhzw
-凤凰资讯, https://cdn6.101.qzz.io/163189/fhzx
-凤凰香港, https://cdn6.101.qzz.io/163189/fhhk
+
 TVB翡翠，http://iptv.4666888.xyz/iptv2A.php?id=TVB翡翠
 TVB明珠，http://iptv.4666888.xyz/iptv2A.php?id=TVB明珠
 TVBPLUS，http://iptv.4666888.xyz/iptv2A.php?id=TVBPLUS
@@ -1085,10 +1084,9 @@ TVB1，http://iptv.4666888.xyz/iptv2A.php?id=TVB1
 TVBJ1，http://iptv.4666888.xyz/iptv2A.php?id=TVBJ1
 TVB翡翠，http://mytv.cdn.loc.cc/o12.php?id=fct
 TVB明珠，http://mytv.cdn.loc.cc/o12.php?id=mzt
-娱乐新闻, http://php.jdshipin.com/smt.php?id=Tvbentertainment
-娱乐新闻, http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+
 翡翠台, http://t.061899.xyz/tl/js/js.php?id=tvbfct
-无线新闻, http://t.061899.xyz/tl/js/js.php?id=tvbwxxwt
+
 凤凰中文, http://t.061899.xyz/tl/js/js.php?id=fhwszwt
 凤凰资讯, http://t.061899.xyz/tl/js/js.php?id=fhwszxt
 凤凰香港, http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
@@ -1096,37 +1094,22 @@ TVB明珠，http://mytv.cdn.loc.cc/o12.php?id=mzt
 凤凰资讯, http://j.s.bkpcp.top/js/fhzx
 凤凰香港, http://j.s.bkpcp.top/js/fhxg
 翡翠台4K，http://cdn6.163189.xyz/163189/fct4k
-明珠台, http://o12.1678520.xyz/hls/mzt/playlist.m3u8
+翡翠台,https://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
+TVBPlus,https://cdn6.101.qzz.io/163189/tvbp
+
 TVB1，https://6.cdn.loc.cc/163189.php?id=tvb1
-翡翠剧集台, https://6.cdn.loc.cc/163189.php?id=tvbd
-翡翠台, http://php.jdshipin.com/smt.php?id=jade_twn
-华丽翡翠, http://php.jdshipin.com/smt.php?id=Tvbjade
-无线新闻, http://php.jdshipin.com/smt.php?id=inews_twn
-现在新闻， http://cdn.163189.xyz/163189/now
-TVB星河，http://php.jdshipin.com/smt.php?id=Xinhe
-千禧经典台, http://php.jdshipin.com/smt.php?id=Tvbclassic
+
+现在新闻,http://cdn.163189.xyz/163189/now
 无线电视娱乐新闻台， http://php.jdshipin.com/smt.php?id=Tvbentertainment
-天映频道, http://php.jdshipin.com/smt.php?id=Celestial
-天映经典, http://php.jdshipin.com/smt.php?id=Celestial2
-Astro AOD，http://php.jdshipin.com/smt.php?id=Aodhd
-Astro AEC，http://php.jdshipin.com/smt.php?id=AEC
-爱奇艺, http://php.jdshipin.com/smt.php?id=Qiyi
 Astro QJ，http://php.jdshipin.com/smt.php?id=Quanjia
 Astro欢乐台，http://php.jdshipin.com/smt.php?id=Huahee
 八度空间, http://php.jdshipin.com/smt.php?id=TV8
 ViuTV，http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 TVB Plus，http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
 八度空间, http://cdn6.163189.xyz/163189/8tv
-凤凰中文, http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯, http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰香港, http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-TVB翡翠台，http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+
 无线电视明珠台， http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-无线新闻, http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-TVB PLUS，http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-VIU TV，http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-澳视澳门, http://php.jdshipin.com/TVOD/iptv.php?id=asam
-澳视卫星, http://php.jdshipin.com/TVOD/iptv.php?id=as
+
 澳门体育, http://cdn6.163189.xyz/163189/amty
 凤凰资讯，http://219.145.93.74:10000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$陕西电信酒店
 凤凰中文,http://220.169.109.72:802/udp/239.76.253.135:9000$湖南/怀化/电信
@@ -1802,13 +1785,7 @@ YY李连杰台,http://jiaojirentv.top/2020/yy.php?id=1459869766
 英语环球,http://sk.cri.cn/am846.m3u8
 粤语国际,http://sk.cri.cn/hxfh.m3u8
 玫瑰测试_8888,#genre#
-翡翠台,http://hls.168.us.kg/u/81/master.m3u8
-翡翠台,https://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
 
-
-TVBPlus,https://cdn6.101.qzz.io/163189/tvbp
-
-无线新闻台,https://cdn6.101.qzz.io/163189/wxxw
 [HD]alba xxx 1,https://stream1.freetv.fun/198e72173bbbd2701989c077d068d85daac98469233e20ba3c9fede24af59687.m3u8
 松視1台,http://hls-pull-wicketpw.speedws.com:80/live/7c2bfbc9ef54c8959bc7b919510121d4.flv
 松視2台,http://hls-pull-wicketpw.speedws.com:80/live/99465857f488f0bc76a9e4f7435eb9eb.flv
@@ -1821,6 +1798,7 @@ TVBPlus,https://cdn6.101.qzz.io/163189/tvbp
 香蕉台,http://hls-pull-wicketpw.speedws.com:80/live/81913f4135585bd3066c23e0910cb731.flv
 happy,http://hls-pull-wicketpw.speedws.com:80/live/1f9775cf607756db14c6ff916339be9a.flv
 极限电影台,http://hls-pull-wicketpw.speedws.com:80/live/8d6b83f3a59e18518b16c5d891a8803e.flv
+
 
 
 
