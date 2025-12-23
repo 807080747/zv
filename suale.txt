@@ -1,4 +1,5 @@
 央视,#genre#
+4K,http://144.255.40.79:4022/rtp/239.21.2.173:5002
 CCTV1综合高清,http://221.215.118.55:85/tsfile/live/0002_2.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2财经高清,http://221.215.118.55:85/tsfile/live/0002_3.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3综艺,http://221.215.118.55:85/tsfile/live/0002_4.m3u8?key=txiptv&playlive=1&authid=0
@@ -1930,6 +1931,7 @@ TVBPlus,https://cdn6.101.qzz.io/163189/tvbp
 香蕉台,http://hls-pull-wicketpw.speedws.com:80/live/81913f4135585bd3066c23e0910cb731.flv
 happy,http://hls-pull-wicketpw.speedws.com:80/live/1f9775cf607756db14c6ff916339be9a.flv
 极限电影台,http://hls-pull-wicketpw.speedws.com:80/live/8d6b83f3a59e18518b16c5d891a8803e.flv
+
 
 
 
