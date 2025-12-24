@@ -1,4 +1,44 @@
-
+山西联通,#genre#
+CCTV1,http://221.205.59.220:9003/hls/1/index.m3u8
+CCTV2,http://221.205.59.220:9003/hls/2/index.m3u8
+CCTV3,http://221.205.59.220:9003/hls/3/index.m3u8
+CCTV4,http://221.205.59.220:9003/hls/4/index.m3u8
+CCTV5,http://221.205.59.220:9003/hls/5/index.m3u8
+CCTV5+,http://221.205.59.220:9003/hls/6/index.m3u8
+CCTV6,http://221.205.59.220:9003/hls/7/index.m3u8
+CCTV7,http://221.205.59.220:9003/hls/8/index.m3u8
+CCTV8,http://221.205.59.220:9003/hls/9/index.m3u8
+CCTV9,http://221.205.59.220:9003/hls/10/index.m3u8
+CCTV10,http://221.205.59.220:9003/hls/11/index.m3u8
+CCTV11,http://221.205.59.220:9003/hls/12/index.m3u8
+CCTV12,http://221.205.59.220:9003/hls/13/index.m3u8
+CCTV13,http://221.205.59.220:9003/hls/14/index.m3u8
+CCTV14,http://221.205.59.220:9003/hls/15/index.m3u8
+CCTV15,http://221.205.59.220:9003/hls/16/index.m3u8
+CCTV16,http://221.205.59.220:9003/hls/17/index.m3u8
+CCTV17,http://221.205.59.220:9003/hls/18/index.m3u8
+山西卫视,http://221.205.59.220:9003/hls/19/index.m3u8
+北京卫视,http://221.205.59.220:9003/hls/20/index.m3u8
+安徽卫视,http://221.205.59.220:9003/hls/21/index.m3u8
+重庆卫视,http://221.205.59.220:9003/hls/22/index.m3u8
+东方卫视,http://221.205.59.220:9003/hls/23/index.m3u8
+福建卫视,http://221.205.59.220:9003/hls/24/index.m3u8
+甘肃卫视,http://221.205.59.220:9003/hls/25/index.m3u8
+广东卫视,http://221.205.59.220:9003/hls/26/index.m3u8
+广西卫视,http://221.205.59.220:9003/hls/27/index.m3u8
+海南卫视,http://221.205.59.220:9003/hls/28/index.m3u8
+河北卫视,http://221.205.59.220:9003/hls/29/index.m3u8
+河南卫视,http://221.205.59.220:9003/hls/30/index.m3u8
+黑龙江卫视,http://221.205.59.220:9003/hls/31/index.m3u8
+湖北卫视,http://221.205.59.220:9003/hls/32/index.m3u8
+湖南卫视,http://221.205.59.220:9003/hls/33/index.m3u8
+吉林卫视,http://221.205.59.220:9003/hls/34/index.m3u8
+江苏卫视,http://221.205.59.220:9003/hls/35/index.m3u8
+江西卫视,http://221.205.59.220:9003/hls/36/index.m3u8
+辽宁卫视,http://221.205.59.220:9003/hls/37/index.m3u8
+内蒙卫视,http://221.205.59.220:9003/hls/38/index.m3u8
+宁夏卫视,http://221.205.59.220:9003/hls/39/index.m3u8
+青海卫视,http://221.205.59.220:9003/hls/40/index.m3u8
 河北组播,#genre#
 
 CCTV-1,http://106.9.173.48:5555/rtp/239.254.200.45:8008
@@ -2901,6 +2941,7 @@ YY李连杰台,http://jiaojirentv.top/2020/yy.php?id=1459869766
 香蕉台,http://hls-pull-wicketpw.speedws.com:80/live/81913f4135585bd3066c23e0910cb731.flv
 happy,http://hls-pull-wicketpw.speedws.com:80/live/1f9775cf607756db14c6ff916339be9a.flv
 极限电影台,http://hls-pull-wicketpw.speedws.com:80/live/8d6b83f3a59e18518b16c5d891a8803e.flv
+
 
 
 
