@@ -214,6 +214,32 @@ CCTV4K超高清,http://171.38.149.12:8082/tsfile/live/1026_1.m3u8?key=txiptv&pla
 
 
 广东组播,#genre#
+CCTV1-综合,http://119.129.173.104:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2-财经,http://119.129.173.104:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3-综艺,http://119.129.173.104:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4-国际,http://119.129.173.104:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5-体育,http://119.129.173.104:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6-电影,http://119.129.173.104:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8-电视剧,http://119.129.173.104:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9-纪录,http://119.129.173.104:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10-科教,http://119.129.173.104:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11-戏曲,http://119.129.173.104:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12-社会与法,http://119.129.173.104:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13-新闻,http://119.129.173.104:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14-少儿,http://119.129.173.104:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15-音乐,http://119.129.173.104:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://119.129.173.104:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江,http://119.129.173.104:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+广东新闻,http://119.129.173.104:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+广东公共,http://119.129.173.104:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://119.129.173.104:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+广东少儿,http://119.129.173.104:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+嘉佳卡通,http://119.129.173.104:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+IPTV热播剧场,http://119.129.173.104:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+新科动漫,http://119.129.173.104:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://119.129.173.104:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://119.129.173.104:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://119.129.173.104:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://113.102.83.21:4022/rtp/239.77.0.14:5146
 CCTV1,http://113.102.83.21:4022/rtp/239.77.0.30:5146
 CCTV1,http://113.102.83.21:4022/rtp/239.77.0.86:5146
@@ -2702,6 +2728,7 @@ YY李连杰台,http://jiaojirentv.top/2020/yy.php?id=1459869766
 香蕉台,http://hls-pull-wicketpw.speedws.com:80/live/81913f4135585bd3066c23e0910cb731.flv
 happy,http://hls-pull-wicketpw.speedws.com:80/live/1f9775cf607756db14c6ff916339be9a.flv
 极限电影台,http://hls-pull-wicketpw.speedws.com:80/live/8d6b83f3a59e18518b16c5d891a8803e.flv
+
 
 
 
