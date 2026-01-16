@@ -1560,34 +1560,14 @@ VIUTV全运-1,http://hls.168.us.kg/u/961/master.m3u8
 VIUTV全运-2,http://hls.168.us.kg/u/962/master.m3u8
 VIUTV全运-3,http://hls.168.us.kg/u/963/master.m3u8
 VIUTV全运-4,http://hls.168.us.kg/u/964/master.m3u8
-智林体育台,http://211.23.125.95:50007/4gtv-4gtv101/index.m3u8?proxy=true
+
 国外频道,#genre#
-HBO,http://148.113.160.49:14187/
-HBO +,http://148.113.160.49:14193/
-HBO FANILY,http://148.113.160.49:14190/
-HBO POP,http://148.113.160.49:14180/
-HBO XTREME,http://148.113.160.49:14175/
-HBO MUNDL,http://148.113.160.49:14183/
 BBC NEW,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 ABC News Australia,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
 BBC Earth,https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
 Ayush TV,http://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 Wion News,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-FILM arts,http://148.113.160.49:14210/
-索尼频道，http://148.113.160.49:14206/
-CINEMAX,http://148.113.160.49:14200/
-USA 电视,http://148.113.160.49:14133/
-Megapix,http://148.113.160.49:14172/
-Modo Viagem,http://148.113.160.49:14214/
-华纳 - WBTV,http://148.113.160.49:14130/
-环球国际频道,http://148.113.160.49:14135/
-环球影视频道,http://148.113.160.49:14162/
-TNT 剧集频道,http://148.113.160.49:14138/
-TNT 电视,http://148.113.160.49:14141/
-AMC 米高梅电影,http://148.113.160.49:14207/
-TELE CINE FUN,http://148.113.160.49:14155/
-TELE CINE Action,http://148.113.160.49:14159/
-SPACE,http://148.113.160.49:14170/
+
 电影直播,#genre#
 周润发电影院,http://222.186.39.38:8000/587078/index.m3u8
 恐怖电影院,https://yylunbo.ottiptv.cc/yy/24066336
@@ -1599,10 +1579,9 @@ SPACE,http://148.113.160.49:14170/
 天浪电影台 - CH5,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 天浪电影台 - CH6,http://cfss.cc/cdn/hy/11352941.m3u8
 天浪电影台 - CH7,http://cfss.cc/cdn/hy/11342414.m3u8
-天浪电影台 - CH8,http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c57_fast_738_720P_t10/c57_fast_738_720P_t10.m3u8?d
-天浪电影台 - CH9,http://newstreamcdnct.inter.ptqy.gitv.tv/tslive/c59_fast_1050_720P_t10/c59_fast_1050_720P_t10.m3u8?d
+
 天浪电影台 - CH10,http://cfss.cc/cdn/hy/11602058.m3u8
-天浪电影台 - CH11,http://39.88.224.188:23456/udp/239.253.254.142:8000
+
 天浪电影台 - CH12,http://cfss.cc/cdn/hy/11336719.m3u8
 天浪电影台 - CH13,https://yylunbo.ottiptv.cc/yy/1382851522
 天浪电影台 - CH14,http://cfss.cc/cdn/hy/11602043.m3u8
@@ -1632,8 +1611,6 @@ TVBPlus,https://cdn6.101.qzz.io/163189/tvbp
 
 TVB1,https://6.cdn.loc.cc/163189.php?id=tvb1
 
-现在新闻,http://cdn.163189.xyz/163189/now
-无线电视娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
 Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
 Astro欢乐台,http://php.jdshipin.com/smt.php?id=Huahee
 八度空间,http://php.jdshipin.com/smt.php?id=TV8
@@ -1670,15 +1647,11 @@ RTHK31,http://cdn.163189.xyz/163189/rthk31
 镜新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/f4d56046-82ba-474e-8499-ab2353dc7a9b/1.m3u8
 
 
-中视新闻,https://smt.passwdword.xyz/Smart.php?id=zhongshinews_twn
-华视新闻,https://smt.passwdword.xyz/Smart.php?id=ctshd_twn
-台视新闻,https://smt.passwdword.xyz/Smart.php?id=ttvnews_twn
-民视新闻,https://smt.passwdword.xyz/Smart.php?id=ftvnew_taiwan
+
 
 八度空间,http://iptv.4666888.xyz/iptv2A.php?id=八度空间
-爱奇艺,http://iptv.4666888.xyz/iptv2A.php?id=爱奇艺
-年代新闻,http://51.89.166.17:3002/index.php?id=niandainews_twn
-中视新闻,http://51.89.166.17:3002/index.php?id=zhongshinews_twn
+
+
 TaiwanPlus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 华视,rtmp://f13h.mine.nu/sat/tv111
 中视,rtmp://f13h.mine.nu/sat/tv091
@@ -1720,76 +1693,14 @@ NatGeo Wild HD,https://tv543.cc/Smart.php?id=Natgeowild
 华丽翡翠 - CH04,http://66.90.99.154:8278/Wlt/playlist.m3u8?tid=MEBE9742919997429199&ct=20376&tsum=6f07a8a5e79c3277010fdb6477aa9006
 明珠翡翠 - CH05,http://iptv.4666888.xyz/iptv2A.php?id=TVB明珠
 无线千禧 - CH07,http://iptv.4666888.xyz/iptv2A.php?id=TVB千禧经典
-无线新闻 - CH07,https://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
-娱乐新闻 - CH08,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
-泰国剧集 - CH09,https://stream1.freetv.fun/tvb-viet-nam-1.m3u8
+
+
 星河频道 - CH10,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
 无线功夫 - CH11,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 
-台湾新闻,#genre#
 
-靖天资讯,http://211.23.125.95:50007/4gtv-4gtv065/index.m3u8?proxy=true
-TVBS HD,https://stream1.freetv.fun/tvbsya-zhou-11.m3u8
-TVBS新闻,http://211.23.125.95:50007/4gtv-4gtv072/index.m3u8?proxy=true
-东森新闻,http://211.23.125.95:50007/4gtv-4gtv152/index.m3u8?proxy=true
-民视台湾,http://211.23.125.95:50007/4gtv-4gtv001/index.m3u8?proxy=true  
-民视,http://211.23.125.95:50007/4gtv-4gtv002/index.m3u8?proxy=true
-民视第一,http://211.23.125.95:50007/4gtv-4gtv003/index.m3u8?proxy=true
-中天新闻,http://211.23.125.95:50007/4gtv-4gtv009/index.m3u8?proxy=true
-非凡新闻,http://211.23.125.95:50007/4gtv-4gtv010/index.m3u8?proxy=true
-镜新闻,http://211.23.125.95:50007/4gtv-4gtv075/index.m3u8?proxy=true
-寰宇新闻台湾,http://211.23.125.95:50007/4gtv-4gtv156/index.m3u8?proxy=true
-中视新闻HD,http://211.23.125.95:50007/4gtv-4gtv074/index.m3u8?proxy=true
-台视财经,http://211.23.125.95:50007/4gtv-4gtv056/index.m3u8?proxy=true
-台视财经,http://123.51.136.80:8315/0.ts
-台视新闻,http://211.23.125.95:50007/4gtv-4gtv051/index.m3u8?proxy=true
 
-台湾娱乐,#genre#
-FTV综艺,http://211.23.125.95:50007/4gtv-4gtv004/index.m3u8?proxy=true
-猪哥亮歌秀,http://211.23.125.95:50007/4gtv-4gtv006/index.m3u8?proxy=true
-FGM,http://211.23.125.95:50007/4gtv-4gtv011/index.m3u8?proxy=true
-CNEX,http://211.23.125.95:50007/4gtv-4gtv013/index.m3u8?proxy=true
-韩国娱乐,http://211.23.125.95:50007/4gtv-4gtv016/index.m3u8?proxy=true
-Davinci,http://211.23.125.95:50007/4gtv-4gtv018/index.m3u8?proxy=true
-八大精彩,http://211.23.125.95:50007/4gtv-4gtv034/index.m3u8?proxy=true
-八大综合,http://211.23.125.95:50007/4gtv-4gtv039/index.m3u8?proxy=true
-中视,http://211.23.125.95:50007/4gtv-4gtv040/index.m3u8?proxy=true
-华视,http://211.23.125.95:50007/4gtv-4gtv041/index.m3u8?proxy=true
-公视戏剧,http://211.23.125.95:50007/4gtv-4gtv042/index.m3u8?proxy=true
-客家电视,http://211.23.125.95:50007/4gtv-4gtv043/index.m3u8?proxy=true
-靖天卡通,http://211.23.125.95:50007/4gtv-4gtv044/index.m3u8?proxy=true
-靖洋戏剧,http://211.23.125.95:50007/4gtv-4gtv045/index.m3u8?proxy=true
-靖天综合,http://211.23.125.95:50007/4gtv-4gtv046/index.m3u8?proxy=true
-靖天日本,http://211.23.125.95:50007/4gtv-4gtv047/index.m3u8?proxy=true
-非凡商业,http://211.23.125.95:50007/4gtv-4gtv048/index.m3u8?proxy=true
-采昌电视,http://211.23.125.95:50007/4gtv-4gtv049/index.m3u8?proxy=true
-靖天欢乐,http://211.23.125.95:50007/4gtv-4gtv054/index.m3u8?proxy=true
-靖天映画,http://211.23.125.95:50007/4gtv-4gtv055/index.m3u8?proxy=true
-靖羊卡通,http://211.23.125.95:50007/4gtv-4gtv057/index.m3u8?proxy=true
-靖天戏剧,http://211.23.125.95:50007/4gtv-4gtv058/index.m3u8?proxy=true
-古典音乐,http://211.23.125.95:50007/4gtv-4gtv059/index.m3u8?proxy=true
-靖天电影,http://211.23.125.95:50007/4gtv-4gtv061/index.m3u8?proxy=true
-靖天音乐,http://211.23.125.95:50007/4gtv-4gtv062/index.m3u8?proxy=true
-靖天国际,http://211.23.125.95:50007/4gtv-4gtv063/index.m3u8?proxy=true
-中视菁采,http://211.23.125.95:50007/4gtv-4gtv064/index.m3u8?proxy=true
-台视HD,http://211.23.125.95:50007/4gtv-4gtv066/index.m3u8?proxy=true
-TVBS精彩,http://211.23.125.95:50007/4gtv-4gtv067/index.m3u8?proxy=true
-TVBS欢乐,http://211.23.125.95:50007/4gtv-4gtv068/index.m3u8?proxy=true
-ELTA娱乐,http://211.23.125.95:50007/4gtv-4gtv070/index.m3u8?proxy=true
-TVBSHD,http://211.23.125.95:50007/4gtv-4gtv073/index.m3u8?proxy=true
-亚洲旅游,http://211.23.125.95:50007/4gtv-4gtv076/index.m3u8?proxy=true
-orirangkorea,http://211.23.125.95:50007/4gtv-4gtv079/index.m3u8?proxy=true
-中视经典,http://211.23.125.95:50007/4gtv-4gtv080/index.m3u8?proxy=true
-URBAN,http://211.23.125.95:50007/4gtv-4gtv082/index.m3u8?proxy=true
-mezzo,http://211.23.125.95:50007/4gtv-4gtv083/index.m3u8?proxy=true
-国会频道1,http://211.23.125.95:50007/4gtv-4gtv084/index.m3u8?proxy=true
-国会频道2,http://211.23.125.95:50007/4gtv-4gtv085/index.m3u8?proxy=true
-东森购物1,http://211.23.125.95:50007/4gtv-4gtv102/index.m3u8?proxy=true
-东森购物2,http://211.23.125.95:50007/4gtv-4gtv103/index.m3u8?proxy=true
-亚洲证券,http://211.23.125.95:50007/4gtv-4gtv104/index.m3u8?proxy=true
-中天亚洲,http://211.23.125.95:50007/4gtv-4gtv109/index.m3u8?proxy=true
-民视,http://211.23.125.95:50007/4gtv-4gtv155/index.m3u8?proxy=true
-GiNXTV,http://211.23.125.95:50007/4gtv-4gtv053/index.m3u8?proxy=true
+
 
 轮播电影,#genre#
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
@@ -2118,17 +2029,10 @@ YY李连杰台,http://jiaojirentv.top/2020/yy.php?id=1459869766
 玫瑰测试_8888,#genre#
 
 [HD]alba xxx 1,https://stream1.freetv.fun/198e72173bbbd2701989c077d068d85daac98469233e20ba3c9fede24af59687.m3u8
-松視1台,http://hls-pull-wicketpw.speedws.com:80/live/7c2bfbc9ef54c8959bc7b919510121d4.flv
-松視2台,http://hls-pull-wicketpw.speedws.com:80/live/99465857f488f0bc76a9e4f7435eb9eb.flv
-松視3台,http://hls-pull-wicketpw.speedws.com:80/live/f284f368e92cc190751930dca39e23e2.flv
-彩虹e台,http://hls-pull-wicketpw.speedws.com:80/live/41a3cdc08f90ed4120e4fd7b331c13cd.flv
-彩虹k台,http://hls-pull-wicketpw.speedws.com:80/live/e76755452f0b931ca3cbac2738278650.flv
-彩虹台,http://hls-pull-wicketpw.speedws.com:80/live/ce65a6370da88e2c3f37db9cacda3ac9.flv
-潘朵台,http://hls-pull-wicketpw.speedws.com:80/live/ed85c2f3ac66c28e3030b115c415dc45.flv
-惊艳台,http://hls-pull-wicketpw.speedws.com:80/live/bf69646a31de4bf9400fc76a5350e648.flv
-香蕉台,http://hls-pull-wicketpw.speedws.com:80/live/81913f4135585bd3066c23e0910cb731.flv
-happy,http://hls-pull-wicketpw.speedws.com:80/live/1f9775cf607756db14c6ff916339be9a.flv
-极限电影台,http://hls-pull-wicketpw.speedws.com:80/live/8d6b83f3a59e18518b16c5d891a8803e.flv
+
+
+
+
 
 
 
