@@ -336,12 +336,6 @@ IPTV法治,http://182.123.209.199:12345/rtp/225.1.4.188:1237
 爱电影,http://182.123.209.199:12345/rtp/225.1.4.6:1035
 爱大剧,http://182.123.209.199:12345/rtp/225.1.4.8:1037
 收视指南,http://182.123.209.199:12345/rtp/225.1.4.50:1079
-环球购物,http://182.123.209.199:12345/rtp/225.1.4.229:1275
-家有购物,http://182.123.209.199:12345/rtp/225.1.4.223:1273
-央广购物,http://182.123.209.199:12345/rtp/225.1.4.230:1276
-快乐购,http://182.123.209.199:12345/rtp/225.1.4.231:1277
-好享购物,http://182.123.209.199:12345/rtp/225.1.4.232:1278
-风尚购物,http://182.123.209.199:12345/rtp/225.1.4.233:1279
 国学频道,http://182.123.209.199:12345/rtp/225.1.4.196:1311
 河南移动电视,http://182.123.209.199:12345/rtp/225.1.5.40:1350
 河南卫视高清,http://182.123.209.199:12345/rtp/225.1.4.98:1127
@@ -441,7 +435,6 @@ BRTV纪实科教,http://182.123.209.199:12345/rtp/225.1.5.74:1384
 巩义综合,http://182.123.209.199:12345/rtp/225.1.5.50:1360
 登封综合,http://182.123.209.199:12345/rtp/225.1.4.240:1286
 新密综合,http://182.123.209.199:12345/rtp/225.1.4.239:1285
-欢腾购物+,http://182.123.209.199:12345/rtp/225.1.4.236:1282
 健康河南,http://182.123.209.199:12345/rtp/225.1.5.48:1358
 
 广东组播,#genre#
@@ -1225,108 +1218,13 @@ AstroAEC,http://php.jdshipin.com:8880/smt.php?id=AEC
 爱奇艺,http://php.jdshipin.com:8880/smt.php?id=Qiyi
 ASTROQUANJIA,http://php.jdshipin.com:8880/smt.php?id=Quanjia
 Astro欢喜台,http://php.jdshipin.com:8880/smt.php?id=Huahee
-翡翠台,https://smart.pendy.dpdns.org/Smart.php?id=jade_twn
-翡翠台,https://smart.pendy.dpdns.org/Smart.php?id=Jade_xue
-香港|iNews 新闻台,https://smart.pendy.dpdns.org/Smart.php?id=inews_twn
-J2,https://smart.pendy.dpdns.org/Smart.php?id=j2_twn
-香港|珍珠台,https://smart.pendy.dpdns.org/Smart.php?id=pearl_twn
-凤凰香港,https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn
-香港|HOY资讯台,https://smart.pendy.dpdns.org/Smart.php?id=hoycaijing_twn
-香港|RHK 31,https://smart.pendy.dpdns.org/Smart.php?id=rhk31_twn
-VIUTV,https://smart.pendy.dpdns.org/Smart.php?id=viu1_twn
-香港|RHK 32,https://smart.pendy.dpdns.org/Smart.php?id=rhk32_twn
-香港|凤凰卫视,https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd
-凤凰资讯,https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd
-香港|Viu6,https://smart.pendy.dpdns.org/Smart.php?id=viusix_twn
-体育频道|Astro Premier League 1,https://smart.pendy.dpdns.org/Smart.php?id=go_assp1
-体育频道|Astro EPL 1 backup,https://smart.pendy.dpdns.org/Smart.php?id=go_assp1x
-体育频道|Astro Premier League 2,https://smart.pendy.dpdns.org/Smart.php?id=go_assp2
-体育频道|Astro Grandstand,https://smart.pendy.dpdns.org/Smart.php?id=go_assp3
-体育频道|Astro Football,https://smart.pendy.dpdns.org/Smart.php?id=go_assp4
-体育频道|Astro Sports Plus,https://smart.pendy.dpdns.org/Smart.php?id=go_sportsplus
-体育频道|Astro Badminton 1,https://smart.pendy.dpdns.org/Smart.php?id=go_badminton1
-体育频道|Astro Badminton 2,https://smart.pendy.dpdns.org/Smart.php?id=go_badminton2
-体育频道|Astro W-Sports,https://smart.pendy.dpdns.org/Smart.php?id=go_assp5
-体育频道|Supersports 1,https://smart.pendy.dpdns.org/Smart.php?id=Assp1
-体育频道|Supersports 2,https://smart.pendy.dpdns.org/Smart.php?id=Assp2
-体育频道|Supersports 3,https://smart.pendy.dpdns.org/Smart.php?id=Assp3
-体育频道|Supersports 4,https://smart.pendy.dpdns.org/Smart.php?id=Assp4
-体育频道|WWE,https://smart.pendy.dpdns.org/Smart.php?id=Wwe
-体育频道|Fight Sports,https://smart.pendy.dpdns.org/Smart.php?id=Fs
-体育频道|NBA TV,https://smart.pendy.dpdns.org/Smart.php?id=Nba
-体育频道|Astro Cricket,https://smart.pendy.dpdns.org/Smart.php?id=Acricket
-体育频道|Astro Golf,https://smart.pendy.dpdns.org/Smart.php?id=Agolf
-体育频道|Tnt Sports 1,https://smart.pendy.dpdns.org/Smart.php?id=6fac0aaead
-体育频道|TNT Sports 2,https://smart.pendy.dpdns.org/Smart.php?id=d9a76a79cc
-体育频道|TNT Sports 3,https://smart.pendy.dpdns.org/Smart.php?id=5fea4d73db
-体育频道|TNT Sports 4,https://smart.pendy.dpdns.org/Smart.php?id=tntsport4
-体育频道|Sony Ten 1,https://smart.pendy.dpdns.org/Smart.php?id=ten1_raj
-体育频道|Sony Ten 2,https://smart.pendy.dpdns.org/Smart.php?id=ten2_raj
-体育频道|Sony Ten 3,https://smart.pendy.dpdns.org/Smart.php?id=ten3_raj
-体育频道|SPOTV 1 HD,https://smart.pendy.dpdns.org/Smart.php?id=go_spotv
-体育频道|SPO TV 2,https://smart.pendy.dpdns.org/Smart.php?id=go_spotv2
-体育频道|Skysports F1,https://smart.pendy.dpdns.org/Smart.php?id=tiankongf1
-体育频道|Skysports Cricket,https://smart.pendy.dpdns.org/Smart.php?id=tiankongcricket
-体育频道|Skysports EPL,https://smart.pendy.dpdns.org/Smart.php?id=tiankongepl
-体育频道|Skysports News,https://smart.pendy.dpdns.org/Smart.php?id=tiankongnews
-体育频道|Skysports Mix,https://smart.pendy.dpdns.org/Smart.php?id=tiankongmix
-爱尔达体育2,https://smart.pendy.dpdns.org/Smart.php?id=eltasport2_twn
-爱尔达体育3,https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn
-体育频道|Rugby Pass TV,https://smart.pendy.dpdns.org/Smart.php?id=Rugbypasstv
-体育频道|RTM Sports HD,https://smart.pendy.dpdns.org/Smart.php?id=Rtmsport
-体育频道|Arena,https://smart.pendy.dpdns.org/Smart.php?id=Arena
-体育频道|Arena 2,https://smart.pendy.dpdns.org/Smart.php?id=Arena2
-体育频道|BolaArena 1,https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena1
-体育频道|BolaArena 2,https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena2
-体育频道|Astro Beinsports 1,https://smart.pendy.dpdns.org/Smart.php?id=Astrobein1
-体育频道|Astro Beinsports 2,https://smart.pendy.dpdns.org/Smart.php?id=Astrobein2
-体育频道|Astro Beinsports 3,https://smart.pendy.dpdns.org/Smart.php?id=Astrobein3
-TVBS,https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
-TVBS,https://smart.pendy.dpdns.org/Smart.php?id=tvbshuanle_twn
-EVE,https://smart.pendy.dpdns.org/Smart.php?id=tiankongmain
-TVBS,https://smart.pendy.dpdns.org/Smart.php?id=tvbs
-台湾|中天新闻 HD,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
-台湾|中天娱乐 CTI Entertaiment,https://smart.pendy.dpdns.org/Smart.php?id=ctient
-台湾|中天综合 CTI Metro,https://smart.pendy.dpdns.org/Smart.php?id=ctizhonghe
-中天亚洲台,https://smart.pendy.dpdns.org/Smart.php?id=ctiasia_twn
-台视,https://smart.pendy.dpdns.org/Smart.php?id=ttv_taiwan
-台视,https://smart.pendy.dpdns.org/Smart.php?id=ttvnews_twn
-台视,https://smart.pendy.dpdns.org/Smart.php?id=ttvzhonghe
-中视,https://smart.pendy.dpdns.org/Smart.php?id=zhongshihd_twn
-中视,https://smart.pendy.dpdns.org/Smart.php?id=zhongshinews_twn
-民视,https://smart.pendy.dpdns.org/Smart.php?id=ftvhd_taiwan
-TVN,https://smart.pendy.dpdns.org/Smart.php?id=ftvnew_taiwan
-民视,https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
-华视,https://smart.pendy.dpdns.org/Smart.php?id=ctshd_twn
-公视,https://smart.pendy.dpdns.org/Smart.php?id=ctv18_twn
-台湾|八大第一 GTV First,https://smart.pendy.dpdns.org/Smart.php?id=badafirst
-台湾|八大综合 GTV Metro,https://smart.pendy.dpdns.org/Smart.php?id=badazhonghe
-台湾|八大戏剧 GTV Drama,https://smart.pendy.dpdns.org/Smart.php?id=badadrama
-台湾|八大娱乐 GTV Entertainment,https://smart.pendy.dpdns.org/Smart.php?id=badaentertain
-HBO,https://smart.pendy.dpdns.org/Smart.php?id=hbohd_twn
+
 
 🇹🇼台湾,#genre#
-TVBS,http://220.135.64.124:5050/4gtv-4gtv073/index.m3u8?proxy=true
-TVBS新聞,http://220.135.64.124:5050/li-4gtv-4gtv072/index.m3u8?proxy=true
-中天新闻,http://220.135.64.124:5050/4gtv-4gtv009/index.m3u8?proxy=true
-寰宇新聞,http://220.135.64.124:5050/litv-longturn14/index.m3u8?proxy=true
-东森新闻,http://220.135.64.124:5050/4gtv-4gtv152/index.m3u8?proxy=true
-
-華視新聞,http://220.135.64.124:5050/of-4gtv-4gtv052/index.m3u8?proxy=true
-中視新聞,http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
-民視新聞,http://220.135.64.124:5050/li-litv-ftv13/index.m3u8?proxy=true
-三立新闻,http://220.135.64.124:5050/iNEWS/index.m3u8?proxy=true
 
 镜新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
-寰宇新聞台灣,http://220.135.64.124:5050/li-4gtv-4gtv156/index.m3u8?proxy=true
 
 
-
-台視,http://220.135.64.124:5050/li-4gtv-4gtv066/index.m3u8?proxy=true
-台視,http://220.135.64.124:5050/4gtv-4gtv066/index.m3u8?proxy=true
-中視,http://220.135.64.124:5050/of-4gtv-4gtv040/index.m3u8?proxy=true
-華視,http://220.135.64.124:5050/of-4gtv-4gtv041/index.m3u8?proxy=true
-民視,http://220.135.64.124:5050/4gtv-4gtv002/index.m3u8?proxy=true
 
 Wild TV (1080p),https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 新唐人,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
@@ -2246,6 +2144,7 @@ YY李连杰台,http://jiaojirentv.top/2020/yy.php?id=1459869766
 香蕉台,http://hls-pull-wicketpw.speedws.com:80/live/81913f4135585bd3066c23e0910cb731.flv
 happy,http://hls-pull-wicketpw.speedws.com:80/live/1f9775cf607756db14c6ff916339be9a.flv
 极限电影台,http://hls-pull-wicketpw.speedws.com:80/live/8d6b83f3a59e18518b16c5d891a8803e.flv
+
 
 
 
