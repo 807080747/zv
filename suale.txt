@@ -1,4 +1,60 @@
+央视,#genre#
+CCTV1综合,http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV2财经,http://74.91.26.218:82/live/cctv2hd.m3u8
+CCTV3综艺,http://74.91.26.218:82/live/cctv3hd.m3u8
+CCTV4中文国际,http://74.91.26.218:82/live/cctv4hd.m3u8
+CCTV5体育,http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV6电影,http://74.91.26.218:82/live/cctv6hd.m3u8
+CCTV7国防军事,http://74.91.26.218:82/live/cctv7hd.m3u8
+CCTV8电视剧,http://74.91.26.218:82/live/cctv8hd.m3u8
+CCTV9纪录,http://74.91.26.218:82/live/cctv9hd.m3u8
+CCTV10科教,http://74.91.26.218:82/live/cctv10hd.m3u8
+CCTV11戏曲,http://74.91.26.218:82/live/cctv11hd.m3u8
+CCTV12社会与法,http://74.91.26.218:82/live/cctv12hd.m3u8
+CCTV13新闻,http://74.91.26.218:82/live/cctv13hd.m3u8
+CCTV14少儿,http://74.91.26.218:82/live/cctv14hd.m3u8
+CCTV15音乐,http://74.91.26.218:82/live/cctv15hd.m3u8
+CCTV16奥利匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
+CCTV17农业农村,http://74.91.26.218:82/live/cctv17hd.m3u8
+CCTV5+体育赛事,http://74.91.26.218:82/live/cctv5p.m3u8
 
+体育,#genre#
+CCTV5体育,http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
+CCTV5+体育赛事,http://74.91.26.218:82/live/cctv5p.m3u8
+广东体育,http://74.91.26.218:82/live/cctv5p.m3u8
+
+香港,#genre#
+翡翠台,http://74.91.26.218:82/live/jade.m3u8
+无线新闻台,http://74.91.26.218:82/live/inews.m3u8
+TVB Plus,http://74.91.26.218:82/live/j2.m3u8
+TVB星河,http://74.91.26.218:82/live/tvbxh.m3u8
+TVB千禧经典台,http://74.91.26.218:82/live/tvbjd.m3u8
+NOW星影台,http://74.91.26.218:82/live/nowxy.m3u8
+NOW爆谷台,http://74.91.26.218:82/live/nowbg.m3u8
+美亚电影台,http://74.91.26.218:82/live/mydy.m3u8
+天映频道,http://74.91.26.218:82/live/typd.m3u8
+天映经典,http://74.91.26.218:82/live/tyjd.m3u8
+
+台湾,#genre#
+中视,http://74.91.26.218:82/live/ctv.m3u8
+中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
+中视经典,http://74.91.26.218:82/live/ctvjd.m3u8
+中视菁采,http://74.91.26.218:82/live/ctvjc.m3u8
+台视,http://74.91.26.218:82/live/ttv.m3u8
+台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8
+台视综合,http://74.91.26.218:82/live/ttvzh.m3u8
+台视财经,http://74.91.26.218:82/live/ttvcj.m3u8
+华视,http://74.91.26.218:82/live/cts.m3u8
+华视新闻资讯,http://74.91.26.218:82/live/ctsnews.m3u8
+华视教育体育文化,http://74.91.26.218:82/live/ctsjy.m3u8
+民视,http://74.91.26.218:82/live/ftv.m3u8
+民视新闻台,http://74.91.26.218:82/live/ftvnews.m3u8
+民视台湾台,http://74.91.26.218:82/live/ftvtw.m3u8
+民视第一台,http://74.91.26.218:82/live/ftvdy.m3u8
+公视,http://74.91.26.218:82/live/pts.m3u8
+公视台语台,http://74.91.26.218:82/live/ptsty.m3u8
+小公视,http://74.91.26.218:82/live/ptsse.m3u8
 
 央视频道,#genre#
 CCTV1-综合,http://125.43.253.169:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -3244,6 +3300,7 @@ YY李连杰台,http://jiaojirentv.top/2020/yy.php?id=1459869766
 香蕉台,http://hls-pull-wicketpw.speedws.com:80/live/81913f4135585bd3066c23e0910cb731.flv
 happy,http://hls-pull-wicketpw.speedws.com:80/live/1f9775cf607756db14c6ff916339be9a.flv
 极限电影台,http://hls-pull-wicketpw.speedws.com:80/live/8d6b83f3a59e18518b16c5d891a8803e.flv
+
 
 
 
