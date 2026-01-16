@@ -924,26 +924,7 @@ CHC家庭影院,http://39.89.120.213:8188/rtp/239.253.254.152:8000
 游戏风云,http://39.89.120.213:8188/rtp/239.253.254.95:8000
 
 cctv,#genre#
-CCTV1,http://144.255.40.79:4022/rtp/239.21.1.1:5002
-CCTV2,http://144.255.40.79:4022/rtp/239.21.1.2:5002
-CCTV3,http://144.255.40.79:4022/rtp/239.21.1.3:5002
-CCTV4,http://144.255.40.79:4022/rtp/239.21.1.4:5002
-CCTV4北美,http://144.255.40.79:4022/rtp/239.21.2.29:5002
-CCTV4欧洲,http://144.255.40.79:4022/rtp/239.21.2.28:5002
-CCTV5,http://144.255.40.79:4022/rtp/239.21.1.5:5002
-CCTV5+ LD,http://144.255.40.79:4022/rtp/239.21.1.190:5002
-CCTV6,http://144.255.40.79:4022/rtp/239.21.1.6:5002
-CCTV7,http://144.255.40.79:4022/rtp/239.21.1.7:5002
-CCTV8,http://144.255.40.79:4022/rtp/239.21.1.8:5002
-CCTV9,http://144.255.40.79:4022/rtp/239.21.1.9:5002
-CCTV10,http://144.255.40.79:4022/rtp/239.21.1.11:5002
-CCTV11,http://144.255.40.79:4022/rtp/239.21.1.12:5002
-CCTV13,http://144.255.40.79:4022/rtp/239.21.1.14:5002
-CCTV13,http://144.255.40.79:4022/rtp/239.21.2.1:5002
-CCTV13,http://144.255.40.79:4022/rtp/239.21.2.3:5002
-CCTV14,http://144.255.40.79:4022/rtp/239.21.1.15:5002
-CCTV15,http://144.255.40.79:4022/rtp/239.21.1.16:5002
-CCTV17,http://144.255.40.79:4022/rtp/239.21.1.206:5002
+
 CCTV1,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
 CCTV2,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2
 CCTV3,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv3
@@ -2654,6 +2635,7 @@ YY李连杰台,http://jiaojirentv.top/2020/yy.php?id=1459869766
 香蕉台,http://hls-pull-wicketpw.speedws.com:80/live/81913f4135585bd3066c23e0910cb731.flv
 happy,http://hls-pull-wicketpw.speedws.com:80/live/1f9775cf607756db14c6ff916339be9a.flv
 极限电影台,http://hls-pull-wicketpw.speedws.com:80/live/8d6b83f3a59e18518b16c5d891a8803e.flv
+
 
 
 
