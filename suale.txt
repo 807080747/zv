@@ -1215,9 +1215,9 @@ ViuTV,https://cdn.163189.xyz/163189/viu
 新加波U频道,https://cdn6.101.qzz.io/163189/chu
 奥地利红牛,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 天映频道,http://122.53.222.9:9981/stream/channelid/1069391940?profile=pass
-凤凰资讯,https://live.tvfix.org/live/fhzx/index.m3u8
+
 凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
-凤凰香港,https://live.tvfix.org/live/fhxg/index.m3u8
+
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 八度空间,http://php.jdshipin.com:8880/smt.php?id=TV8
 AstroAOD,http://php.jdshipin.com:8880/smt.php?id=Aodhd
@@ -2246,6 +2246,7 @@ YY李连杰台,http://jiaojirentv.top/2020/yy.php?id=1459869766
 香蕉台,http://hls-pull-wicketpw.speedws.com:80/live/81913f4135585bd3066c23e0910cb731.flv
 happy,http://hls-pull-wicketpw.speedws.com:80/live/1f9775cf607756db14c6ff916339be9a.flv
 极限电影台,http://hls-pull-wicketpw.speedws.com:80/live/8d6b83f3a59e18518b16c5d891a8803e.flv
+
 
 
 
