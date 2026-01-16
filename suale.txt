@@ -592,9 +592,6 @@ CCTV4K超高清,http://171.38.149.12:8082/tsfile/live/1026_1.m3u8?key=txiptv&pla
 重温经典HD,http://171.38.149.12:8082/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 
 河南组播,#genre#
-#by cqshushu | 公众号：医工学习日志
-#类型：河南省焦作市组播 河南联通
-#节目数量：262
 CCTV-1高清,http://115.63.207.229:8012/rtp/225.1.4.73:1102
 CCTV-2高清,http://115.63.207.229:8012/rtp/225.1.4.74:1103
 CCTV-3高清,http://115.63.207.229:8012/rtp/225.1.4.158:1194
@@ -2706,6 +2703,7 @@ YY李连杰台,http://jiaojirentv.top/2020/yy.php?id=1459869766
 玫瑰测试_8888,#genre#
 
 [HD]alba xxx 1,https://stream1.freetv.fun/198e72173bbbd2701989c077d068d85daac98469233e20ba3c9fede24af59687.m3u8
+
 
 
 
