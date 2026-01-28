@@ -2408,6 +2408,8 @@ YY李连杰台,http://jiaojirentv.top/2020/yy.php?id=1459869766
 英语环球,http://sk.cri.cn/am846.m3u8
 粤语国际,http://sk.cri.cn/hxfh.m3u8
 玫瑰测试_8888,#genre#
+
+小海苔番茄,http://lamansupasje.abrillantlee.top/live/cx_368234.flv
 无敌可蝶,http://osueaetkala1.yueyongli.top/live/cx_384790.flv
 蝶恋花直播,http://1laeiujwoq.yueyongli.top/live/cx_376110.flv
 七七直播,http://bo.xn--3oq689c.com/live/cx_11042.flv
@@ -6220,6 +6222,7 @@ HZTV-2,http://183.236.43.98:4013/udp/239.77.1.233:5146$广东电信
 2024年春晚,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 2025年春晚,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
 2025年春晚,https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
+
 
 
 
