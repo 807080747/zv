@@ -9,8 +9,6 @@
 "filterable": 1,
 "ext":"http://ko.zoho.to//ii/28216.txt"
 },
-{
-  "sites": [
     {
       "key": "瓜子影视",
       "name": "👖锋云科技✈️",
