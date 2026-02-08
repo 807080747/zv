@@ -2408,6 +2408,8 @@ YY李连杰台,http://jiaojirentv.top/2020/yy.php?id=1459869766
 英语环球,http://sk.cri.cn/am846.m3u8
 粤语国际,http://sk.cri.cn/hxfh.m3u8
 玫瑰测试_8888,#genre#
+Now爆谷台,https://tuiliu.go-iptv.ggff.net/baogutai/stream.m3u8
+Now爆谷星影台,https://tuiliu.go-iptv.ggff.net/xingyingtai/stream.m3u8
 蜜桃软绵绵,http://joakerwununql1.jinkangyl.com/live/cx_378261.flv
 小海苔番茄,http://lamansupasje.abrillantlee.top/live/cx_368234.flv
 无敌可蝶,http://osueaetkala1.yueyongli.top/live/cx_384790.flv
@@ -2416,7 +2418,7 @@ YY李连杰台,http://jiaojirentv.top/2020/yy.php?id=1459869766
 [HD]alba xxx 1,https://stream1.freetv.fun/198e72173bbbd2701989c077d068d85daac98469233e20ba3c9fede24af59687.m3u8
 xxx 2,https://astin-cowing.mushroomtrack.com/hls/K_OhHSxUEFMtKgmGCgq29Q/1769561049/56000/56463/56463.m3u8
 
-港台三级(100部)
+
 1色降2之血玫瑰,https://vip1.lz-cdn1.com/20220331/733_58b741b7/index.m3u8
 2新七擒七纵七色狼,https://jkunnzyx.com/20250426/uToXhon9/index.m3u8
 3倩女幽魂,https://jkunnzyx.com/20250423/nU0wWqCw/2000kb/hls/index.m3u8
@@ -6222,6 +6224,7 @@ HZTV-2,http://183.236.43.98:4013/udp/239.77.1.233:5146$广东电信
 2024年春晚,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 2025年春晚,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
 2025年春晚,https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
+
 
 
 
