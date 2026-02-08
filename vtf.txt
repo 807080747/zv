@@ -1,3 +1,4 @@
+
 {
 "key":"裤佬豆瓣片单",
 "name":"✈️锋云影视",
@@ -9,16 +10,6 @@
 "filterable": 1,
 "ext":"http://ko.zoho.to//ii/28216.txt"
 },
-    {
-      "key": "瓜子影视",
-      "name": "👖锋云科技✈️",
-      "type": 3,
-      "jar": "https://mpimg.cn/down.php/c5c6d17153ed9748929d1530b9f87cca.jar",
-      "api": "csp_Gz360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
     {
       "key": "克隆合集",
       "name": "克隆合集",
