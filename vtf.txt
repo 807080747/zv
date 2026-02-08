@@ -7,7 +7,7 @@
 "searchable": 1,
 "quickSearch":0,
 "filterable": 1,
-"ext":"https://down.nigx.cn/upld.zone.id/uploads/q9iq9e5iq/3.txt"
+"ext":"http://ko.zoho.to//ii/28216.txt"
 },
 {
   "sites": [
