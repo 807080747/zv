@@ -1,6 +1,6 @@
 {
-"key":"锋云豆瓣片单",
-"name":"✈️TG频道@stymei",
+"key":"裤佬豆瓣片单",
+"name":"✈️锋云影视",
 "type":3,
 "api":"csp_Douban",
 "jar":"https://mpimg.cn/down.php/34dc804020748504a15e2767b37656c3.jar",
