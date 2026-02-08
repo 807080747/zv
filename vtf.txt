@@ -1,5 +1,5 @@
 {
-"key":"裤佬豆瓣片单",
+"key":"锋云豆瓣片单",
 "name":"✈️TG频道@stymei",
 "type":3,
 "api":"csp_Douban",
