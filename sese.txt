@@ -1,7 +1,6 @@
 
 🇭🇰极速港台,#genre#
-Now爆谷台,https://tuiliu.go-iptv.ggff.net/baogutai/stream.m3u8
-Now爆谷星影台,https://tuiliu.go-iptv.ggff.net/xingyingtai/stream.m3u8
+
 Plus综合Mttv,http://rihou.cc:555/tv/[Mt]Plus综合
 Now财经Mttv,http://rihou.cc:555/tv/[Mt]Now财经
 Now直播Mttv,http://rihou.cc:555/tv/[Mt]Now直播
@@ -10836,6 +10835,7 @@ wwe,https://fl3.moveonjoy.com/WWE/index.m3u8
 龙华经典,http://220.135.64.124:5050/li-litv-longturn21/index.m3u8?proxy=true
 龙华经典,https://cdn8.163189.xyz/163189/lhjd
 龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+
 
 
 
