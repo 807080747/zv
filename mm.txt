@@ -7,7 +7,7 @@
 "https://789.st/GlhcG1r",
 
 //  ✍🏻这个标识是jar
-""spider": "./lib/tw.jar",
+""spider": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",
 
 //  ✍🏻这个标识是直播
 "lives": [
