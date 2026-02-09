@@ -2,18 +2,18 @@
   "warningText": "资源来自网络，无盈利纯技术分享！[所有内容仅供学习使用，请勿用于违法及商业用途,免费使用]",
   "logo": "./dong.gif",
 "sites": [
-    {
-      "key": "锋云豆瓣",
-      "name": "✈️锋云影视限自用测试",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "jar":"https://mpimg.cn/down.php/34dc804020748504a15e2767b37656c3.jar",
-      "searchable": 0,
-      "quickSearch":0,
-      "filterable": 1, 
-      "ext":{ "http://ko.zoho.to/ii/28216.txt"  
-     }
+{
+"key":"锋云豆瓣片单",
+"name":"✈️锋云影视限自用测试",
+"type":3,
+"api":"csp_Douban",
+"jar":"https://mpimg.cn/down.php/34dc804020748504a15e2767b37656c3.jar",
+"searchable": 1,
+"quickSearch":0,
+"filterable": 1,
+"ext":"http://ko.zoho.to/ii/28216.txt"
 },
+
       "key": "csp_Kugou",
       "name": "☀酷狗🔹音乐",
       "type": 3,
