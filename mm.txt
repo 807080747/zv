@@ -1,3 +1,184 @@
+//  ✍🏻这个标识是背景图
+{"wallpaper":
+"https://789.st/zLP7cyj",
+
+//  ✍🏻这个标识是头像
+"logo":
+"https://789.st/GlhcG1r",
+
+//  ✍🏻这个标识是jar
+"spider": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",
+
+//  ✍🏻这个标识是直播
+"lives": [
+{ "name": "锋云TV直播","type": 1,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1"},
+
+{"name": "冰茶TV直播","type": 0,"playerType": 2,"url": "https://bc.188766.xyz/?ip=&mima=bingcha1130&huikan=1&json=true","ua": "bingcha/1.1(mianfeifenxiang)"},
+
+{"name": "宫殿TV直播","type": 0,"url":"https://gongdian.top/tv/iptv","playerType": 1,"logo": "https://gongdian.top/tv/taibiao/{name}.png"},
+
+{"name": "猫影TV直播","type":0,"url":"https://iptv.catvod.com/tv.m3u","ua":"Goiptv/8.8.8","timeout":10,"playerType":2},
+
+{ "name": "白雪TV直播","type": 1,"url": "http://bxtv.3a.ink/live.txt"},
+
+{"name": "日后TV直播","type": 0,"url":"http://rihou.cc:555/gggg.nzk","playerType": 2,"ua": "okhttp/3","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
+
+{ "name": "易发TV直播","type": 1,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"},
+
+{"name": "潇雨萌萌TV直播","type":0,"url": "https://ds65.tv1288.xyz","playerType":1},
+
+{"name": "JackTV直播{翻}","url": "https://php.946985.filegear-sg.me/jackTV.m3u","header": {"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"}},
+
+{"name": "日本TV直播{翻}","type": 0,"ua": "okhttp/5.3.2","url":"https://web.utako.moe/jp.m3u"}],
+
+
+//  ✍🏻这个标识是资源
+"sites":[{"key":"裤佬豆瓣片单","name":"✈️TG频道@stymei","type":3,"api":"csp_Douban","jar":"https://mpimg.cn/down.php/34dc804020748504a15e2767b37656c3.jar","searchable": 1,"quickSearch":0,"filterable": 1,"ext":"https://down.nigx.cn/upld.zone.id/uploads/q9iq9e5iq/3.txt"
+},
+{
+"key":"电视直播",
+"name":"丨电视丨直播",
+"type":3,
+"searchable":0,
+"changeable":0,
+"api":"https://down.nigx.cn/upld.zone.id/uploads/q9iq9e5iq/zbzdb.js",
+"ext":"https://down.nigx.cn/upld.zone.id/uploads/q9iq9e5iq/zbzdb.json"
+},
+{
+            "key": "快手直播",
+            "name": "丨快手丨直播",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "filterable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": {
+                "sp": "KsLive"
+            },
+            "timeout": 10
+        },
+        {
+            "key": "斗鱼直播",
+            "name": "丨斗鱼丨直播",
+            "type": 3,
+            "api": "https://7337.kstore.vip/js/drpy2.min.js",
+            "ext": "https://7337.kstore.vip/js/斗鱼直播.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
+        {
+            "key": "虎牙直播",
+            "name": "丨虎牙丨直播",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "filterable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": {
+                "sp": "Huya"
+            },
+            "timeout": 10
+        },
+        {
+"key":"哔哩直播",
+"name":"丨哔哩丨直播",
+"type":3,
+"api":"https://mpimg.cn/down.php/d18d26a80c0d820e716be81e51568488.py"
+        },
+        {
+            "key": "中国直播",
+            "name": "丨中国丨直播",
+            "type": 3,
+            "jar": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar;md5;f05df8cd4ef385e80d5774019c00a4a8",
+            "api": "csp_AppGet",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "timeout": 30,
+            "ext": {
+                "site": "http://110.81.153.7:1963/get.txt",
+                "dataKey": "k7L9mQ2xR4pW8n88",
+                "dataIv": "k7L9mQ2xR4pW8n88",
+                "version": "2"
+            }
+        },
+       {
+"key":"电台直播",
+"name":"丨电台丨直播",
+"type":3,
+"api":"http://rihou.cc:88/js/drpy2.min.js",
+"ext":"http://rihou.cc:88/js/蜻蜓FM.js"
+        },
+        {
+            "key": "免扫网盘",
+            "name": "移动丨免扫丨网盘",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "sp": "Panta"
+            },
+            "timeout": 25
+            },
+            {
+            "key": "6V影视",
+            "name": "丨6V丨影视",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "sp": "Xb6v"
+            },
+            "timeout": 20
+            },
+            {
+            "key": "雄鹰影视",
+            "name": "丨雄鹰丨影视",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "ext": {
+                "sp": "XiongYing",
+                "danmu": true
+            },
+            "timeout": 10
+           },
+           {
+            "key": "比特影视",
+            "name": "丨比特丨影视",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "sp": "Btt",
+                "danmu": true
+            },
+            "timeout": 10
+           },
+
 "sites": [
   {
       "key": "豆瓣",
@@ -229,7 +410,7 @@
     },
              
     {
-      "key": "公众号",
+      "key": "锋云",
       "name": "☀移动🔹4k源",
       "type": 3,
       "jar": "https://gitee.com/tianwikeji/jar/raw/master/YD.jar",
