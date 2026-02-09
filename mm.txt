@@ -11,15 +11,6 @@
 "ext":"http://ko.zoho.to/ii/28216.txt" 
 },
 {
-"key":"电视直播",
-"name":"丨电视丨直播",
-"type":3,
-"searchable":0,
-"changeable":0,
-"api":"https://down.nigx.cn/upld.zone.id/uploads/q9iq9e5iq/zbzdb.js",
-"ext":"https://down.nigx.cn/upld.zone.id/uploads/q9iq9e5iq/zbzdb.json"
-},
-{
             "key": "快手直播",
             "name": "丨快手丨直播",
             "type": 3,
@@ -153,7 +144,6 @@
             },
             "timeout": 10
            },
-
 
       "key": "csp_Kugou",
       "name": "☀酷狗🔹音乐",
