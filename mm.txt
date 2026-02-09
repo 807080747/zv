@@ -1,14 +1,16 @@
-{ 
+{
+  "warningText": "资源来自网络，无盈利纯技术分享！[所有内容仅供学习使用，请勿用于违法及商业用途，免费使用]",
+  "logo":"https://789.st/GlhcG1r",
 "sites": [ 
-{ "key":"锋云豆瓣片单", 
-"name":"✈️锋云影视", 
-"type":3, 
-"api":"csp_Douban", 
-"jar":"https://mpimg.cn/down.php/34dc804020748504a15e2767b37656c3.jar", 
-"searchable": 1, 
-"quickSearch":0, 
-"filterable": 1, 
-"ext":"http://ko.zoho.to/ii/28216.txt" 
+  { "key":"锋云豆瓣片单", 
+  "name":"✈️锋云影视", 
+  "type":3, 
+  "api":"csp_Douban", 
+  "jar":"https://mpimg.cn/down.php/34dc804020748504a15e2767b37656c3.jar", 
+  "searchable": 1, 
+  "quickSearch":0, 
+  "filterable": 1, 
+  "ext":"http://ko.zoho.to/ii/28216.txt" 
 },
 {
             "key": "快手直播",
@@ -760,7 +762,97 @@
       "quickSearch": 0
     }
   ],
+"parses": [
+    
+     {
+            "name": "解析失败自己切换",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36Edg/110.0.1587.57"
+                }
+            }
+        },
+        {
+            "name": "解析失败换这个",
+            "type": 0,
+            "url": "http://www.ckplayer.vip/jiexi/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
+                }
+            }
+        },
+        {
+            "name": "线路1",
+            "type": 0,
+            "url": "https://jx.yparse.com/index.php?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
+                }
+            }
+        },
+        {
+            "name": "线路2",
+            "type": 0,
+            "url": "https://jx.m3u8.tv/jiexi/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36",
+                    "referer": "https://jiejie.uk/"
+                }
+            }
+        },
 
+    {
+      "name": "解析3",
+      "type": 0,
+      "url": "https://jx.aidouer.net/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
+          "referer": "https://jiejie.uk/"
+        }
+      }
+    }
+  ],
+  "flags": [
+    "youku",
+    "优酷",
+    "优 酷",
+    "优酷视频",
+    "qq",
+    "腾讯",
+    "腾 讯",
+    "腾讯视频",
+    "iqiyi",
+    "qiyi",
+    "奇艺",
+    "爱奇艺",
+    "爱 奇 艺",
+    "m1905",
+    "xigua",
+    "letv",
+    "leshi",
+    "乐视",
+    "乐 视",
+    "sohu",
+    "搜狐",
+    "搜 狐",
+    "搜狐视频",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "芒果",
+    "imgo",
+    "芒果TV",
+    "芒 果 T V",
+    "bilibili",
+    "哔 哩",
+    "哔 哩 哔 哩"
+  ],
    
 "lives": [
 { "name": "锋云TV直播","type": 1,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1"},
@@ -786,7 +878,7 @@
 "notice": "锋云科技-免费使用",
 "spider": "./lib/tw.jar",
 "wallpaper": "https://深色壁纸.xxooo.cf/",
-"logo":"https://789.st/GlhcG1r",
+
   "rules": [
     {
       "name": "农民",
