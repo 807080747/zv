@@ -742,7 +742,15 @@
         "ratio": 1.597
       }
     },
-    
+    {
+"key":"电视直播",
+"name":"👖电视直播",
+"type":3,
+"searchable":0,
+"changeable":0,
+"api":"https://down.nigx.cn/upld.zone.id/uploads/q9iq9e5iq/zbzdb.js",
+"ext":"https://down.nigx.cn/upld.zone.id/uploads/q9iq9e5iq/zbzdb.json"
+},
     {
       "key": "cc",
       "name": "请勿相信视频中任何广告",
@@ -752,7 +760,8 @@
       "quickSearch": 0
     }
   ],
- 
+
+   
 "lives": [
 { "name": "锋云TV直播","type": 1,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1"},
 
