@@ -1,4 +1,15 @@
-{ "sites": [ { "key":"锋云豆瓣片单", "name":"✈️锋云影视", "type":3, "api":"csp_Douban", "jar":"https://mpimg.cn/down.php/34dc804020748504a15e2767b37656c3.jar", "searchable": 1, "quickSearch":0, "filterable": 1, "ext":"http://ko.zoho.to/ii/28216.txt" },
+{ 
+"sites": [ 
+{ "key":"锋云豆瓣片单", 
+"name":"✈️锋云影视", 
+"type":3, 
+"api":"csp_Douban", 
+"jar":"https://mpimg.cn/down.php/34dc804020748504a15e2767b37656c3.jar", 
+"searchable": 1, 
+"quickSearch":0, 
+"filterable": 1, 
+"ext":"http://ko.zoho.to/ii/28216.txt" 
+},
 {
 "key":"电视直播",
 "name":"丨电视丨直播",
