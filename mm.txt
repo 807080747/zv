@@ -21,12 +21,6 @@
 
 
 { "sites": [ { "key":"锋云豆瓣片单", "name":"✈️锋云影视", "type":3, "api":"csp_Douban", "jar":"https://mpimg.cn/down.php/34dc804020748504a15e2767b37656c3.jar", "searchable": 1, "quickSearch":0, "filterable": 1, "ext":"http://ko.zoho.to/ii/28216.txt" },
-{"wallpaper":
-"https://深色壁纸.xxooo.cf/",
-"logo":
-"https://789.st/GlhcG1r",
-"spider": "./lib/tw.jar",
-},
 {
 "key":"电视直播",
 "name":"丨电视丨直播",
@@ -878,7 +872,10 @@
     "cache.ott.fifalive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
     "cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
   ],
- "notice": "锋云科技-免费使用",
+"notice": "锋云科技-免费使用",
+"spider": "./lib/tw.jar",
+"wallpaper": "https://深色壁纸.xxooo.cf/",
+"logo":"https://789.st/GlhcG1r",
   "rules": [
     {
       "name": "农民",
