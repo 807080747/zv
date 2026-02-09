@@ -1,6 +1,6 @@
 //  ✍🏻这个标识是背景图
 {"wallpaper":
-"https://789.st/zLP7cyj",
+"https://深色壁纸.xxooo.cf/",
 
 //  ✍🏻这个标识是头像
 "logo":
@@ -888,72 +888,7 @@
     "bilibili",
     "哔 哩",
     "哔 哩 哔 哩"
-  ],
-  "lives": [
-    {
-      "name": "线路①如失效切换其他线路",
-      "type": 0,
-      "url": "http://rihou.cc:555/gggg.nzk",
-      "playerType": 2,
-      "ua": "okhttp/3",
-      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png"
-    },
-    
-    
-     {
-      "name": "冰茶②",
-      "type": 0,
-      "url": "https://bc.188766.xyz/?ip=&mima=bingcha1130",
-      "playerType": 2,
-      "ua": "okhttp/3",
-      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png"
-   },
-   
-   
-       {
-      "Name": "Tianwei ③",
-      "Type": 0,
-      "url": "./lib/kjtwzb.txt",
-      "playerType": 2,
-      "ua": "okhttp/3",
-      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png"
-    },
-    {
-      "Name": "AI line ④",
-      "Type": 0,
-      "url": "https://gitee.com/mytv-android/iptv-api/raw/master/output/result.m3u",
-      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-      "playerType": 2,
-      "timeout": 10
-    },
-    {
-      "name": "line ⑤",
-      "Type": 0,
-      "url": "http://64.112.42.49:6688/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
-      "playerType": 2,
-      "ua": "okhttp/3",
-      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png"
-    },
-    {
-      "name": "ipv6⑥",
-      "type": 0,
-      "url": "https://nos.netease.com/ysf/3d75a78a0fc7ede372c03598d6d10367.m3u",
-      "playerType": 2
-    }
-   
-  ],
-  "hosts": [
-    "cache.ott.*.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-    "cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-    "cache.ott.bestlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-    "cache.ott.wasulive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-    "cache.ott.fifalive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
-    "cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
-  ],    
+  ]
   "notice": "FengYun Technology - completely free",
   "spider": "./lib/tw.jar",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
