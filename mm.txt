@@ -13,6 +13,22 @@
   "ext":"http://ko.zoho.to/ii/28216.txt" 
 },
 {
+      "key": "配置中心",
+      "name": "☀配置中心☀",
+      "type": 3,            
+      "api": "csp_AweSomeGuard",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.43
+      },
+      "ext": {
+        "sp": "Config"
+      }
+    },
+{
             "key": "快手直播",
             "name": "丨快手丨直播",
             "type": 3,
