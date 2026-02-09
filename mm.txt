@@ -1,1 +1,169 @@
-FFF 
+{ "sites": [ { "key":"锋云豆瓣片单", "name":"✈️锋云影视", "type":3, "api":"csp_Douban", "jar":"https://mpimg.cn/down.php/34dc804020748504a15e2767b37656c3.jar", "searchable": 1, "quickSearch":0, "filterable": 1, "ext":"http://ko.zoho.to/ii/28216.txt" }, { "key": "瓜子影视", "name": "👖锋云科技✈️", "type": 3, "jar": "https://mpimg.cn/down.php/c5c6d17153ed9748929d1530b9f87cca.jar", "api": "csp_Gz360", "searchable": 1, "quickSearch": 1, "filterable": 1 }, { "key": "克隆合集", "name": "克隆合集", "type": 4, "api": "http://zhangqun1818.serv00.net/klhj.php", "searchable": 1, "quickSearch": 1, "style": { "type": "rect", "ratio": 1.33 }, "changeable": 1, "filterable": 0 }, { "key": "csp_Wwys", "name": "🔥农民┃影视", "type": 3, "api": "csp_Wwys", "ext": "https://vip.wwgz.cn:5200", "jar":"http://47.120.41.246:8025/vip/jar/xiaomi.php" }, //https://8815.kstore.vip/tvbox/Ace { "name":"⭐星星短剧","key":"星星短剧","type":3,"api":"csp_XydjAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/master/custom_spider.jar" }, { "key": "盒马短剧", "name": "☀河马🔹短剧", "type": 3, "api": "csp_AweSomeGuard", "searchable": 1, "quickSearch": 1, "changeable": 0, "filterable": 1, "ext": { "sp": "HeMa" }, "timeout": 10 }, { "key": "央库云", "name": "☀央视🔹大全", "type": 3, "api": "./py/央库云.py", "searchable": 1, "changeable": 1, "quickSearch": 1, "filterable": 1, "playerType": 2 }, { "key": "csp_Kugou", "name": "☀酷狗🔹音乐", "type": 3, "api": "csp_Kugou", "jar": "https://gitee.com/tianwikeji/jar/raw/master/Yoursmile.jar", "playerType": 2, "ext": { "classes": [ { "type_name": "酷狗", "type_id": "kugou" } ] } }, { "key": "急救教学", "name": "☀家庭🔹急救", "type": 3, "jar": "./kjtw.jar", "api": "csp_FirstAid", "searchable": 0, "quickSearch": 0, "changeable": 0, "style": { "type": "rect", "ratio": 3.8 }, "gridview": "0-0-4.1" }, { "key": "麻雀", "name": "☀麻雀🔹蓝光", "type": 3, "quickSearch": 1, "searchable": 1, "api": "https://gitee.com/lzxw66/lzxw9/raw/master/py/Applzxw.py", "ext": "http://118.89.203.120:8365/" },
+{ "key": "柠檬", "name": "☀柠檬🔹蓝光", "type": 3, "api": "csp_Nmvod", "playerType": 2, "jar": "https://gitee.com/tianwikeji/jar/raw/master/柠檬.jar", "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1" },     
+{ "key": "量子", "name": "☀量子🔹秒播", "type": 1, "api": "http://cj.lziapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0, "playurl": "json:https://lziplayer.com/?url=", "categories": [ "国产剧", "国产动漫", "泰国剧", "台湾剧", "香港剧", "欧美剧", "韩国剧", "日本剧", "动漫", "体育", "剧情片", "动作片", "爱情片", "喜剧片" ] },{
+      "key": "热播影视",
+      "name": "七星🌟┃秒播源",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      }
+    },
+    {
+      "key": "哔哩视频",
+      "name": "七星🌟┃秒播1⒈",
+      "type": 3,
+      "api": "csp_BiliYS",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "./json/哔哩视频.json",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+      }
+    }, {
+      "key": "金牌影视",
+      "name": "七星🌟┃秒播⒉",
+      "type": 3,
+      "api": "./py/金牌影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "site": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+      }
+     }, 
+      {
+      "key": "骚火影视",
+      "name": "七星🌟┃秒播3",
+      "type": 3,
+      "api": "csp_SaoHuo",
+      "playerType": 2,
+      "ext": "https://shdy5.us"
+    },
+   {
+      "key": "1905",
+      "name": "七星🌟┃秒播4",
+      "type": 3,
+      "api": "csp_Web1905",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+   {
+      "key": "卧龙",
+      "name": "影视⑧",
+      "type": 1,
+      "api": "https://collect.wolongzy.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "jar": "https://gitee.com/ltby1/vip/raw/master/蓝天白云.txt;md5;329e914a90b0bb5c7cb69b0eaec19700",
+      "playurl": "https://jx.wolongm3u8.com:65/m3u8.php?url=",
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "国产剧",
+        "欧美剧",
+        "香港剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ]
+    },
+   {
+      "key": "奇异",
+      "name": "影视⑥",
+      "type": 0,
+      "api": "https://iqiyizyapi.com/api.php/provide/vod/at/xml/",
+      "jar": "https://gitee.com/lwlxh/tvhome/raw/master/pg.jar",
+      "searchable": 1,
+      "changeable": 1,
+      "playurl": "json:https://www.iqiyizyjx.com/?url="
+    },    
+  {
+      "key": "哔哩哔哩相声",
+      "name": "七星🌟┃相声哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": {
+        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
+        "json": "./json/哔哩哔哩相声.json"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },
+    {
+      "key": "哔哩哔哩小品",
+      "name": "七星🌟┃小品哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": {
+        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
+        "json": "./json/哔哩哔哩小品.json"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },
+    {
+      "key": "哔哩哔哩戏曲",
+      "name": "七星🌟┃戏曲哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": {
+        "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
+        "json": "./json/哔哩哔哩戏曲.json"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
+    },
+    {
+      "key": "戏曲多多",
+      "name": "七星🌟┃戏曲多多",
+      "type": 3,
+      "api": "csp_AppLY",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    { { "key": "cc", "name": "请勿相信视频中任何广告", "type": 3, "api": "csp_XPath", "searchable": 0, "quickSearch": 0 } ] } 
+ 
