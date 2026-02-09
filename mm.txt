@@ -10,8 +10,7 @@
 "searchable": 1, 
 "quickSearch":0,
 "filterable": 1, 
-"ext": {"http://ko.zoho.to/ii/28216.txt" 
-  }
+"ext": "http://ko.zoho.to/ii/28216.txt"  
 },
     {
       "key": "csp_Kugou",
