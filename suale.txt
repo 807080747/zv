@@ -2629,7 +2629,29 @@ Now爆谷星影台,https://tuiliu.go-iptv.ggff.net/xingyingtai/stream.m3u8
 [HD]alba xxx 1,https://stream1.freetv.fun/198e72173bbbd2701989c077d068d85daac98469233e20ba3c9fede24af59687.m3u8
 xxx 2,https://astin-cowing.mushroomtrack.com/hls/K_OhHSxUEFMtKgmGCgq29Q/1769561049/56000/56463/56463.m3u8
 
+松视1,http://156.238.248.80/hyxw.index.m3u8
+松视2,http://156.238.248.80/dsxw.index.m3u8
+松视3,http://156.238.248.80/ztxw.index.m3u8
+惊艳台,http://156.238.248.80/ztzh.index.m3u8
+潘朵拉,http://156.238.248.80/mstwt.index.m3u8
+驚艷台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+驚艷台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+潘朵拉,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+松视1,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+松视2,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+松视3,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+东京热,http://1tv41.icu:8080/LaLa34@yahoo.com/LaLa7678/159976
+日本道,http://1tv41.icu:8080/LaLa34@yahoo.com/LaLa7678/159958
 
+Babes,http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
+Brazzers,http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+Extasy,http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+Erox,http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+Dorcel,http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+Desire,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8  
+Leo HD,http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
+Reality Kings,http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
+Eroxxx,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 1色降2之血玫瑰,https://vip1.lz-cdn1.com/20220331/733_58b741b7/index.m3u8
 2新七擒七纵七色狼,https://jkunnzyx.com/20250426/uToXhon9/index.m3u8
 3倩女幽魂,https://jkunnzyx.com/20250423/nU0wWqCw/2000kb/hls/index.m3u8
@@ -6435,6 +6457,7 @@ HZTV-2,http://183.236.43.98:4013/udp/239.77.1.233:5146$广东电信
 2024年春晚,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 2025年春晚,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
 2025年春晚,https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
+
 
 
 
