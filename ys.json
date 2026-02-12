@@ -12,7 +12,7 @@
 { "name": "白雪TV直播","type": 1,"url": "http://bxtv.3a.ink/live.txt"},
 {"name": "日后TV直播","type": 0,"url":"http://rihou.cc:555/gggg.nzk","playerType": 2,"ua": "okhttp/3","epg": "https://tv.mxdyeah.top/epgphp/index.php","logo": "https://epg.112114.eu.org/logo/{name}.png"}, 
 { "name": "易发TV直播","type": 1,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"},
-{"name": "潇雨萌萌TV直播","type":0,"url": "https://ds65.tv1288.xyz","playerType":1],
+{"name": "潇雨萌萌TV直播","type":0,"url": "https://ds65.tv1288.xyz","playerType":1"}],
   
   "sites": [
 {
