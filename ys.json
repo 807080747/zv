@@ -1,12 +1,28 @@
-"sites": [
+{"wallpaper":
+"https://789.st/zLP7cyj",
+"logo":
+"https://789.st/GlhcG1r",
+"spider": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",
+"lives": [
+{ "name": "锋云直播","type": 1,"url": "
+{ "name": "kuTV直播","type": 1,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1"},
+{"name": "冰茶TV直播","type": 0,"playerType": 2,"url": "https://bc.188766.xyz/?ip=&mima=bingcha1130&huikan=1&json=true","ua": "bingcha/1.1(mianfeifenxiang)"},
+{"name": "宫殿TV直播","type": 0,"url":"https://gongdian.top/tv/iptv","playerType": 1,"logo": "https://gongdian.top/tv/taibiao/{name}.png"},
+{"name": "猫影TV直播","type":0,"url":"https://iptv.catvod.com/tv.m3u","ua":"Goiptv/8.8.8","timeout":10,"playerType":2},
+{ "name": "白雪TV直播","type": 1,"url": "http://bxtv.3a.ink/live.txt"},
+{"name": "日后TV直播","type": 0,"url":"http://rihou.cc:555/gggg.nzk","playerType": 2,"ua": "okhttp/3","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"}, 
+{ "name": "易发TV直播","type": 1,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"},
+{"name": "潇雨萌萌TV直播","type":0,"url": "https://ds65.tv1288.xyz","playerType":1],
+  
+  "sites": [
 {
 "key":"锋云豆瓣片单",
 "name":"🍒ིྀ锋云科技",
 "type":3,
 "api":"csp_Douban",
-"jar":"https://raw.githubusercontent.com/807080747/zv/refs/heads/main/%E8%9C%97%E7%89%9B%E8%B7%91%E9%A9%AC%E7%81%AF.jar",
+"jar":"https://gh-proxy.org/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/%E8%9C%97%E7%89%9B%E8%B7%91%E9%A9%AC%E7%81%AF.jar",
 "searchable": 1,
 "quickSearch":0,
 "filterable": 1,
-"ext":"https://raw.githubusercontent.com/807080747/zv/refs/heads/main/gg.txt"
+"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/gg.txt"
 },
