@@ -1,10 +1,10 @@
 "sites": [
 {
-"key":"裤佬豆瓣片单",
-"name":"✈️TG频道@stymei",
+"key":"锋云豆瓣片单",
+"name":"🍒ིྀ锋云科技",
 "type":3,
 "api":"csp_Douban",
-"jar":"https://mpimg.cn/down.php/34dc804020748504a15e2767b37656c3.jar",
+"jar":"https://raw.githubusercontent.com/807080747/zv/refs/heads/main/%E8%9C%97%E7%89%9B%E8%B7%91%E9%A9%AC%E7%81%AF.jar",
 "searchable": 1,
 "quickSearch":0,
 "filterable": 1,
