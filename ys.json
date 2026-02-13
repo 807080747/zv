@@ -274,7 +274,7 @@
             "timeout": 10
            },
            {
-            "key": "裤佬韩圈影视",
+            "key": "韩圈影视",
             "name": "韩圈丨影视",
             "type": 3,
             "api": "csp_AweSomeGuard",
@@ -346,6 +346,25 @@
             "name": "剧吧丨影视",
             "type": 4
            },
+	  { 
+		  "key": "克隆合集", 
+		  "name": "克隆合集", 
+		  "type": 4,
+		  "api": "http://zhangqun1818.serv00.net/klhj.php", 
+		  "searchable": 1,
+		  "quickSearch": 1, 
+		  "style": { "type": "rect", "ratio": 1.33 }, 
+		  "changeable": 1,
+		  "filterable": 0 
+     }, 
+	       {
+		  "key": "csp_Wwys", 
+		  "name": "🔥农民┃影视",
+		  "type": 3, 
+		  "api": "csp_Wwys", 
+		  "ext": "https://vip.wwgz.cn:5200",
+		  "jar":"http://47.120.41.246:8025/vip/jar/xiaomi.php" 
+	  },
            {
       "key": "爬虫影视",
       "name": "爬虫丨影视",
@@ -877,8 +896,8 @@
             "timeout": 20
             },
             {
-            "key": "裤佬采集聚合",
-            "name": "👖裤佬丨采集丨聚合",
+            "key": "采集聚合",
+            "name": "采集丨聚合",
             "type": 4,
             "api": "http://zhangqun1818.serv00.net/cj/cjjh.php",
             "searchable": 1,
@@ -890,8 +909,8 @@
             "changeable": 1
             },
             {
-            "key": "裤佬JS聚合",
-            "name": "👖裤佬丨JS丨聚合",
+            "key": "JS聚合",
+            "name": "丨JS丨聚合",
             "type": 4,
             "api": "http://zhangqun1818.serv00.net/js.php",
             "searchable": 1,
