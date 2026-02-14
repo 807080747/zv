@@ -26,6 +26,15 @@
 "filterable": 1,
 "ext":"https://gh-proxy.org/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/gg.txt"
 },
+	  {
+"key":"锋云电视直播",
+"name":"锋云丨电视丨直播",
+"type":3,
+"searchable":0,
+"changeable":0,
+"api":"https://down.nigx.cn/upld.zone.id/uploads/q9iq9e5iq/zbzdb.js",
+"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/cszb.json"
+},
 {
             "key": "快手直播",
             "name": "快手丨直播",
