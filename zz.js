@@ -1,7 +1,7 @@
 var globalHeaders = [];
 var classes = [];
 var categories = {}; // 修复：正确使用categories存储分类数据
-var picUrl = 'https://mpimg.cn/view.php/1dcb211cf3b75f932fb13c6fe98a80f7.jpeg';
+var picUrl = 'https://gh-proxy.org/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/1737676113269qn.jpg';
 var webPaths = {};
 var sourceHeaders = {};
 var sourceConfigs = {}; // 修复：统一使用sourceConfigs变量名
