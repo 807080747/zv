@@ -299,7 +299,6 @@ CHC影迷电影,http://69.30.245.50/live/chcym.m3u8
 
 中数传媒,#genre#
 快乐垂钓,http://drive.mxmy.net:8888/udp/239.3.1.164:8001
-卫视频道,#genre#
 深圳卫视,http://222.214.208.34:59901/tsfile/live/0126_1.m3u8
 天津卫视,http://111.221.137.234:44330/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
@@ -311,87 +310,46 @@ CHC影迷电影,http://69.30.245.50/live/chcym.m3u8
 广东珠江,http://120.238.94.10:9901/tsfile/live/1009_1.m3u8
 广东新闻,http://116.77.33.98:44330/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
 山东卫视,http://tv.sohu.blog/proxy/sdsd.php?id=sdws
-
 山东新闻频道,http://tv.sohu.blog/proxy/sdsd.php?id=xwpd#http://tv.sohu.blog/proxy/sdqlw.php?id=xwpd#http://sdqd.sohu.blog:880/chs056.m3u8
-
 山东体育休闲,http://tv.sohu.blog/proxy/sdsd.php?id=tyxx#http://tv.sohu.blog/proxy/sdqlw.php?id=tyxx#http://sdqd.sohu.blog:880/chs057.m3u8
-
 山东生活频道,http://tv.sohu.blog/proxy/sdsd.php?id=shpd#http://tv.sohu.blog/proxy/sdqlw.php?id=shpd#http://sdqd.sohu.blog:880/chs069.m3u8
-
 山东综艺频道,http://tv.sohu.blog/proxy/sdsd.php?id=zypd#http://tv.sohu.blog/proxy/sdqlw.php?id=zypd#http://sdqd.sohu.blog:880/chs068.m3u8
-
 山东文旅频道,http://tv.sohu.blog/proxy/sdsd.php?id=wlpd#http://tv.sohu.blog/proxy/sdqlw.php?id=wlpd#http://sdqd.sohu.blog:880/chs070.m3u8
-
 山东农科频道,http://tv.sohu.blog/proxy/sdsd.php?id=nkpd#http://tv.sohu.blog/proxy/sdqlw.php?id=nkpd#http://sdqd.sohu.blog:880/chs065.m3u8
-
 山东齐鲁频道,http://tv.sohu.blog/proxy/sdsd.php?id=qlpd#http://tv.sohu.blog/proxy/sdqlw.php?id=qlpd#http://sdqd.sohu.blog:880/chs055.m3u8#http://120.224.84.170:8085/hls/9/index.m3u8
-
 山东少儿频道,http://tv.sohu.blog/proxy/sdsd.php?id=sepd#http://tv.sohu.blog/proxy/sdqlw.php?id=sepd#http://sdqd.sohu.blog:880/chs064.m3u8#http://120.224.84.170:8085/hls/10/index.m3u8
-
 山东教育卫视,http://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8#http://sdqd.sohu.blog:880/chs062.m3u8
-
-山东居家购物,http://sdqd.sohu.blog:880/chs063.m3u8
-
 济南新闻综合,http://tv.sohu.blog/proxy/sdjn.php?id=1676
-
 济南文旅体育,http://tv.sohu.blog/proxy/sdjn.php?id=1842
-
 济南少儿频道,http://tv.sohu.blog/proxy/sdjn.php?id=2234
-
 济南教育频道,http://115.190.252.60:17173/sdjnjy.php
-
 长清综合频道,http://tv.sohu.blog/proxy/sddft.php?id=jncqxw
-
 长清生活频道,http://tv.sohu.blog/proxy/sddft.php?id=jncqsh
-
 济铁电视台,http://tv.sohu.blog/proxy/sddft.php?id=jnjrtv
-
 济阳综合,http://tv.sohu.blog/proxy/sddft.php?id=jnjyzh
-
 济阳影视,http://tv.sohu.blog/proxy/sddft.php?id=jnjyys
-
 历城新闻综合,http://tv.sohu.blog/proxy/sddft.php?id=jnlcxw
-
 平阴综合,http://tv.sohu.blog/proxy/sddft.php?id=jnpyzh
-
 平阴乡村振兴,http://tv.sohu.blog/proxy/sddft.php?id=jnpyxc
-
 商河综合,http://tv.sohu.blog/proxy/sddft.php?id=jnshzh
-
 商河影视,http://tv.sohu.blog/proxy/sddft.php?id=jnshys
-
 章丘综合,http://tv.sohu.blog/proxy/sddft.php?id=jnzqzh
-
 章丘公共,http://tv.sohu.blog/proxy/sddft.php?id=jnzqgg
-
 青岛电视台1套,http://sdqd.sohu.blog:880/chs072.m3u8#http://120.224.84.170:8085/hls/11/index.m3u8#http://tv.sohu.blog/proxy/sdqd.php?id=1
-
 青岛电视台2套,http://sdqd.sohu.blog:880/chs071.m3u8#http://tv.sohu.blog/proxy/sdqd.php?id=2
-
 青岛电视台3套,http://sdqd.sohu.blog:880/chs061.m3u8#http://120.224.84.170:8085/hls/3/index.m3u8#http://tv.sohu.blog/proxy/sdqd.php?id=3
-
 青岛电视台4套,http://sdqd.sohu.blog:880/chs060.m3u8#http://tv.sohu.blog/proxy/sdqd.php?id=4
-
 青岛电视台5套,http://sdqd.sohu.blog:880/chs058.m3u8#http://tv.sohu.blog/proxy/sdqd.php?id=6#http://120.224.84.170:8085/hls/6/index.m3u8
-
 城阳综合,http://tv.sohu.blog/proxy/sddft.php?id=qdcyzh
-
 黄岛综合,http://tv.sohu.blog/proxy/sddft.php?id=qdhdzh
-
 黄岛生活,http://tv.sohu.blog/proxy/sddft.php?id=qdhdsh
-
 即墨综合,http://tv.sohu.blog/proxy/sddft.php?id=qdjmzh
-
 即墨生活服务,http://tv.sohu.blog/proxy/sddft.php?id=qdjmsh
-
 胶州综合,http://tv.sohu.blog/proxy/sddft.php?id=qdjzzh
-
 胶州生活,http://tv.sohu.blog/proxy/sddft.php?id=qdjzsh
 
 李沧TV,http://tv.sohu.blog/proxy/sddft.php?id=qdlc
-
 崂山TV,http://tv.sohu.blog/proxy/sddft.php?id=qdls
-
 莱西综合,http://tv.sohu.blog/proxy/sddft.php?id=qdlxzh
 
 莱西生活,http://tv.sohu.blog/proxy/sddft.php?id=qdlxsh
@@ -429,11 +387,8 @@ CHC影迷电影,http://69.30.245.50/live/chcym.m3u8
 牟平综合,http://tv.sohu.blog/proxy/sddft.php?id=ytmpzh
 
 蓬莱综合,http://tv.sohu.blog/proxy/sddft.php?id=ytplzh
-
 蓬莱综艺,http://tv.sohu.blog/proxy/sddft.php?id=ytplzy
-
 栖霞综合,http://tv.sohu.blog/proxy/sddft.php?id=ytqxzh
-
 栖霞苹果,http://tv.sohu.blog/proxy/sddft.php?id=ytqxpg
 
 
@@ -6583,6 +6538,7 @@ HZTV-2,http://183.236.43.98:4013/udp/239.77.1.233:5146$广东电信
 2024年春晚,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 2025年春晚,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
 2025年春晚,https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
+
 
 
 
