@@ -1,107 +1,107 @@
 {
-    "spider": "http://103.45.162.207:25252/仅供测试/custom_spider.jar;md5;f2cf5b9cb97c1e00d893511777c3abe1",
-    "wallpaper": "http://sspa8.top:99/jpg/0.jpg",
-    "logo": "http://ko.zoho.to//ii/初心.jpg",
-    "sites": [
+"spider"："http://103.45.162.207:25252/仅供测试/custom_spider.jar；md5；f2cf5b9cb97c1e00d893511777c3abe1"，
+"壁纸"："http://sspa8.top:99/jpg/0.jpg"，
+"logo"："http://ko.zoho.to//ii/初心.jpg"，
+“站点”：[
         {
-            "name": "初心🏆弹幕｜搜索自启",
-            "key": "嗷嗚彈幕",
-            "type": 3,
-            "api": "csp_GoConfigAmns",
-            "jar": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png",
-            "indexs": 1,
-            "searchable": 1,
-            "filterable": 0,
-            "quickSearch": 1,
-            "changeable": 0
+"名称"："初步🏆弹幕|搜索自启"，
+"密钥"："嗷呜弹幕"，
+"type"：3，
+"api"："csp_GoConfigAmns"，
+"jar"："https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"，
+"索引"：1，
+"可搜索"：1，
+"可筛选"：0，
+"快速搜索"：1，
+“可更改”：0
         },
         {
-            "key": "配置中心",
-            "name": "🍭网盘配置",
-            "type": 3,
-            "api": "csp_Config",
-            "searchable": 0,
-            "changeable": 0,
-            "indexs": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
+"密钥"："配置中心"，
+"name"："🍭网卡配置"，
+"type"：3，
+"api"："csp_Config"，
+"可搜索"：0，
+"可更改"：0，
+"索引"：0，
+“样式”：{
+"type"："rect"，
+“比率”：1.597
             }
         },
         {
-            "key": "景天",
-            "name": "🍭TX|4K弹幕",
-            "type": 3,
-            "api": "csp_HBcms10Dou",
-            "ext": "https://zy.jinchancaiji.com/api.php/provide/vod/from/qq/"
+"密钥"："景天"，
+"name"："🍭TX|4K弹幕"，
+"type"：3，
+"api"："csp_HBcms10Dou"，
+"ext"："https://zy.jinchancaiji.com/api.php/provide/vod/from/qq/"
         },
         {
-            "key": "茂茂",
-            "name": "🍭MG|4K弹幕",
-            "type": 3,
-            "api": "csp_HBcms10Dou",
-            "ext": "https://zy.jinchancaiji.com/api.php/provide/vod/from/mgtv/"
+"密钥"："茂茂"，
+"name"："🍭MG|4K弹幕"，
+"type"：3，
+"api"："csp_HBcms10Dou"，
+"ext"："https://zy.jinchancaiji.com/api.php/provide/vod/from/mgtv/"
         },
         {
-            "key": "腾讯弹幕",
-            "name": "🏆腾讯｜4K",
-            "type": 3,
-            "api": "https://gitee.com/yiwu369/6758/raw/master/JS/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://8877.kstore.space/jar/%E8%85%BE%E8%85%BE4K.png"
+"密钥"："腾讯弹幕"，
+"name"："🏆腾讯|4K"，
+"type"：3，
+"api"："https://gitee.com/yiwu369/6758/raw/master/JS/drpy2.min.js"，
+"可搜索"：1，
+“可变”：1，
+"ext"："https://8877.kstore.space/jar/%E8%85%BE%E8%85%BE4K.png"
         },
         {
-            "key": "芒果视频",
-            "name": "🏆芒果｜4K",
-            "type": 3,
-            "api": "https://gitee.com/ltby1/one/raw/master/lib/drpy2.min.js",
-            "ext": "https://gitee.com/cpu-iy/iy/raw/master/lib/茫茫.png"
+"密钥"："芒果视频"，
+"name"："🏆芒果|4K"，
+"type"：3，
+"api"："https://gitee.com/ltby1/one/raw/master/lib/drpy2.min.js"，
+"ext"："https://gitee.com/cpu-iy/iy/raw/master/lib/茫茫.PNG"
         },
         {
-            "key": "哔哩",
-            "name": "🏆哔哩｜4K",
-            "type": 3,
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "api": "https://gitee.com/wmmoliill/asfvsaFvsaFvs/raw/master/lib/drpy2.min.js",
-            "ext": "https://gitee.com/wmmoliill/asfvsaFvsaFvs/raw/master/lib/js/gbl.js"
+"密钥"："哔哩"，
+"name"："🏆哔哩|4K"，
+"type"：3，
+"可搜索"：0，
+"快速搜索"：0，
+"可筛选"：0，
+"api"："https://gitee.com/wmmoliill/asfvsaFvsaFvs/raw/master/lib/drpy2.min.js"，
+"ext"："https://gitee.com/wmmoliill/asfvsaFvsaFvs/raw/master/lib/js/gbl.js"
         },
         {
-            "key": "裤佬JS聚合",
-            "name": "🏆T4聚合采集",
-            "type": 4,
-            "api": "http://zhangqun1818.serv00.net/js.php",
-            "searchable": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
+"密钥"："裤佬JS聚合"，
+"name"："🏆T4聚合采集"，
+"type"：4，
+"api"："http://zhangqun1818.serv00.net/js.php"，
+"可搜索"：1，
+“样式”：{
+"type"："rect"，
+“比率”：1.33
             },
-            "changeable": 1
+“可变”：1
         },
         {
-            "key": "中国直播",
-            "name": "初心🏆中国丨直播",
-            "type": 3,
-            "jar": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar;md5;76630164b5442be73bc3277927729996",
-            "api": "csp_AppGet",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "filterable": 1,
-            "timeout": 30,
-            "ext": {
-                "site": "http://110.81.153.7:1963/get.txt",
-                "dataKey": "k7L9mQ2xR4pW8n88",
-                "dataIv": "k7L9mQ2xR4pW8n88",
-                "version": "2"
+"密钥"："中国直播"，
+"名称"："初步🏆中国丨直播"，
+"type"：3，
+“jar”："https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar;md5;76630164b5442be73bc3277927729996",
+"api"："csp_AppGet"，
+"可搜索"：1，
+"快速搜索"：1，
+"可更改"：0，
+"可过滤"：1，
+“超时”：30，
+"ext"：{
+"站点”："http://110.81.153.7:1963/get.txt",
+"Datakey"："k7L9mQ2xR4pW8n88"，
+"dataIv"："k7L9mQ2xR4pW8n88"，
+版本“”：“2”
             }
         },
         {
-            "key": "裤佬视频聚合",
-            "name": "🍭采集视频丨聚合",
-            "jar": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",
+"密钥"："裤佬视频聚合"，
+"name"："🍭采集视频丨聚合"，
+"jar"："http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60"，
             "type": 3,
             "api": "csp_AweSomeGuard",
             "searchable": 1,
