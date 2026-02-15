@@ -156,78 +156,6 @@ NOW爆谷台,http://74.91.26.218:82/live/nowbg.m3u8
 天映经典,http://74.91.26.218:82/live/tyjd.m3u8
 
 
-珍珠台,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=pearl_twn
-凤凰香港,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=hkphoenix_twn
-凤凰卫视,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=phoenixtv_hd
-鳳凰資訊,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=phoenixinfo_hd
-TVBS 歡樂台,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=tvbshuanle_twn
-TVBS HD,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=tvbs
-中天娱乐 CTI Entertaiment,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ctient
-中天综合 CTI Metro,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ctizhonghe
-中天亚洲台,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ctiasia_twn
-台视 TTV HD,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ttv_taiwan
-台视综合台,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ttvzhonghe
-中视 HD,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=zhongshihd_twn
-民视 HD,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ftvhd_taiwan
-民视台湾台,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ftvtaiwan_twn
-华视 CTS HD,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ctshd_twn
-公视 CTV,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ctv18_twn
-八大第一 GTV First,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=badafirst
-八大综合 GTV Metro,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=badazhonghe
-八大戏剧 GTV Drama,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=badadrama
-八大娱乐 GTV Entertainment,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=badaentertain
-HBO_HD,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=hbohd_twn
-HBO_HITS,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=hbohits_twn
-HBO Signature Taiwan,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=hbosignature_twn
-Hollywood Movies,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=hollywoodmovies_twn
-三立台湾 Sanli Taiwan,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=sanlitaiwan
-三立戏剧台,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=sanlixiju_twn
-三立综合 Sanli Metro,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=sanlizhonghe
-三立都会台,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=sanlidouhui_twn
-东森综合 ETTV Metro,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ettvzhonghe
-东森戏剧 ETTV Drama,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ettvdrama
-公视2,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ctv2_twn
-大爱1台,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=daai_twn
-龙华戏剧 Lunghua Drama,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=lunghuaxiju_twn
-龙华经典台,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=lunghuajingdian_twn
-龙华偶像,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=lunghuaidol_twn
-靖天国际台,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=jingtianintl_twn
-年代新闻,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=niandainews_twn
-DW (Deutsch),https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=dw_twn
-好消息 2,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=good2_twn
-大爱2台,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=daai2_twn
-亚洲美食,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=afc_twn
-亚洲旅游 TLC Asia,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=tlc_twn
-东森电影 ETTV Movie,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ettvmovie
-阿里郎 Arirang,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=arirang_twn
-博斯网球 HD,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=bositennis_twn
-东森洋片 ETTV Western,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ettvwestern
-龙华洋片 Lunghua Western,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=lunghuawestern_twn
-博斯无限,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=bosiunlimited_twn
-MTV Live,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=mtvhd_
-MTV Live,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=mtvhd_twn
-龙详时代,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=lungxiangtime_twn
-EYETV 旅游,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=eyetvtravel_twn
-靖天卡通台,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=jingtiancartoon_twn
-EYETV 戏剧,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=eyetvxiju_twn
-卫视中文台 Star Movies Chinese,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=weishichinese_twn
-东森幼幼 Yoyo TV,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=yoyo_twn
-美亚电影,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=meiyamovie_twn
-爱尔达戏剧台,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=eltadrama_twn
-TVBS News 新聞台,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=tvbs_n
-Asia Food Network,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=Afc
-東森新聞 ETTV News,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ettvnews
-東森財經新聞 ETTV Business,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ettvcaijing_twn
-中天新聞 CTI News,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ctinews
-非凡新聞台,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=feifannews_twn
-台視新聞台 TTV News,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ttvnews_twn
-Elta体育1台,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=eltasport1_twn
-Elta體育2台,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=eltasport2_twn
-Elta體育3台,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=eltasport3_twn
-民視新聞台 FTV News,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=ftvnew_taiwan
-寰宇新聞台,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=huanyuxinwen_twn
-中視新聞台,https://app.junnian.xyz/pitv.php?user=147258&pass=147258&type=mp4&id=zhongshinews_twn
-
 
 台湾,#genre#
 中视,http://74.91.26.218:82/live/ctv.m3u8
@@ -7525,6 +7453,7 @@ HZTV-2,http://183.236.43.98:4013/udp/239.77.1.233:5146$广东电信
 2024年春晚,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 2025年春晚,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
 2025年春晚,https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
+
 
 
 
