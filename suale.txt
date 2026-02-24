@@ -176,7 +176,15 @@ NOW爆谷台,http://74.91.26.218:82/live/nowbg.m3u8
 公视,http://74.91.26.218:82/live/pts.m3u8
 公视台语台,http://74.91.26.218:82/live/ptsty.m3u8
 小公视,http://74.91.26.218:82/live/ptsse.m3u8
-
+中天新闻频特,https://111.iptv543.com/live.php?id=ctinews
+东森新闻频特,https://111.iptv543.com/live.php?id=ettvnews
+寰宇新闻频特,https://111.iptv543.com/live.php?id=huanyuxinwen_twn
+tvbs新闻频特,https://111.iptv543.com/live.php?id=tvbs_n
+年代新闻频特,https://111.iptv543.com/live.php?id=niandainews_twn
+民视新闻频特,https://111.iptv543.com/live.php?id=ftvnew_taiwan
+中视新闻频特,https://111.iptv543.com/live.php?id=zhongshinews_twn
+台视新闻频特,https://111.iptv543.com/live.php?id=ttvnews_twn
+非凡新闻频特,https://111.iptv543.com/live.php?id=feifannews_twn
 央视频道,#genre#
 
 CCTV1,http://69.30.245.50/live/cctv1.m3u8
@@ -14172,6 +14180,7 @@ HZTV-2,http://183.236.43.98:4013/udp/239.77.1.233:5146$广东电信
 2024年春晚,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 2025年春晚,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
 2025年春晚,https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
+
 
 
 
