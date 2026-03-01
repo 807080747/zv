@@ -10177,6 +10177,32 @@ NOW新闻,https://cdn.163189.xyz/163189/now
 老捕快,http://www.668mao.com/em3u8/1080zyk/24e7c69d3a566026bd09642443a59cf2-20260201_15717_65969a52.m3u8
 鱼刺2024,http://www.668mao.com/em3u8/1080zyk/2994ec831f40fdf38be07fc96e659f43-20260202_6638_829083d7.m3u8
 电影频道,#genre#
+埋堆堆 𝟙,https://live.iill.top/huya/23740156
+埋堆堆 𝟚,https://live.iill.top/huya/23749096
+埋堆堆 𝟛,https://live.iill.top/huya/23735126
+埋堆堆 𝟜,https://live.iill.top/huya/23903123
+埋堆堆 𝟝,https://live.iill.top/huya/23734169
+埋堆堆 𝟞,https://live.iill.top/huya/23863804
+埋堆堆 𝟟,https://live.iill.top/huya/23865080
+埋堆堆 𝟠,https://live.iill.top/huya/23864973
+埋堆堆 𝟡,https://live.iill.top/huya/23903130
+埋堆堆 𝟙𝟘,https://live.iill.top/huya/23860039
+埋堆堆 𝟙𝟙,https://live.iill.top/huya/23903183
+埋堆堆 𝟙𝟚,https://live.iill.top/huya/23903196
+埋堆堆 𝟙𝟛,https://live.iill.top/huya/23728674
+埋堆堆 𝟙𝟜,https://live.iill.top/huya/23865036
+埋堆堆 𝟙𝟝,https://live.iill.top/huya/23829543
+埋堆堆 𝟙𝟞,https://live.iill.top/huya/23865161
+埋堆堆 𝟙𝟟,https://live.iill.top/huya/23865058
+埋堆堆 𝟙𝟠,https://live.iill.top/huya/23824164
+埋堆堆 𝟙𝟡,https://live.iill.top/huya/23863796
+埋堆堆 𝟚𝟘,https://live.iill.top/huya/23734183
+埋堆堆 𝟚𝟙,https://live.iill.top/huya/23728660
+埋堆堆 𝟚𝟚,https://live.iill.top/huya/23865142
+埋堆堆 𝟚𝟛,https://live.iill.top/huya/23734246
+埋堆堆 𝟚𝟜,https://live.iill.top/huya/23865171
+埋堆堆 𝟚𝟝,https://live.iill.top/huya/23734256
+埋堆堆 𝟚𝟞,https://live.iill.top/huya/23749083
 CHC动作电影,http://120.238.94.82:9901/tsfile/live/1052_1.m3u8
 CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 CHC动作电影,http://183.237.95.108:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -14172,6 +14198,7 @@ HZTV-2,http://183.236.43.98:4013/udp/239.77.1.233:5146$广东电信
 2024年春晚,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 2025年春晚,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
 2025年春晚,https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
+
 
 
 
