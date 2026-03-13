@@ -295,15 +295,15 @@ CGTN,http://218.17.33.178:53290/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&au
 爱情生活,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10/c59_fast_967_1080P_t10.m3u8?d
 
 4K高清,#genre#
-CCTV4K,https://iptv.catvod.com/live.php?id=CCTV4K
+
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760148172&jsbk=8ce47519e62b009dfa80f8fbfb2dd932
 CCTV4K,http://198.204.240.250:82/live/cctv4k.m3u8?jsbt=1760495957&jsbk=138a7cd8fb02f369c744cf0ceb413e85
 CCTV4K,http://36.99.188.2:2380/js-live-screenshot.gitv.tv/gitv_live/G_CCTV-4K-HD/G_CCTV-4K-HD.m3u8
 CCTV16-4K,http://39.152.103.17:8089/tsfile/live/1073_1.m3u8
-CCTV8K,https://iptv.catvod.com/live.php?id=CCTV8K
+
 湖南4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南4K,http://ddns.xryo.cn:8888/udp/239.111.205.63:5140
-浙江4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
+
 浙江4K,http://ddns.xryo.cn:8888/udp/239.111.205.65:5140
 浙江4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8    
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
@@ -329,7 +329,6 @@ CCTV8K,https://iptv.catvod.com/live.php?id=CCTV8K
 CCTV5体育,http://74.91.26.218:82/live/cctv5hd.m3u8
 CCTV16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV5+体育赛事,http://74.91.26.218:82/live/cctv5p.m3u8
-广东体育,http://74.91.26.218:82/live/cctv5p.m3u8
 
 
 
