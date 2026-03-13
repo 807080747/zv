@@ -2445,24 +2445,17 @@ AXN,http://tl.061833.xyz/tl/axn
 
 
 新视觉HD,http://221.7.49.226:50085/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
-淘电影,http://jiugong.wulinsy.cn:39901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-军旅剧场,http://jiugong.wulinsy.cn:39901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-古装剧场,http://jiugong.wulinsy.cn:39901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-动作影院,http://jiugong.wulinsy.cn:39901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-城市剧场,http://jiugong.wulinsy.cn:39901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-喜剧影院,http://jiugong.wulinsy.cn:39901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 综合,#genre#
 
-翡翠台,http://183.237.246.14:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 
 
 华丽翡翠台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
-TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
+
 
 明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 
@@ -2495,8 +2488,8 @@ rthk32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
 无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
 翡翠剧集台,https://6.cdn.loc.cc/163189.php?id=tvbd
 明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
-TVB Plus,https://cdn6.101.qzz.io/163189/tvbp
-TVB 星河,https://cdn6.101.qzz.io/163189/tvbxh
+
+
 TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB星河,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19500.ts
