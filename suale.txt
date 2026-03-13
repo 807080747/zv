@@ -136,6 +136,11 @@ CCTV17,http://218.17.33.178:53290/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&
 海南卫视,http://ahmaslt.sohu.blog:8000/hls/59/index.m3u8
 
 
+深圳卫视,http://222.214.208.34:59901/tsfile/live/0126_1.m3u8
+天津卫视,http://111.221.137.234:44330/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
+
+
+
 东方卫视,http://by4.nty.tv189.cn/live/tm-xpdfws-4000k.m3u8
 广东卫视,http://by4.nty.tv189.cn/live/tm-ysgdws-4000k.m3u8
 江西卫视,http://by4.nty.tv189.cn/live/tm-ysjxws-4000k.m3u8
@@ -656,37 +661,6 @@ TVB Plus,http://74.91.26.218:82/live/j2.m3u8
 
 数字频道,#genre#
 
-CCTV世界地理,http://hmfs.f3322.net:3388/hls/28/index.m3u8
-CCTV风云剧场,http://hmfs.f3322.net:3388/hls/20/index.m3u8
-CCTV第一剧场,http://hmfs.f3322.net:3388/hls/21/index.m3u8
-CCTV风云音乐,http://hmfs.f3322.net:3388/hls/29/index.m3u8
-
-
-
-求索纪录HD,http://yp.qqqtv.top/1/api.php?id=%E6%B1%82%E7%B4%A2%E7%BA%AA%E5%BD%95HD&auth=666858
-追剧少女,http://yp.qqqtv.top/1/api.php?id=%E8%BF%BD%E5%89%A7%E5%B0%91%E5%A5%B3&auth=666858
-新片放映厅,http://yp.qqqtv.top/1/api.php?id=%E6%96%B0%E7%89%87%E6%94%BE%E6%98%A0%E5%8E%85&auth=666858
-云上电影院,http://yp.qqqtv.top/1/api.php?id=%E4%BA%91%E4%B8%8A%E7%94%B5%E5%BD%B1%E9%99%A2&auth=666858
-
-CGTN,https://english-livebkali.CGTN.com/live/enCGTN_0.m3u8
-CGTN记录,https://english-livebkali.CGTN.com/live/docCGTN_0.m3u8
-CGTN俄语,https://russian-livews.CGTN.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-CGTN法语,https://francais-livews.CGTN.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
-CGTN西语,https://espanol-liveali.CGTN.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-CGTN阿语,https://arabic-liveali.CGTN.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
-CGTN,http://111.221.137.152:44330/tsfile/live/1011_1.m3u8
-
-CCTV世界地理,http://sh.lnott.top:880/dx72.m3u8
-风云音乐,http://baota.guangyuan.site:8188/udp/239.253.43.6:5146
-CCTV世界地理,http://baota.guangyuan.site:8188/udp/239.253.43.7:5146
-女性时尚,http://baota.guangyuan.site:8188/udp/239.253.43.8:5146
-兵器科技,http://baota.guangyuan.site:8188/udp/239.253.43.9:5146
-电视指南,http://baota.guangyuan.site:8188/udp/239.253.43.10:5146
-文化精品,http://baota.guangyuan.site:8188/udp/239.253.43.13:5146
-第一剧场,http://baota.guangyuan.site:8188/udp/239.253.43.15:5146
-CCTV怀旧剧场,http://baota.guangyuan.site:8188/udp/239.253.43.5:5146
-风云剧场,http://baota.guangyuan.site:8188/udp/239.253.43.16:5146
-
 
 第一剧场,http://61.184.46.85:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$荆州电信
 CCTV怀旧剧场,http://61.184.46.85:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0$荆州电信
@@ -698,16 +672,7 @@ CCTV世界地理,http://61.184.46.85:85/tsfile/live/1025_1.m3u8?key=txiptv&playl
 荆州垄上,http://61.184.46.85:85/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0$荆州电信
 
 
-CETV3,http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
-CETV3,http://iptv.666230.xyz/iptv/jsyd.php/G_CETV-3
-CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 
-
-凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
-亚洲卫视,https://fenghuang.tv12.xyz/173.m3u8
-
-公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?
-公共新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 
 
 
@@ -724,7 +689,7 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8$订阅源
 
 黑龙江都市,https://idclive.hljtv.com:4430/live/dushi_hd.m3u8$订阅源
-黑龙江少儿,https://ls.qingting.fm/live/4972/64k.m3u8$订阅源
+
 哈尔滨新闻综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild$订阅源
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild#http://stream.hrbtv.net/yspd/sd/live.m3u8$订阅源
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8$订阅源
@@ -739,13 +704,6 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
 七台河新闻综合,http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8$订阅源
 甘南县综合,https://stream.hrbtv.net/zxpd/sd/live.m3u8$订阅源
 七台河民生社教,http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8$订阅源
-
-
-
-
-中数传媒,#genre#
-深圳卫视,http://222.214.208.34:59901/tsfile/live/0126_1.m3u8
-天津卫视,http://111.221.137.234:44330/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
 
 
 
@@ -992,6 +950,7 @@ CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=282018051600
  洞头综合,http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8
  津南一套,http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
  济源电视一套,http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
+ 
  浙江休闲台,http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
  浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
  浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
