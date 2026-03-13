@@ -1414,9 +1414,7 @@ AXN,http://tl.061833.xyz/tl/axn
 凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
 凤凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
 翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct
-翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
-华丽翡翠,http://php.jdshipin.com/smt.php?id=Tvbjade
-无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
+
 翡翠剧集台,https://6.cdn.loc.cc/163189.php?id=tvbd
 明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
 
@@ -1428,8 +1426,7 @@ TVB1,https://6.cdn.loc.cc/163189.php?id=tvb1
 CH5,http://cdn6.163189.xyz/163189/ch5
 CH8,http://cdn6.163189.xyz/163189/ch8
 CHU,http://cdn6.163189.xyz/163189/chu
-星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
-星空音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
+
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8$官网
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8$官网
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8$官网
@@ -1442,25 +1439,19 @@ CHU,http://cdn6.163189.xyz/163189/chu
 8TV,http://cdn6.163189.xyz/163189/8tv
 
 凤凰中文台,https://cdn6.163189.xyz/163189/fhzw
-凤凰资讯台,https://cdn6.101.qzz.io/163189/fhzx
-凤凰香港台,https://cdn6.101.qzz.io/163189/fhhk
+
 凤凰电影台,http://www.liyajun.top:7088/udp/239.253.93.81:6247
-华数动画电影,http://183.7.144.215:8086/hls/78/index.m3u8
-RTHK31,https://cdn.163189.xyz/163189/rthk31
-RTHK32,https://cdn.163189.xyz/163189/rthk32
-HOY 77,https://cdn6.101.qzz.io/163189/hoy
+
 ViuTV,https://cdn.163189.xyz/163189/viu
-澳门莲花,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
+
 龙华电影,https://cdn8.163189.xyz/163189/lhdy
 龙华经典,https://cdn8.163189.xyz/163189/lhjd
 龙华偶像,https://cdn8.163189.xyz/163189/lhox
 龙华日韩,https://cdn8.163189.xyz/163189/lhrh
 龙华戏剧,https://cdn8.163189.xyz/163189/lhxj
-新加波5频道,https://cdn6.101.qzz.io/163189/ch5
-新加波8频道,https://cdn6.101.qzz.io/163189/ch8
-新加波U频道,https://cdn6.101.qzz.io/163189/chu
+
 奥地利红牛,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-天映频道,http://122.53.222.9:9981/stream/channelid/1069391940?profile=pass
+
 
 
 
@@ -1481,42 +1472,8 @@ BBC EARTH,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStud
 🇺🇸美国,#genre# 
 News max,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
-ABC_EAST,https://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-ACC_NETWORK,https://fl1.moveonjoy.com/ACC_NETWORK/index.m3u8
-Animal_Planet,https://fl1.moveonjoy.com/Animal_Planet/index.m3u8
-AMC_NETWORK,https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
-American_Heroes,https://fl1.moveonjoy.com/American_Heroes_Channel/index.m3u8
-BRAVO,https://fl1.moveonjoy.com/BRAVO/index.m3u8
-TNT,https://fl1.moveonjoy.com/TNT/index.m3u8
 
-BBC_AMERICA,https://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8
-BBC_WORLD,https://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
-BEIN_SPORTS,https://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
-BET_EAST,https://fl1.moveonjoy.com/BET_EAST/index.m3u8
 
-BET_HER,https://fl1.moveonjoy.com/BET_HER/index.m3u8
-BET_SOUL,https://fl1.moveonjoy.com/BET_SOUL/index.m3u8
-BET_Jams,https://fl1.moveonjoy.com/BET_Jams/index.m3u8
-BLOOMBERG,https://fl1.moveonjoy.com/BLOOMBERG/index.m3u8
-BOOMERANG,https://fl1.moveonjoy.com/BOOMERANG/index.m3u8
-C-SPAN,https://fl1.moveonjoy.com/C-SPAN/index.m3u8
-CBS_SPORTS,https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-CBSEAST,https://fl1.moveonjoy.com/CBSEAST/index.m3u8
-CMT,https://fl1.moveonjoy.com/CMT/index.m3u8
-Comedy_Central,https://fl1.moveonjoy.com/Comedy_Central/index.m3u8
-COOKING,https://fl1.moveonjoy.com/COOKING_CHANNEL/index.m3u8
-DISCOVERY_FAMILY_CHANNEL,https://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
-E_ENTERTAINMENT_TELEVISION,https://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
-FOOD_NETWORK,https://fl1.moveonjoy.com/FOOD_NETWORK/index.m3u8
-INVESTIGATION_DISCOVERY,https://fl1.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
-ION_TV,https://fl1.moveonjoy.com/ION_TV/index.m3u8
-LIFETIME_MOVIE_NETWORK,https://fl1.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
-ME_TV,https://fl1.moveonjoy.com/ME_TV/index.m3u8
-MLB_NETWOR,https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
-MOTOR_TREND,https://fl1.moveonjoy.com/MOTOR_TREND/index.m3u8
-MSNBC,https://fl1.moveonjoy.com/MSNBC/index.m3u8
-NEWS_NATION,https://fl1.moveonjoy.com/NEWS_NATION/index.m3u8
-NFL_NETWORK,https://fl1.moveonjoy.com/NFL_NETWORK/index.m3u8
 wwe,https://fl3.moveonjoy.com/WWE/index.m3u8
 movie sphere,https://samsunguk-moviesphereuk-samsung-uk-s7xaa.amagi.tv/ts-eu-w1-n2/playlist/samsunguk-moviesphereuk-samsung-uk/playlist.m3u8
 vivid-red,https://oklivetv.com/xplay/m3u8/N1VQM0VBOUNWbVZwQzZOZUpSR3JVZz09.m3u8
@@ -1531,32 +1488,6 @@ Neco Channel,https://nl00.utako.moe/neco/index.m3u8
 MUSIC ON! TV (1080p),https://43.100.9.67/api/streams/live/cs325/1080p/mpegts
 MTV (1080p),https://hkali.youyouko.com/api/streams/live/cs323/1080p/mpegts
 
-日本,#genre# 
-NHK G,https://us1001.utako.moe/NHK_G/index.m3u8
-NHK E,https://us1001.utako.moe/NHK_E/index.m3u8
-NTV,https://us1001.utako.moe/Nippon_TV/index.m3u8
-TBS,https://us1001.utako.moe/TBS/index.m3u8
-Fuji TV,https://us1001.utako.moe/Fuji_TV/index.m3u8
-TV Asahi,https://us1001.utako.moe/TV_Asahi/index.m3u8
-TV Tokyo,https://us1001.utako.moe/TV_Tokyo/index.m3u8
-TOKYO MX1,https://us1001.utako.moe/Tokyo_MX1/index.m3u8
-TOKYO MX2,https://us1001.utako.moe/Tokyo_MX2/index.m3u8
-NHK G HD (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd01
-NHK E HD (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd02
-NTV HD (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd03
-TBS HD (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd04
-Fuji TV HD (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd05
-TV Asahi HD (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd06
-TV Tokyo HD (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd07
-TOKYO MX1 HD (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd08
-NHK G (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=gd01
-NHK E (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=gd02
-NTV (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=gd03
-TBS (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=gd04
-Fuji TV (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=gd05
-TV Asahi (NSFW) (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=gd06
-TV Tokyo (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=gd07
-TOKYO MX1 (Primehome),https://proxyvn.utako.moe/ph.php?&isp=1&id=gd08
 🇰🇷韩国,#genre#
 ABN TV (720p),https://vod2.abn.co.kr/IPHONE/abn.m3u8
 Arirang Radio (720p),http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
@@ -1706,7 +1637,7 @@ MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 ELEVEN体育3,rtmp://f13h.mine.nu/sat/tv751
-中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
+
 新唐人,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
 
 热爱大自然,http://tl.061833.xyz/tl/lovenaturehd
@@ -2451,6 +2382,7 @@ YY果国际电影频道,https://yylunbo.ottiptv.cc/yy/1382627144
 
 
 
+风景专题,#genre#
 航拍中国第二季,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
 东丰,http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
 中国党员教育,http://12371ksc.v.kcdnvip.com/12371/dangyuanwang_1/index.m3u8
@@ -2586,7 +2518,7 @@ YY果国际电影频道,https://yylunbo.ottiptv.cc/yy/1382627144
 
 
 汕头综合,http://183.236.43.98:4013/udp/239.253.43.45:5146$广东电信
-汕头经济生活,http://183.236.43.98:4013/udp/239.253.43.46:5146$广东电信
+
 广东影视,http://183.236.43.98:4013/udp/239.77.0.217:5146$广东电信
 广东珠江,http://183.236.43.98:4013/udp/239.77.0.114:5146$广东电信
 广东新闻,http://183.236.43.98:4013/udp/239.77.0.173:5146$广东电信
@@ -2646,14 +2578,7 @@ HZTV-2,http://183.236.43.98:4013/udp/239.77.1.233:5146$广东电信
 汕尾文化生活,http://183.236.43.98:4013/udp/239.77.0.187:5146$广东电信
 
 
-广东珠江,http://php.jdshipin.com:8880/TVOD/iptv.php?id=gdzj
-广东体育,http://php.jdshipin.com:8880/TVOD/iptv.php?id=gdty
-广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
-广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
-广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
-广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi
-佛山综合,http://php.jdshipin.com:8880/fstv.php?id=fszh
-佛山顺德,http://php.jdshipin.com:8880/fstv.php?id=fssd
+
 河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8?zguangd
 韶关新闻综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 韶关新闻综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8?zguangd
@@ -2664,16 +2589,6 @@ HZTV-2,http://183.236.43.98:4013/udp/239.77.1.233:5146$广东电信
 河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8?zguangd
 河源综合,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8?_upt=f767206b1671099007
 
-汕头综合,https://gitee.com/yiwu369/yiwu369/k-web/ku9/js/raw/ok/ku/深圳.js?id=stxwzh$深圳js
-汕头经济生活,https://gitee.com/yiwu369/yiwu369/k-web/ku9/js/raw/ok/ku/深圳.js?id=sttvjj$深圳js
-深圳少儿,https://gitee.com/yiwu369/yiwu369/k-web/ku9/js/raw/ok/ku/深圳.js?id=szse$深圳js
-深圳电视剧,https://gitee.com/yiwu369/yiwu369/k-web/ku9/js/raw/ok/ku/深圳.js?id=szdsj$深圳js
-深圳都市,https://gitee.com/yiwu369/yiwu369/k-web/ku9/js/raw/ok/ku/深圳.js?id=szds$深圳js
-深圳移动,https://gitee.com/yiwu369/yiwu369/k-web/ku9/js/raw/ok/ku/深圳.js?id=szyd$深圳js
-深圳财经,https://gitee.com/yiwu369/yiwu369/k-web/ku9/js/raw/ok/ku/深圳.js?id=szcjsh$深圳js
-
-揭阳综合,https://gitee.com/yiwu369/yiwu369/k-web/ku9/js/raw/ok/ku/揭阳.js?id=11
-揭阳生活,https://gitee.com/yiwu369/yiwu369/k-web/ku9/js/raw/ok/ku/揭阳.js?id=12
 
 广东珠江,http://120.238.94.10:9901/tsfile/live/1009_1.m3u8
 广东珠江,http://gmxw.7766.org:808/hls/83/index.m3u8
