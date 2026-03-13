@@ -1100,34 +1100,7 @@ TVB Plus,https://cdn6.101.qzz.io/163189/tvbp
 TVB Plus(双音轨),https://o11.163189.xyz/stream/tvb/tvbp/
 TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
 NOW新闻,https://cdn.163189.xyz/163189/now
-增加港台,#genre#
-凤凰电影台,http://www.liyajun.top:7088/udp/239.253.93.81:6247
-华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
-港台电影1,https://o11.163189.xyz/stream/live/aod/
-港台电影2,https://o11.163189.xyz/stream/live/aec/
-爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
-千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
-华数动画电影,http://119.123.179.9:8086/hls/78/index.m3u8
-华数电影,http://hmfs.f3322.net:3388/hls/40/index.m3u8
-龙华经典,https://cdn8.163189.xyz/163189/lhjd
-龙华偶像,https://cdn8.163189.xyz/163189/lhox
-龙华日韩,https://cdn8.163189.xyz/163189/lhrh
-龙华戏剧,https://cdn8.163189.xyz/163189/lhxj
-邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
-邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
-邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
-邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
-奥地利红牛,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
-星空音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
-星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
-环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
-翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct
-明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
-TVB Plus,https://cdn6.101.qzz.io/163189/tvbp
-TVB Plus(双音轨),https://o11.163189.xyz/stream/tvb/tvbp/
-TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
-NOW新闻,https://cdn.163189.xyz/163189/now
+
 最新电影,#genre#
 三傻大闹宝莱坞,https://www.360jiexi.com/player/?url=https://vod.360zyx.vip/20260116/kOsEpjYP/index.m3u8
 
