@@ -1460,8 +1460,8 @@ ViuTV,https://cdn.163189.xyz/163189/viu
 
 
 
+寰宇新闻,http://rihou.cc:555/tv/[mn]寰宇新闻
 
-民视新闻,http://rihou.cc:555/tv/[Uk]民视新闻
 民视新闻,http://rihou.cc:555/tv/[mn]民视新闻
 中视新闻,http://rihou.cc:555/tv/[mn]中视新闻
 华视新闻,http://rihou.cc:555/tv/[mn]华视新闻
