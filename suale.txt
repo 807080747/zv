@@ -1461,13 +1461,6 @@ ViuTV,https://cdn.163189.xyz/163189/viu
 
 
 
-Now星影(国),http://rihou.cc:555/tv/hktv%2F19nowxy
-Now爆谷(国),http://rihou.cc:555/tv/hktv%2F19nowbg
-Now华剧台,http://rihou.cc:555/tv/hktv%2F19nowhj
-Now剧集台,http://rihou.cc:555/tv/hktv%2F19nowjj
-TVB功夫(国),http://rihou.cc:555/tv/hktv%2F19tvbgf
-
-寰宇新闻,http://rihou.cc:555/tv/[Uk]寰宇新闻
 民视新闻,http://rihou.cc:555/tv/[Uk]民视新闻
 民视新闻,http://rihou.cc:555/tv/[mn]民视新闻
 中视新闻,http://rihou.cc:555/tv/[mn]中视新闻
