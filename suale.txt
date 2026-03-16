@@ -1930,6 +1930,49 @@ Astro QJ,https://o11.163189.xyz/stream/live/qj/
 英语环球,http://sk.cri.cn/am846.m3u8
 粤语国际,http://sk.cri.cn/hxfh.m3u8
 玫瑰测试_8888,#genre#
+
+parse=1
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+Brazzers eu,http://hochu.tv/brazzers-tv-europe.html
+O LaLa,http://hochu.tv/o-la-la.html
+Dorcel,http://hochu.tv/dorcel-tv.html
+Hustler HD,http://hochu.tv/hustler-hd.html
+French,http://hochu.tv/french-lover-tv.html
+Blue Hustler,http://hochu.tv/blue-hustler.html
+FAP anal,http://hochu.tv/fap-tv-anal.html
+Private HD,http://hochu.tv/private-tv.html
+FAP parody,http://hochu.tv/fap-tv-parody.html
+ox-ax HD,http://hochu.tv/oh-ah-hd.html
+XXL,http://hochu.tv/xxl.html
+Redlight HD,http://hochu.tv/redlight-hd.html
+Penthouse,http://hochu.tv/penthouse-2.html
+XY MIX,http://hochu.tv/xy-mix.html
+FAP tenns,http://hochu.tv/fap-tv-teens.html
+FAP lesbian,http://hochu.tv/fap-tv-lesbian.html
+Playboy TV,http://hochu.tv/playboy-tv.html
+Kinoxxx,http://hochu.tv/kinoxxx.html
+XY MAX,http://hochu.tv/xy-max.html
+Babes TV,http://hochu.tv/babes-tv.html
+Vivid red,http://hochu.tv/vivid-red.html
+FAP 2,http://hochu.tv/fap-tv-2.html
+FAP 3,http://hochu.tv/fap-tv-3.html
+FAP 4,http://hochu.tv/fap-tv-4.html
+FAP bbw,http://hochu.tv/fap-tv-bbw.html
+FAP comp,http://hochu.tv/fap-tv-compilation.html
+Barely legal,http://hochu.tv/barely-legal-tv.html
+noch,http://hochu.tv/russkaya-noch.html
+Extasy HD,http://hochu.tv/extasy-hd.html
+Red lips,http://hochu.tv/red-lips.html
+Waayh,http://hochu.tv/shalun-tv.html
+XY plus,http://hochu.tv/xy-plus.html
+exotia-tv,http://hochu.tv/exotica-tv.html
+xxx,http://hochu.tv/cineman-xxx.html
+erox-hd,http://hochu.tv/erox-hd.html
+cineman1,http://oxax.tv/sl-hot1.html
+cineman2,http://oxax.tv/sl-hot2.html
+nuart,https://moonlight.wideiptv.top/NuartTV/index.fmp4.m3u8?token=3138ccf78227f48ba01a6f3437b5b07119ddbb6b-64cf112f965b443d655460bd0ff6b5b3-1754106255-1754095455
+desire,https://freeshot.live/live-tv/desire-tv.html
+
 Now爆谷台,https://tuiliu.go-iptv.ggff.net/baogutai/stream.m3u8
 Now爆谷星影台,https://tuiliu.go-iptv.ggff.net/xingyingtai/stream.m3u8
 蜜桃软绵绵,http://joakerwununql1.jinkangyl.com/live/cx_378261.flv
