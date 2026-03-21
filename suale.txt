@@ -876,6 +876,30 @@ CCTV-17咪咕,http://t.061899.xyz/tl/tl.php?id=cctv17
 无线新闻台,http://74.91.26.218:82/live/inews.m3u8
 TVB Plus,http://74.91.26.218:82/live/j2.m3u8
 
+凤凰中文,http://r.jdshipin.com/cCCzW
+
+凤凰资讯,http://r.jdshipin.com/0Rp07
+
+凤凰香港,http://r.jdshipin.com/yDoTN
+
+
+中视,http://74.91.26.218:82/live/ctv.m3u8
+
+中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
+
+中视经典,http://74.91.26.218:82/live/ctvjd.m3u8
+
+中视菁采,http://74.91.26.218:82/live/ctvjc.m3u8
+
+台视,http://74.91.26.218:82/live/ttv.m3u8
+
+台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8
+翡翠台.http://74.91.26.218:82/live/jade.m3u8
+
+hsCTS.http://74.91.26.218:82/live/cts.m3u8
+
+无线新闻.http://74.91.26.218:82/live/inews.m3u8
+
 台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8
 港澳台o,#genre#
 凤凰香港,https://live.catvod.com/live.php?token=815e29cc8c01a08e58b6bc1f59358054ad9a6f8a4f65ad2ebe535c7da196a77e&id=hkphoenix_twn
