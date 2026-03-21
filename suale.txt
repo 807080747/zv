@@ -2069,8 +2069,61 @@ Astro QJ,https://o11.163189.xyz/stream/live/qj/
 粤语国际,http://sk.cri.cn/hxfh.m3u8
 玫瑰测试_8888,#genre#
 
-parse=1
-ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+驚豔台,http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/85
+潘朵啦玩美台,http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/86
+香蕉台,http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/87
+松視1台,http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/88
+松視2台,http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/89
+松視3台,http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/90
+jgirl,https://z88.ubtvfans.com/live/rx5/3151/8b2b585365f9d90200c61f86dd76385d/index.m3u8
+91短视频,http://z88.ubtvfans.com/live/rx4/3172/d072c9162a60525dab8cf99c8201ef8c/index.m3u8
+小宝寻花,http://z88.ubtvfans.com/live/rx1/3181/894f03cfa9460d024eae6ec7daf3ee79/index.m3u8
+麻豆大番,http://z88.ubtvfans.com/live/rx1/3184/d7ec9e74daa6ffab755743705cf460eb/index.m3u8
+91沈先生,http://z88.ubtvfans.com/live/rx1/3185/1ef3b172906284ca3bee783aba5d0fd0/index.m3u8
+麻豆,http://z88.ubtvfans.com/live/rx1/3188/a18cb112b8da206c050b76593d115a99/index.m3u8
+麻豆外番,http://z88.ubtvfans.com/live/rx4/3189/2127a42b885dafbe1d1eba979e3dbe60/index.m3u8
+香蕉台(125),http://125.227.210.55:1009/VideoInput/play.ts
+奧視2台(125),http://125.227.210.55:1022/VideoInput/play.ts
+驚豔台(125),http://125.227.210.55:3016/VideoInput/play.ts
+Sex girl(125),http://125.227.210.55:3031/VideoInput/play.ts
+奧視3台(125),http://125.227.210.55:3033/VideoInput/play.ts
+# ADULTO频道 (36个)
+CARAC5（早7）,https://edge19.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
+CARAC1（早7）,https://edge19.vedge.infomaniak.com/livecast/ik:rougetv/manifest.m3u8
+DMF,https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/chunks.m3u8
+Playboy LA,http://91.218.50.136:8080/Rose35torres/iB7101/1877
+Playboy,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12135/index.m3u8
+Playboy Plus,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6242/index.m3u8
+Sexy Hot,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6282/index.m3u8
+Venus,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6284/index.m3u8
+Beate Uhse TV,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12163/index.m3u8
+BCU Charm HD,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/18053/index.m3u8
+Brazzers TV Europe,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12113/index.m3u8
+Blue Hustler,http://91.218.50.136:8080/Rose35torres/iB7101/2588
+Hustler HD,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/244/index.m3u8
+Babes TV,http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164496
+Dorcel TV,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/245/index.m3u8
+Dorcel XXX,http://g-med.xyz:25461/aleksanar_vujadinovic/anhuZ7SAj3hF/690
+Erox HD,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6296/index.m3u8
+Eroxxx HD,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/5015/index.m3u8
+Exxxotica,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/2397/index.m3u8
+EroLuxe Anal,http://91.218.50.136:8080/Rose35torres/iB7101/2592
+EroLuxe Babysitter,http://conecdg.me:80/Andrielly.Silva/Br131221/3920261
+EroLuxe Creampie,http://conecdg.me:80/Andrielly.Silva/Br131221/3920265
+EroLuxe Shemale,http://91.218.50.136:8080/Rose35torres/iB7101/2596
+EroLuxe Blowjob,http://g-med.xyz:25461/aleksanar_vujadinovic/anhuZ7SAj3hF/41978
+Eromania 4K,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/10049/index.m3u8
+Extasy 4K,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/5014/index.m3u8
+Extasy TV,http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164513
+Leo TV,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6272/index.m3u8
+Liberty Эротика,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/16069/index.m3u8
+Русская Ночь,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/2057/index.m3u8
+Penthouse Gold,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/5011/index.m3u8
+Penthouse Reality TV,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/5013/index.m3u8
+Penthouse Passion,http://dplatino.net:80/Copla/HH28wHfJ5hSV/316927
+Private TV,http://tv.zapping.life:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164546
+Redlight HD,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/242/index.m3u8
+Reality Kings TV,http://epicboss.live:80/bjune@teksavvy.com/51935944
 Brazzers eu,http://hochu.tv/brazzers-tv-europe.html
 O LaLa,http://hochu.tv/o-la-la.html
 Dorcel,http://hochu.tv/dorcel-tv.html
