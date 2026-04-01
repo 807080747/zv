@@ -22,10 +22,6 @@ CCTV5+体育赛事,http://74.91.26.218:82/live/cctv5p.m3u8
 
 央卫高清,#genre#
 
-Citra,mitv://64.32.9.99:7999/423bb6e68537469bf60823f5cc79f8f8.ts
-
-
-
 CCTV1,http://69.30.245.50/live/cctv1.m3u8
 CCTV2,http://69.30.245.50/live/cctv2.m3u8
 CCTV3,http://69.30.245.50/live/cctv3.m3u8
@@ -881,7 +877,688 @@ CCTV世界地理,http://61.184.46.85:85/tsfile/live/1025_1.m3u8?key=txiptv&playl
 
 
 
-
+電影,#genre#
+ASTRO Citra,mitv://64.32.9.99:7999/423bb6e68537469bf60823f5cc79f8f8.ts
+ASTRO AOD 311,mitv://64.32.9.99:7999/4b68051d6f6f9b8e734e20b1c13832f8.ts
+Astro 歡喜臺,mitv://64.32.9.99:7999/ac9619b0b11ab648a1b1aebfd789c7ca.ts
+Astro STAR VIJAY,mitv://64.32.9.99:7999/861f651348c4a0960663c032cb58d249.ts
+Astro One,mitv://64.32.9.99:7999/af8e118cad1cbb55d198912de6621acd.ts
+Astro RIA(B),mitv://64.32.9.99:7999/2d6be6ab303c226fbf6096de3568498c.ts
+HBO(TW),mitv://64.32.9.99:7999/b3195b4a5321641710713b534d83c607.ts
+HBO Xtreme,mitv://64.32.9.99:7999/7039264aeabcb0cd5e28a931fbb3b4c7.ts
+HBO 2,mitv://64.32.9.99:7999/3c239d85e4761d2c5fd25a9b266bdaae.ts
+HBO Family(TW),mitv://64.32.9.99:7999/c34331f1b9dae023e1d9db154777e28e.ts
+HBO Comedy,mitv://64.32.9.99:7999/867e84c288df427127dc5fa697e6668b.ts
+HBO HITS,mitv://64.32.9.99:7999/9bc10667db37275df00922c41608e458.ts
+HBO Family(USA),mitv://64.32.9.99:7999/e07ead6291fae3c56242091df05a06b8.ts
+HBO HITS(TW),mitv://64.32.9.99:7999/ea7602aa0f765664c431bd19a43a118e.ts
+HBO Signature(TW),mitv://64.32.9.99:7999/27cdd27e5d2dba7c05e700fc780c1b3f.ts
+HBO(EN),mitv://64.32.9.99:7999/2215c0b7f13fb42bad1604026052a784.ts
+HBO WEST,mitv://64.32.9.99:7999/5a5e40acd03f5443c3c81b543abafabd.ts
+HBO Signature(USA),mitv://64.32.9.99:7999/51afb9ad4c25ed68fefb0b769092dd59.ts
+HBO(SG),mitv://64.32.9.99:7999/f406ea8d081e28a24ea2e19cb62b58d9.ts
+HBO Zone,mitv://64.32.9.99:7999/7f7ccf3b8021dec89760ea3b7ff4697b.ts
+NOW爆谷台,mitv://64.32.9.99:7999/8a11f82cf1c657e2db6ed1fdc2dcb3ed.ts
+NOW 星影臺,mitv://64.32.9.99:7999/1f691c3ee01670c0d762207f623e2c57.ts
+CCTV6,mitv://64.32.9.99:7999/281b49c63d4428d84f95326a09804f0c.ts
+CCTV8,mitv://64.32.9.99:7999/390103b06b11db6b6e2a9c6f32932020.ts
+CCTV11,mitv://64.32.9.99:7999/41c338ef3182c7d0bb45d1defaef31e7.ts
+Fox Movies,mitv://64.32.9.99:7999/b63558d55cf0e9bdef12e1192da3f0dc.ts
+FX,mitv://64.32.9.99:7999/fdf1d884c60a52b96e270ab3434e9935.ts
+Starz Encore,mitv://64.32.9.99:7999/9c390481582a507b617bc44d907c0ec5.ts
+Starz,mitv://64.32.9.99:7999/103a8aa0a0eabd1a023d1cc4596a1cc9.ts
+BOO[維護],mitv://64.32.9.99:7999/becccfb519d2cc7a2a0a378c0a2b017b.ts
+FXX,mitv://64.32.9.99:7999/6e1a5155fd783201123cc6bf95051bfd.ts
+AXN,mitv://64.32.9.99:7999/d62c7825bba1f82b870710f8ed1e471f.ts
+SKY Crime,mitv://64.32.9.99:7999/14e5027bce11e9aa9e6e22d0d7fcd87b.ts
+Channel 8,mitv://64.32.9.99:7999/7b845d5a098ab1b62a114b51ef6187d5.ts
+Cinemax Action,mitv://64.32.9.99:7999/61891e2a3cfa514e85df28e17d8cc1f0.ts
+Star Movies,mitv://64.32.9.99:7999/a750f670c08fc80f09e23b652052fd90.ts
+TNT,mitv://64.32.9.99:7999/7aea41f510edada1e0340a15ec52c024.ts
+天映頻道,mitv://64.32.9.99:7999/7f82d225b3ec2852ced52c0dfa6e5c13.ts
+Sky Cinema,mitv://64.32.9.99:7999/5d735edf000dcf440595207133c4039d.ts
+Showtime,mitv://64.32.9.99:7999/4556e517e628547d4964e87d8ad3cfe1.ts
+美亞電影台[TW],mitv://64.32.9.99:7999/7c6fb2cb638f3005dabaa8ffa5b9d6c2.ts
+IFC,mitv://64.32.9.99:7999/5d735ed60001a1e10594fa2b0baaa594.ts
+Warner TV(USA),mitv://64.32.9.99:7999/a688dd0d09c6988cd445e1f63e41c64b.ts
+黃金華劇,mitv://64.32.9.99:7999/d425c3edd4b2a5344a81f0da934f9aa0.ts
+龍祥電影,mitv://64.32.9.99:7999/c5a7e406c254694c7663a7387e5ab7ef.ts
+Starz Cinema,mitv://64.32.9.99:7999/a853e5995870ec7ab525611a755cb995.ts
+Showtime Next,mitv://64.32.9.99:7999/3bf3391aa56005be7b9feb8234f97912.ts
+天映經典CCM,mitv://64.32.9.99:7999/7dcde80bad9e65498ee587bf1937f614.ts
+龍華電影,mitv://64.32.9.99:7999/6344b947afba0fd46b460fc95a2a88df.ts
+AMC,mitv://64.32.9.99:7999/4ecb46d627052c6d64b63e2828a5a799.ts
+TvN Movies(MY),mitv://64.32.9.99:7999/e83241a4695c284878cd93eb13bd1008.ts
+東森電影,mitv://64.32.9.99:7999/35fb60fad3da4141462f46597e1fd0a0.ts
+美亞電影台[HK],mitv://64.32.9.99:7999/46b7e468608e1dcccb424049e630c77c.ts
+Sky Cinema Action,mitv://64.32.9.99:7999/5e619d6475f7fac905e7a4dcb41125d6.ts
+HITS Movies,mitv://64.32.9.99:7999/904f6ffa65024c2144954b0a93be3538.ts
+好萊塢電影,mitv://64.32.9.99:7999/961b497565b906effe0bfcef2cd0e6ff.ts
+Astro Showcase,mitv://64.32.9.99:7999/1772b1ef717274b739e42238107924d7.ts
+AMC電影,mitv://64.32.9.99:7999/f130b1a077112e797fd8d5eaf3dc63f9.ts
+SONY MOVIES,mitv://64.32.9.99:7999/5cb487d9d2c5034688164849671a6c9a.ts
+SyFy,mitv://64.32.9.99:7999/5d9ca8b10000ac81092cb5e1b10bb7e9.ts
+東森洋片,mitv://64.32.9.99:7999/3e11b3508b74e00ac294c4bd524e984c.ts
+WOWOW プライム,mitv://64.32.9.99:7999/5e5a3218000cd38206830f5d37ddb271.ts
+CatchPlay電影,mitv://64.32.9.99:7999/5e20630a00011ac408d5b681d11b09a8.ts
+愛奇藝,mitv://64.32.9.99:7999/cdca23900eff43363303ac0953c99769.ts
+TVB星河,mitv://64.32.9.99:7999/cd7576789e91fb8a757fa0e1468651a5.ts
+緯來電影,mitv://64.32.9.99:7999/1a10b2d4ddef5a5d7e43421bb576186f.ts
+三立戲劇,mitv://64.32.9.99:7999/fc8f70f134d01a8e3b56131dee339309.ts
+ELTA影劇HD,mitv://64.32.9.99:7999/3a87453ccf21fe5535376ba96fddbbf2.ts
+FXM,mitv://64.32.9.99:7999/30e0c4045bea7d7fe0d6f0ae7f1fa598.ts
+天映(粤),mitv://64.32.9.99:7999/bf818f6627419eb4448996df7725c983.ts
+AXN(HK),mitv://64.32.9.99:7999/95c9a24a39b1af832b4801b9a4ecfdce.ts
+CinemaWorld,mitv://64.32.9.99:7999/f5b3710628c832269d5f48d3737089f8.ts
+MOVIE MOVIE,mitv://64.32.9.99:7999/50a96b643b4bb3fbc5598da87be1c7d0.ts
+Freeform,mitv://64.32.9.99:7999/3b9a58cd069315e45b1cbfe2ccb20d92.ts
+Star Crime,mitv://64.32.9.99:7999/d419fbccc5ff5457a1d1200009fd779f.ts
+CM Plus,mitv://64.32.9.99:7999/b94849fa37c995c6e7efbcda77a0c5a9.ts
+TVB經典台,mitv://64.32.9.99:7999/b014cd9a6a604747c790b3d3de1b1aa1.ts
+壹電影,mitv://64.32.9.99:7999/655597de2aa86fca9a1da6c1683f7a7d.ts
+Sky Cinema Comedy,mitv://64.32.9.99:7999/76e5d6ae522f62224be5966239246c6e.ts
+Rock Action,mitv://64.32.9.99:7999/6de2bb48cd6cf49eb919fc5f82c85aad.ts
+Sky One,mitv://64.32.9.99:7999/5d735638000b8fdb05735386284fd9ac.ts
+TVB黃金翡翠台,mitv://64.32.9.99:7999/50685be4f5213296271574e71963021b.ts
+WarnerTV華納電影,mitv://64.32.9.99:7999/001b8662bb9d1c0dd114de91ecbecee4.ts
+KIX,mitv://64.32.9.99:7999/5e5a4e9c00047e4506f270db840c210e.ts
+TVB 亞洲武俠,mitv://64.32.9.99:7999/4322129f1f69f0f8ec6af0bcf75e7e57.ts
+靖天日本,mitv://64.32.9.99:7999/3026aea196ac286eda2b59418640a338.ts
+龍華洋片,mitv://64.32.9.99:7999/dbcd898eeb3d7f3468a00414fc637a85.ts
+Popc,mitv://64.32.9.99:7999/44de3b5662f1943c3a358f2c8f640217.ts
+TVB Super Free,mitv://64.32.9.99:7999/d869a4d2a2e0c9d6a603ccc401fce3ea.ts
+龍華日韓,mitv://64.32.9.99:7999/8917854d95a95bf747bf0e27c0dbbb6f.ts
+CinemaWorld TW,mitv://64.32.9.99:7999/67c7610eef968e1933c82828e8afa6aa.ts
+八大戲劇HD,mitv://64.32.9.99:7999/039de05e6da4ed9724ad53f7bc0f3f5a.ts
+靖天電影,mitv://64.32.9.99:7999/b9bf01b1e9e4da26eb9666985cb422e3.ts
+My Cinemaeurope,mitv://64.32.9.99:7999/231c5d392d875a442f976368751ff716.ts
+STARZ ENCORE ACTION,mitv://64.32.9.99:7999/a4055e552fe51c8f97fc8a84d3a12be3.ts
+經典電影臺,mitv://64.32.9.99:7999/5ea6caef2d5cb581483272759eba64e3.ts
+東森戲劇,mitv://64.32.9.99:7999/05b6b1f19121bcd0f6d1bcf1ff057a61.ts
+THRILL,mitv://64.32.9.99:7999/c54a8b8db7918dc923c94e7c4a2e975c.ts
+廣州影視,mitv://64.32.9.99:7999/70a23ed3f9cc2e817e15ea39791ae562.ts
+HITS,mitv://64.32.9.99:7999/58ad3f18f02a64d6fc8b91c0d70ebc36.ts
+TVB亞洲劇,mitv://64.32.9.99:7999/c69e8ab15806a5e0b30ffd8fc645966e.ts
+Sky Cinema Family,mitv://64.32.9.99:7999/0fe486e8cd57b3d6af30245a90c4dbe4.ts
+tvb粵語片臺,mitv://64.32.9.99:7999/001d49130a078fdb6234e2ae2c881779.ts
+緯來戲劇,mitv://64.32.9.99:7999/ffc11e633c6e1371558d1ffa7297dea3.ts
+CHC動作電影,mitv://64.32.9.99:7999/eaf7056ec04f5a56fcc8c368a54fbe14.ts
+Great Movies,mitv://64.32.9.99:7999/23722c115ff7613533d6c08bc40de21d.ts
+ROCK Extreme,mitv://64.32.9.99:7999/9d18cf20b598bdc32830b6d46bda9e48.ts
+靖洋戲劇,mitv://64.32.9.99:7999/1d982f73cb929a6edf4cc3bda4f1efb9.ts
+CINEMAX(TW),mitv://64.32.9.99:7999/e397d05406d20b82a284a19aa06482e5.ts
+Hi-YAH,mitv://64.32.9.99:7999/729b64cc50af6741bb1e415145fa35dc.ts
+靖天映畫,mitv://64.32.9.99:7999/320bfcfaab4832c09a5602f78c172d53.ts
+龍華戲劇,mitv://64.32.9.99:7999/79c6e95c15debdd9094e4ba81d4fe74c.ts
+CHC家庭影院,mitv://64.32.9.99:7999/ea7792fa10015617a0f308d8c8ffe073.ts
+Hits Now,mitv://64.32.9.99:7999/7b27b370826d38226be83f2a028367aa.ts
+明珠臺(備),mitv://64.32.9.99:7999/5e2028b00001210e07f1c6f31464067a.ts
+民視影劇臺,mitv://64.32.9.99:7999/5c3349132878900223894101a5c885ca.ts
+龍華經典,mitv://64.32.9.99:7999/48b84620b32ae74e0ea64ecd0a91cc0d.ts
+廣東影視,mitv://64.32.9.99:7999/d93f882608f8a1143c2cb97103810183.ts
+龍華偶像,mitv://64.32.9.99:7999/ffd4f8c6b37542d78822085c31dab407.ts
+CHC影迷電影,mitv://64.32.9.99:7999/290b6b03283b69566b9874222e7a3e9a.ts
+采昌影劇,mitv://64.32.9.99:7999/adb33ec14749e5f293aa90c0a682670d.ts
+TVB星河(粵),mitv://64.32.9.99:7999/f538bb0fd8d41ba47be18aa22c861933.ts
+TVB華劇,mitv://64.32.9.99:7999/778c83b8f7011b3d3450f628679514b0.ts
+TVB黃金翡翠臺(B),mitv://64.32.9.99:7999/2c65ac08be6ba85be4eb3a5a702a2bf2.ts
+公視戲劇,mitv://64.32.9.99:7999/4970fc78a2503e0c7801ded50e52e3e3.ts
+影迷數位電影,mitv://64.32.9.99:7999/5e5a34f200087c0f068e31d09894191f.ts
+靖天戲劇,mitv://64.32.9.99:7999/4f7a176293cec5dcec6b4c3681f92df1.ts
+新聞,#genre#
+ASTRO AWANI,mitv://64.32.9.99:7999/997306d8bb5dce2099d371018727ecf2.ts
+Astro AWANI FHD,mitv://64.32.9.99:7999/06bae69a75e65a5e1bbf865bc2795749.ts
+CNN USA,mitv://64.32.9.99:7999/09e75fc9a17f94bbaf7380d23f202787.ts
+CNN International,mitv://64.32.9.99:7999/93b49b4d0e61b567ca2f200a3e7720f7.ts
+CNN HLN,mitv://64.32.9.99:7999/bf3bb71b7b34f35da74a309db6a1912d.ts
+CNN Fast,mitv://64.32.9.99:7999/2ed1e4f8492f62c5ac95c2b6eea38dcf.ts
+NOW 新聞臺,mitv://64.32.9.99:7999/5e5bcada0004072f0cbfc2ecaeed26d4.ts
+now 財經臺,mitv://64.32.9.99:7999/d06a0cdd5d3e6e4c32a8c85cf6552e66.ts
+Now Jelli紫金國際臺,mitv://64.32.9.99:7999/89911f820da6d6e9993f99023e580af9.ts
+now直播台,mitv://64.32.9.99:7999/5e20b4090003ea240a121b52324f74b9.ts
+CCTV4 FHD,mitv://64.32.9.99:7999/ffb2f63e752a19d8aed7f23bd46d8c9c.ts
+CCTV4,mitv://64.32.9.99:7999/aa2d11d359d6725db4f314e9b38d3efe.ts
+CCTV2,mitv://64.32.9.99:7999/1eae51f1543fc7a32a0cd97bb02263ae.ts
+CCTV1(RTHK33),mitv://64.32.9.99:7999/70671333b4fa6ed75fd877ab50203d28.ts
+CCTV13,mitv://64.32.9.99:7999/d960a3d4374cc7bc68218e336932f639.ts
+鳳凰資訊FHD,mitv://64.32.9.99:7999/e66ec28b5bdb0f8892cfc046a80d775c.ts
+鳳凰資訊HD,mitv://64.32.9.99:7999/ee987b5f253f85f3ac789fc18266e98d.ts
+Fox News Channel,mitv://64.32.9.99:7999/8518826cc4034b8bc8e3e86961e3f192.ts
+中天新聞,mitv://64.32.9.99:7999/8d13c790ceb548d8627d2e5f0382e489.ts
+KTLA 5,mitv://64.32.9.99:7999/2882348a822f75241ce9129aeeb03f7d.ts
+中天新聞FHD,mitv://64.32.9.99:7999/ce52eb547646c6c5c2c592b90087d943.ts
+無線新聞台,mitv://64.32.9.99:7999/5619d5c6d81e1a0a6669a0809742b7ce.ts
+寰宇新聞,mitv://64.32.9.99:7999/d3a323b716faaf7de8427e78a6c0096f.ts
+ABC MIAMI,mitv://64.32.9.99:7999/5e204bc900090645087ae2a117e42bde.ts
+TVBS新聞HD,mitv://64.32.9.99:7999/bb32cdcb3aec4eddf75538eb16b919d1.ts
+Arise News,mitv://64.32.9.99:7999/31e5446b8e51a3d5d923cc9a1cd2a61e.ts
+ABC 7 NY,mitv://64.32.9.99:7999/d3b0f05144e391133e8b70c5d0e69bb0.ts
+FOX NEWS NOW,mitv://64.32.9.99:7999/0a4346f1f63028c5998e9f48445d235f.ts
+CNN,mitv://64.32.9.99:7999/df8ed3e45ce520fa399142149061383e.ts
+三立新聞,mitv://64.32.9.99:7999/5e20066d00097509076bf35d54199597.ts
+BBC World News,mitv://64.32.9.99:7999/dce92ca884f31314323929934eda62ba.ts
+TVBS新聞FHD,mitv://64.32.9.99:7999/80284a143b5f12c755570504cca71b70.ts
+年代新聞HD,mitv://64.32.9.99:7999/5e2051040005b502088f503f9c54f67e.ts
+Kompas TV,mitv://64.32.9.99:7999/00cbc9869495f259bbb24f11d85c94d7.ts
+翡翠普通話臺,mitv://64.32.9.99:7999/078fbe59817efabca3bb86bcb9516838.ts
+東森新聞HD,mitv://64.32.9.99:7999/1a1b15e335429cdfeca9281e513982ed.ts
+24 Украiна,mitv://64.32.9.99:7999/11d22190c2d79299d1d36bb1820f14cd.ts
+寰宇新聞FHD,mitv://64.32.9.99:7999/0d812200b3f69a43149fa296920274e8.ts
+Al Jazeera (En),mitv://64.32.9.99:7999/dae990d7285e9d31cfa958ba6fbce20e.ts
+ABC 5(WEWS),mitv://64.32.9.99:7999/5b1cfd5736fff0470808bf63aeaa0ba8.ts
+GMA News TV,mitv://64.32.9.99:7999/5e2fc9250004a296117405d3c34a67bf.ts
+HOY資訊台,mitv://64.32.9.99:7999/c5334b22ee53ce10a59c8ddb7db5b50a.ts
+TV2,mitv://64.32.9.99:7999/fa615e519e4e2af85f92409578ca9868.ts
+寰宇新聞台灣臺,mitv://64.32.9.99:7999/3b6669a8261dd93276a8de7cc4435ccc.ts
+無線新聞(265),mitv://64.32.9.99:7999/3b8f1e91f35c8892ef3ee7c53bddd0c9.ts
+NewsNation,mitv://64.32.9.99:7999/7dc856df994449a72544a42ceb036867.ts
+壹新聞,mitv://64.32.9.99:7999/6d6573f701ac772d243a189958404e94.ts
+BBC News,mitv://64.32.9.99:7999/853fde77a476b08dbbab1b26a146e59e.ts
+東森新聞FHD,mitv://64.32.9.99:7999/e2aca42682dad5e9e492499a7a3d27b1.ts
+CNA,mitv://64.32.9.99:7999/409c1495a3eb5b7fd421af5bca18a8e7.ts
+三立LIVE FHD,mitv://64.32.9.99:7999/5e333d00c4e1ef043fad9c30ce93dd3a.ts
+台視新聞,mitv://64.32.9.99:7999/5aad41e512f6596bf65ad21f574a292c.ts
+FOX 25,mitv://64.32.9.99:7999/5f19ccf40009ee56164058053a8df483.ts
+日本電視臺,mitv://64.32.9.99:7999/5e208d730000eef3097b609e7dab4938.ts
+KCBS Los Angeles,mitv://64.32.9.99:7999/ff3d9ab077e704b94513e4147f6f1efd.ts
+France Info,mitv://64.32.9.99:7999/dd7ff9ffa68febeade031ef87ae3f951.ts
+台視新聞FHD,mitv://64.32.9.99:7999/7cca1ae4a7b3964d020179866bb3bf96.ts
+非凡新聞HD,mitv://64.32.9.99:7999/aa58b9531785d4649205ed9cd6831abe.ts
+CNBC,mitv://64.32.9.99:7999/a9725665bf9e3d12d246a6c344d95e59.ts
+HOY TV,mitv://64.32.9.99:7999/5d7dcaf2000abb07148b63abcc0df44c.ts
+澳視資訊,mitv://64.32.9.99:7999/0d3f54c8f9addf9e18d5f9dac5adae19.ts
+Global News,mitv://64.32.9.99:7999/07c9af2707db1ff29b47aa78a3020335.ts
+民視新聞FHD,mitv://64.32.9.99:7999/e5122660281a5a7b18e5fb00c043c41e.ts
+Bloomberg TV,mitv://64.32.9.99:7999/e96243c28979016a1ecf0dc2d914d3e9.ts
+CBC News,mitv://64.32.9.99:7999/9bb437987bd1c12330cb9090d7382634.ts
+CNBC WORLD,mitv://64.32.9.99:7999/de890208794a134ea0a4325d1ab1ea7d.ts
+鏡新聞,mitv://64.32.9.99:7999/b9dbaed9a1f6955607314dcc98fd1f22.ts
+CP 24,mitv://64.32.9.99:7999/5e202665000dc84807e8d5386f210655.ts
+Fox Business,mitv://64.32.9.99:7999/5e20500a000d3689088b819b84d4cc7c.ts
+France24,mitv://64.32.9.99:7999/cd121ad86428241b771d93ba2c8a26f5.ts
+MSNBC,mitv://64.32.9.99:7999/487d88b1e5338dad006a1dd2c4ee3a37.ts
+ABC News Headlines,mitv://64.32.9.99:7999/0b4b4eb4abc5f05e7ed17b216d7d8acb.ts
+BS日テレ,mitv://64.32.9.99:7999/00ffe5e2f9f248ecce51c248c054fbd5.ts
+CBS 2 NY,mitv://64.32.9.99:7999/5e2fc3a5000564e5115e8a05be0a0055.ts
+FOX 68,mitv://64.32.9.99:7999/a8a6188ffb9ded8e5406a942fe68d8c8.ts
+NBC 4(WNBC),mitv://64.32.9.99:7999/f14e6fca2c9af2327a15120be64410be.ts
+ABC News AUS,mitv://64.32.9.99:7999/425eef0ba02b8da9de7a0f38f782f9e8.ts
+NBC NEWS,mitv://64.32.9.99:7999/1de07fb98be28ea6e62795020b4c3228.ts
+RTHK32,mitv://64.32.9.99:7999/3613ab3d9f140045b69be8a11a0de555.ts
+三立INEWS HD,mitv://64.32.9.99:7999/5ea8f327658e5b7fed427a42757b0e83.ts
+中視新聞FHD,mitv://64.32.9.99:7999/5e209de100079eac09bb90049955d7fd.ts
+CBC OTTAWA,mitv://64.32.9.99:7999/aa03a22da2645baaf35b134f1b7528c3.ts
+CGTN,mitv://64.32.9.99:7999/5e20c371000647630a4e4a2d57090c6c.ts
+Euronews EN,mitv://64.32.9.99:7999/ce035de5ae189b0f7f068103018ff525.ts
+News CNA,mitv://64.32.9.99:7999/14c733d83c9190dc4eafdb4bcf4905af.ts
+中視新聞,mitv://64.32.9.99:7999/456872e94e02857703abcc4c54012cee.ts
+廣東新聞,mitv://64.32.9.99:7999/5262b509e636cfc1870e0fa75b76b3eb.ts
+CBS 12,mitv://64.32.9.99:7999/85c2f5fc3c78aa1867b7b9b322b5e077.ts
+CBS News,mitv://64.32.9.99:7999/985a519c21737dc76f91ae68c35bf50e.ts
+JapaNews24 FHD[維護],mitv://64.32.9.99:7999/5e2023700006935d07dd4658fbef8da6.ts
+TBS NEWS FHD,mitv://64.32.9.99:7999/59b69ed64297baab09059707e83390e9.ts
+三立INEWS FHD,mitv://64.32.9.99:7999/d7de08e66eefa8d99b625d48a4c752e4.ts
+東森財經新聞,mitv://64.32.9.99:7999/880cd9d3d0ce24249a6441a04bffd04a.ts
+ABC 10,mitv://64.32.9.99:7999/e34f6a6b313e4c6afa410aa3ccb02579.ts
+FOX 2 KTVU,mitv://64.32.9.99:7999/ba4ee2ec672c4a36102afd127cf89e91.ts
+NBC News Now FHD,mitv://64.32.9.99:7999/10c723a87931363768f299e62934273e.ts
+Taiwan Plus,mitv://64.32.9.99:7999/104cd5e3cb41c105e40f85c3b6a194e8.ts
+廣州新聞,mitv://64.32.9.99:7999/3095b7041981e237244b726c9574853a.ts
+東森財經FHD[維護],mitv://64.32.9.99:7999/9bcdc6411fcbe5f20ffd200153e2b91c.ts
+民視新聞HD,mitv://64.32.9.99:7999/ab66063d43025be7a1247a253d2bce0b.ts
+華視新聞FHD,mitv://64.32.9.99:7999/bb73de095749c583efcf95a3f46066a7.ts
+Bloomberg 4K,mitv://64.32.9.99:7999/147fe6de7e3c20b2fcf2a85d65c4f994.ts
+Newsmax,mitv://64.32.9.99:7999/41ecf5bb49a13ecbcb18b3c5841a41a3.ts
+SKY NEWS HD,mitv://64.32.9.99:7999/20b9312579ecbb0ef59409dce30eb436.ts
+Sky News Live FHD,mitv://64.32.9.99:7999/0171f1203670e1e349a08135b4fde1cb.ts
+YonhapnewsTV,mitv://64.32.9.99:7999/3765b978d29ab43e0a8910005b402426.ts
+ABC News USA,mitv://64.32.9.99:7999/de03c1a252a83c6341f0751c65f3cb6b.ts
+Bloomberg News,mitv://64.32.9.99:7999/8f31bd663c30cb42029c19bb4cee20d7.ts
+CNBC ASIA,mitv://64.32.9.99:7999/1420deedc7f2acf2e623a83f51bb874e.ts
+第一財經,mitv://64.32.9.99:7999/958cf1decc16a1637c4887a40ba15088.ts
+Berita RTM,mitv://64.32.9.99:7999/5563aff4b96b30836d9418bcb848905c.ts
+DW FHD,mitv://64.32.9.99:7999/8348193f76b1e1e567bea4b3d743096a.ts
+Russia Today,mitv://64.32.9.99:7999/8bed0fd9f788f11aff91dd17361f976b.ts
+華視新聞資訊,mitv://64.32.9.99:7999/5e205806000329b308aaaf687b69f08b.ts
+Global News Toronto,mitv://64.32.9.99:7999/b16ef0491e024fc37f844e79793f86cf.ts
+CTV News Channel,mitv://64.32.9.99:7999/73b54bece80a23ad98926380b6b17407.ts
+靖天資訊,mitv://64.32.9.99:7999/0108dd3e7138895b49163ef69d6a4708.ts
+香港國際財經,mitv://64.32.9.99:7999/4518beb11316fa5435966d58daa82584.ts
+非凡商業,mitv://64.32.9.99:7999/420b4d1e371cfa481dfad810d97319dc.ts
+運動,#genre#
+Astro Premier League,mitv://64.32.9.99:7999/0f80c9738ab54b0c8f6162198b76671e.ts
+Astro Football,mitv://64.32.9.99:7999/903e9fbdb8fc31e858a898f88ade6e62.ts
+Astro Grandstand,mitv://64.32.9.99:7999/3a5ee14b42a701d3516e6172d252ac0c.ts
+Astro Premier League2,mitv://64.32.9.99:7999/83677e80cea4d72a824acc4fc86a99f4.ts
+Astro Premier League3,mitv://64.32.9.99:7999/aa690fcc066d8e5c10829fb9eb6960f1.ts
+W-Sport,mitv://64.32.9.99:7999/61be1c60000d7d370498b9626543e50e.ts
+Astro Badminton,mitv://64.32.9.99:7999/1c3f0441fe9bc6193bba887ebec3083a.ts
+Astro Badminton 2,mitv://64.32.9.99:7999/eed398b41a073d6ab7cf9f9312562b40.ts
+Astro Sports Plus,mitv://64.32.9.99:7999/15966b49b91c044757abdeef1eb2388f.ts
+ASPL1(backup),mitv://64.32.9.99:7999/3c6dcb6827c4c181376cf7e6973279f3.ts
+ASF(backup),mitv://64.32.9.99:7999/98319f0af769f06cd4994e92e6603d4c.ts
+Astro Sports UHD,mitv://64.32.9.99:7999/5955e47b4de45a7cee035ffc70488852.ts
+ASPL2(backup),mitv://64.32.9.99:7999/4c5b816790ce3c84e935b65d1ccbef0d.ts
+ASGS(backup),mitv://64.32.9.99:7999/fac5d16f87e53c831a4f1980734ee778.ts
+ASTRO Arena,mitv://64.32.9.99:7999/5e5a32f3000480e8068664b4d516e99e.ts
+ASTRO Cricket,mitv://64.32.9.99:7999/f33211eedb06434a93244f08445a0a09.ts
+Astro Arena Bola,mitv://64.32.9.99:7999/bdfa3623bcf9bbde411b0f4d9b361f83.ts
+ASTRO Arena 2,mitv://64.32.9.99:7999/c0981c41e675aad112be38996d68ad59.ts
+Astro Arena Bola 2,mitv://64.32.9.99:7999/97e4fbffc88e2092bd0bdd355579257a.ts
+TSN 1,mitv://64.32.9.99:7999/316cd3815562f886ea380cc4e864d0db.ts
+TSN 2,mitv://64.32.9.99:7999/783aa9efd83ac0bd68c7462ba7198b86.ts
+TSN 3,mitv://64.32.9.99:7999/72992d9ea2e68e3231b2bbaee4c7bd8f.ts
+TSN 5,mitv://64.32.9.99:7999/5e5a5c52000f1ec40728028340254434.ts
+TSN4(CA),mitv://64.32.9.99:7999/e81d2752c6febaf911ce22581f6f3163.ts
+Bein Sports USA,mitv://64.32.9.99:7999/b9eebaf5dc0e0e037cbfeaed51469a8e.ts
+Bein Sports 1,mitv://64.32.9.99:7999/baac9e385a48e20ce571ab267c627d37.ts
+Bein Sports 2,mitv://64.32.9.99:7999/ef65e81b2d58f97f408a938f7c8e0cbf.ts
+Bein Sports 1(HK)[維護],mitv://64.32.9.99:7999/10e78bce4e80e4cf0f0c2782e1bead46.ts
+Bein Sports 2(MY),mitv://64.32.9.99:7999/9d120ea445375b594423e90d0c87b317.ts
+BeIN Sports(MY),mitv://64.32.9.99:7999/b9e473ee8bc8d92030bb07bb8a4f2964.ts
+Bein Sports3(MY),mitv://64.32.9.99:7999/a3f1bac7020b78240366b3ab3213a034.ts
+Bein Sports 3,mitv://64.32.9.99:7999/e22af4069554849ecd1a33844633c429.ts
+Bein Sports 3(HK),mitv://64.32.9.99:7999/2c3abe6772e7b2dc22c3019b0db95063.ts
+Bein Sports 2(HK),mitv://64.32.9.99:7999/088f895bae15793d01745ad234c3b6c2.ts
+Now NBA(642),mitv://64.32.9.99:7999/3eb193c058aae61c43b15609851d030b.ts
+Now Sports 1,mitv://64.32.9.99:7999/fc27bb77a5978fca28392e9da78565f6.ts
+NOW Sports PL 1,mitv://64.32.9.99:7999/be2cdb367e37af80f929361326f167ba.ts
+Now Sports 2,mitv://64.32.9.99:7999/b76f0c5b47f18c636b8c7a9dbb18c8f2.ts
+now Sports Prime,mitv://64.32.9.99:7999/2fa7f980b433d3efaa4e374afe580dfc.ts
+now Sports 3,mitv://64.32.9.99:7999/5e2069340009be7508edccc8138c500c.ts
+NOW Sports PL,mitv://64.32.9.99:7999/55f1d4c043a85483a5a1d878e596b8f5.ts
+now Sports 4,mitv://64.32.9.99:7999/2cb4318c4218773d434069c89d59ca36.ts
+Now Sports 4K,mitv://64.32.9.99:7999/54b342690b9e943452c9334be44e1faa.ts
+Now sports 641,mitv://64.32.9.99:7999/fa12126479fbb04708ebef3a17d7cd5a.ts
+Sky Sports F1,mitv://64.32.9.99:7999/118e20f170e26cceea64e9df2e85c419.ts
+Sky Sports Premier League,mitv://64.32.9.99:7999/d9f8a5e52f53342c6a43ca5a0d961e72.ts
+Sky Sports Cricket,mitv://64.32.9.99:7999/51b28b8a5f6cf627ffa07774ddcf9897.ts
+Sky Sports Tennis,mitv://64.32.9.99:7999/59028ad3a4685269eb3da859ec3a50a6.ts
+Sky Sports Main Event,mitv://64.32.9.99:7999/22343c95056c6afefe2673434f55bcc0.ts
+SKY Sports Football,mitv://64.32.9.99:7999/9b6e1fe3e3b10202d21d04c611c40400.ts
+SKY Sports Arena,mitv://64.32.9.99:7999/811a03c55bba6e99bda0dfc0ef87196c.ts
+Sky Sports PL FHD,mitv://64.32.9.99:7999/888d6849bf1492e1ed2b331abe5d8792.ts
+Sky Sports Golf,mitv://64.32.9.99:7999/d70a7bceab896abcc32b89e93d36f470.ts
+Sky Sports Action,mitv://64.32.9.99:7999/f4450706d9d8e32515a4e8715539cf0e.ts
+SKY SPORT CALCIO,mitv://64.32.9.99:7999/d832c7eeaab3a572ef4a485234a5885c.ts
+Sky Sports Racing,mitv://64.32.9.99:7999/5d7350e600016ba3055e889dff355a5d.ts
+Sky Sports News,mitv://64.32.9.99:7999/4e33fafff2d091f6418d9c1d056b02fe.ts
+SKY Sports MIX,mitv://64.32.9.99:7999/cb07ed40c7abcb887f5d2c58427c3391.ts
+Sky Sports NFL,mitv://64.32.9.99:7999/9d19edbc91dfbf1eba85773ccd47f425.ts
+SuperSport Premier League(B),mitv://64.32.9.99:7999/3376da0a6bdc4ec27e8654b59fcbcf10.ts
+SuperSport Premier League,mitv://64.32.9.99:7999/c1570b67c85b439fa7dae37c43926ed6.ts
+SUPERSPORT VARIETY 1,mitv://64.32.9.99:7999/f095f7bf3c59bb571ca35b40f353dc12.ts
+Supersport Football,mitv://64.32.9.99:7999/300503a5ff9f0858ac32d1a47e5ba3b5.ts
+SuperSport Rugby,mitv://64.32.9.99:7999/cd41424f3d9e7082bd582731fc6758fd.ts
+SuperSport Cricket,mitv://64.32.9.99:7999/5e208df200018f62097d50df180fa5ab.ts
+SUPERSPORT BLITZ,mitv://64.32.9.99:7999/b714521ba42a702aa5c0762f154f6d6f.ts
+SuperSport Motorsport,mitv://64.32.9.99:7999/1fd704bcef20c09a6e2dcdebbbde5c5e.ts
+SuperSport Grandstand,mitv://64.32.9.99:7999/0213abd0fb6dab0ad1c65ef8dd9a3c2b.ts
+SuperSport Golf,mitv://64.32.9.99:7999/b76097c4c3175f03bd2e62294dc5cfc5.ts
+CCTV5,mitv://64.32.9.99:7999/27ca709cee6a50718b5a5540d360fd15.ts
+CCTV5+,mitv://64.32.9.99:7999/fd7f098cba974a2a282a183200b089a3.ts
+CCTV5(h265),mitv://64.32.9.99:7999/836e210a0291d2e2d6d5121f9cc00366.ts
+CCTV5+(backup),mitv://64.32.9.99:7999/792c9256e253f06135f0e4d90100b975.ts
+CCTV16,mitv://64.32.9.99:7999/83b67e5c0de7f585f4a34e53ae76ba74.ts
+SporTV 1,mitv://64.32.9.99:7999/249c0746fc94a188fdbf8d48232f82be.ts
+SuperSport Action,mitv://64.32.9.99:7999/edbcb4f9b19b5f5e33dc353f43c59b0c.ts
+ESPN,mitv://64.32.9.99:7999/120147d8ed5af58b8ae661b27bf30655.ts
+Band Sports,mitv://64.32.9.99:7999/a4b2060ec44b3ead85ceb356be4dc512.ts
+Star Sport 1,mitv://64.32.9.99:7999/f4dcf4623302caa386a853f4ba71159b.ts
+EuroSport 2 HD UK,mitv://64.32.9.99:7999/5ed580506f09c1aaf26b1cc01a2e1240.ts
+WWE Network,mitv://64.32.9.99:7999/2e76b6af7a855be0b5c79da073d620c2.ts
+ESPN 2,mitv://64.32.9.99:7999/cb4fcf008e05a4cfcf8ec5dfa2efb527.ts
+緯來體育,mitv://64.32.9.99:7999/6a70f78272bc6eba0a142ad5fe0a97fb.ts
+ELTA體育2,mitv://64.32.9.99:7999/c2396866410023896fd23e8c28a81867.ts
+NBA Premium,mitv://64.32.9.99:7999/66253455462deb3f90a8ae4378d2b97c.ts
+ELTA體育1,mitv://64.32.9.99:7999/32b44fe88515320e436ed6f2ccfa92e1.ts
+NFL REDZONE,mitv://64.32.9.99:7999/471822f18a8795d6d23a7e8a11e91102.ts
+FOX Deportes,mitv://64.32.9.99:7999/36b641f6f62160e2874df7a74c567804.ts
+TNT Sports 1,mitv://64.32.9.99:7999/b92f81894c93ec34de7a3ac23d70803e.ts
+NFL,mitv://64.32.9.99:7999/4e1e66548112ef2c2665df96694d1333.ts
+FS1,mitv://64.32.9.99:7999/bf9798b82439a0a5deac707d3fc9845c.ts
+UFC TV,mitv://64.32.9.99:7999/2cefd5d90780e4ac677718addeb00393.ts
+DAZN F1,mitv://64.32.9.99:7999/32e87cda899c0089d64c7866b2105d04.ts
+Sony Ten 3,mitv://64.32.9.99:7999/738de7df958d253b81949e8bf2f54f41.ts
+FOX Sports 501,mitv://64.32.9.99:7999/3a00d3a0930c60aadf4caccd5a0af030.ts
+FOX Sports 506,mitv://64.32.9.99:7999/1bbd11198a0dd00c640e2de5e6b6e921.ts
+Tennis,mitv://64.32.9.99:7999/5d753717000000d70cc9b7a81fbb44a3.ts
+Dazn 1,mitv://64.32.9.99:7999/07e297c982e0dea234d554b713242bdc.ts
+MLB,mitv://64.32.9.99:7999/6179edc925b44c8ce7461df4f3fcc9cb.ts
+GOLF,mitv://64.32.9.99:7999/ca8d80d9d869ac8c2fddee3da9bab432.ts
+EURO SPORT,mitv://64.32.9.99:7999/fca3e094b57bf34ca45cca5c315c23bf.ts
+SPOTV 2,mitv://64.32.9.99:7999/264cbd13708f20aa26fe0b5a34b47b5f.ts
+Sony Ten 2,mitv://64.32.9.99:7999/16f240d9a4e70715d072e526b87ac481.ts
+五星體育,mitv://64.32.9.99:7999/bcb5af75571893e8b7b5ae0c895cdb47.ts
+ELTA體育1(備用),mitv://64.32.9.99:7999/b2893f42613df9402f35b580df4e0f13.ts
+FOX Sports 504,mitv://64.32.9.99:7999/b6923b49213317ea43ef7450e6fafe45.ts
+SPOTV 1,mitv://64.32.9.99:7999/6601ee320178de3f7e7a43c49c1b4cc2.ts
+SONY TEN 1,mitv://64.32.9.99:7999/ee79ca814ae4ad51da3cac2592f6eabb.ts
+DAZN 2,mitv://64.32.9.99:7999/89aa143289c00cf0f65c8d0220f33db5.ts
+ELTA體育3,mitv://64.32.9.99:7999/5d4436990004002b1371769086142d81.ts
+ESPN NEWS,mitv://64.32.9.99:7999/b2d5282dd0b5332626f06866adad509e.ts
+新視覺,mitv://64.32.9.99:7999/59c2944cf0218b4fbd4099a114cd3456.ts
+TNT Sports 2,mitv://64.32.9.99:7999/1203f538fba9fafd83ce8658aa70873b.ts
+廣東體育,mitv://64.32.9.99:7999/a3a09eda8818ef3fbf234ea3dc6d3d29.ts
+CBS Sports Network,mitv://64.32.9.99:7999/43c4c0f6de3d195f90967d5efbe27389.ts
+HUBPREMIER EFL 1,mitv://64.32.9.99:7999/5e20a10c00059bf209c7ef79980e9079.ts
+LaLiga TV[維護],mitv://64.32.9.99:7999/20f78d340b1e5198d0d1c32b6133114a.ts
+TNT Sports 3,mitv://64.32.9.99:7999/302e2ee8524271e5264758cebed7eae6.ts
+博斯網球,mitv://64.32.9.99:7999/5ff11e4ad320de4db9709ad68d11f4d7.ts
+DAZN 1(TW),mitv://64.32.9.99:7999/027afa080eb5be9df98c9bdcf6b90602.ts
+DAZN 2(TW),mitv://64.32.9.99:7999/545d04d4d4582f6c47879677406f6840.ts
+FOX Sports 503,mitv://64.32.9.99:7999/50ab53efe63da922120355cb6d1e7962.ts
+FS2,mitv://64.32.9.99:7999/5e1df1d1000e4038191e5ad89d01288f.ts
+Spectrum sportsnet,mitv://64.32.9.99:7999/57a79de473fd8212f7f7ffdd75989148.ts
+勁爆體育,mitv://64.32.9.99:7999/a79fd895502dfaf02d413cdb99c058c3.ts
+Australia Sports,mitv://64.32.9.99:7999/7205fca8296940841a518414b9253b81.ts
+Fox Sports Racing,mitv://64.32.9.99:7999/d3ce6132043df49d2420a2e3eb68b5c8.ts
+ITV,mitv://64.32.9.99:7999/53ba26fa75fccd405ec24dcfd1bf739d.ts
+博斯高球,mitv://64.32.9.99:7999/ce03e4d9933dd82945d9492aa281f3d6.ts
+MUTV,mitv://64.32.9.99:7999/5e20b92600076d0f0a26158058d2838d.ts
+NHL Network,mitv://64.32.9.99:7999/dc0b57a1b7eb2542ddc45cb7c82a8b2c.ts
+Spectrum sportsnet lakers,mitv://64.32.9.99:7999/d77cbfb307de8adb804578984c73ed95.ts
+SuperSport LaLiga,mitv://64.32.9.99:7999/570ea95d95b3440d04e2453ffd372d4b.ts
+Bally Sports North,mitv://64.32.9.99:7999/e4121dfe09c545e2d922c6987a0a1b09.ts
+Premier Sports,mitv://64.32.9.99:7999/6b09ec7c2f8a34c091e934a548229e50.ts
+TNT Sports 4,mitv://64.32.9.99:7999/8e1c4e0ca7098b14074e29a5abec6db4.ts
+博斯無限,mitv://64.32.9.99:7999/0a418a341263209b89ef90a853154d99.ts
+Bally Sports Southeast,mitv://64.32.9.99:7999/c78c9615c7a762cd581074901e26b064.ts
+FOX Sports 502,mitv://64.32.9.99:7999/50fcdf34f9b59320c595a410579c4dff.ts
+Hub Sport 2,mitv://64.32.9.99:7999/4ae40aa21fab808569f083a6e181f108.ts
+Sukan RTM,mitv://64.32.9.99:7999/24b8aa716fa630e761f49dd0d1708bd8.ts
+TNT Sports 1 FHD,mitv://64.32.9.99:7999/6c5e6c991fc23d0f135a82601df0c118.ts
+ELTA體育4,mitv://64.32.9.99:7999/fc5a90c53f0fdf4ab00d0ee005681807.ts
+ESPN U,mitv://64.32.9.99:7999/bd7a5e76bbeb02d721c789c56c63a117.ts
+HUB Sport 1,mitv://64.32.9.99:7999/8a51e8cfd1793093a40aa1da6c409e9c.ts
+SportsNet West,mitv://64.32.9.99:7999/e2f7217479853ed06766569af64b68d9.ts
+ELTA生活旅遊,mitv://64.32.9.99:7999/a092f89598a7d3c9d67d3ed6d41ea6ef.ts
+HUBPREMIER EFL 2,mitv://64.32.9.99:7999/f0230de13627ad9a6b2a2f36b59273b0.ts
+NBC SPORTS BOSTON,mitv://64.32.9.99:7999/5d733c0800064f38050d06ad6c3f933d.ts
+World Fishing Network,mitv://64.32.9.99:7999/5e20b4f70000ec2e0a15bc3ede35ba6c.ts
+博斯高球2,mitv://64.32.9.99:7999/6b8146439cef29d82cffa4d851cf4cd6.ts
+Bally Sports South,mitv://64.32.9.99:7999/fa3c2dfb7b74d79ea9a3f460a8f007c4.ts
+NBCSN,mitv://64.32.9.99:7999/5e20b991000483c90a27b6b9f54c7031.ts
+NBC Sports Bay Area,mitv://64.32.9.99:7999/7fde1212d4d89a6a89c1da21f890ba2e.ts
+Rai Sport 1,mitv://64.32.9.99:7999/1c737083429dd7a11f7f9cc4b962b245.ts
+SportsNet One,mitv://64.32.9.99:7999/bbdd4b7e8dd82958778df9c6b8fc7a93.ts
+Sportsnet Ontario,mitv://64.32.9.99:7999/0b07d00ba8aaa1f9e6a76eeb9c0d6c01.ts
+博斯魅力,mitv://64.32.9.99:7999/5da4b57f000e06750edbf92a11fc2b38.ts
+咪咕體育,mitv://64.32.9.99:7999/3a78d7aca0db8b26acacf1dc3ab1c881.ts
+NESN,mitv://64.32.9.99:7999/eaa4c84ce8f70c38148d2702b10d387a.ts
+SportsNet Pacific,mitv://64.32.9.99:7999/72a19206b88e0014f38ba04e0d2f52a6.ts
+博斯運動,mitv://64.32.9.99:7999/5e206bc5000ce7e808f7d3ffc6794938.ts
+ELTA體育2(備用),mitv://64.32.9.99:7999/da84c35b57003990a053379b7d0bd657.ts
+ENGLISH PREMIER LEAGUE,mitv://64.32.9.99:7999/5e20b72d000929190a1e614987ab16ff.ts
+ELTA體育3(備用),mitv://64.32.9.99:7999/eb7ce381c4ca16891553ffe4a635ef5a.ts
+博斯運動2,mitv://64.32.9.99:7999/b4fa29e7fcfea0e4a8a9bf15428faca2.ts
+ELTA體育4(備用),mitv://64.32.9.99:7999/5f5ec96bd4f08941dcdda2e369b7a577.ts
+博斯無限2,mitv://64.32.9.99:7999/cbabd990fbafcaf361dcdaeec3b9f4c7.ts
+音樂,#genre#
+CCTV15,mitv://64.32.9.99:7999/396faead99eb0d00a3875e7d6130e54a.ts
+MTV HD,mitv://64.32.9.99:7999/430261f33663649c6dcdae0ac2856ced.ts
+MTV Live HD,mitv://64.32.9.99:7999/5e02b89c18863d5f9ce53e59874cb694.ts
+MEZZO LIVE(TW),mitv://64.32.9.99:7999/d84b4dc4b44d23a9b282ccc4ae21ff11.ts
+綜藝,#genre#
+ASTRO RIA,mitv://64.32.9.99:7999/3f8b67eec2c1d4a10dba4bbcd778e16c.ts
+CCTV3,mitv://64.32.9.99:7999/0b1fc3910e44c7b7c3ef4f9d4a35c6bb.ts
+HUB都會,mitv://64.32.9.99:7999/772ff0b79c81b9b3267dee5470978a2a.ts
+MTV 2,mitv://64.32.9.99:7999/28b6979ce5d74b4b3575eb474accc072.ts
+緯來日本,mitv://64.32.9.99:7999/ad24fed6fe05dc5c577b4015d9316e84.ts
+E! HD,mitv://64.32.9.99:7999/5bcb9a206a952f8e3b2163d8bb78e5bf.ts
+Fashion TV,mitv://64.32.9.99:7999/ad9569a00b0fab83682ba81d1a2fe381.ts
+Channel U,mitv://64.32.9.99:7999/72cfc0ba64b036164f523c88b0f12977.ts
+USA Network,mitv://64.32.9.99:7999/c34aa7da049dc3d33c55190f2e500929.ts
+Comedy Central,mitv://64.32.9.99:7999/81e5f7cfe40df78b779fdfd38f4fdd21.ts
+TVB Plus,mitv://64.32.9.99:7999/f8f98d75876a848366fc2da5a4806d11.ts
+TVBS綜藝,mitv://64.32.9.99:7999/457f3c305f1748ef86adcbe48a1b236a.ts
+TVN(TW),mitv://64.32.9.99:7999/b607e18fefcac8b36082c9e0bedf231b.ts
+MBC Korea,mitv://64.32.9.99:7999/77e3846d307bd96b48178c8c0471dbcb.ts
+TVN Asia,mitv://64.32.9.99:7999/63bf4bf0bcbd1269e1e3f09aa0cc84f5.ts
+Bravo,mitv://64.32.9.99:7999/5d63202225e4007203cd45ccd099c452.ts
+FASHIONTV,mitv://64.32.9.99:7999/121b7cc83ee6142da1b935c2c95e29ff.ts
+國興衛視,mitv://64.32.9.99:7999/f2738229b9ee50db13ab977a359835ba.ts
+Lifetime(TW),mitv://64.32.9.99:7999/5d2d91e500024e1e083dbad281d71b13.ts
+KIX[HK],mitv://64.32.9.99:7999/7a93f9d135118ea78ac34d47792a21af.ts
+RTHK31,mitv://64.32.9.99:7999/2eea15e7df675e74c10e8d7b221a3a4e.ts
+TVB娛樂新聞,mitv://64.32.9.99:7999/5e2093570001dfc40992637cb543a334.ts
+Z頻道,mitv://64.32.9.99:7999/bd24c969e96aa8d0b0ae22296ba90707.ts
+八大娛樂臺,mitv://64.32.9.99:7999/3bcf8951a99dff4605b3f21c11e05969.ts
+三立都會,mitv://64.32.9.99:7999/cd0b896515fae9475d42840ec6f9a547.ts
+中天娛樂HD,mitv://64.32.9.99:7999/afbdb12456fc0f895b0c315e8aa844db.ts
+ITV2,mitv://64.32.9.99:7999/8d5b38d3d6d9b2c079c4e9879fe71688.ts
+Oxygen,mitv://64.32.9.99:7999/5d7d0e02000371bd11a9584d7d2edb93.ts
+八大第1臺HD,mitv://64.32.9.99:7999/5a2e2c0f0595eb8087e7ddadafddf5a2.ts
+ELTA娛樂HD,mitv://64.32.9.99:7999/f5660bbc488e033089e6c0d19bac30b2.ts
+Lifetime,mitv://64.32.9.99:7999/93b08c3f3b3def2601282bb82cb93a7c.ts
+TVBS歡樂臺HD,mitv://64.32.9.99:7999/394463ece411c3c11bbff3a5b853e35c.ts
+JET綜合臺,mitv://64.32.9.99:7999/64e6e8733180b453dc65034d8e318969.ts
+TVBS精采臺,mitv://64.32.9.99:7999/5e209d7a0003881809b9fca1c90424cc.ts
+韓國娛樂臺,mitv://64.32.9.99:7999/8776b630fe99b5d7e791a82dc5a98510.ts
+ELTA日韓,mitv://64.32.9.99:7999/27e89c666caae6bc380e0f04e24e5df0.ts
+TJB SBS,mitv://64.32.9.99:7999/3df633192be55a3d486dcd01e22b47d6.ts
+ViuTVsix,mitv://64.32.9.99:7999/acf16aa5d3409c2a653c0e44c7e8621a.ts
+民視綜藝,mitv://64.32.9.99:7999/5e205c09000a48bf08ba5cf3048f23f5.ts
+ROCK Entertainment,mitv://64.32.9.99:7999/16dcb38757ae135c55660d4009c73d26.ts
+TLC Singapore,mitv://64.32.9.99:7999/be86835281910507f82b1f58bc37a143.ts
+靖天歡樂,mitv://64.32.9.99:7999/aec63be19fab03563c9446c91cf248d2.ts
+綜合,#genre#
+Astro AEC,mitv://64.32.9.99:7999/c3f0f57a18fd52727585d173a7d9cf28.ts
+ASTRO 華麗,mitv://64.32.9.99:7999/3403c9e5379b6add08f075e2eae0876e.ts
+ASTRO PRIMA,mitv://64.32.9.99:7999/b37e4f3d915a209598f46eb05d7b34d0.ts
+Astro Vaanavil,mitv://64.32.9.99:7999/5d0a786e7b60be4d911fafb4d9910070.ts
+Astro kplus,mitv://64.32.9.99:7999/e64f06b5faa0b100b4c87a67a657cf44.ts
+Astro QJ,mitv://64.32.9.99:7999/49949f8441d61cf9dac85618fbbb8406.ts
+ASTRO Aura,mitv://64.32.9.99:7999/5e5a3a5f0008df9b06a363b2b2f1d100.ts
+ASTRO Oasis,mitv://64.32.9.99:7999/7d190a274437aac3726f71f2fb807f5c.ts
+ASTRO Rania,mitv://64.32.9.99:7999/5152006d3f723a652af4da34724f26f6.ts
+TSN4(USA),mitv://64.32.9.99:7999/5e1deda1000686d4190dfd5d88c11502.ts
+CCTV1,mitv://64.32.9.99:7999/0d3db59df1cfd1229a0f9dad5be9f73b.ts
+CCTV1(backup),mitv://64.32.9.99:7999/ba0f175369a486d793c8788c9ce07839.ts
+CCTV12,mitv://64.32.9.99:7999/5318608cef9a9789252589a1eb3c5102.ts
+鳳凰衛視中文,mitv://64.32.9.99:7999/2e1416e03c5d5b88468e6ba1bdf80075.ts
+鳳凰香港,mitv://64.32.9.99:7999/02e951464b17777d78d69d2c83af22c8.ts
+翡翠台,mitv://64.32.9.99:7999/504c060715cce75a464f812d0fd8213a.ts
+TV3,mitv://64.32.9.99:7999/5acbe4749c78e25938f4e4009a03a5d7.ts
+潮州綜合,mitv://64.32.9.99:7999/5d733f14000481b30518ed178a511ca4.ts
+Indosiar,mitv://64.32.9.99:7999/3d9e2ab432819c436e8b1db250f07179.ts
+翡翠4K,mitv://64.32.9.99:7999/5a931ed422bf2e182d41abbca438a74b.ts
+翡翠台(備用),mitv://64.32.9.99:7999/919d3c4761c9626e5c07d5749ddcc0b5.ts
+Rai Italia,mitv://64.32.9.99:7999/3fc9cc7d86476b56c8c6b8e167ee56f3.ts
+三立臺灣台,mitv://64.32.9.99:7999/b5b68be2c53fcf0f0253e68115f8544f.ts
+8TV,mitv://64.32.9.99:7999/08eb6379ff004bde9c037b27366be5c9.ts
+TV1,mitv://64.32.9.99:7999/4daa90d70aec7d801bead4208a464f94.ts
+民視HD,mitv://64.32.9.99:7999/13867dd5ab8ccd05ec57627e2e2f0183.ts
+TVBS HD,mitv://64.32.9.99:7999/a46030cd390698cf534c68d96861376a.ts
+ELTA綜合HD,mitv://64.32.9.99:7999/a49022ca9d77259d2ecc9409b43f49c3.ts
+Rai 1,mitv://64.32.9.99:7999/5d73523c0007e4410563c23553d30133.ts
+大灣區衛視,mitv://64.32.9.99:7999/5e20b1a5000391d50a08c49b34990e62.ts
+TV9,mitv://64.32.9.99:7999/71b8e9061f3ed797b307ffa88f18aa2d.ts
+A&E,mitv://64.32.9.99:7999/354f787e14f1be3d5fa619f8ab99e3b1.ts
+Das Erste(ARD),mitv://64.32.9.99:7999/48f57ac2234d64d7bfcb38cd93e7f4b0.ts
+TVB1(US),mitv://64.32.9.99:7999/5f571aad82248fa7b77a8cb86c99fa3d.ts
+Viu TV,mitv://64.32.9.99:7999/5e20374a0004a382082ad169257532af.ts
+汕頭綜合,mitv://64.32.9.99:7999/5f3c1c51000e013c01197b4eec19f43a.ts
+GMM25,mitv://64.32.9.99:7999/3a9e525dce6494f50d9d1518e1179759.ts
+湖南衛視,mitv://64.32.9.99:7999/9bd13b44e4015c4f5cf7e3ab513cc657.ts
+NTV7,mitv://64.32.9.99:7999/b03655f8f23ef54a45009513b4489dec.ts
+テレビ朝日,mitv://64.32.9.99:7999/cc2540e6bbd4feee77e1a192b2c92041.ts
+FUJI TV,mitv://64.32.9.99:7999/fc49182f4215483bd79e21b4d2025c87.ts
+華視HD,mitv://64.32.9.99:7999/bd4e7f7bad08b193f4b87a8b8d53f40b.ts
+BBC America,mitv://64.32.9.99:7999/abd1d972f2a09b6d433c1f6d246d3eb3.ts
+NHK BS1,mitv://64.32.9.99:7999/76c8f3807771dbe8d41e0f0f5787bf10.ts
+Paramount Network,mitv://64.32.9.99:7999/02b535148c8f58955fd40945266a9033.ts
+東風37,mitv://64.32.9.99:7999/a7cbc7b521a857a7892ced08b7fd28b7.ts
+KBS,mitv://64.32.9.99:7999/a4c891966905d4f8723c00c4cf83b2f0.ts
+Nippon TV,mitv://64.32.9.99:7999/a31fa0b89139de36c3034fdd06b5e6fd.ts
+TVBS FHD,mitv://64.32.9.99:7999/5e5a50b80003514306faadee4fc55049.ts
+Vasantham,mitv://64.32.9.99:7999/749f787423fcf0482629e6a24bf68c80.ts
+台視HD,mitv://64.32.9.99:7999/5e204f4c0008675508889a30cc35010c.ts
+中視HD,mitv://64.32.9.99:7999/8ef1c34e601c33e96ed6150f230a47d4.ts
+RTM TV6[維護],mitv://64.32.9.99:7999/42321f37fb78ad933e6891fcc9c0c60a.ts
+公視HD,mitv://64.32.9.99:7999/4d658b300284b6cd9f539730a9cc0759.ts
+BBC 1,mitv://64.32.9.99:7999/b97ff87636514a9e583c7de40519a525.ts
+Channel 5,mitv://64.32.9.99:7999/c19de271faabff8f3fba13854687888e.ts
+Star 1,mitv://64.32.9.99:7999/cb41aa6436a2a149fbd7afb2cf75df61.ts
+TV Tokyo,mitv://64.32.9.99:7999/f5fadf9bb5781ea36bcc2ea76671c0db.ts
+KBS WORLD,mitv://64.32.9.99:7999/4602736365c5a8e1f3d790de5a0cd17b.ts
+TBS Channel,mitv://64.32.9.99:7999/797003eecced09476e74db4fedcc2be4.ts
+中天綜合HD,mitv://64.32.9.99:7999/9dfc1fb2fcd57cd3b2cd91d7ee07f39e.ts
+北京衛視,mitv://64.32.9.99:7999/c95d55b2b2392ee5862fd224a465efb0.ts
+Arirang TV,mitv://64.32.9.99:7999/85ac9cb54e6f2107f15a407fa1826104.ts
+NHK General,mitv://64.32.9.99:7999/73f9163ee21afc17d13ef3bb510d9bf1.ts
+TV Alhijrah,mitv://64.32.9.99:7999/281c98522ca23b67780b4729542c88f2.ts
+東方衛視,mitv://64.32.9.99:7999/b6d4e5b929e53b43dfe5c466adad6843.ts
+東森超視,mitv://64.32.9.99:7999/f1225862881e93c5988844b8946dc016.ts
+Suria,mitv://64.32.9.99:7999/530665052fddb5678d398323761e0234.ts
+浙江衛視,mitv://64.32.9.99:7999/5e20b5e20003da3f0a1952f6d5163746.ts
+澳視澳門,mitv://64.32.9.99:7999/d4a0807f063ba50ebfdede327fe9c158.ts
+緯來精彩,mitv://64.32.9.99:7999/b534653e33859a8a1cb3dea666f3ecc2.ts
+BBC Lifestyle,mitv://64.32.9.99:7999/b3aa7924d69e5c9e433adbbd15a9efb6.ts
+Luxe TV,mitv://64.32.9.99:7999/97a7d5f4adc4ddf18140b168da3a8793.ts
+江蘇衛視,mitv://64.32.9.99:7999/eeb54cfe7407dda067ab756d09c66020.ts
+FOX Los Angeles,mitv://64.32.9.99:7999/1b6f5dc1ce6283fa980e25cbdd1e1fd4.ts
+三立綜合,mitv://64.32.9.99:7999/48efb87cdd76c34f0229c1a27ee485ea.ts
+廣東珠江,mitv://64.32.9.99:7999/b00db3755750cb701cde4b8459330f5e.ts
+東森綜合,mitv://64.32.9.99:7999/615b817b2a73c4b28a10158847f40ddf.ts
+BS TBS,mitv://64.32.9.99:7999/aea8fb5d3955b2e65fd5d736d2a6ba32.ts
+Rai 3,mitv://64.32.9.99:7999/e681ecb9028ef2bb64f79ffe717e7742.ts
+中天亞洲,mitv://64.32.9.99:7999/0425f607a5d48f9090366fc60b78cebd.ts
+海峽衛視,mitv://64.32.9.99:7999/a943ed321013ce8adcbaec52370c1987.ts
+BBC Lifestyle(TW),mitv://64.32.9.99:7999/0770ab4e79df94b95fe91815f2acdf61.ts
+NHK World Japan,mitv://64.32.9.99:7999/45bd38e10a392eaec21ea7633c088963.ts
+TVB Drama(US),mitv://64.32.9.99:7999/5e20b09e000d003c0a04c3add860e706.ts
+八大綜藝,mitv://64.32.9.99:7999/31dfca5105236defdb41e13c4a7bdada.ts
+廈門衛視,mitv://64.32.9.99:7999/c7256bcbd0a7ab8ca05f62986311d1ea.ts
+民視第一台,mitv://64.32.9.99:7999/32cbfe04690cef552ed2106f83b6fe31.ts
+Australia Channel,mitv://64.32.9.99:7999/7919b7b1c14d280cdbaa52a2f4b3f574.ts
+TOKYO MX,mitv://64.32.9.99:7999/7388a9a98fa43d0a535872082bccc53d.ts
+TVB J1,mitv://64.32.9.99:7999/5e20a0510004121709c5149cf19ddfcb.ts
+八大綜合,mitv://64.32.9.99:7999/8d5e7616592fa8fd0216b42473dfafd3.ts
+南國都市,mitv://64.32.9.99:7999/5e20665e000bd63808e2b961176a144d.ts
+廣東衛視,mitv://64.32.9.99:7999/d2c528826c5027fb3f33f87ff38b9f91.ts
+河南衛視,mitv://64.32.9.99:7999/c83407ba184aee44bf6cab5a82e52715.ts
+深圳衛視,mitv://64.32.9.99:7999/fb8891107856c532c4a0d743b9af3321.ts
+FUN探索娛樂,mitv://64.32.9.99:7999/9c97a967d88d1b9289accedd64b9cf89.ts
+客家電視,mitv://64.32.9.99:7999/e461fa366e0cb3d40b41f4ec089cb488.ts
+民視臺灣台,mitv://64.32.9.99:7999/73dce994bf3494d8cee7994d908dbafc.ts
+靖天國際[維護],mitv://64.32.9.99:7999/1ef88780c6b5b2699083d6464cb83249.ts
+TVBS Asia,mitv://64.32.9.99:7999/c7704b7c2ca61e9c4eaf027c428443f1.ts
+中天亞洲FHD,mitv://64.32.9.99:7999/6ccb6fcb9c01d3dd58da13cb019a820a.ts
+中视箐采,mitv://64.32.9.99:7999/5e20b36300055af90a0f934045d8cf68.ts
+山東衛視,mitv://64.32.9.99:7999/d65114a287ecc39b43e0aca2a36d3fbf.ts
+東南衛視,mitv://64.32.9.99:7999/6158aef0c733ddccb0c5ef944e674b83.ts
+東森美洲,mitv://64.32.9.99:7999/7fc0e565e09112cca3092e3af1ddcc8c.ts
+貴州衛視,mitv://64.32.9.99:7999/4c724af46d994d5ac5c8a5ffafede712.ts
+BBC Two HD,mitv://64.32.9.99:7999/0076c1e0535f4db4dc645327ec44786b.ts
+中視經典,mitv://64.32.9.99:7999/4dd00631bb3d7a4da680aef9727b0551.ts
+年代MUCH,mitv://64.32.9.99:7999/81859515f0b43bbb3ed095ff4391e56a.ts
+廣州綜合,mitv://64.32.9.99:7999/6a9be6db7f8c872d35bf54e497bfa2ec.ts
+海南衛視,mitv://64.32.9.99:7999/5dd7f999000b97ae087edf2c9e661748.ts
+湖北衛視,mitv://64.32.9.99:7999/af0682e58d38f90b0e1426be8b681f74.ts
+緯來綜合,mitv://64.32.9.99:7999/09f59fcec8315cbb60a3a1eae756378d.ts
+八大精彩,mitv://64.32.9.99:7999/3a4cffead6089fc47b407acd9334696f.ts
+原住民電視,mitv://64.32.9.99:7999/e287cdb5f6fa690e04bfebca3fa1288d.ts
+江西衛視,mitv://64.32.9.99:7999/44f49696f9599bbba01ccdaca94ac408.ts
+Rai 2,mitv://64.32.9.99:7999/72b1d9cb8e5e77b4019e5f47896e5246.ts
+安徽衛視,mitv://64.32.9.99:7999/5da4a7570004db0b0ea4aa9104984367.ts
+靖天綜合,mitv://64.32.9.99:7999/495ed321434212935598d98c4d2ed8b1.ts
+香港衛視文旅臺,mitv://64.32.9.99:7999/5cf5eeedf43f64226565b0799528e32d.ts
+兒童,#genre#
+ASTRO Ceria,mitv://64.32.9.99:7999/ed7c631a10583c13c78de9a87dc48d51.ts
+Astro TutorTV,mitv://64.32.9.99:7999/f02e2021bb03f96d1693e296d0edb44c.ts
+CCTV14,mitv://64.32.9.99:7999/66327fcf3469795d7877634167faf268.ts
+Animax(HK),mitv://64.32.9.99:7999/062847f4f8fcafd2f1b8062737898d3a.ts
+Cartoon Network,mitv://64.32.9.99:7999/5e2fc6430009524b1168c437edbaf995.ts
+Disney Channel,mitv://64.32.9.99:7999/5e20213200002ba607d482840bf0122c.ts
+Disney Junior,mitv://64.32.9.99:7999/4fada09da77841c38b9aca07205619ad.ts
+Nickelodeon,mitv://64.32.9.99:7999/b90b2dc5bd9a850a7800bb38e3911be8.ts
+東森幼幼,mitv://64.32.9.99:7999/dc268ef7a5b369dbd9addd58fb361227.ts
+Disney XD,mitv://64.32.9.99:7999/31791bceef8f27c1e36b127cefdd072c.ts
+Nick Jr.,mitv://64.32.9.99:7999/5ddd30eb00002d540318851e59710529.ts
+DreamWorks(TW),mitv://64.32.9.99:7999/b8cca8b0f5c7a352331598ee5c10c436.ts
+Boomerang,mitv://64.32.9.99:7999/e2f7217479853ed06766569af64b68d8.ts
+Animax TW,mitv://64.32.9.99:7999/5a0f4e1f6a9f6241b76f2b16edb790cf.ts
+MOMO親子臺,mitv://64.32.9.99:7999/beade27bd3dd47e9a01a916d93aaca6e.ts
+CN卡通頻道,mitv://64.32.9.99:7999/61bfd7690b70a5b65953dc6fc88c6a83.ts
+TF1,mitv://64.32.9.99:7999/a4236cf4168cc34023623fe82b487315.ts
+尼克兒童臺,mitv://64.32.9.99:7999/6f551118aa255077be0b42d7e804c4a9.ts
+ABCアニメーション,mitv://64.32.9.99:7999/6faed12f3e505810867944ad5d0ffca2.ts
+BBC CBeebies,mitv://64.32.9.99:7999/b0ec8dd5eaa59332b35a35f0f88942dc.ts
+Okey,mitv://64.32.9.99:7999/49b6353f0e11b20beea4bda3a752064b.ts
+AT-X,mitv://64.32.9.99:7999/99a520c169cd539095993a95d2e08abc.ts
+Treehouse,mitv://64.32.9.99:7999/59d03440ee56d95d1ee096e810a72435.ts
+經典卡通臺,mitv://64.32.9.99:7999/4f6c89e62b36be0451bbfa2a5f8aba32.ts
+ELTV生活英語,mitv://64.32.9.99:7999/4b2b5a12b040ab6273c08683f2c4b347.ts
+精選動漫臺,mitv://64.32.9.99:7999/d643d3496b82530fce661887b11509fe.ts
+靖天育樂,mitv://64.32.9.99:7999/f8439979e11ac4ccd359cb1e6a04a8f6.ts
+靖天卡通,mitv://64.32.9.99:7999/71a8e2c838c65a77aa20a45d4f4574aa.ts
+龍華卡通,mitv://64.32.9.99:7999/789244e17fd47870e83ade350e1a5c3a.ts
+知識,#genre#
+CCTV9,mitv://64.32.9.99:7999/293310f2ec2ad01670e5126fbc1232e6.ts
+NAT GEO(USA),mitv://64.32.9.99:7999/9ac20846c43985ef63cae8cb831d93e0.ts
+Animal Planet,mitv://64.32.9.99:7999/5d753266000e23b40cb767dfe79b08ff.ts
+Discovery HD,mitv://64.32.9.99:7999/2929f628a4038653f33422f6cb0ea946.ts
+History,mitv://64.32.9.99:7999/f33eecc2cb87be09642c7a4e5fc1f8f9.ts
+NAT GEO WILD,mitv://64.32.9.99:7999/698783f389b16ed43167e0abc3f84507.ts
+Discovery(TW),mitv://64.32.9.99:7999/ad09fef029e62f4b30af0662ef392a7b.ts
+DISCOVERY SCIENCE TW,mitv://64.32.9.99:7999/c5785d5ff46a8504ea93cdc8e54b44ec.ts
+動物星球,mitv://64.32.9.99:7999/95c7e4fa671b3b4408b7ec955fa66b36.ts
+Discovery LIFE,mitv://64.32.9.99:7999/81229f7881d2a7e2e5bea2c29701a584.ts
+Animaux,mitv://64.32.9.99:7999/0be73e2718b380c5db20ca51233d0b42.ts
+Investigation Discovery,mitv://64.32.9.99:7999/7151f055ff9cc33a958c30e82e53e327.ts
+History(USA),mitv://64.32.9.99:7999/e6f513cdadd2dfebffc75c7df107e025.ts
+DMAX TW,mitv://64.32.9.99:7999/7c7cc8ebb284f0565c4930ec9a937b40.ts
+Outdoor Channel,mitv://64.32.9.99:7999/0972562be4fb83347aaf0add00d9a5d6.ts
+BBC Earth(tw),mitv://64.32.9.99:7999/110c80137bd1aa595d9fae0f54315a0c.ts
+Love Nature,mitv://64.32.9.99:7999/dded8360746224d62285de4c2ec995dd.ts
+BBC Earth,mitv://64.32.9.99:7999/97301c33d045aca1894738a7ce55c731.ts
+Discovery EVE TW,mitv://64.32.9.99:7999/5e252d713ab6daeaa5c2b5669a5c84be.ts
+HGTV,mitv://64.32.9.99:7999/aad7778aa88d5c9c3bde7661bc20abdd.ts
+HGTV(TW),mitv://64.32.9.99:7999/d512b01aa989673cb427404849679fac.ts
+DMAX,mitv://64.32.9.99:7999/7cbd5b412e5d445516f46a5118f474b6.ts
+MotorTrend,mitv://64.32.9.99:7999/cb9fd32f8dc3039d4e99dc6a4f3ec7ed.ts
+TLC,mitv://64.32.9.99:7999/2e37794e15a91664b0cb32291df0b0b8.ts
+CI罪案偵查,mitv://64.32.9.99:7999/d4cae7b40fcd8375c8dc2b32c7bcd4fa.ts
+DISCOVERY SCIENCE,mitv://64.32.9.99:7999/f88e07496e10ed2ad6ba597fe7477681.ts
+History 2,mitv://64.32.9.99:7999/bbf5949c70cb70f4db6bda9c45e78c7a.ts
+TV Brics,mitv://64.32.9.99:7999/97b9c0293492e1aa39cb021fb9b5f02f.ts
+Travel Channel TW,mitv://64.32.9.99:7999/95f0f290d57a13f3e0700bf37efb3fc9.ts
+CGTN Documentary,mitv://64.32.9.99:7999/3daa03dfd62a70191e75de5104e93fc9.ts
+Discovery ASIA,mitv://64.32.9.99:7999/891fb7e96e92f999b6762d523c470fe9.ts
+Discovery Velocity,mitv://64.32.9.99:7999/9371d2db717a3f6edbe8a6ebbea0b60c.ts
+Travel Channel,mitv://64.32.9.99:7999/f07318c77e2304a8ad874aecea5ad44d.ts
+Sky Documentaries,mitv://64.32.9.99:7999/a65dafadd93f34dbc0bd8153590eb9d0.ts
+Crime Investigation,mitv://64.32.9.99:7999/3cbef046e8c897e4884711b548e85847.ts
+INSIGHT TV,mitv://64.32.9.99:7999/947f18ffaf3a1042127a87aaa0122a4d.ts
+Love 4K Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+Fyi,mitv://64.32.9.99:7999/5b206fa7609009004833266962ddd9b5.ts
+幸福空間居家,mitv://64.32.9.99:7999/2a6bd2f9055a384aa2689dcebdb9a740.ts
+Sky Nature,mitv://64.32.9.99:7999/71fb54a400508da6c4a0870c671f7493.ts
+視納華仁紀實,mitv://64.32.9.99:7999/8d66bfd3fd123663869bb6a7b6f719c0.ts
+達文西頻道,mitv://64.32.9.99:7999/102147c607c2eb3d1ff1f3a1d8a3e18d.ts
+其它,#genre#
+Astro TVS,mitv://64.32.9.99:7999/5932946f50f9455d75473a4e232a5175.ts
+CCTV7,mitv://64.32.9.99:7999/d687fa2635f7e76d9f1c30e957c73673.ts
+CCTV10,mitv://64.32.9.99:7999/89bfe49999228872f3a8aef95cddc967.ts
+CCTV17,mitv://64.32.9.99:7999/5e2083ed0009cedc09562f7469335548.ts
+AFN(TW),mitv://64.32.9.99:7999/74d7f5493e1d76fddae600038bf0df66.ts
+有線18臺,mitv://64.32.9.99:7999/6544b26fc54d3cd1ba3025316b4f599a.ts
+PET CLUB TV[維護],mitv://64.32.9.99:7999/55cb5e32266d0c30ce6531ed0d13f744.ts
+美食星球,mitv://64.32.9.99:7999/114d4bdfcd993a587dbda655a2aeb984.ts
+METRO TV,mitv://64.32.9.99:7999/e0894fad16641d4066fdf46255d89a5d.ts
+FOOD Network HD,mitv://64.32.9.99:7999/942b35e6200587111339a78e33fa3afc.ts
+TV5 Monde Style,mitv://64.32.9.99:7999/a44e7743866bfb287f91ed2735685dff.ts
+LiveABC互動英語,mitv://64.32.9.99:7999/81bd57c2dc7672ff381e7e3d5ba23f09.ts
+亞洲旅遊臺,mitv://64.32.9.99:7999/5dd7fc99000f19bc088a98122bee9a59.ts
+好訊息1,mitv://64.32.9.99:7999/81f86e7ddf3d684988e5ce6606c63e0f.ts
+NHK Education,mitv://64.32.9.99:7999/7b01ee4d8f844112c24e8a2f276c2d4f.ts
+民視旅遊,mitv://64.32.9.99:7999/5e205ea30002744e08c48482d54bf9a8.ts
+好訊息 2,mitv://64.32.9.99:7999/c324875cb7e6f305949456cb4dff8350.ts
+人間衛視,mitv://64.32.9.99:7999/26a7cf7e8780b84f97af82b28af85ae2.ts
+大愛一臺HD,mitv://64.32.9.99:7999/b12bd0320fefe88908195bb8edfca65a.ts
+大愛二臺HD,mitv://64.32.9.99:7999/df823d008807df50c1e578efc11afdf7.ts
+兵團衛視,mitv://64.32.9.99:7999/5e20bd4d000e2f550a364f939389ce5f.ts
 
 
 香港直播,#genre#
