@@ -311,7 +311,8 @@ HOY国际财经台,https://cdn11.163189.xyz/163189/2c86601a7180416e
 HOY剧集台,https://cdn11.163189.xyz/163189/c4df21397505587b
 HOY生活台,https://cdn11.163189.xyz/163189/c88d2a936daf88fb
 HOY怪谈台,https://cdn11.163189.xyz/163189/35f8613e99c59724
-HOY体育台,https://cdn11.163189.xyz/163189/19256090154aa9e9
+HOY体育台,https://cdn13.178.indevs.in/163189/19256090154aa9e9
+
 CCTV1,https://cdn13.178.indevs.in/163189/bea1d91d91364062
 CCTV13,https://cdn13.178.indevs.in/163189/790bc5f7f0f06879
 重温经典,https://cdn13.178.indevs.in/163189/21d79187db6e9793
