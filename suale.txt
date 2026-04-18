@@ -978,13 +978,8 @@ CCTV世界地理,http://61.184.46.85:85/tsfile/live/1025_1.m3u8?key=txiptv&playl
 明珠台,http://120.198.86.186:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
-翡翠台,http://120.238.84.45:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
-翡翠台,http://120.198.103.68:9901/tsfile/live/1007_1.m3u8
-
-
-翡翠台,http://120.198.84.146:9901/tsfile/live/1020_1.m3u8
 
 
 翡翠台,http://120.238.94.82:9901/tsfile/live/1007_1.m3u8
