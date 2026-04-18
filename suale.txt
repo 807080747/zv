@@ -312,6 +312,7 @@ CCTV-17咪咕,http://t.061899.xyz/tl/tl.php?id=cctv17
 凤凰资讯,http://r.jdshipin.com/0Rp07
 
 凤凰香港,http://r.jdshipin.com/yDoTN
+凤凰电影台,http://www.liyajun.top:7088/udp/239.253.93.81:6247
 
 
 
@@ -1248,16 +1249,14 @@ CHU,http://cdn6.163189.xyz/163189/chu
 
 
 
-增加港台,#genre#
-凤凰电影台,http://www.liyajun.top:7088/udp/239.253.93.81:6247
-华数动画电影,http://119.123.179.9:8086/hls/78/index.m3u8
+电影9,#genre#
+
 华数电影,http://hmfs.f3322.net:3388/hls/40/index.m3u8
 
 邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
 邵氏喜剧,http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
 邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
 邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
-奥地利红牛,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 最新电影,#genre#
 三傻大闹宝莱坞,https://www.360jiexi.com/player/?url=https://vod.360zyx.vip/20260116/kOsEpjYP/index.m3u8
@@ -1443,8 +1442,7 @@ CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive
 
 
 
-翡翠台,http://t.061899.xyz/tl/js/js.php?id=tvbfct
-翡翠台,http://t.061899.xyz/tl/js/js.php?id=tvbfct
+
 
 翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct
 
@@ -1463,7 +1461,7 @@ CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive
 澳视综艺,http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
 澳门Macau,http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
 
-凤凰电影台,http://www.liyajun.top:7088/udp/239.253.93.81:6247
+
 
 
 🇹🇼台湾,#genre#
@@ -1475,52 +1473,31 @@ CHC电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 
-东森新闻,http://211.72.174.95:8138/0.ts
 
 东森新闻,http://211.72.174.95:8138/0.ts
 民视新闻,http://211.72.174.95:8117/0.ts
-中视HD,http://211.72.174.95:8113/0.ts
+
 华视HD,http://211.72.174.95:8114/0.ts
 公视,http://211.72.174.95:8116/0.ts
 民视,http://211.72.174.95:8115/0.ts
 台视HD,http://211.72.174.95:8112/0.ts
-凤凰中文,http://vallest.uk/livehttpplay?channel_id=30014
-凤凰资讯,http://vallest.uk/livehttpplay?channel_id=30015
-凤凰香港,http://vallest.uk/livehttpplay?channel_id=30016
-无线新闻,http://bxtv.3a.ink/api.php?id=wxxw
+
+
 Now新闻,http://iptv.4666888.xyz/iptv2A.php?id=NOW新闻
-Now新闻,http://bxtv.3a.ink/api.php?id=now
+
 
 
 镜新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
 
 
-Wild TV (1080p),https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
+
 新唐人,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
-Discovery Asia 
+
 BBC EARTH,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 唯心电视,https://5ddce30eb4b55.streamlock.net/wxtv/wxtvnow.stream/playlist.m3u8 
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
-🇺🇸美国,#genre# 
-News max,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-
-
-
-wwe,https://fl3.moveonjoy.com/WWE/index.m3u8
-movie sphere,https://samsunguk-moviesphereuk-samsung-uk-s7xaa.amagi.tv/ts-eu-w1-n2/playlist/samsunguk-moviesphereuk-samsung-uk/playlist.m3u8
-vivid-red,https://oklivetv.com/xplay/m3u8/N1VQM0VBOUNWbVZwQzZOZUpSR3JVZz09.m3u8
-4 Music,https://itthls.wns.live/hls/stream.m3u8
-AMCEast,https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
-
-
-NHK_World,https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-NHK,https://nhk4.mov3.co/hls/nhk.m3u8
-fujitv4,https://fujitv4.mov3.co/hls/fujitv.m3u8
-Neco Channel,https://nl00.utako.moe/neco/index.m3u8
-MUSIC ON! TV (1080p),https://43.100.9.67/api/streams/live/cs325/1080p/mpegts
-MTV (1080p),https://hkali.youyouko.com/api/streams/live/cs323/1080p/mpegts
 
 🇰🇷韩国,#genre#
 ABN TV (720p),https://vod2.abn.co.kr/IPHONE/abn.m3u8
@@ -1604,30 +1581,12 @@ Wion News,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 
 
 港澳特殊台测试,#genre#
-翡翠,http://hls.168.us.kg/u/81/master.m3u8
 
 
 
 TVB翡翠,http://mytv.cdn.loc.cc/o12.php?id=fct
 TVB明珠,http://mytv.cdn.loc.cc/o12.php?id=mzt
-翡翠台,https://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
 
-
-
-
-ViuTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
-TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
-
-
-
-
-
-RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-香港电台32号,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-香港电台33号,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-无线星河,https://smt.1678520.xyz/smt3.2.1.php?id=Xinhe
-星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
-星空音乐,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
 
 
 
@@ -1664,14 +1623,10 @@ BBC地球,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStud
 翡翠一台 - CH01,http://iptv.4666888.xyz/iptv2A.php?id=TVB1
 翡翠一台 - CH01,http://iptv.4666888.xyz/iptv2A.php?id=TVB1
 无线翡翠 - CH02,http://mytv.cdn.loc.cc/o12.php?id=fct
-
-
 明珠翡翠 - CH05,http://iptv.4666888.xyz/iptv2A.php?id=TVB明珠
 无线千禧 - CH07,http://iptv.4666888.xyz/iptv2A.php?id=TVB千禧经典
 
 
-TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-TVBS亚洲,https://live.tvfix.org/live/tvbs/index.m3u8
 
 
 广播电台,#genre#
@@ -1685,29 +1640,6 @@ TVBS亚洲,https://live.tvfix.org/live/tvbs/index.m3u8
 英语环球,http://sk.cri.cn/am846.m3u8
 粤语国际,http://sk.cri.cn/hxfh.m3u8
 玫瑰测试_8888,#genre#
-
-松1,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
-松2,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
-松3,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
-惊艳,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
-潘朵啦,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
-彩虹,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
-精艳,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
-完美台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
-松1,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
-松2,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
-彩虹,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
-潘朵拉完美,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
-极限,http://applivewatermark.imfc.cn:80/live/dfb0ffc03f9f1f79deb6fe47a287f4fa.flv
-松视3,http://applivewatermark.imfc.cn:80/live/0dca2f0a283f9b503dac1cc5a3d80011.flv
-惊艳,http://applivewatermark.imfc.cn:80/live/3188c852a5fd96ce5ff6a46b1264381f.flv
-K频道,http://applivewatermark.imfc.cn:80/live/c2a94920138435f1e82706d84caae385.flv
-
-彩虹e,http://applivewatermark.imfc.cn:80/live/02ba8de8ed81d450de77ee651805b363.flv
-\精艳,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
-潘朵啦,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
-彩虹电影,http://applivewatermark.imfc.cn:80/live/1b5beef1849a7a6de52cb0413b68b91a.flv
-
 
 
 探花1,https://t33.cdn2020.com/video/m3u8/2025/10/18/773549ea/index.m3u8
@@ -1809,30 +1741,11 @@ K频道,http://applivewatermark.imfc.cn:80/live/c2a94920138435f1e82706d84caae385
 小姑子的味道,https://s1.bfllvip.com/video/xiaoguzideweidao/HD/index.m3u8
 小妓女法外之徒,https://s1.bfllvip.com/video/xiaojinvfawaizhitu/HD/index.m3u8
 
-
-
-
-驚豔台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
-玩美台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
-香蕉台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
-松視1台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
-松視2台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
-松視3台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
-24×7东京热,http://1tv41.icu:8080/LaLa34@yahoo.com/LaLa7678/159976
-24×7日本道,http://1tv41.icu:8080/LaLa34@yahoo.com/LaLa7678/159958
 欧美版粉红,https://epg.pw/stream/fb5cce21916575588fb4b8eb6f4a0cdc613e997d253cb4c73a5ebaa574132722.m3u8
 欧美版二本道,https://epg.pw/stream/7cfd3e9a720e7d3e541761c6a14ebe14cf97aeef86c6b510d0f43325b4f33a5c.m3u8
 欧美版香蕉,https://epg.pw/stream/81680c1022b7ec01b57a0707df4dafb2f0f1bc38030491fccd479cc7c5cf986b.m3u8
 
 
-jgirl,https://z88.ubtvfans.com/live/rx5/3151/8b2b585365f9d90200c61f86dd76385d/index.m3u8
-
-Playboy LA,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6280/index.m3u8
-Playboy Plus,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6242/index.m3u8
-Sexy Hot,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6282/index.m3u8
-BCU Charm HD,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/18053/index.m3u8
-Brazzers TV Europe,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12113/index.m3u8
-Hustler HD,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/244/index.m3u8
 Babes TV,http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/164496
 Dorcel TV,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/245/index.m3u8
 Erox HD,http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6296/index.m3u8
