@@ -1156,45 +1156,57 @@ TVB星河,http://o11.163189.xyz/stream/live/tvbxh/
 tvbp,http://o11.163189.xyz/stream/tvb/tvbp/
 明珠,http://o11.163189.xyz/stream/tvb/mzt
 ✈️1678520,#genre#
-翡翠台_SMT,http://smt.1678520.xyz/smt3.2.3.php?id=jade_twn
-翡翠台_SMT,http://smt.1678520.xyz/smt3.2.3.php?id=jade_xue
-无线新闻台_SMT,http://smt.1678520.xyz/smt3.2.3.php?id=inews_twn
-明珠台_SMT,http://smt.1678520.xyz/smt3.2.3.php?id=pearl_twn
-TVB PLUS_SMT,http://smt.1678520.xyz/smt3.2.3.php?id=j2_twn
-ViuTV_SMT,http://smt.1678520.xyz/smt3.2.3.php?id=viu1_twn
-ViuTVSix_SMT,http://smt.1678520.xyz/smt3.2.3.php?id=viusix_twn
-HOY资讯台_SMT,http://smt.1678520.xyz/smt3.2.3.php?id=hoycaijing_twn
-TVB星河_SMT,http://smt.1678520.xyz/smt3.2.3.php?id=Xinhe
-华丽翡翠台_SMT,http://smt.1678520.xyz/smt3.2.3.php?id=Tvbjade
-千禧经典台_SMT,http://smt.1678520.xyz/smt3.2.3.php?id=Tvbclassic
-TVB娱乐新闻台_SMT,http://smt.1678520.xyz/smt3.2.3.php?id=Tvbentertainment
-天映频道_SMT,http://smt.1678520.xyz/smt3.2.3.php?id=Celestial
-天映经典_SMT,http://smt.1678520.xyz/smt3.2.3.php?id=Celestial2
-爱奇艺_SMT,http://smt.1678520.xyz/smt3.2.3.php?id=Qiyi
-八度空间_SMT,http://smt.1678520.xyz/smt3.2.3.php?id=TV8
-Astro欢喜台_SMT,http://smt.1678520.xyz/smt3.2.3.php?id=Huahee
-Astro AOD_SMT,http://smt.1678520.xyz/smt3.2.3.php?id=Aodhd
-Astro AEC_SMT,http://smt.1678520.xyz/smt3.2.3.php?id=AEC
-Astro QJ_SMT,http://smt.1678520.xyz/smt3.2.3.php?id=Quanjia
-RTHK-31,https://smt.1678520.xyz/smt3.2.1.php?id=rhk31_twn
-RTHK-32,https://smt.1678520.xyz/smt3.2.1.php?id=rhk32_twn
-星河,https://smt.1678520.xyz/smt3.2.1.php?id=Xinhe
-📶香港通行📶,#genre#
-Mytv华语剧台,http://pull-vivek.speedws.com/live/aaahyjt.flv
-Mytv亚洲剧台,http://pull-vivek.speedws.com/live/aaayzjt.flv
-Mytv黄金华剧台,http://pull-vivek.speedws.com/live/aaahjhj.flv
-爱ANI,http://pull-vivek.speedws.com/live/aaaAnimax.flv
-Mytv千禧经典,http://pull-vivek.speedws.com/live/aaamqxjd.flv
-Mytv,http://pull-vivek.speedws.com/live/aaaSUPERFREE.flv
-Mytv黄金翡翠台,http://pull-vivek.speedws.com/live/aaahjfc.flv
-Mytv戏曲台,http://pull-vivek.speedws.com/live/aaaxqt.flv
-天映经典,http://pull-vivek.speedws.com/live/aaatyjd.flv
-Mytv跑马台,http://pull-vivek.speedws.com/live/aaapm18.flv
-ViuTV,http://pull-vivek.speedws.com/live/aaaviutv.flv
-ViuTV6,http://pull-vivek.speedws.com/live/aaaviutv6.flv
-美亚电影,http://pull-vivek.speedws.com/live/aaamydy.flv
-AXN,http://pull-vivek.speedws.com/live/aaaAXN.flv
-ROCK综艺娱乐,http://pull-vivek.speedws.com/live/aaarock1.flv
+中天新聞,http://43.251.226.110:8880/play/5497.m3u8
+民視新聞,http://43.251.226.110:8880/play/5498.m3u8
+非凡新聞,http://43.251.226.110:8880/play/5499.m3u8
+台視新聞,http://43.251.226.110:8880/play/5500.m3u8
+民視新聞,http://43.251.226.110:8880/play/5501.m3u8
+寰宇新聞,http://43.251.226.110:8880/play/5502.m3u8
+中視新聞,http://43.251.226.110:8880/play/5503.m3u8
+TVBS新聞,http://43.251.226.110:8880/play/5504.m3u8
+東森新聞,http://43.251.226.110:8880/play/5505.m3u8
+凤凰卫视,http://43.251.226.110:8880/play/5506.m3u8
+鳳凰資訊,http://43.251.226.110:8880/play/5507.m3u8
+湾湾频道,#genre#
+中天新闻台,http://43.251.226.110:8880/play/5508.m3u8
+寰宇新闻台,http://43.251.226.110:8880/play/5509.m3u8
+民視第一台,http://43.251.226.110:8880/play/5510.m3u8
+民視第一台,http://43.251.226.110:8880/play/5511.m3u8
+民視台灣台,http://43.251.226.110:8880/play/5512.m3u8
+民視台灣台,http://43.251.226.110:8880/play/5513.m3u8
+民視,http://43.251.226.110:8880/play/5514.m3u8
+民視,http://43.251.226.110:8880/play/5515.m3u8
+ARIRANG阿里郎頻道,http://43.251.226.110:8880/play/5516.m3u8
+原住民族電視台,http://43.251.226.110:8880/play/5517.m3u8
+公視戲劇,http://43.251.226.110:8880/play/5518.m3u8
+民視影劇,http://43.251.226.110:8880/play/5519.m3u8
+經典電影台,http://43.251.226.110:8880/play/5520.m3u8
+民視綜藝,http://43.251.226.110:8880/play/5521.m3u8
+豬哥亮歌廳秀,http://43.251.226.110:8880/play/5522.m3u8
+民視旅遊,http://43.251.226.110:8880/play/5523.m3u8
+滾動力 Rollor,http://43.251.226.110:8880/play/5524.m3u8
+經典卡通台,http://43.251.226.110:8880/play/5525.m3u8
+精選動漫台,http://43.251.226.110:8880/play/5526.m3u8
+ELTV生活英語台,http://43.251.226.110:8880/play/5527.m3u8
+NHK 新聞資訊台,http://43.251.226.110:8880/play/5528.m3u8
+民視新聞,http://43.251.226.110:8880/play/5529.m3u8
+民視新聞,http://43.251.226.110:8880/play/5530.m3u8
+半島國際新聞台,http://43.251.226.110:8880/play/5531.m3u8
+CNBC Asia 財經台,http://43.251.226.110:8880/play/5532.m3u8
+DW德國之聲,http://43.251.226.110:8880/play/5533.m3u8
+粤港频道,#genre#
+翡翠台,http://43.251.226.110:8880/play/5534.m3u8
+翡翠台,http://43.251.226.110:8880/play/5535.m3u8
+明珠台,http://43.251.226.110:8880/play/5536.m3u8
+TVB Plus,http://43.251.226.110:8880/play/5537.m3u8
+无线新闻,http://43.251.226.110:8880/play/5538.m3u8
+TVB星河,http://43.251.226.110:8880/play/5539.m3u8
+华丽翡翠台,http://43.251.226.110:8880/play/5540.m3u8
+澳视澳门,http://43.251.226.110:8880/play/5541.m3u8
+广东珠江,http://43.251.226.110:8880/play/5542.m3u8
+广东体育,http://43.251.226.110:8880/play/5543.m3u8
+广州综合,http://43.251.226.110:8880/play/5544.m3u8
+广州综合,http://43.251.226.110:8880/play/5545.m3u8
 咪咕,#genre#
 CCTV-01咪咕,http://go.bkpcp.top/mg/cctv1
 CCTV-01咪咕,http://j.s.bkpcp.top/jj/cctv1
