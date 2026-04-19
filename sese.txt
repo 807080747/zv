@@ -1397,12 +1397,6 @@ CCTV16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
 CCTV5+体育赛事,http://74.91.26.218:82/live/cctv5p.m3u8
 广东体育,http://74.91.26.218:82/live/cctv5p.m3u8
 
-香港省,#genre#
-翡翠台,http://74.91.26.218:82/live/jade.m3u8
-无线新闻台,http://74.91.26.218:82/live/inews.m3u8
-TVB Plus,http://74.91.26.218:82/live/j2.m3u8
-TVB星河,http://74.91.26.218:82/live/tvbxh.m3u8
-TVB千禧经典台,http://74.91.26.218:82/live/tvbjd.m3u8
 
 台湾省,#genre#
 中视,http://74.91.26.218:82/live/ctv.m3u8
