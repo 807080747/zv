@@ -314,39 +314,6 @@ CCTV13,https://cdn13.178.indevs.in/163189/790bc5f7f0f06879
 
 
 
-港组播,#genre#
-
-無線新聞台,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283852 
-鳳凰HD,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283854 
-長城精品,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283855 
-大灣區衛視,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283856 
-安徽國際,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283858 
-TVBe,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283859 
-海峽衛視,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283866 
-娛樂新聞台,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283867 
-鳳凰美洲台,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283869 
-東方衛視,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283871 
-江蘇國際,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283873 
-Tvbs亞洲台,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283874 
-民視,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283888 
-三立國際台,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283889 
-華視新聞台,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283890 
-台視綜合台,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283891 
-東森中國台,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283892 
-東森衛視台,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283893 
-東森戲劇台,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283894 
-東森財經台,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283895 
-東森美洲台,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283896 
-台視新聞台,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283897 
-天下衛視台,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283898 
-新鮮戲劇台,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283899 
-東森幼幼台,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283902 
-TVB1,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/482512 
-TVB戲劇,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/482513 
-TVBe,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/482514 
-CCTV4,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/482527 
-蕭山綜合,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/4825278
-NOW英超1台,http://lunar.pm:8080/melodyg/uQnLQnTkRj/117457
 
 凤凰中文,p3p://108.181.32.169:38254/6410229e000655dd98612e41401e3e7d
 凤凰资讯,p3p://108.181.32.169:38254/641022be000e5cc69861ad4f5a025336
@@ -386,8 +353,6 @@ NOW新闻台,p3p://108.181.32.169:38254/6410254c0006df63986ba60f292a7500
 Now体育英超,p3p://108.181.32.169:38254/64b8f92b000089e02be334b114c32320
 Now plus,p3p://108.181.32.169:38254/64b8f962000df4a32be40ef90d9f4afd
 NOW体育台,p3p://108.181.32.169:38254/6410211d00048968985b4de16d6e5b6a
-EPL nsports 英超4keng,p3p://108.181.32.
-
 
 
 
