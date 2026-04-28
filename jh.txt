@@ -6458,53 +6458,7 @@ GTN,http://dodge.lwfz.fun:8800/rtp/239.16.10.175:2000
 临颍综合,http://dodge.lwfz.fun:8800/rtp/239.16.10.180:2000
 河南乡村频道,http://dodge.lwfz.fun:8800/rtp/239.16.10.181:2000
 河南国际频道,http://dodge.lwfz.fun:8800/rtp/239.16.10.182:2000
-🍧7xd9,#genre#
-福建少儿,http://nn.7x9d.cn/福建.php?id=2
-海峡,http://nn.7x9d.cn/福建.php?id=3
-http://nn.7x9d.cn/福建.php?id=4
-东南,http://nn.7x9d.cn/福建.php?id=5
-http://nn.7x9d.cn/福建.php?id=6
-http://nn.7x9d.cn/福建.php?id=7
-福建旅游,http://nn.7x9d.cn/福建.php?id=8
-福建经济,http://nn.7x9d.cn/福建.php?id=9
-福建文体,http://nn.7x9d.cn/福建.php?id=10
-深圳4k,http://nn.7x9d.cn/深圳最新.php?id=szws4k
-深圳卫视,http://nn.7x9d.cn/深圳最新.php?id=szws
-深圳都市,http://nn.7x9d.cn/深圳最新.php?id=szds
-深圳电视剧,http://nn.7x9d.cn/深圳最新.php?id=szdsj
-深圳财经生活,http://nn.7x9d.cn/深圳最新.php?id=szcj
-深圳少儿,http://nn.7x9d.cn/深圳最新.php?id=szse
-深圳国际,http://nn.7x9d.cn/深圳最新.php?id=szgj
-深圳购物,http://nn.7x9d.cn/深圳最新.php?id=szyh
-深圳移动,http://nn.7x9d.cn/深圳最新.php?id=szyd
-河南卫视,http://nn.7x9d.cn/河南.php?id=hnws
-河南都市 ,http://nn.7x9d.cn/河南.php?id=hnds
-河南民生 ,http://nn.7x9d.cn/河南.php?id=hnms
-河南电视剧 ,http://nn.7x9d.cn/河南.php?id=hndsj
-河南新闻 ,http://nn.7x9d.cn/河南.php?id=hnxw
-河南公共 ,http://nn.7x9d.cn/河南.php?id=hngg
-河南乡村 ,http://nn.7x9d.cn/河南.php?id=hnxc
-河南梨园 ,http://nn.7x9d.cn/河南.php?id=hnly
-海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
-三沙,http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
-海南新闻,http://nn.7x9d.cn/地方台8563/海南.php?id=xwpd
-海南自贸,http://nn.7x9d.cn/地方台8563/海南.php?id=jjpd
-海南文旅,http://nn.7x9d.cn/地方台8563/海南.php?id=wlpd
-石家庄,http://nn.7x9d.cn/石家庄.php?id=4
-石家庄城市服务 ,http://nn.7x9d.cn/石家庄.php?id=5
-石家庄文化娱乐 ,http://nn.7x9d.cn/石家庄.php?id=6
-陕西,http://nn.7x9d.cn/陕西.php?id=sxws
-陕西新闻资讯 ,http://nn.7x9d.cn/陕西.php?id=sxxwzx
-陕西都市青春 ,http://nn.7x9d.cn/陕西.php?id=sxdsqc
-陕西移动 ,http://nn.7x9d.cn/陕西.php?id=sxyd
-陕西体育休闲 ,http://nn.7x9d.cn/陕西.php?id=sxtyxx
-西安新闻综合, http://nn.7x9d.cn/西安.php?id=1
-西安都市频道, http://nn.7x9d.cn/西安.php?id=2
-西安商务咨询, http://nn.7x9d.cn/西安.php?id=3
-西安戏剧影视, http://nn.7x9d.cn/西安.php?id=4
-西安丝路频道, http://nn.7x9d.cn/西安.php?id=5
-西安移动,http://nn.7x9d.cn/西安.php?id=7
-安陆,http://nn.7x9d.cn/安陆.php?
+
 🐹山西,#genre#
 晋中综合频道[1920*1080],https://live.jztvnews.cn/lsdream/40Xc057/1000/live.m3u8
 晋中公共频道[1920*1080],https://live.jztvnews.cn/lsdream/8i6Yd67/1000/live.m3u8
@@ -6885,22 +6839,8 @@ GRTN生活频道,http://111.170.156.74:3344/广东地方/gdtv.php?id=102
 贵州移动,http://111.170.156.74:3344/地方/地方/guizhou/guizhou.php?id=gzyd
 仁怀频道,http://111.170.156.74:3344/地方/地方/guizhou/renhuai.php
 🍓重庆,#genre#
-重庆新闻,http://rqd.mytvh.top:10595/stream/channelid/736817113?ticket=80f10d6f979806193071b977ad8539d6744530f4&profile=pass
-重庆影视,http://rqd.mytvh.top:10595/stream/channelid/1553528685?ticket=5b8ad0db29377780c71ee2f6cd2f01d3d677e8c9&profile=pass
-重庆社会与法,http://rqd.mytvh.top:10595/stream/channelid/1129647994?ticket=f8e7f09220a50c4decb6646f0b2ee5d3c2e38727&profile=pass
-重庆红岩文化,http://rqd.mytvh.top:10595/stream/channelid/630177182?ticket=7c06e760231aab0228a53554028b184edd32c4e3&profile=pass
-重庆文体娱乐,http://rqd.mytvh.top:10595/stream/channelid/2094798459?ticket=a4946d6e0ada7abf6b14194599c7a0b81ab5f6d5&profile=pass
-重庆农村,http://rqd.mytvh.top:10595/stream/channelid/846827091?ticket=96cdcc5763795b1ef6c5b51b622342ba58614510&profile=pass
-重庆少儿,http://rqd.mytvh.top:10595/stream/channelid/927829299?ticket=117b828cb9a3bd613067e33be0be8bbf75dca537&profile=pass
-重庆红叶,http://rqd.mytvh.top:10595/stream/channelid/405441860?ticket=5132ea651d2335392a14ccae98b4482c24dfc92b&profile=pass
-重温经典,http://rqd.mytvh.top:10595/stream/channelid/7355272?ticket=cca07e859118f58839bc2a4c3f377af28b2adc19&profile=pass
-重庆汽摩,http://rqd.mytvh.top:10595/stream/channelid/1501691897?ticket=822af25ad30c120a313353ef9290c87786d12e45&profile=pass
-重庆移动,http://rqd.mytvh.top:10595/stream/channelid/1050886455?ticket=f1c2fc19b82fd7cb329e7612bd85cdb7635f6e4b&profile=pass
-导视,http://rqd.mytvh.top:10595/stream/channelid/843666363?ticket=cec9a118efeb23d0da1f058c1b3fac4de430d813&profile=pass
-铜梁,http://rqd.mytvh.top:10595/stream/channelid/773884657?ticket=aaf47a69cb6989717e79e6e27f76f71223698038&profile=pass
-潼南,http://rqd.mytvh.top:10595/stream/channelid/2053461416?ticket=15ceaa6f1490168f2db542daf614a09b8f85db5c&profile=pass
-重庆新闻|澜露直播,http://8.138.7.223/tv/cbg.php?id=3
-重庆新闻,http://8.138.7.223/tv/cbg2.php
+
+
 巴南,http://live.cqbntv.com/bnmc/tv0709.m3u8
 璧山,http://222.179.42.129:8181/hls1.m3u8
 涪陵电视台|澜露直播,http://183.64.215.48:1002/1.m3u8
@@ -6916,10 +6856,9 @@ GRTN生活频道,http://111.170.156.74:3344/广东地方/gdtv.php?id=102
 酉阳综合|澜露直播,https://yypull.cbg.cn/applive/youytv01/playlist.m3u8
 忠县综合|澜露直播,https://yypull.cbg.cn/applive/zxtv2/playlist.m3u8
 🚀地方源,#genre#
-大厂,http://36.108.172.237:10125/stream/channelid/1911243461?ticket=c9e45b38085dab7e71349888e1d6a74cd8ed89d3&profile=pass
-廊坊新闻高清,http://36.108.172.237:10125/stream/channelid/285472695?ticket=29b422b22dc891bd8c3015e31450f54061972a7e&profile=pass
-廊坊公共高清,http://36.108.172.237:10125/stream/channelid/1430420048?ticket=7954759383dae856ad95cc98fe487c9ac0a654a8&profile=pass
-淄博新闻,http://36.108.172.237:10187/stream/channelid/911510666?ticket=146d1670edb40aa1f2f5f10c647bb945825c1500&profile=pass
+
+
+
 淄博文旅,http://36.108.172.237:10187/stream/channelid/1007824527?ticket=81213c34c679527e630ca5a6489b87c91b159d38&profile=pass
 淄博民生,http://36.108.172.237:10187/stream/channelid/93679531?ticket=c750b43989a120caecffb90bfce43e2fa4127d17&profile=pass
 淄博影视,http://36.108.172.237:10187/stream/channelid/5840009?ticket=5dea9b3b0059158870a7f53c822cbb644ecc0a63&profile=pass
@@ -6991,9 +6930,8 @@ BLTV,http://36.108.172.237:10050/stream/channelid/1066346531?ticket=b7fed315ac32
 濮阳-新闻综合,http://36.108.172.237:10170/stream/channelid/1591991754?ticket=c6d2896fac15cd796b004ad8032e9a58e8d7a908&profile=pass
 濮阳-科教,http://36.108.172.237:10170/stream/channelid/2076387231?ticket=8cd49a1ff6097c513621b7a4f23d246aad6e9753&profile=pass
 🍹斗鱼,#genre#
-1905a,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
-1905b,http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905b
-CCTV-6,http://xxwx.yoesun.com/xxw/1905电影网.php?id=cctv6
+
+
 1905环球经典,http://8.138.7.223/tv/1905.php?id=LIVE8J4LTCXPI7QJ5
 1905国内电影,http://8.138.7.223/tv/1905.php?id=LIVEOYY31H24H48NE
 CCTV6,http://8.138.7.223/tv/1905.php?id=LIVE28XN12SUI4GWG
