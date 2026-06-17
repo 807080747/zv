@@ -670,7 +670,7 @@ CGTN记录,https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 
 
 
-台湾省,#genre#
+台湾省66,#genre#
 
 中天新闻,rtmp://home.aceimage.cn/live/332123-ztxw
 中天新闻,rtmp://ai.unispc.com/live/nb-py-ztxw
@@ -860,11 +860,7 @@ TVBS台劇台,https://4gtv.158.qzz.io/163189/a5943c7d-606d-495c-89c3-17a678a3520
 經典電影台,https://4gtv.158.qzz.io/163189/e792dce9-ee6d-45bf-9b52-a7c8df7f4a4b/
 經典卡通台,https://4gtv.158.qzz.io/163189/a895102c-0b07-4a3c-9613-f719f2ae8817/
 精選動漫台,https://4gtv.158.qzz.io/163189/14f62d29-bba5-4a45-8e3a-956b2dcc5bf2
-松视_8888,#genre#
-松視1台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
-松視2台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
-松視3台http://15.204.105.50:25461/live-G2s9zK2n9m/xDtwVfWM8T/90.ts
-松视3台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+
 
 
 
@@ -1826,6 +1822,11 @@ Wion News,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 英语环球,http://sk.cri.cn/am846.m3u8
 粤语国际,http://sk.cri.cn/hxfh.m3u8
 玫瑰测试_8888,#genre#
+
+松視1台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+松視2台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+松視3台http://15.204.105.50:25461/live-G2s9zK2n9m/xDtwVfWM8T/90.ts
+松视3台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
 
 
 探花1,https://t33.cdn2020.com/video/m3u8/2025/10/18/773549ea/index.m3u8
