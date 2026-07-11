@@ -1260,7 +1260,7 @@ VTV8,http://123.bhzz.today/live_proxy.php?id=vtv8
 VTV9,http://123.bhzz.today/live_proxy.php?id=vtv9
 VTV CẦN THƠ,http://123.bhzz.today/live_proxy.php?id=vtvCanTho
 
-休闲,#genre#
+休闲_8888,#genre#
 松视1,http://123.bhzz.today/live_proxy.php?id=sonsee1
 松视2,http://123.bhzz.today/live_proxy.php?id=sonsee2
 松视3,http://123.bhzz.today/live_proxy.php?id=SonSee3hd
