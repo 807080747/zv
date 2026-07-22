@@ -131,7 +131,9 @@ CCTV-卫生健康,http://107.150.60.122/live/wsjk.m3u8
 中央新影-老故事,http://107.150.60.122/live/lgs.m3u8
 中国教育3,http://107.150.60.122/live/cetv3.m3u8
 广东珠江,http://107.150.60.122/live/gdzj.m3u8
-
+广东体育http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdty
+广东珠江http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdzj
+广东新闻http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdxw
 广东新闻,http://107.150.60.122/live/gdxw.m3u8
 广西影视,http://107.150.60.122/live/gxys.m3u8
 广西综艺旅游,http://107.150.60.122/live/gxzy.m3u8
