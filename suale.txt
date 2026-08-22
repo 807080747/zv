@@ -832,8 +832,7 @@ CHC影迷电影,http://gat.bkpcp.top:80/ymg.php?id=ymdy
 
 中天新闻,http://173.208.234.146/live/ctinews.m3u8
 美亚电影,https://play.wenxiang.cn/live/38a106306847b2579080984fab9ca49a.flv
-美亞電影台 HD,P2p://217.182.18.136:9906/5bb665f0000b71b0bc0ff0636d300aed.ts
-天映频道,http://173.208.234.146/live/typd.m3u8
+https://cdn3.indevs.in/stream/live/typd/
 NOW星影台,http://173.208.234.146/live/nowxy.m3u8
 NOW爆谷台,http://173.208.234.146/live/nowbg.m3u8
 亮剑,http://173.208.234.146/live/lbliangjian.m3u8
