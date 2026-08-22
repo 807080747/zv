@@ -827,7 +827,17 @@ CHC影迷电影,http://gat.bkpcp.top:80/ymg.php?id=ymdy
 
 
 🇨🇳港台测试,#genre#
+TVB1,https://cdn.qd.je/163189.php?id=tvb1
+TVBD,https://cdn.qd.je/163189.php?id=tvbd
+TVB星河,https://cdn.qd.je/163189.php?id=tvbxh
+翡翠台,https://cdn.qd.je/163189.php?id=fct
+翡翠4K,https://cdn.qd.je/163189.php?id=fct4k
+NOW新闻,https://cdn.qd.je/163189.php?id=now
+亚洲武侠,https://cdn.qd.je/163189.php?id=yzwx
+香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+耀才财经频道,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 
+天映经典,https://cdn.qd.je/163189.php?id=ccm
 
 天映频道,https://cdn3.indevs.in/stream/live/typd/
 天映频道,http://173.208.234.146/live/typd.m3u8
