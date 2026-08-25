@@ -260,18 +260,19 @@ CCTV17,https://php.jdshipin.com/TVOD/iptv.php?id=cctv17
 
 秒播央视,#genre#
 
-CCTV1綜合,http://74.91.26.218:82/live/cctv1hd.m3u8
-CCTV2財經,http://74.91.26.218:82/live/cctv2hd.m3u8
-CCTV3綜藝,http://74.91.26.218:82/live/cctv3hd.m3u8
-CCTV4中文國際,http://74.91.26.218:82/live/cctv4hd.m3u8
-CCTV5體育,http://74.91.26.218:82/live/cctv5hd.m3u8
-CCTV6電影,http://74.91.26.218:82/live/cctv6hd.m3u8
-CCTV7國防軍事,http://74.91.26.218:82/live/cctv7hd.m3u8
-CCTV8電視劇,http://74.91.26.218:82/live/cctv8hd.m3u8
-CCTV9紀錄,http://74.91.26.218:82/live/cctv9hd.m3u8
-CCTV10科教,http://74.91.26.218:82/live/cctv10hd.m3u8
-CCTV11戲曲,http://74.91.26.218:82/live/cctv11hd.m3u8
-CCTV12社會與法,http://74.91.26.218:82/live/cctv12hd.m3u8
+CCTV1綜合,http://154.50.18.45:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2財經,http://154.50.18.45:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3綜藝,http://154.50.18.45:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4中文國際,http://154.50.18.45:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5體育,http://154.50.18.45:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+体育赛事,http://154.50.18.45:85/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6電影,http://154.50.18.45:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7國防軍事,http://154.50.18.45:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8電視劇,http://154.50.18.45:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9紀錄,http://154.50.18.45:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10科教,http://154.50.18.45:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11戲曲,http://154.50.18.45:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12社會與法,http://154.50.18.45:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13新聞,http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV14少兒,http://74.91.26.218:82/live/cctv14hd.m3u8
 CCTV15音樂,http://74.91.26.218:82/live/cctv15hd.m3u8
