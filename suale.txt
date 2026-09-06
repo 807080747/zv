@@ -232,6 +232,9 @@ CGTN-Pусский俄語頻道,https://0472.org/hls/cgtne.m3u8
 CGTN-Français法語頻道,https://0472.org/hls/cgtnf.m3u8
 CGTN-Español西班牙語頻道,https://0472.org/hls/cgtnx.m3u8
 CGTN-英語新聞頻道,https://0472.org/hls/cgtna.m3u8
+
+
+泉州新闻,http://woc.iiiya.cn:18888/rtp/239.61.5.98:1025
 🇨🇳咪咕k推流一線,#genre#
 CCTV-1,http://k.061899.xyz/m.php?id=cctv1 
 CCTV-2,http://k.061899.xyz/m.php?id=cctv2 
