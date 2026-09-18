@@ -414,53 +414,110 @@ IHOT爱院线,http://192.187.124.34:81/live/ihotayx.m3u8
 湖南导视,http://192.187.124.34:81/live/hnda.m3u8
 深圳卫视4K,http://192.187.124.34:81/live/szws4k.m3u8
 
-免费台湾源,#genre#
-三立新闻,https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
-中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
-东森新闻,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
-中视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctvnewsqt/playlist.m3u8
-华视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
-民视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
-TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
-LIVE三立,https://d2jc41c1shgcol.cloudfront.net/live/setnewsrtmp/playlist.m3u8
 
-中天新闻,http://iactive-clink.com:8081/live/111ztxw.m3u8
-中天新闻,http://111.0.115.129:8081/live/000ztxw.m3u8
-中天新闻,http://safe.shanghairta.com:8081/live/000ztxw.m3u8
-中天新闻,http://hsjky.com.cn:8081/live/999ztxw.m3u8
-民視新聞,http://211.72.174.95:8117/0.ts
-台视新聞,https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
-原視,https://hc9lby9bzw8zcar.wcetv.com/hls/titv.m3u8
-中視,http://211.72.174.95:8113/0.ts
-華視,http://211.72.174.95:8114/0.ts
-公視,http://211.72.174.95:8116/0.ts
-民視,http://211.72.174.95:8115/0.ts
-台視,http://211.72.174.95:8112/0.ts
-東森新聞,http://211.72.174.95:8138/0.ts
 
-中視,http://220.135.241.47:8301/0.ts
-中視新聞,http://220.135.241.47:8302/0.ts
-中視經典,http://220.135.241.47:8321/0.ts
-中視菁采,http://220.135.241.47:8322/0.ts
-客家电视,http://220.135.241.47:8303/0.ts
-公視,http://220.135.241.47:8305/0.ts
-PTSxs,http://220.135.241.47:8312/0.ts
-公視台語台,http://220.135.241.47:8306/0.ts
-民視,http://220.135.241.47:8308/0.ts
-民視第一台,http://220.135.241.47:8309/0.ts
-民視台灣台,http://220.135.241.47:8311/0.ts
-民視新聞台,http://220.135.241.47:8310/0.ts
-台視,http://220.135.241.47:8313/0.ts
-台視新聞,http://220.135.241.47:8314/0.ts
-台視綜合,http://220.135.241.47:8316/0.ts
-台視財經,http://220.135.241.47:8315/0.ts
-華視,http://220.135.241.47:8317/0.ts 
-華視新聞資訊,http://220.135.241.47:8319/0.ts
-華視教育體育文化,http://220.135.241.47:8318/0.ts
+JSport 3,https://akariko-bck1.sankuria.sbs/stream/jp/jsport_3/stream-output.m3u8?mode=hls
+JSport 4,https://akariko-bck1.sankuria.sbs/stream/jp/jsport_4/stream-output.m3u8?mode=hls
+Sky A,https://akariko-bck1.sankuria.sbs/stream/jp/sky_a/stream-output.m3u8?mode=hls
+Gaora Sports,https://akariko-bck1.sankuria.sbs/stream/jp/gaora_sports/stream-output.m3u8?mode=hls
+Nittele G+,https://akariko-bck1.sankuria.sbs/stream/jp/nittele_g+/stream-output.m3u8?mode=hls
+Golf Network,https://akariko-bck1.sankuria.sbs/stream/jp/golf_network/stream-output.m3u8?mode=hls
+Sport Live Plus,https://akariko-bck1.sankuria.sbs/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls
+Fighting TV Samurai,https://akariko-bck1.sankuria.sbs/stream/jp/fighting_tv_samurai/stream-output.m3u8?mode=hls
+TOP BARÇA,https://cdn-apne1.tsv2.amagi.tv/linear/amg17560-fcbarcelona-fcbenglishcmag-rakutenjp/playlist.m3u8
+NTV Pro Wrestling,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-ntv-pro-wrestling-hls-rakutenjp/playlist.m3u8
+刺激ストロングSPORTS,https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekisports-rakutenjp/playlist.m3u8
+FUEL TV,https://cdn-apne1.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvjpcmaf-rakutenjp/playlist.m3u8
+GOLF LIFE (FAST),https://livetv.fastv.jp/channel_assembly/69607D5C725E103DDF9D/master.m3u8
+Toei Channel,https://akariko-bck1.sankuria.sbs/stream/jp/toei_channel/stream-output.m3u8?mode=hls
+Eisei Gekijo,https://akariko-bck1.sankuria.sbs/stream/jp/eisei_gekijo/stream-output.m3u8?mode=hls
+Neco Channel,https://haru.charandom.blog/stream/jp/neco_ch/stream-output.m3u8?mode=hls
+The Cinema,https://akariko-bck1.sankuria.sbs/stream/jp/the_cinema/stream-output.m3u8?mode=hls
+Movie Plus,https://akariko-bck1.sankuria.sbs/stream/jp/movie_plus/stream-output.m3u8?mode=hls
+Nihon Eiga Senmon,https://akariko-bck1.sankuria.sbs/stream/jp/nihon_eiga_senmon/stream-output.m3u8?mode=hls
+Jidaigeki Senmon,https://akariko-bck1.sankuria.sbs/stream/jp/jidaigeki_senmon/stream-output.m3u8?mode=hls
+Family Gekijyo,https://akariko-bck1.sankuria.sbs/stream/jp/family_gekijyo/stream-output.m3u8?mode=hls
+Home Drama Channel,https://akariko-bck1.sankuria.sbs/stream/jp/home_drama_channel/stream-output.m3u8?mode=hls
+TBS Channel 1,https://akariko-bck1.sankuria.sbs/stream/jp/tbs_channel_1/stream-output.m3u8?mode=hls
+TBS Channel 2,https://akariko-bck1.sankuria.sbs/stream/jp/tbs_channel_2/stream-output.m3u8?mode=hls
+TV Asahi Channel 1,https://haru.charandom.blog/stream/jp/tv_asahi_channel_1/stream-output.m3u8?mode=hls
+TV Asahi Channel 2,https://haru.charandom.blog/stream/jp/tv_asahi_channel_2/stream-output.m3u8?mode=hls
+Nittele Plus,https://akariko-bck1.sankuria.sbs/stream/jp/nittele_plus/stream-output.m3u8?mode=hls
+Channel Ginga,https://akariko-bck1.sankuria.sbs/stream/jp/channel_ginga/stream-output.m3u8?mode=hls
+Fuji TV ONE,https://akariko-bck1.sankuria.sbs/stream/jp/fuji_tv_one/stream-output.m3u8?mode=hls
+Fuji TV TWO,https://akariko-bck1.sankuria.sbs/stream/jp/fuji_tv_two/stream-output.m3u8?mode=hls
+Fuji TV NEXT,https://akariko-bck1.sankuria.sbs/stream/jp/fuji_tv_next/stream-output.m3u8?mode=hls
+Action Channel (AXN),https://akariko-bck1.sankuria.sbs/stream/jp/action_channel/stream-output.m3u8?mode=hls
+Dlife,https://akariko-bck1.sankuria.sbs/stream/jp/dlife/stream-output.m3u8?mode=hls
+LaLa TV,https://akariko-bck1.sankuria.sbs/stream/jp/lala_tv/stream-output.m3u8?mode=hls
+Mystery Channel,https://akariko-bck1.sankuria.sbs/stream/jp/mystery_channel/stream-output.m3u8?mode=hls
+ムビドラTV,https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-moviecmaf-rakutenjp/playlist.m3u8
+時代劇TV (FAST),https://livetv.fastv.jp/channel_assembly/696074B664B80F46A876/master.m3u8
+LeminoTV (FAST),https://livetv.fastv.jp/channel_assembly/696082290000105F1525/master.m3u8
+エンタメ・アジア (FAST),https://livetv.fastv.jp/channel_assembly/696078CF64B81069221E/master.m3u8
+Animax,https://akariko-bck1.sankuria.sbs/stream/jp/animax/stream-output.m3u8?mode=hls
+Disney Channel,https://akariko-bck1.sankuria.sbs/stream/jp/disney_channel/stream-output.m3u8?mode=hls
+Kids Staton,https://naori-test.netgenx.site/pxx.php?shk_cid=cs07
+Cartoon Network,https://akariko-bck1.sankuria.sbs/stream/jp/cartoon_network/stream-output.m3u8?mode=hls
+AT-X,https://akariko-bck1.sankuria.sbs/stream/jp/at-x/stream-output.m3u8?mode=hls
+Disney Junior,https://akariko-bck1.sankuria.sbs/stream/jp/disney_junior/stream-output.m3u8?mode=hls
+手塚プロダクションTV,https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-anime5-cmaf-rakutenjp/playlist.m3u8
+しまじろうチャンネル,https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelbenessehlscmaf-rakutenjp/playlist.m3u8
+キッズ,https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-kids-english-cmaf-rakutenjp/playlist.m3u8
+アニマックス FREE (FAST),https://livetv.fastv.jp/channel_assembly/69608FB2725E0FA3B972/master.m3u8
+Takarazuka Sky Stage,https://akariko-bck1.sankuria.sbs/stream/jp/takarazuka_sky_stage/stream-output.m3u8?mode=hls
+Space Shower TV (HD),https://akariko-bck1.sankuria.sbs/stream/jp/space_shower_tv/stream-output.m3u8?mode=hls
+MTV,https://akariko-bck1.sankuria.sbs/stream/jp/mtv/stream-output.m3u8?mode=hls
+Music Air,https://akariko-bck1.sankuria.sbs/stream/jp/music_air/stream-output.m3u8?mode=hls
+Music ON TV,https://akariko-bck1.sankuria.sbs/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
+Kayo Pops,https://akariko-bck1.sankuria.sbs/stream/jp/kayo_pops/stream-output.m3u8?mode=hls
+Music Japan TV,https://akariko-bck1.sankuria.sbs/stream/jp/music_japan_tv/stream-output.m3u8?mode=hls
+that’s 70s,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnow70s-rakutenjp/playlist.m3u8
+that’s 80s,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnow80s-rakutenjp/playlist.m3u8
+that’s 90s00s,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightning-now90s00s-rakutenjp/playlist.m3u8
+that’s Rock,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnowrock-rakutenjp/playlist.m3u8
+Fishing Vision,https://akariko-bck1.sankuria.sbs/stream/jp/fishing_vision/stream-output.m3u8?mode=hls
+Discovery Channel,https://akariko-bck1.sankuria.sbs/stream/jp/discovery_channel/stream-output.m3u8?mode=hls
+Animal Planet,https://akariko-bck1.sankuria.sbs/stream/jp/animal_planet/stream-output.m3u8?mode=hls
+History,https://naori-test.netgenx.site/pxx.php?shk_cid=cs09
+National Geographic Japan,https://akariko-bck1.sankuria.sbs/stream/jp/national_geographic_japan/stream-output.m3u8?mode=hls
+Tabi Channel,https://akariko-bck1.sankuria.sbs/stream/jp/tabi_channel/stream-output.m3u8?mode=hls
+Tetsudo Channel,https://akariko-bck1.sankuria.sbs/stream/jp/tetsudo_channel/stream-output.m3u8?mode=hls
+ペットTV (FAST),https://livetv.fastv.jp/channel_assembly/69551F080000E209AD09/master.m3u8
+キャンプ・アウトドア (FAST),https://livetv.fastv.jp/channel_assembly/69607E1D725E0FB5AC23/master.m3u8
+今日のごはんなに? (FAST),https://livetv.fastv.jp/channel_assembly/696095BC725E0FE5F3E9/master.m3u8
+観るたび (FAST),https://livetv.fastv.jp/channel_assembly/6960965C64B80F2C027D/master.m3u8
+Mondo TV,https://akariko-bck1.sankuria.sbs/stream/jp/mondo_tv/stream-output.m3u8?mode=hls
+Me-Tele Next,https://akariko-bck1.sankuria.sbs/stream/jp/me-tele_next/stream-output.m3u8?mode=hls
+Shogi Channel,https://akariko-bck1.sankuria.sbs/stream/jp/shogi_channel/stream-output.m3u8?mode=hls
+囲碁・将棋ライト (R),https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-igo-shogi-cmaf-rakutenjp/playlist.m3u8
+麻雀,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-mahjong-cmaf1-rakutenjp/playlist.m3u8
+パチンコ・パチスロ,https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pachislocmaf-rakutenjp/playlist.m3u8
+ぷれいば！,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-game-cmaf-rakutenjp/playlist.m3u8
+ワンニャンチャンネル,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pet-cmaf-rakutenjp/playlist.m3u8
+九州・沖縄　街ネタ,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-local-contents-cmaf-rakutenjp/playlist.m3u8
+丸ごと九州 (FAST),https://livetv.fastv.jp/channel_assembly/696090F573F51039B31F/master.m3u8
+ぴあ落語ざんまい (FAST),https://livetv.fastv.jp/channel_assembly/69608EE9725E0F73BF30/master.m3u8
+FASHIONPLUS (FAST),https://livetv.fastv.jp/channel_assembly/69609952725E0FA3B987/master.m3u8
+囲碁・将棋ライト (FAST),https://livetv.fastv.jp/channel_assembly/69998C7B725E30DA4170/master.m3u8
+丸ごと北海道 (FAST),https://livetv.fastv.jp/channel_assembly/69998D0964B83951E552/master.m3u8
+東海ロキポ (FAST),https://livetv.fastv.jp/channel_assembly/69998DB5725E30535DA6/master.m3u8
+エンタメ～テレDEEP,https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-nagoyanextcmaf-rakutenjp/playlist.m3u8
+Mnet,https://akariko-bck1.sankuria.sbs/stream/jp/mnet/stream-output.m3u8?mode=hls
+KBS World,https://akariko-bck1.sankuria.sbs/stream/jp/kbs_world/stream-output.m3u8?mode=hls
+KNTV,https://haru.charandom.blog/stream/jp/kntv/stream-output.m3u8?mode=hls
+NEW KPOP,https://ads.its-newid.net/api/manifest.m3u8?tp=r_channel&channel_name=newkpop&channel_id=newid_165
+韓流チャンネル (FAST),https://livetv.fastv.jp/channel_assembly/6960905473F5101B6A17/master.m3u8
+ショップチャンネル,https://stream3.shopch.jp/HLS/master.m3u8
+QVC,https://d1flvb4iqlercm.cloudfront.net/r-channel/live.m3u8
+QVC (CS),https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
+GSTV,https://rch01e-alive-hls.akamaized.net/15bcd044c531aa99/out/v1/339db39dc83c421f94a8cebb777e4d02/index.m3u8
+GSTV (CS),https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)
+Weather News,https://akariko-bck1.sankuria.sbs/stream/jp/weather_news/stream-output.m3u8?mode=hls
+V Paradise,http://haru.charandom.blog/stream/jp/v_paradise_nsfw/stream-output.m3u8?mode=hls
+Pigoo,http://haru.charandom.blog/stream/jp/pigoo_nsfw/stream-output.m3u8?mode=hls
+セクシーエンタメチャンネル,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rvariety-cmaf-rakutenjp/playlist.m3u8
+刺激ストロング,https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekicmaf-rakutenjp/playlist.m3u8
+映画（年齢制限あり）,https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakutenjp/playlist.m3u8
 
-民视,rtmp://f13h.mine.nu/sat/tv051
-中视,rtmp://f13h.mine.nu/sat/tv091
-华视,rtmp://f13h.mine.nu/sat/tv111
-台视,rtmp://f13h.mine.nu/sat/tv071
-非凡新闻,rtmp://f13h.mine.nu/sat/tv581
-东森超视,rtmp://f13h.mine.nu/sat/tv331
+
