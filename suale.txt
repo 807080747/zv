@@ -41,13 +41,145 @@
 
 
 
+秒播央视,#genre#
+
+CCTV1綜合,http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV2財經,http://74.91.26.218:82/live/cctv2hd.m3u8
+CCTV3綜藝,http://74.91.26.218:82/live/cctv3hd.m3u8
+CCTV4中文國際,http://74.91.26.218:82/live/cctv4hd.m3u8
+CCTV5體育,http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV5+体育赛事,http://74.91.26.218:82/live/cctv5+hd.m3u8
+CCTV6電影,http://74.91.26.218:82/live/cctv6hd.m3u8
+CCTV7國防軍事,http://74.91.26.218:82/live/cctv7hd.m3u8
+CCTV8電視劇,http://74.91.26.218:82/live/cctv8hd.m3u8
+CCTV9紀錄,http://74.91.26.218:82/live/cctv9hd.m3u8
+CCTV10科教,http://74.91.26.218:82/live/cctv10hd.m3u8
+CCTV11戲曲,http://74.91.26.218:82/live/cctv11hd.m3u8
+CCTV12社會與法,http://74.91.26.218:82/live/cctv12hd.m3u8
+CCTV13新聞,http://74.91.26.218:82/live/cctv13hd.m3u8
+CCTV14少兒,http://74.91.26.218:82/live/cctv14hd.m3u8
+CCTV15音樂,http://74.91.26.218:82/live/cctv15hd.m3u8
+CCTV16奧利匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
+CCTV17農業農村,http://74.91.26.218:82/live/cctv17hd.m3u8
+CGTN-Documentary紀錄頻道,https://0472.org/hls/cgtnd.m3u8
+CGTN-Pусский俄語頻道,https://0472.org/hls/cgtne.m3u8
+CGTN-Français法語頻道,https://0472.org/hls/cgtnf.m3u8
+CGTN-Español西班牙語頻道,https://0472.org/hls/cgtnx.m3u8
+CGTN-英語新聞頻道,https://0472.org/hls/cgtna.m3u8
+
+
+泉州新闻,http://woc.iiiya.cn:18888/rtp/239.61.5.98:1025
+
+Channel 8,http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
+Channel 8,http://vip.login.in.th:1935/ch8/ch8/playlist.m3u8
+明珠剧集台(北美),https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbpearldrama-tvbanywhereus/playlist.m3u8
+翡翠剧集台(北美),https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbdrama-tvbanywhereus/playlist.m3u8
+TVB Vietnam(越南台),https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
+红牛运动,http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 
 
+📺央卫高清1,#genre#
+CCTV-1HD,http://192.151.150.154/live/cctv1hd.m3u8
+CCTV-2HD,http://192.151.150.154/live/cctv2hd.m3u8
+CCTV-3HD,http://192.151.150.154/live/cctv3hd.m3u8
+CCTV-4HD,http://192.151.150.154/live/cctv4hd.m3u8
+CCTV-5HD,http://192.151.150.154/live/cctv5hd.m3u8
+CCTV-6HD,http://192.151.150.154/live/cctv6hd.m3u8
+CCTV-7HD,http://192.151.150.154/live/cctv7hd.m3u8
+CCTV-8HD,http://192.151.150.154/live/cctv8hd.m3u8
+CCTV-9HD,http://192.151.150.154/live/cctv9hd.m3u8
+CCTV-10HD,http://192.151.150.154/live/cctv10hd.m3u8
+CCTV-11HD,http://192.151.150.154/live/cctv11hd.m3u8
+CCTV-12HD,http://192.151.150.154/live/cctv12hd.m3u8
+CCTV-13HD,http://192.151.150.154/live/cctv13hd.m3u8
+CCTV-14HD,http://192.151.150.154/live/cctv14hd.m3u8
+CCTV-15HD,http://192.151.150.154/live/cctv15hd.m3u8
+CCTV-16HD,http://192.151.150.154/live/cctv16hd.m3u8
+CCTV-17HD,http://192.151.150.154/live/cctv17hd.m3u8
+CCTV-5+HD,http://192.151.150.154/live/cctv5p.m3u8
+湖南卫视HD,http://192.151.150.154/live/hnwshd.m3u8
+东方卫视HD,http://192.151.150.154/live/dfwshd.m3u8
+浙江卫视HD,http://192.151.150.154/live/zjwshd.m3u8
+江苏卫视HD,http://192.151.150.154/live/jswshd.m3u8
+山东卫视HD,http://192.151.150.154/live/sdwshd.m3u8
+天津卫视HD,http://192.151.150.154/live/tjwshd.m3u8
+四川卫视HD,http://192.151.150.154/live/scwshd.m3u8
+山西卫视HD,http://192.151.150.154/live/sxwshd.m3u8
+宁夏卫视,http://192.151.150.154/live/nxws.m3u8
+内蒙古卫视,http://192.151.150.154/live/nmgws.m3u8
+新疆卫视,http://192.151.150.154/live/xjws.m3u8
+三沙卫视,http://192.151.150.154/live/ssws.m3u8
+CCTV-电视指南,http://192.151.150.154/live/dszn.m3u8
+CCTV-高尔夫网球,http://192.151.150.154/live/ge购物.m3u8
+哈哈炫动HD,http://192.151.150.154/live/xdkthd.m3u8
+上海都市HD,http://192.151.150.154/live/shylhd.m3u8
+五星体育HD,http://192.151.150.154/live/wxtyhd.m3u8
+广西移动,http://192.151.150.154/live/gxyd.m3u8
+天津新闻,http://192.151.150.154/live/tjtv1.m3u8
+天津文艺,http://192.151.150.154/live/tjtv2.m3u8
+天津影视,http://192.151.150.154/live/tjtv3.m3u8
+天津都市,http://192.151.150.154/live/tjtv4.m3u8
+天津体育,http://192.151.150.154/live/tjtv5.m3u8
+天津教育,http://192.151.150.154/live/tjtv6.m3u8
+湖北公共新闻,http://192.151.150.154/live/hbgg.m3u8
+湖南国际,http://192.151.150.154/live/hngj.m3u8
+新疆少儿频道,http://192.151.150.154/live/xjtv8.m3u8
+江西都市频道,http://192.151.150.154/live/jxtv2.m3u8
+江西经济生活,http://192.151.150.154/live/jxtv3.m3u8
+江西公共农业,http://192.151.150.154/live/jxtv5.m3u8
+江西移动电视,http://192.151.150.154/live/jxtv8.m3u8
+江西陶瓷频道,http://192.151.150.154/live/jxtv10.m3u8
+邵氏电影,http://192.151.150.154/live/lbssdy.m3u8
+邵氏武侠,http://192.151.150.154/live/lbsswx.m3u8
+邵氏动作,http://192.151.150.154/live/lbssdz.m3u8
+邵氏喜剧,http://192.151.150.154/live/lbssxj.m3u8
 
-
-
+河南卫视,http://39.150.102.131:19901/tsfile/live/0139_1.m3u8
+湖南卫视,http://39.150.102.131:19901/tsfile/live/0128_1.m3u8
+江苏卫视,http://39.150.102.131:19901/tsfile/live/0127_1.m3u8
+浙江卫视,http://39.150.102.131:19901/tsfile/live/0124_1.m3u8
+北京卫视,http://39.150.102.131:19901/tsfile/live/0122_1.m3u8
+东方卫视,http://39.150.102.131:19901/tsfile/live/0107_1.m3u8
+天津卫视,http://39.150.102.131:19901/tsfile/live/0135_1.m3u8
+山东卫视,http://39.150.102.131:19901/tsfile/live/0131_1.m3u8
+安徽卫视,http://39.150.102.131:19901/tsfile/live/0130_1.m3u8
+深圳卫视,http://39.150.102.131:19901/tsfile/live/0126_1.m3u8
+深圳卫视,http://204.12.221.218:8181/3m1080p/szws.m3u8
+湖北卫视,http://39.150.102.131:19901/tsfile/live/0132_1.m3u8
+黑龙江卫视,http://39.150.102.131:19901/tsfile/live/0143_1.m3u8
+江西卫视,http://39.150.102.131:19901/tsfile/live/0138_1.m3u8
+四川卫视,http://39.150.102.131:19901/tsfile/live/0123_1.m3u8
+云南卫视,http://39.150.102.131:19901/tsfile/live/0119_1.m3u8
+贵州卫视,http://39.150.102.131:19901/tsfile/live/0120_1.m3u8
+辽宁卫视,http://39.150.102.131:19901/tsfile/live/0121_1.m3u8
+东南卫视,http://39.150.102.131:19901/tsfile/live/0137_1.m3u8
+重庆卫视,http://39.150.102.131:19901/tsfile/live/0142_1.m3u8
+广东卫视,http://39.150.102.131:19901/tsfile/live/0125_1.m3u8
+广西卫视,http://39.150.102.131:19901/tsfile/live/0113_1.m3u8
+河北卫视,http://39.150.102.131:19901/tsfile/live/0117_1.m3u8
+吉林卫视,http://39.150.102.131:19901/tsfile/live/0116_1.m3u8
+山西卫视,http://39.150.102.131:19901/tsfile/live/0118_1.m3u8
+陕西卫视,http://39.150.102.131:19901/tsfile/live/0136_1.m3u8
+甘肃卫视,http://39.150.102.131:19901/tsfile/live/0141_1.m3u8
+甘肃卫视,http://204.12.221.218:8181/3m1080p/gsws.m3u8
+甘肃卫视,http://120.76.248.139/live/bfgd/4200000119.m3u8
+甘肃卫视,http://204.12.221.218:8181/3m1080p/gsws.m3u8
+甘肃卫视,http://204.12.221.218:8181/3m1080p/gsws.m3u8
+甘肃卫视,http://120.76.248.139/live/bfgd/4200000119.m3u8
+宁夏卫视,http://39.150.102.131:19901/tsfile/live/0112_1.m3u8
+青海卫视,http://39.150.102.131:19901/tsfile/live/0140_1.m3u8
+内蒙古卫视,http://39.150.102.131:19901/tsfile/live/0109_1.m3u8
+西藏卫视,http://39.150.102.131:19901/tsfile/live/0111_1.m3u8
+新疆卫视,http://39.150.102.131:19901/tsfile/live/0110_1.m3u8
 兵团卫视,http://39.150.102.131:19901/tsfile/live/0017_6.m3u8
+
+
+
+
+
+
+
 🌈 4K UHD,#genre#
 611 Sports 4K-1,http://iptv.852851.xyz/l/xEfqIJcd8ABhgSu3U2CyT5-vO_gwdopAqvih0cjeawIvGL2iKs1OwAXsl5EtuUJk/index.m3u8
 611 Sports 4K-1(备),http://iptv.852851.xyz/l/7XjSceMB2hqP_0RUdzyeOB3lAZ6jdQVPOWkUVyHOnVH4okveEvYrL5qawB8Y2G4h/index.m3u8
