@@ -175,1340 +175,630 @@ CCTV-高尔夫网球,http://192.151.150.154/live/ge购物.m3u8
 
 
 
-🌈 4K UHD,#genre#
-611 Sports 4K-1,http://iptv.852851.xyz/l/xEfqIJcd8ABhgSu3U2CyT5-vO_gwdopAqvih0cjeawIvGL2iKs1OwAXsl5EtuUJk/index.m3u8
-611 Sports 4K-1(备),http://iptv.852851.xyz/l/7XjSceMB2hqP_0RUdzyeOB3lAZ6jdQVPOWkUVyHOnVH4okveEvYrL5qawB8Y2G4h/index.m3u8
-612 Sports 4K-2,http://iptv.852851.xyz/l/R68E2nrG-gHkZMp1g7abGllxP7e7BJCqeSP6Cnx6fpDVuT4G_jwl3KtP9Wt0-eEX/index.m3u8
-4K: SKY SPORTS F1 ᵁᴴᴰ ³⁸⁴⁰ᴾ,http://iptv.852851.xyz/l/DAVMkaaI7qDy1THKD88FKSMumJv1DANTKpWBdTa6lebgDm3c7wWI5wVR6XHFMTgu/index.m3u8
-Stan Sport,http://iptv.852851.xyz/l/dg-HRHABT9DTMQlWnrRiYwXNthv7Kp2XNs3y64xOamHTLk3-OUuhAJuesfIPb1U0/index.m3u8
-广东体育,http://iptv.852851.xyz/l/UQmgHciHRLnRfHZT0kim9liqfWtMGQzuEj289SVsQyjyAxNRbiVwVmF022v78mkY/index.m3u8
-Clarity 4K,http://iptv.852851.xyz/l/64rWt-kabJtisPpnDGXU9cq3CHRT2P5XUEnFRTCTHgSiyuokQCdo2eyOojp0lUBC/play
-Stingray NOW 4K CA,http://iptv.852851.xyz/l/GTDUfR97Bko8bNslkGu133NMC357d9diO5C3B0GC0a_RFUciZsHLnq8Wbf5z3L80/play
-Stingray Festival 4K CA,http://iptv.852851.xyz/l/0xnQxVHZbu07Uida9_3BbImGylE4T9UhITWsHJHusOGO6tjQxOvOZOMePOA_urfX/play
-Sportsnet One 4K CA,http://iptv.852851.xyz/l/4fmqVcpF7LyhewryURkudN-n2E_tVIT8-cVU8mNN4z7y0zYCSSPtHPFlZRs6h5pr/play
-Sportsnet 4K CA,http://iptv.852851.xyz/l/XWOqZVdeqghF510aAetqBAqBEK5W6XzMKQUgCpKwX3kd5wVzA-oUBehj6ikbkZC9/play
-TSN 4K CA,http://iptv.852851.xyz/l/tijAvx2691fo932sdqMSl8D5Z4uc9KD5Do2NNw7-bNE548Km3AEhpL--em3tVtwM/play
-Love Nature 4K CA,http://iptv.852851.xyz/l/av7fjCVLf8jSXJKv8m3GDzSJnn2RNc3XFASThJ-qxZb1Z93uJZDsK4eNmIXn9Kw9/play
-Love Nature 4K,http://iptv.852851.xyz/l/Ehb0IxHsjmlF4MnKpfx2bYyUHaUm49SI8fJ4dOG17QOd5bAeGJGT9HIfiztqHr8z/play
-NESN 4K,http://iptv.852851.xyz/l/p3bhpiLh0mpOLtqTraoKTfyJS9N16EWZx7VBwUgLWWCyd9s86OZ7Kjc2MzCRq3t2/play
-Sky Sports Main Event UHD UK,http://iptv.852851.xyz/l/aPVDgMlQF_Ytrbb-57p7isPBThaS9_p0v7PAMggLIbzbXKuYAaymogbSIAOEfigV/play
-Sky Sports F1 UHD UK,http://iptv.852851.xyz/l/CACmOgYli2jK16wTXLUcjGaw2FrXwvxJrSD8HPf8KjSoEIgD58lWSDMlV4Jv2_QP/play
-Sky Sports 1 UHD UK,http://iptv.852851.xyz/l/8Fou5sWJd0spLBa6HrFvMQokS5sk3ePE-E6QBlIe2ULyc54Y6IYEcxM-7StSV_JZ/play
-Sky Sports 2 UHD UK,http://iptv.852851.xyz/l/j7Ydt7rC9GfBh1LiFAlnPsgs45OBo_Ao9T-JH8MPBAsIMBg1XCv5RZb1xCEXV0l0/play
-TNT Sports Ultimate UHD UK,http://iptv.852851.xyz/l/-_HiEuBFjRTVv5fM6fcgodcSF_CQgjWLppdHTqpiE_XEX6CEsWKw8u6I59D_2jqZ/play
-INULTRA 4K PL,http://iptv.852851.xyz/l/9JIWlTZaSJYKv9o2TQw7ZkrXKxNYAkg1iEkdMcUmq3N2vOmljcOzi1QoZwQwh1JJ/play
-Travelxp 4K HDR EU,http://iptv.852851.xyz/l/7eBDJUF7BVLWpgq8supEjBgV2KEfU7JEaV_vQPMMrw6CRhdgmeSMnJFBthNOgejT/play
-Now Sports 4K 1 HK,http://iptv.852851.xyz/l/lAp4ozdGx2jCK8Ss7V79TqsU3feFif-l3PIEmQ7alad_lliozYPOzUebJ4n4lkdT/play
-NHK BSP4K JP,http://iptv.852851.xyz/l/kRDqaDJvMEz-pdgqR97Xwvy7m1d2HzKrPUDykXCbQfh70aZWJsJTWXpYlCB2V4uS/index.m3u8
-NHK BS8K JP,http://iptv.852851.xyz/l/diBH5sI5b8bCCD-zsI0RDct00XI8lHyf2zkMKZi9uZwrKULKXaIYTMPDGfhRc-WH/index.m3u8
-Eurosport 4K,http://iptv.852851.xyz/l/hMKdSp1ORNAszezYK0k5H6YqohbU--dJ5P0dX_w9VPecPhu8idVvoBUxgDa0mspz/index.m3u8
-Eurosport 1,http://iptv.852851.xyz/l/Jj7Z1IyQbwhYTcAQW6-Mb-WsoY_-24qg104r-uIDKIyK062RegDeJ_Do5PbQ9okJ/index.m3u8
-Eurosport 2,http://iptv.852851.xyz/l/9qmT4nrjg7m5apn4AWBq8c-u620ftqZE_UIMe5irYbAtO4GhJI5WDMObnjULfgdM/index.m3u8
-Apple TV | Peacock,#genre#
-dateline-24-7,http://iptv.852851.xyz/l/-HtcZd0zysFSXso4PlhNpSQ0P6ysNAjBbwA6Jx7Hyrhpx0F5JwZeNes3U2OFtx66/index.m3u8
-nbc-news-now,http://iptv.852851.xyz/l/C-TPLKSQCbzDY0XEgtY7tId9hhM4_7jdBjyTXIf0Lv4pMg-DobqFECuiqSn_ODT8/index.m3u8
-today-all-day,http://iptv.852851.xyz/l/Mi6EILIIW4a20MeAT3LAFOoci1yLjC6vnf4YMtTQIfEQ7k7wVhI2E4wN5pzL-Olk/index.m3u8
-nfl-channel,http://iptv.852851.xyz/l/QZeWL-6d-xjenr3GHWZPoA9XXQjzVPZpihV-ODNnaFccZcNSzWaol_nJBR4nATfm/index.m3u8
-nbc-sports-now,http://iptv.852851.xyz/l/eIyP6SzW9CjaKgXKIFb7RpF8nvAVXCkD3d1vqf6p7WaPy5kmNhOpOxdjtCDEEekc/index.m3u8
-tennis-channel-2,http://iptv.852851.xyz/l/ldO0Rh3J7G_CtQNEkSVsQ48cCPO0AbYFtZQGFmnhwFlV1IGbMpZVENmM7_upHBCh/index.m3u8
-law-crime-network,http://iptv.852851.xyz/l/g0lFonTCfaEeOF-aQ4Qc8jvEwRRmM0i6ixYLuPw_nislFNvnsYABAzsbAb_wWmf_/index.m3u8
-court-tv,http://iptv.852851.xyz/l/-1s2QHr_NyCgh_1IEp-wWVtPXT7w3ocCTUZ3qA5k3dsFjeSZZpu_6Bn9ZCUbpN9k/index.m3u8
-the-conners,http://iptv.852851.xyz/l/MtfV7sIEaGY5CChq4o-P-OMcKJiY0ZfpmZ9pPiBzxeAYU00pjk4c4BQlBhByA4wl/index.m3u8
-snl-vault,http://iptv.852851.xyz/l/e4pJFnEO27ckF2IWTG3_xKCBVq9IcaBQHq58OBvDS5W0NT-T-Lr4E7GgN5pFt8_b/index.m3u8
-sky-news,http://iptv.852851.xyz/l/WoVzyQySywcMMLhLSHvEwozKR70a7ntmFwRoOGg1JIzLew52IsgYz_e-3l_w8xJS/index.m3u8
-premier-league-tv,http://iptv.852851.xyz/l/EF0gEwvOvuT1Kcr7vKVewSRA1Bnm36TI8PgLx5-Qn_z0xkF-thixNY9nufSrSHDp/index.m3u8
-team-usa-tv,http://iptv.852851.xyz/l/e7N4s1yi78ZQaizlx0oSXpKVgR4_vWhiQPqQec13_qIFVVmnp0URrUB6e8Yq9pQ2/index.m3u8
-game-show-central,http://iptv.852851.xyz/l/gH6jBlHIj6Pu_anz2hDDPyuo1xMJa73U2kGy5LIBHB5e-VuQB9_xmij_AXqmEop0/index.m3u8
-top-gear,http://iptv.852851.xyz/l/2n3KC_wg8NoWUExtQtN276Qx6VT5YJfPymK4EkRs6COZydrMqOFCtJP2sIm9j4tu/index.m3u8
-nosey,http://iptv.852851.xyz/l/Mgbh53-yMvVvInCAXbwZ8pNd16pjB_7l5k4uTTN65765as55ue8bkEuLZIyMIWUB/index.m3u8
-confess-by-nosey,http://iptv.852851.xyz/l/9eE5NZG0CkIGqrZoSYWI_wJPQ3aMcxyAiwlnnys-bL897eLJ_5AhDGvwyGlS1QYH/index.m3u8
-nbc-lx-home,http://iptv.852851.xyz/l/MRHgROD-AO9un3WcICB93O8txcuU-Qjy5dUDNwmG3L6wA70fyIdOPtSkALyELDhX/index.m3u8
-dateline-en-espanol,http://iptv.852851.xyz/l/2KRPdZ7HDd8ZGsEl-tyYj147uF7Cv9ob3xE2CeLW9bWwYuibCaTcc0NJfSCAoUi_/index.m3u8
-telemundo-al-dia,http://iptv.852851.xyz/l/_N2hsAri5Yb1WEBvV-EpMuYiReYrAHTPunLMEgqOrSGgjdC9AD86oJIKTqxIn4r1/index.m3u8
-nbc-new-york-news,http://iptv.852851.xyz/l/-EGaH4rKQN5TMjIRuouZ8tCvU-NnG91BWNB6o3TKBnmcVApG6WzGYEl6E_eOohCc/index.m3u8
-nbc-philadelphia-news,http://iptv.852851.xyz/l/SnRLpJDrMd86fgR206LwrrKoc6UUoON5vKjnLiqS_Ta_APOlw9lTZXdwJ3vcQkfX/index.m3u8
-nbc-boston-news,http://iptv.852851.xyz/l/GawLCNUA8nQxckhJIk0ktLSZT_YAuRRFkwdIuxpdnmZhs9mU9O3WDbIrOKkUGTIK/index.m3u8
-nbc-south-florida-news,http://iptv.852851.xyz/l/XzOFFFA46eo_8e8VPSWTKsNEyOrgeo8pypu3rRSepjlLWkDMQhSOvvNSGW93CWyW/index.m3u8
-news-12-new-york,http://iptv.852851.xyz/l/A028O3fvMeLqbqQmxlsKI9cDnRPxtGMx9VU_kWiqbTQeBgpqKbuIzUdIRQHY468h/index.m3u8
-scripps-news,http://iptv.852851.xyz/l/U3BlVWOhXOvkVDJItqG8sTHflwEB_zrVz5to7aF-R32f9A-UtT0qHuXV28yTc-_b/index.m3u8
-are-we-there-yet,http://iptv.852851.xyz/l/exG1qXpJxpSkKfxLJe5ikc5_B1edFTgTX4o94ih8kmq-_-ypHGylvUepCRR5MWHe/index.m3u8
-movie-sphere-by-lionsgate,http://iptv.852851.xyz/l/NPh2jBiMWZKsZ2ty39USqeVtv_hcgm_5zEcDSZdOlDro9NCpVCFBU6wkSCdJ4zWE/index.m3u8
-americas-funniest-home-videos,http://iptv.852851.xyz/l/d3etrYJZoot90PNxjkXfwzDhLs8iy0AJQNcwBjqbbwG3ZD1qZIw6t93GoJXLJ-Iu/index.m3u8
-noticias-telemundo-ahora,http://iptv.852851.xyz/l/c-Dn2BrOBf8c6Io6LD-Ly1jKwsErdH22TlNd3jIkCR2q_oJrn2D2PRiATO1ZAfhb/index.m3u8
-telemundo-deportes-ahora,http://iptv.852851.xyz/l/EeHnBl0eMQOcRU2P4ahi0_sOkEREO7yi3MLQ_llpn8SZXScEglbw5csJ4uKEyWFv/index.m3u8
-court-tv-legendary-trials,http://iptv.852851.xyz/l/2eK1-KRh3RtupdV5r0LVI5JodqiJlp2i61RxJstzGSwWSEaVSIPfJPK8DFJEDgTo/index.m3u8
-⚽ 体育系列,#genre#
-Sportsnet Ontario CA,http://iptv.852851.xyz/l/DqMME792WDQCoYr4iuZBr5MF2MHjYqVoW3UDbAP1YAKAuOBk8q_OUPuYTgRQWQ-S/play
-Sportsnet Pacific CA,http://iptv.852851.xyz/l/tdbnGv4iHX-T093cq0s_Wiia-c9bDTIZ8Gv3VdTGYu2jVvLnreLW87gNg5ASv_oR/play
-Sportsnet World CA,http://iptv.852851.xyz/l/OQeZ86EjB-WcbiZlR4i5bt0SV1vzZW_Q-RjFPzgkI2M0U55dvm_PgfBX5FuEku5m/play
-Sportsnet 360 CA,http://iptv.852851.xyz/l/BGhXyHX43STkCFYxEWfp-YkrXSXUxha-kbMTPqpG3aSOnEqnZ4mYxfEaejkGe2AS/play
-Sportsnet ONE CA,http://iptv.852851.xyz/l/Air-h2bRrX0OR2bQlFCnuTBXzxcC2GL01-Wh_-Kktc9izQ_4QQWMVvk2kRbLv7cr/play
-Sportsnet West CA,http://iptv.852851.xyz/l/367wlH9QLG3QX7z4-eYah3NYxG_a9KU-dfo4EGtOu4czBPh2IGPABrp8eoeIsQe7/play
-Sportsnet East CA,http://iptv.852851.xyz/l/P4vgtmte1FxknAFd-SVrUoD8nE-EkAKeVZlVZmmfRMDxqxXXiMyAEQA9wL2BiLP_/play
-TSN5 CA,http://iptv.852851.xyz/l/IpVn7N4sejdbuOgawltQlTQaWgyFEvP6YuRyD1jgEJ9Dl3wUN3ut8Mr4F8CweZuw/play
-TSN4 CA,http://iptv.852851.xyz/l/WLFw7_Dr7XxE138YOa1FbyYBRCATJwkkSWkdAL4wdLILuO0jeYSgoHy4Ql1qW6YI/play
-TSN3 CA,http://iptv.852851.xyz/l/_3VlwGH5LBNcodsU9HueL0FQ_b8DDjx6AVYFSU7jogiBhzar9wX-wK7vMJvDsDW5/play
-TSN2 CA,http://iptv.852851.xyz/l/kNvEhQk7yfcfG4q0XkBpnIEDhI3iXsHECvGSqX5wRpNfQ97jEsQM7C6fMl_gmOUV/play
-TSN1 CA,http://iptv.852851.xyz/l/uOAkyrwknsf98eYNzT_YUBrmHfIrAjf8qNDf-t2rYL2O5wqVG0vbNfnG08rGx6As/play
-MSG,http://iptv.852851.xyz/l/zdQpuuD7q_ixjKdBTXDOpYyCDCdB4PMQX3Xl-215tnEHSUsp90jxj7qYDtfFwTbJ/play
-Space City Home Network,http://iptv.852851.xyz/l/Q9q3vII4mBkGtYyVCGUwbnF29S_kx_yDkIyJLj80p1kPIVRPv_0dvT54a6vbSBv1/play
-Tennis Channel,http://iptv.852851.xyz/l/YKykS6Tqkqi49eHiWvP2s7LecJkqHBgU0STlxQEJlKUGmZcX1xRh8TCGgVPAmc0S/play
-Golf Channel,http://iptv.852851.xyz/l/WX55dE5xNWuonVj7_PsyjVuATqd6NGWEIi0hK-F0q70hQQopheiogpOd7RinEnJl/play
-NHL Network,http://iptv.852851.xyz/l/hGcu5aH8tYnYUL6HX2-HvyHPF74mknDjCB_uT2rlFlR5XAMddnX8psLZ-tQwJPwR/play
-MLB Network,http://iptv.852851.xyz/l/uEEGfs-ypj8p7J1WyZzo1nDz6eGnfJtq3-Wxw-oRQ8qFu1XWdhiF-eurcXjnyDnb/play
-NFL RedZone,http://iptv.852851.xyz/l/LA58q2pYRP0jqvL-DpzE1kSMhH1DR0sD1WiEADpyMHxF8s0UmVZlF6CxI8LpSUyk/play
-NFL Network,http://iptv.852851.xyz/l/11ceS8rHAX5xo-gKY02GqgkXc6filPyLk8dTtmvc6F2rC0kGICAn5kOFVbk9MPsX/play
-Sportsnet Pittsburgh,http://iptv.852851.xyz/l/kyI8LVz9qNU9JmyU3siSeRJGp0VzdIEzY8xn7_uCw-D0BwkHhO9VdgGpccVuWz6Q/play
-Sportsnet New York,http://iptv.852851.xyz/l/s5_IIBgm2BTv6-hffXuzMP4IeVaX_8CqIaK50jLcGZu7E6rUU0XrDOrHnWOjCFiz/play
-Altitude Sports,http://iptv.852851.xyz/l/32j7zTtsGoa3woDlSxBaP2McPEISvD69Sv4K3jnYZIGUBVvRB6PdwNB6yWDhuB94/play
-YES Network,http://iptv.852851.xyz/l/uganiDuEyQCN2yZXx9LF0Bp1ZFkKhoAgRcV9WEJyLK537gaRPtuglWcxFQn2Cv7r/play
-NBA TV,http://iptv.852851.xyz/l/wiEBFOTidnBVJG4ujOnGYrmYBdLJ8BJ0ik-pfXIWNz6DT70OtIxoYafUo1QQwA4L/play
-Big Ten Network,http://iptv.852851.xyz/l/IgGesypY-ePG34iCQVbLhYB0krZ2tTd7r9F9-Ickh2Kuv0DIkV7QeF0Mu55PCkUs/play
-Marquee Sports Network,http://iptv.852851.xyz/l/P10dWHehPHvhhduF2HxZgyBC_5Jopy3FL9hO376ZhSiJbKXv8h1KLrYqBo_CTON6/play
-beIN SPORTS,http://iptv.852851.xyz/l/9k1t99LGB17hJ5cCHe1Si7nY2a359Mg4IMWq08cOQbpDDWCpFSEbpR8OEDz3e-IV/play
-NBC Sports Philadelphia,http://iptv.852851.xyz/l/63qSxp4S_g1GTpfhcbCNFMDIAiNs-mGLbJrd9AZrxrrO1u7IdJWwkNkeuhhe41tW/play
-NBC Sports California,http://iptv.852851.xyz/l/qVz9jtm6Q9yYsmbjYD0f12V-xdcG5aXKv8P43_r9TjCGaOek7ClAZ8WplRXYUHNC/play
-NBC Sports Boston,http://iptv.852851.xyz/l/6EbuVUnY351EOvDWFBixLk_orJnKmZWz1AWevKyB5y-Jt5c02rE-vF_MveLBRO42/play
-NBC Sports Bay Area,http://iptv.852851.xyz/l/oyVGqVvv4AWWZxrYupmMlIc_fqqhoghGqMu1_5ZzfV8XZmD5DuqiPL3mbEBy17mK/play
-CBS Sports Network,http://iptv.852851.xyz/l/sYGqO0CW2_Cskst69dDOVWvVBkTCfGoGHfOJMDv5UKCmrZLvHNwccAT7leY_ML_o/play
-FS2,http://iptv.852851.xyz/l/ry-qYEW0jy50Cc7NHHmSFAheTl-fZDY_rB73wFWnopzSmQncsJvbBmFLvwKd4Hl4/play
-FS1,http://iptv.852851.xyz/l/GgLMSY82d-V_9TTwYfL05jgml6B7jCTAsflI0ybSK1YCLgiJELyTpgHmO2W2wfuX/play
-SEC Network,http://iptv.852851.xyz/l/IBTZ8SN1fMgQFYLnKsy5lDvKbWUG_kYdnwnBz_CaWzyvr89OucGGOJ9YLeLAEIwl/play
-ESPN Deportes,http://iptv.852851.xyz/l/PO9NmCwUoc4kYoEHcNci8tDY7ZeBzwz_DAQDorNx3mbfmKCr54bGoc_BK7RAbh-2/play
-ESPNU,http://iptv.852851.xyz/l/41MBQ0Qb4X5E_KOCVNxztRojl3n7TbawZOBGK6OEyjliNZU6IUVGFBEzB_P_Xh0Z/play
-ESPNEWS,http://iptv.852851.xyz/l/w63SKAh2_YhasbdvwAKYhf_L18XWFwgqF8-X3VcX75-YWhUrpKF3607AD-n4HWCy/play
-ESPN2,http://iptv.852851.xyz/l/nQJ90hLAG2hVsVJ1q--gzVVuq8CUV61kocRWw9L66SJbRsIGgQKVLWuG7cL-JJbV/play
-ESPN,http://iptv.852851.xyz/l/QIDizFhIwRBLaeIic19mi6Av_GVdkt7OBEPnkMv-CXk6LqM1ckJE3dxWW7DWlO9e/play
-ACC Network,http://iptv.852851.xyz/l/1b-Ch2JMZIee8cG_8p-2w__jvPtgmjjgwtPMX7g1pzsHLivAXJhxi5l4L0XmC3sK/play
-TUDN,http://iptv.852851.xyz/l/JzVP8bP0vxyAmBkniPrno6buS4J3OAWo_nSXWjR_61LaFvmnL0L89aC_tZ2jgtkC/play
-CBS Sports Golazo Network,http://iptv.852851.xyz/l/5gAZCCsXaXs94ruSLkHtVni2U6GmBiSUZ94Vz7t3tWKBhUkw3RRCQDsM_6Ix9o22/play
-DAZN Ringside,http://iptv.852851.xyz/l/psgERNdJyrAz3iUJvBMMxhx6lthpoQLvnkFtX3CdMgVcbTf5wen9LNxDd_EtjTGZ/play
-F1 TV,http://iptv.852851.xyz/l/oSYTlw8ctBe6VZsItl3y03MmKlW9gHiH65_c--vhjg4DF3rs7ap2LkPpXzHTKnjg/play
-HBO Boxing,http://iptv.852851.xyz/l/nGyV6iPWyxh28b3RXL1YnIvV8L1hYVN2DLP92-u1BYOnsTz3U-EFFBAK4IlwYINr/play
-TSN The Ocho CA,http://iptv.852851.xyz/l/idmNfj-Rff_CU5kmqpuHp92z6UCR51LtYos88v4PUGXe6dWxkt6PqeQ7T4Q8ZR2R/play
-Billiard TV,http://iptv.852851.xyz/l/4XE_ZrUM3YrSlxm4V6_rnW78qnfk6dwa7aHfyh8XbJyYdP_4f7wESGZntadh-im4/play
-Bowling TV,http://iptv.852851.xyz/l/yUk_Vj-D3hDQNtIJvAgEErfoYzVWYi63k5naNyLruqofx9TBbqd9zjOEWoLhrAfQ/play
-Chicago Sports Network,http://iptv.852851.xyz/l/GfnZ5nlX2IwtT1A_7Y1VFRLwWz--NTAFnuSntqIVnuns9zspDtxojF8GE9Gw6zcH/play
-FIFA+,http://iptv.852851.xyz/l/pbebmSg-eUwhyj_wrg-fU2cllq_EPMuciLRsBF_mh97w9cf7s7U_7gp21JmvF9Oh/play
-Fight Network,http://iptv.852851.xyz/l/bnnoTXK1fdVLxpzSSZ5NxMhiuXHA6qbz_5Og5t6xDN-Ka2SQjpsuqt4d38AcarCV/play
-FOX Deportes,http://iptv.852851.xyz/l/KXZ83N_hPG8-fh57xX95b7xqFbOiRAoeC7wcSo8ijiTnfcY5EfglltxhDcHtIGTc/play
-FOX Soccer Plus,http://iptv.852851.xyz/l/g_fVO7sB26K7s-mqfF5YJnqAWNXytH_lBfrpffsGO51qVkhyATV089hsCdd6RG3p/play
-MSGSN,http://iptv.852851.xyz/l/IWqvj3uFzZvcz29OcrpV6rbOAlBxQiNhIH7iJvYEmVDqHy5NeWafgyA6ZI8LvfiR/play
-NESN,http://iptv.852851.xyz/l/86xvJ0_EK4-NvVR9fg1uL0nLlN67E6U2Mrlq3uFxSjRwe5SstyzJ1Jzy0TKzR9QT/play
-NESN+,http://iptv.852851.xyz/l/YjJPY8PAxPp01HJ1l0Je8b4NWEWQBQ-cWgj6Ib1878Dmn_FgNVb_nPlUhjQybNIH/play
-PokerGO,http://iptv.852851.xyz/l/Me-1lGGo2RrYP64V0Kip_5gyWxcLyCwmlYBfdjVWw7q4IjHeoeWeICgkc-m313PD/play
-RACER Network,http://iptv.852851.xyz/l/umY1eTHappbr2FPOdNHEuhepFu8VxCQwAOP-DBNMmK14_wg7SNZK6zAYTDJHuoVx/play
-Spectrum SportsNet,http://iptv.852851.xyz/l/Lu8zXJ_oQ-yI6eBlLflkk48fmCovKA3upPdnJ0Y6E7gEp9_QFTfI0ZoUDxfwEyf_/play
-Spectrum SportsNet LA,http://iptv.852851.xyz/l/Z44b7v55zLt2mREnlYCAhenYk4RM7X1hVgPZmlbbcMtY3sEIcBTlU1GTgYS7bNXN/play
-Tennis Channel 2,http://iptv.852851.xyz/l/EsbdicPkrVlynMYW68wpCSPM_8cC8cwrP2DRx9wEyOEihnjFV4vIqmV3efTIrnlO/play
-Willow,http://iptv.852851.xyz/l/-d7PMJj1uWGj1-bKyjgFLDYVmhp_eQG3XHc1OWYsYVg9zI-dyan0tR5ARY2vT_O_/play
-World Poker Tour,http://iptv.852851.xyz/l/LJqOO-3VpX4OXhZDvpcnLVmHXtcNEe0r63qqk99zie2bz1HK2jedMSRCRE8iFpmU/play
-One Soccer CA,http://iptv.852851.xyz/l/1iXSUq9MtpVJYobO8v5kzpp-7XbiBGGOMzQvzt4aZ5o4h-p5Fx8OgGwOsrfpr2SG/play
-Liga de Campeones por M+ ES,http://iptv.852851.xyz/l/ckIStbkOZXrHUVCN3K1bViNMrPivFwtS6B0Pk5B7WvmkeCO9Ef5w4NVshsmfWyzg/play
-Golf por M+ ES,http://iptv.852851.xyz/l/JUlvKDaHvXs1xh4RZfLTF_UbLBsXLtAzpidB5Niegp2S7XCBqW6516-5Xvl5tZR8/play
-Sky Sport Bundesliga DE,http://iptv.852851.xyz/l/Y2_mbVQ9lF5U6msUHKMMHmEowAbovfdq0N0pYpH19wQJjZAJ55qCgYkeQ17zEUwN/play
-Sky Sport Top Event DE,http://iptv.852851.xyz/l/HbyI2AVNYMfhDktf4OO7qz0Xg3nm83QR0auQb7Ulwb40OqJq8Dtorf860ux4HIwV/play
-LaLiga por M+ ES,http://iptv.852851.xyz/l/WoDeZGtTdIuViUggJfa3ZEUo4WjMYMXjE0xYCZ9-wVWmEHPm7iyiEMQ57kzKKySW/play
-Deportes por M+ ES,http://iptv.852851.xyz/l/DSDAzi5S0m-jwVV7SCHlpO0KEBKisnPSZ0dztzrU1RZAuZGedaTNHWSFyz7oMjVx/play
-DAZN 2 DE,http://iptv.852851.xyz/l/9bKafYRu7i8h9Aaq12AJt2h2gTUPDj8Ftxwh9_xeYYfb10x0pmPWNQHuLl0sF-am/play
-DAZN 1 DE,http://iptv.852851.xyz/l/174uv-faA__q5YtbPb8kEC11_2eNCziv1tts8FZdVpPBwk5rCOK_-_ge-VNEt0lI/play
-CANAL+ Foot FR,http://iptv.852851.xyz/l/W8EunivVD_eOwGqwaTZqp09WEqhQ43bgjW-hzN3vsvvdy7NWe6j_nIWsdbwJYgy5/play
-CANAL+ Sport 360 FR,http://iptv.852851.xyz/l/IdW_54dCU894rTJwywxp3cZMXzxDYaaW__j3gQMHCmMlrLVFLnzZ3hIvyRUNxvC1/play
-CANAL+ Sport FR,http://iptv.852851.xyz/l/SvLK2nv4nXBcWMc7s0jJ5dBMXNOsG9tewpO5u0Z374-ETde9NbaETAofECGm7bgc/play
-beIN SPORTS 3 FR,http://iptv.852851.xyz/l/TzQMluebEeApQthJ5cfn4cChXko8_n4zHniIRNSRgzW60HiJ4IfYpqZWUvi6uq3B/play
-beIN SPORTS 2 FR,http://iptv.852851.xyz/l/134Nf2yFYOPwztPVw5qz8cXn9ivPQUvmSG3T6VAAPwvoaBRYF1MbcOL_U1vKYW2o/play
-beIN SPORTS 1 FR,http://iptv.852851.xyz/l/ksGayTfWAoMv1ocKJOXw3-4Vs1eiqlaQOUldXxJDhECLuNd_mqNrIhqjq75gKozD/play
-EuroSport 2 FR,http://iptv.852851.xyz/l/p0wHY9C61WTYkifkuMnKcWfLn0Rs27UkNniv0Inout2octdIsXGSARSHHgNERnbs/play
-EuroSport 1 FR,http://iptv.852851.xyz/l/b_CmQsFGmBm9VknO0Tb0i1gINakww5naKkwpdxUh4Uzp9wYBgyoJcmxdwQP_eq2R/play
-Premier Sports 2 UK,http://iptv.852851.xyz/l/K5ui883n5HtFRoueg4AdBs6048iU6ZEfJa9jXG0PDSKCRMNWNkyIQxZZDAqrwBdB/play
-Premier Sports 1 UK,http://iptv.852851.xyz/l/0N8uCsT_pI0M6k6n6in091ezdHWeDfYk9K5voHo-dG42t-Bj7z6gBDIN8ybYM8mW/play
-TNT Sports 4 UK,http://iptv.852851.xyz/l/EcS9hPsa-nilaUqScEVH4d6e0dzgIpeRlakJ2CwZUuyjo39oD6rvl4ycQaUp-HMy/play
-TNT Sports 3 UK,http://iptv.852851.xyz/l/waqeMAdRxuuWAeYe-5D_OER002ULP1nVUA14jDm2bCvVJ7fNhgjST8PCybJ2Xols/play
-TNT Sports 2 UK,http://iptv.852851.xyz/l/SJZ4O43mBcTk_xW-JLKuAewIcHGGUxt0NPdllgyQsD4XDlUEnkshRncuf_1_ThhX/play
-TNT Sports 1 UK,http://iptv.852851.xyz/l/vaVLPArq6yNOwdY7ONtoEeIDlRClbgY0ndnbeCNzOQRoODNkmta1l-UcypaHkqbV/play
-Sky Sports Tennis UK,http://iptv.852851.xyz/l/dcKGVSQBlgIOdWSCIErZNySzmYcVRGJ0puzfHIKzTz5SG0pEZlxinOAuI8Sm9cif/play
-Sky Sports+ UK,http://iptv.852851.xyz/l/iv8A7PQ3VkOx-JRHT5Ao67-n49RbmKss_wIzYMqkBEpIGdv0fWnmWsYx8CzVBSB6/play
-Sky Sports Action UK,http://iptv.852851.xyz/l/w2ZIMw-xFvrs_aPg5ZhWZIqZXgGtIyb_h6Vlz_gOemu1nRY7xAfn36FdM0r8tWZy/play
-Sky Sports Racing UK,http://iptv.852851.xyz/l/q-e_EqN--crnyp962Tk7ivF0kitnKfJhkBFLBB3mwNFiicQuyDP4ND1JDSW5woey/play
-Sky Sports Golf UK,http://iptv.852851.xyz/l/K6ZNGR00qKdS-tN0qFeIwO59aDaQvac96-16BW0JcJQXdoeaHoNsRSYjfVCAuOd8/play
-Sky Sports Mix UK,http://iptv.852851.xyz/l/9ekRDC8nf8ZTWw-6Mi02-v8CFWMmBiLUcMhhgDlpBUsXfFQxTnrVGjutUrQrtHcW/play
-Sky Sports Cricket UK,http://iptv.852851.xyz/l/15qbIpSLZb3WHvRQYbrz9XEJT85dggR2-b4hTk5UU4DKeNksnN3mxNoJuO4PoDnJ/play
-Sky Sports F1 UK,http://iptv.852851.xyz/l/2wcLAIDN64zidJb2SSXdSv3QDoyw8fm3bjVVfFcBXUDFmnBZt5MqPdnFQB2GvYDZ/play
-Sky Sports Football UK,http://iptv.852851.xyz/l/xXnNrD58PfoQliSRyMfn_xcEd6Kjpya0SjChREE8ARRxohnWSB9W1v5TVWqs59A4/play
-Sky Sports Premier League UK,http://iptv.852851.xyz/l/ZWcN8hkMqwRfggubQnKaYYunx26F1788gTMBGvub2-8dhZVEaFpBVAmZ6zVvcgn1/play
-Sky Sports Main Event UK,http://iptv.852851.xyz/l/mym77hiZxv1pc1_53Te03Qe5_YqpHjsu3VnnxIz_hHvotcsnLOlNrbjsgyZEPQax/play
-Sky Sports News UK,http://iptv.852851.xyz/l/wViyo4m3FVQ_ei6ZL4BtxVi1dVT_tPcKP26f40hc7LGPM3DBq5Sv5r3msxqfnCen/play
-Sky Sport Uno IT,http://iptv.852851.xyz/l/7qSxBvVbOmo8h8OerBScfgvpXzohwg7AFUXHfyTCkXESv7mRtORCsQ2CWBSJ6WPe/play
-Sky Sport Calcio IT,http://iptv.852851.xyz/l/gRkCAhOYwGrLR4pmeTbxX8aCsUonH1CzsxfasNzz6O_tdP0L4DqeqLgTGYlNjhbv/play
-Sky Sport MotoGP IT,http://iptv.852851.xyz/l/_7F7oaKfc9DwUjZUbp8PlUkdtl7ygwO1lI0KCwFBdRgxjKBAFDcQqyUquXxv6M6i/play
-Sky Sport News DE,http://iptv.852851.xyz/l/zybEfuR-DwrUW8lsL8FJDMyRiljdaSDA1YGarBsS7wvQ3EkDPsI6atYIirzok-SB/play
-Sky Sport F1 DE,http://iptv.852851.xyz/l/o8KKQT0KjaiJqtYeYf9v6MWBY-yTa-GDwO_7gtsm4yBzcKFGkEk-Is-iOudZRyk6/play
-Sky Sport Premier League DE,http://iptv.852851.xyz/l/Husqav3gj-LRFNo3UJa500NVzAFBpGQoJnTdWSsdF-RdnSsAcnpZfX72ga0NqseD/play
-Sky Sport Mix DE,http://iptv.852851.xyz/l/g5fiBjypamDagaRUo9bf66kpLOQDsBVrigmOF3URudhOHKyxYisV3KToNoN4TkZt/play
-Sky Sport Tennis DE,http://iptv.852851.xyz/l/efNQddhGDK7pU5WPH0MEjCq3iftdAo3sT8a3WHGqmXTIIHYZCxkEBHlLYk_TrzEQ/play
-Sky Sport Golf DE,http://iptv.852851.xyz/l/P53_FQ_3_WGdmOODm25iWywFVK6bB9eEsDjqxyhNYwNMvmEE4jB1PTXoun1wNuRf/play
-Sky Sport Austria 1 DE,http://iptv.852851.xyz/l/z9PCReyli3ATQNt2M6NtvJMGnah5YLLdfyXieKCShvTiHcAVXOnxc9QlGxLlkq4k/play
-Vamos por M+ ES,http://iptv.852851.xyz/l/7Wlbyh8Ex8ZbenvX-B8Bcgj-K1X7__aNC34YzoqFb72GfpwOQ1L0MZM7vLGHM5SC/play
-Real Madrid TV ES,http://iptv.852851.xyz/l/3hpsKc5C6aLtxUxnM5Vig56qKPWpubgTfB_NaUk5j7BgUjvcxN_5Ovlr_6RFOx6s/play
-Sky Sport 24 IT,http://iptv.852851.xyz/l/9CEyZawolzm2BHfbbdk_-8z2CbFBxqrOKbyupVTnIWdIpaHryFzkRAL7pZAGsmu5/play
-Sky Sport Tennis IT,http://iptv.852851.xyz/l/Pk743KJB2PONRDNhHslMvGNtZ4AzKApFaC3W1zxTn_Vut8YO25tngYz0uhWF74uI/play
-Sky Sport Arena IT,http://iptv.852851.xyz/l/1cM6uz7_cbRhsDv_Jp5LKiRVnviFU9UxzAdgyBBBR4-6ltVuWO0XYtVih7zoQ95d/play
-Sky Sport Basket IT,http://iptv.852851.xyz/l/HhigybW-ReTAj6KUE3A3lnzvmfY2WzU_8E3HCmqye2GHP10v_VISrG9LlLCYpuvc/play
-Sky Sport Max IT,http://iptv.852851.xyz/l/1YW2loPaIXczReKjxXWDi1kn2z_dYtqkdVKvQEpHwkNDapiKBCXd6ah-71ib01Lo/play
-Sky Sport F1 IT,http://iptv.852851.xyz/l/t0uFd1OiIA_gTuwpa7WA0bYJSg5JOj1PPev130sictMcp6B6_RacYLyTqDHG4jeh/play
-Sky Sport Golf IT,http://iptv.852851.xyz/l/GdYMJ5BkjJZhQkn7_82ULVthr8E4sxiEOLjwCRVqg_PfSOP5eElEtM2_jyS2psKK/play
-Sky Sport Legend IT,http://iptv.852851.xyz/l/70hn3ld7suUfCgGUua0stpVHAfUh_kalCVW8fJHn26fojcBBBUXkSf3qFyXU98X_/play
-Sky Sport Mix IT,http://iptv.852851.xyz/l/XKEi1TBivIl0R_J_UkYMkgHQ0VfC6oYUyHMbaOuvbdnUEymi9xXIZNIVkHNHKYcS/play
-Super Tennis IT,http://iptv.852851.xyz/l/TN6gw-lmRw7MYp6pqjhE4U2F4JxV2bn8_gvJP8x0sn5nRyXAe5A5ejGM793umoDI/play
-Fox Sports 507 AU,http://iptv.852851.xyz/l/AF9CE8Jy6gIwe-9-ODleQHCWFBN71tqaxBlj1z1hJ2mobHv-oJhBI4GBklToDow8/play
-Fox Sports 506 AU,http://iptv.852851.xyz/l/2gZabBY7aEBX33OYp9MHBSqCp5Qkh7kNwI7leETOokVoubizAf_vcXUQO48PML-k/play
-Fox Sports 505 AU,http://iptv.852851.xyz/l/51k93-vrOCL5P_CKue1hbjZgFbzPJE8rQW8h2G_rHVVHSNmgSQH36KWMr0n1UGfy/play
-Fox Sports 504 AU,http://iptv.852851.xyz/l/pSGcQhAW4JMUzpwiul8vWb5QFzMOe0Mh-ikXzlYDFZSmGs9YxiPSFwhWBzP4o3ud/play
-Fox Sports 503 AU,http://iptv.852851.xyz/l/BJLLSzn8yIGY3-rURMWbkcMPo8Zsj-6eaSim3YpacumMV8KZWNjnFhR28Muo1ECr/play
-Fox Sports 502 AU,http://iptv.852851.xyz/l/9PvSAE3sSZy8ovZKhjtP2C5XV-RvAJqXuMcdzX1cxiFDE2znXaUKwb8WXSb60L6Q/play
-Fox Sports 501 AU,http://iptv.852851.xyz/l/AsGJ_e4xhz9Ocz0QX1xhCieQyM_8jFNv3lh31ZeyL0B_kVLDGIwXQV6mvGxxaS6N/play
-SKY Sport Select NZ,http://iptv.852851.xyz/l/BaXN8NY210Hn8Y0RKmvjjZYCvPiA3IL5rAQ_zFrd7fyi4-3JLM0XCd8GkWPQ8AIm/play
-SKY Sport 9 NZ,http://iptv.852851.xyz/l/DWUXPOHeh2LyK9ICtsT3dBt-Q_NOp5MOMdbzxVVKEIyr6-C-Qb449pHUZvldhXT6/play
-SKY Sport Premier League NZ,http://iptv.852851.xyz/l/VD_57o7ysu5xOAQSPrji4MpcRMAM6TwaeT5AJcu28359hj0VSWUuU9E4alqkl_4S/play
-SKY Sport 7 NZ,http://iptv.852851.xyz/l/XG3uNVVStTtSbJFUcEsbk2n0qF-_yBkzpbVQGOvLd0VRSqR3jaFoiBfnEMzgIN_a/play
-SKY Sport 6 NZ,http://iptv.852851.xyz/l/sPyfBq-DpcAFjoZAfNYF3eksV98Pfy2f_xKnFS4bOiYD9oFdoZ2k1R0FWt3O3hDM/play
-SKY Sport 5 NZ,http://iptv.852851.xyz/l/6TYeeI8FG7hk4Zgy4yOOXpiMIFpApAtzoNbjaEwhiKtD4kPtVTtMgFR4NBjWZMJM/play
-SKY Sport 4 NZ,http://iptv.852851.xyz/l/Fgpp1u7gSu9RK2fbrJ4DLjk92OARf2_xKZtYT7YdKwZZuYVjidb_LA4aUOI3qQrb/play
-SKY Sport 3 NZ,http://iptv.852851.xyz/l/cPqgTRVUwQGNNdtWmqaqRahocSKT6_1w2QrOmPYWg7iQwQmzX0jF-qTfwCAwCFCI/play
-SKY Sport 2 NZ,http://iptv.852851.xyz/l/8P4fj4mR_RDe7UAm6PDQZ728JRfwrYMFImuhg5ktXhRLE33o_uYZIsm2SQiVrGrE/play
-SKY Sport 1 NZ,http://iptv.852851.xyz/l/4SCzOZ3RuImttArHk7q8pdP-9X_Mn2FYHyGYCZB1AXRga3QW2CuDerdq9EdXdSZ3/play
-beIN Sports 1 AU,http://iptv.852851.xyz/l/poLJ_eDoAg4x717AH0uFsyQS1Ld_wNzFN8CYTgAlAcoajQQZMDul6t_8Lv2Ho9oW/play
-beIN Sports 2 AU,http://iptv.852851.xyz/l/6kVP9ykbzpYCdz94UosRfVWRaD2AvE5cGLIOdCXgit21IZfC9CQ_N3tAsU84BkMs/play
-ESPN AU,http://iptv.852851.xyz/l/67-xt7aIleHGBQsT7axAEu4I4XYkL9R8r4U9p5gja0P7t6PhgtFmK8epaydfJPJb/play
-ESPN2 AU,http://iptv.852851.xyz/l/LPFgBODGFhpW91WKoCdFlRrmot_Hn_6uQeogxW9K-wPN6A2d3t-gPvczsUYsIJ8d/play
-FOX Sports,http://iptv.852851.xyz/l/AMx5nSaXg1us3so8VlXBpuVKsK1GDAXuGTfIvmARG120S4S9-nOS2tPVOlVgzbyB/index.m3u8
-FOX Sports 2,http://iptv.852851.xyz/l/EjNQAVlSbE_nxlWFwbUoGnj0NJ_7-4ggRbBVvRZfrrvp-5QCXIlxyvTpb2le_jfl/index.m3u8
-FOX Sports 3,http://iptv.852851.xyz/l/Y062ZaqiDOFcq7pmBvPDBRpkFF9VQk8kz4JCLo2x1ulFUfnbjGNm5X-sQtCcGy_w/index.m3u8
-🇲🇾 马来西亚,#genre#
-TV1,http://iptv.852851.xyz/l/kcGD1RKidVf7SkMQnAvvfmd7uUmMn-jCx1frsSyKqBU9NXNcXAMQQOKbhcsZgNG9/play
-TV1 backup,http://iptv.852851.xyz/l/v0BFt8rbl2ZEYzmT5K5Fcz16MSRVrx9RmStgIfksF1emeEMI1LMoupjxLYR2Q0u2/play
-TV2,http://iptv.852851.xyz/l/47eNVNOmdM0mw4jLbP-G-sWOCWHDO5zEznNTRxjmkMI72gkTN3fQ0P6D6j-RvsbT/play
-TV3,http://iptv.852851.xyz/l/FF5LfHjQg59oG2FeUq4gxTOE9BK787AiSb2D32GX5N7lJTAe07W-7Qdow_jXB6Oa/play
-TV3 SD,http://iptv.852851.xyz/l/bd9I6ZfAdtvHQhJNJ1TjYe0jjnREdBVBzc9pJdjh5GLdc83BhrAL_GUz5gyRfdYA/play
-TV3 backup,http://iptv.852851.xyz/l/XD6SXZZasKjfAyuA2vnxY2ZFQ5by8FVQoQuZ0O2z09850HSzEhQJJYgQzVZOBC7y/play
-TV3 backup2,http://iptv.852851.xyz/l/n0fB4Tmw65dIi_fkct2oPx6g5zcopEiUYTi7fy8t8O5RmE8qclInUK8thg0x8S2y/play
-TV5,http://iptv.852851.xyz/l/WN0hLqkbqFiq8MpxamBAadmREmFu6Y4946IL2hekEUkd8cm5Dnuahsgk1TYZvoEQ/play
-NTV7,http://iptv.852851.xyz/l/8sCQOPWvWOiVlyv2VXzAEcT6Equ9baM1YAJ_zjkM49PwjzRcF4_1OXHN1TQPleB2/play
-8TV,http://iptv.852851.xyz/l/sfdxr-0PNXj7ze3L6uMmQx00mRPTKtz2gJOSm22wdDG_aL10zM19By_iAptLhRYq/play
-TV9,http://iptv.852851.xyz/l/igfvljPF00y887QqdWC979PVrG49W4CyhfKOWWSBRmExNYF3zgjJrjNf3ley1Bu7/play
-Al-Hijrah,http://iptv.852851.xyz/l/q_pTFCbwkR-zF3BUXWHQcmYpNJjgS_pHsoqT-qMe7e2a34hynGs-A-iPtb4Qc3pO/play
-Al-Hijrah (Back up 1),http://iptv.852851.xyz/l/DvreU5QIJT2CLX763CoiFqZN4kHN7S9B8sFoxSBoDnNhcWzcdzNdru1Rbs8YrLoN/play
-Quran,http://iptv.852851.xyz/l/ntlUlS3BcvirGhvl3KpvV-Rz1ckfS41NQ2K01rucyWSXt7iS2XE93SMd9HQJFU_c/play
-Sunnah,http://iptv.852851.xyz/l/xUdAGE__YVg7a62Uk_wAVp5Obii3rkt2PwPXVOzG7NWG90t_XLMXEiuSeWZIeU7-/play
-Bernama,http://iptv.852851.xyz/l/0426XosjGpebrIhmffLWGSibIxmN5cW5g37VP_V3c86E6De_2bONGIhPtirmL-vl/play
-Awani,http://iptv.852851.xyz/l/7q_XHR7vxEwSiobP_LGyxNud9x7pW-gMN2WctawJJoVuhvej-Z2nMtqJPbZBeOTU/play
-Ceria,http://iptv.852851.xyz/l/OPWqKEL2QV5oVE_XNR61uC_Elb5m-WNBTU3t7Ot9b53hblUXaWXSzUKgNlT34uLk/play
-Oasis,http://iptv.852851.xyz/l/qK0A9eBpDNwbaCbssI5UIb3WztOqzUE6xVCj23bleh_QOTq7AAVUSYEJfYitYWxm/play
-Boo,http://iptv.852851.xyz/l/Wzdm6pOOfz5PRF6rMfeziORRbrmOBO2w7N4iapcXDp3lhY4X7vUylmnvN-VztR92/play
-Citra,http://iptv.852851.xyz/l/2ax6HKqYIpyuexkz_xwCRIO8v9Yric-leBjJW3Q5j7Bs8H040OaFvG8D6l9lyxIs/play
-Citra backup,http://iptv.852851.xyz/l/UpXbctzdbWCIOFUKd93zsTznou_uB2I1fZKtH-7V8yB0c9Cis4XfZfXt24DFOLAH/play
-Prima,http://iptv.852851.xyz/l/KKgCdamlAG7BZhTwNIM_wQ8s1-pv0Mf5-x9iuJ79FYdhwmmmw2J0A4T5yv6rnaFF/play
-Prima backup,http://iptv.852851.xyz/l/brNPqIfktr9uNdYA4cpKUeGuAvaa05a8Tw-NHdcPCzettssJCDVgqt8GGNYWRq3w/play
-Prima backup_1,http://iptv.852851.xyz/l/Ox7MtRS1wMqXNruellDnHdTizpzgRTxL8-9Yk510zdAI6BVOjzD6701adfKrvEsY/play
-Ria,http://iptv.852851.xyz/l/LGeyvdajS384cqfLXx6AFx4pZDx00RHe1GfPo8O89EpV2ZZd56o2bDwLm-LMILWH/play
-Ria-3,http://iptv.852851.xyz/l/Z3rdHCkReOtvjL3G1eI7EgmYvsU98oUbZBchyETIMFXd8mvnHg_dpnTfz8ydFhkZ/play
-Ria backup_1,http://iptv.852851.xyz/l/VkT3pNOypralaZ8YMKGASgwoUA2ptB6ofzGcG-8NYUnSyH6gihZDAu3g_QkVOey5/play
-Awesome TV,http://iptv.852851.xyz/l/_r_TKaCMFmacAKdD2t0L7pmsuTjwXX7u2DsKBYjIFSP25AyATkj9oxqkcWZiGupn/play
-Aura,http://iptv.852851.xyz/l/d5hN3wsdMOjiQ4RuAKcUmlLzdDxfvHJCtuxqRsVIpotRHXuK2X_sdvaUvI50g9j-/play
-Sensasi,http://iptv.852851.xyz/l/sWztLCnAhccgM743kVAhSFESC8xOCK5kn1Ls3AcmJzUYiH8ejdbanfeMfajiiUTS/play
-Siar,http://iptv.852851.xyz/l/HpTnZrdlAI-Zf0bNRtrXOc4UEOOzx0MlPomeAKubz9mQz3KPSM8hMFfGTgsIyn0a/play
-Rania,http://iptv.852851.xyz/l/KEbEyiVtzkN4PWNAsGWbrnokFDdHrIL954GRssy_wMvw5jP-_2VuL737OyxTIdqj/play
-Astro Rusi,http://iptv.852851.xyz/l/TlQfFzksSElpgNGUj64FDNOzqLjKq2Q0qVwFBpVjLpCdZwRd7TYAa_mrdK8a9moF/play
-WION,http://iptv.852851.xyz/l/_BxKeLaeVFh7UUHaFNBRyK_LBAoUZBDVMo4EtDVKEJWI7F7GZy7Vep5FewL3EoK9/play
-Astro MTV,http://iptv.852851.xyz/l/8m6JDMHAlVjC6WxwcdvQcYj1PgyxOIWegyEHmzKT78EzFD60fWUWM5GVrUG1-EgI/play
-NatGeo_Wild HD,http://iptv.852851.xyz/l/x_Cgnjt8cwNuor6jI0uT5PVp3ESOdlgoI9jhpZWLLRLK-fgIaCEnuE3C_JtUeTD0/play
-Animal_Planet,http://iptv.852851.xyz/l/zcwa9pw6utjQ_R7-QZea0JafHXrb1D_de3SDQNLZqIz5waLGSwuLAYvPizsnSoXH/play
-HBO Family,http://iptv.852851.xyz/l/-nA0o1rgAj41ngSPYlYG021Vn3jk0yUiQdMs6Z2r3o1HGagoLgI8X7ghnVt4qkiA/play
-Showcase,http://iptv.852851.xyz/l/iXLkqGCc_OQeTAbr36dCqdZYrzA5d3Qy1ht-5hM8NSY39fOOW7ATkvq4Ul6oQtFO/play
-RTM Asean,http://iptv.852851.xyz/l/Knq7-1oaif9ozcsIRqJieLLELLuZyym6RDvPXYVa6xW9PgbBZw6Ywf7LOIcZcx3s/play
-HGTV,http://iptv.852851.xyz/l/86Ok1gKlmBpkzgX5P1MN9OvgS0HaVlRnwNk2wxpfWppr1lV0vVWoFIj6BNNpEXf4/play
-TLC,http://iptv.852851.xyz/l/t9NUc_dKZlSBvOyCH2K84wYnCd9qQAGHrV1ASbva0h8IzJFaPsicoW92OjOpHJ5n/play
-Foodnetwork Hd,http://iptv.852851.xyz/l/qFzq-QG1uxGTf65w-ajegJcJc2cy2H37RNJX93W8xZ2oalTOyBqRwwMUBeak3nAK/play
-Axn HD,http://iptv.852851.xyz/l/jpCLhBFyevM2_ruy93RiiE8-jxw56kzlceimHuCYb6hXVOeXnY0z7Dl4tbctZBH8/play
-HBO HD,http://iptv.852851.xyz/l/E50MkPCE_fVROxXMuNn4zuwGUswlN2oOuF4c2jxKqgB_uXBxHSm9tolvhCos5FLD/play
-HBO Signature,http://iptv.852851.xyz/l/jaGEECjo8lKHWEnNh5XqBJluDKvMm89JcyPuFQPrU4CuVpUpn3J8Is8EHiepN_5X/play
-Astro Badminton,http://iptv.852851.xyz/l/RrFHNqsYF3SMCwqZ-xl0j6x2ovN_83LbNuXJM6Igv8MQp9sV3AEUmERtcaoSGiaw/play
-HBO Hits,http://iptv.852851.xyz/l/dyAdSH9GQTuEPYDYvajo2hSIhboSu6yOQz_P3J5GbdYgD0hCkh67PFaQJqkKhS2D/play
-Dreamworks,http://iptv.852851.xyz/l/6xdcH72klY-1HvUNljBrR5LRbemHGQLeSUsrecjhpHfuZgSB3IzFVGlbzkWvLsLM/play
-Astro Badminton 2,http://iptv.852851.xyz/l/RE3TkIG_2T3k8y4Puppt7TT_Pafg90yaOVX4eiMjSZJi6pQf0zZ43YntiRLzzpQ1/play
-Nickelodeon,http://iptv.852851.xyz/l/KYUqJ61UaiuqCd-4lJ74gaPfBougHhGiny9h1497cCvM1GT5YJJzBybQJ3vqN5pk/play
-Nick Jr,http://iptv.852851.xyz/l/XcXVe_jNdcThKm1ENItgheRApjvaMuM0xu8r_2WtPfDQuL0g2TRPHcD7nkMyL8Zj/play
-Cartoon Network,http://iptv.852851.xyz/l/fWhBh5WmgC_mdkv6NypKEBT0rcOzQUQfrzUG-RSHfRgtw-m2jBUbaCSozpV46Jtl/play
-Asia Food Network,http://iptv.852851.xyz/l/ti7ceS7vBFdGo8LaC6P33IKb786ulZUzxOt0Z5GRu6j09Xm9TRNlwuLgY9QB_Zks/play
-Animal Planet (Eng),http://iptv.852851.xyz/l/akoJvPMFbEC5rbmQj6Br1ee3TDm7aqhCH18zAKv4yzSfUPg-Vl2LjtFjn4RWZ6a_/play
-NatGeo Wild HD,http://iptv.852851.xyz/l/MkeSQ3yJ0ws-v2Z6cZt7sxdLNCpIJ4lFi_9BXHx_-zZ1rVrqIPZaQcLSwVrEPg77/play
-TvN,http://iptv.852851.xyz/l/wKsWotVy_swfbzdUma4eK7XUgJtf0Ds5xqFGCThKIPvBn9RL6ReH8vXeNZZ6C5ed/play
-KBS World,http://iptv.852851.xyz/l/ZOiRDsCJ588nIx6ozwxDK7NN4X8ir68qokVPKlIfdNkGNt08o9HDhZR3q2ekK77I/play
-Sony HD,http://iptv.852851.xyz/l/7tvvVoNGlTXSsxywskxc_TGNmSAJwcHpAQLzNK9p2UyxVH_L7tGReFliUCqPVAMu/play
-tvN Movie,http://iptv.852851.xyz/l/CdNKtjnbzWr5jpHRxioPJYdx5uaYecQBoghNJUuiFCWUHtY6zXxShslujOQbHwEw/play
-Astrol Kplus,http://iptv.852851.xyz/l/EF9pIyr2wPI3dOmUEJZbZBpaChJ7aUH0z1L0F_uRn1KpLthLoU86iH2tGDFIOaRH/play
-One,http://iptv.852851.xyz/l/5nNWm4xcdAYimxC020QbEP-FWzZiEb5aZ-creTK45MbVVnKDPx1_Hi-TaApWsHKH/play
-AEC,http://iptv.852851.xyz/l/vvCTI8oVussI9FUJQMnT8ujUC9L_leMLJ_aZPnQ_Xo8adgJn4hzI1HGKUeuA6KyV/play
-AOD,http://iptv.852851.xyz/l/b1e9YNDbqDfFjtSZZ8Q2xYlZEh_hE9qgnCWw8JnxGthXtcRDoJZYxND3Vk2usS1x/play
-华丽台 HD (Wah Lai Toi),http://iptv.852851.xyz/l/aWUcDwSbGOpaRguMifJDdaX4W0iDgGN2nomh0Rog9KcZg1q9ZzQ2pGgA4ueqEoyR/play
-欢喜台 HD(Hua Hee Tai),http://iptv.852851.xyz/l/spGYcYGGJ0mgtr_kJBz39f8GAUMf_s7UqMJpQXHcKgfbpbdlGxARJ7bkno3YwpVW/play
-Astro QJ,http://iptv.852851.xyz/l/iNDzyPKiM9HxtPajbvOn-W47Z_yv6jWFPEiOk4Htz9eShu2AWncAqhXYEQiCrJFa/play
-TVB Jade,http://iptv.852851.xyz/l/PQPyr6PvC4ETaOKKoHWVNcNCX1H8IfnMOib-GA-Er3NgVnfGruqhtKKqJJN6h4Vo/play
-爱奇艺 iQiyi,http://iptv.852851.xyz/l/iTDYvc-9PF3YbH-rXGPozG70a2g2w1ktxg0yMYxfTiDx81Up8VfcjZByX8SAkKaZ/play
-TVB 星河台  Xing He,http://iptv.852851.xyz/l/euiyJa2PbRNkMj60_Q5cKgBYtq4z-_y8bQ3K-B_18DYEunyzzZMZXG5GYJE3uj-n/play
-Discovery Asia,http://iptv.852851.xyz/l/mfkpTMnCVdKsHILtY1dDj9pjWJyuO1q16JXyOg6smteplKSR-zExUNadNrDGvWqa/play
-Dmax,http://iptv.852851.xyz/l/_UUNteibp3zexbX4KyefYxr9OyC3LtbwTA8X1NufPuieZRC1IR3cJ2D9IGGZcnC3/play
-TVB Asia,http://iptv.852851.xyz/l/_VwdB5EgCNAiTxRJdJUX0udeYQETEOR_Ycx3kTD34jFzKDKgSN4XSFd2ykcPrzY0/play
-TVB Entertainment,http://iptv.852851.xyz/l/VfJYiXNM95oXWxJ0Foz9glOe-QTj7fjhhsGQSjv1tiXENZ9lagqo-AeWbQDpo0sO/play
-TVB Classic,http://iptv.852851.xyz/l/6TUtKvlFX2L3GyWS-_9JI0U0qC36Mjcys9Ugk5La7nAI2yZdkQ0nvHpfWyTp7u9b/play
-Celestial Classic,http://iptv.852851.xyz/l/m93DYS_-F_mrIhnoNBMl6y_uZ2dc0NnjWVvM44U8KtqAuY0oz9q5T6etS_-BeaJh/play
-Celestial Movies HD,http://iptv.852851.xyz/l/Q_an4DVRNbj7fRrono8Hkt4qRcNJEGqpnevMl-joNYmkVm4EE4YDjBk-xsOL8Kbl/play
-Eurosport,http://iptv.852851.xyz/l/nu4mM0s08TDMwgWFBbL38reCkmRFsHhZ-G9V85wIW1Pr8W7bB5CbwFXQ7ZFVjhqS/play
-Rock Actions,http://iptv.852851.xyz/l/o8zaT-G5S2ELJobDY2vdujJayIZmDM-22UlCCZ02EGfuO8IS3puhnsG4mVP-2VwX/play
-Rock Entertainment,http://iptv.852851.xyz/l/vFfzEQnPuvHn7sdoxOuIM5DyEDk3nuWZ434Bb2YZem0f6cODJb5Rbjm32k9r0mB-/play
-Bollyone,http://iptv.852851.xyz/l/eHYan-91bHe2sQhOZCbIyJqo80d21x0okjTRHwZHrkgMzgNt7Rdi6-WpIVpfny2i/play
-Astro Sunmusic,http://iptv.852851.xyz/l/NvfW7d_iXlZnQmbd4yGQS0geR-7r-ann6YcaThD1It1MCYUnVbHmdyj_CtkUl1uD/play
-Thangathirai,http://iptv.852851.xyz/l/SJIW12FSgYyiAGeasWYCfn7lKaIFkWMwKK4c6AYwhwm1CwMjCvhONMeBFhzzQj_F/play
-Vinmeen,http://iptv.852851.xyz/l/7GYDLjGvF6uNJS7okysHk9PpWLdJL1m-ZGaih0WHY2e6U3xxQu-RTDIs_ifucoJB/play
-Vellithirai,http://iptv.852851.xyz/l/mUoB51C9917Hb8iAJ0KiTQc3xEhzgLOH5pJEz3nZskoLfwocxu-hy4HyrEHWSCCi/play
-Arena,http://iptv.852851.xyz/l/vpIN1RE1_d1I1rnXSkNNJV8gDZvmsaCKHDT1W8PqBDlh6M1Lz-IFZSTkCqBWBqTK/play
-Arena 2,http://iptv.852851.xyz/l/KvbnaLHUR7TjaP7qQVPDV6ooib4RsiVXdpBZUFXf960_i1BE_aLjEdmWQWcka5Jd/play
-Arena Bola 1,http://iptv.852851.xyz/l/4VmipUr4Eme6TYJETKpa8BKev18wcaFDNzXr7IeiB48x2m8eWg25ixj331y7OvO-/play
-Arena Bola 2,http://iptv.852851.xyz/l/GY2uUidr_ywMxvftnuRTfEdLWS-c42PfoKY5_VRzGs7tZYiHMkYSpJYEPsnXIZup/play
-RTM Sports HD,http://iptv.852851.xyz/l/XnXFDLL4P8h4gf-b0UESKXqUIGCcbDpZP0mX0DNUbZALIkrPNx6Mud8J3ZRAdNKv/play
-Astro LOL,http://iptv.852851.xyz/l/bV7995KHsGLsvdTWdmKD86PaPElI3iQGcSpyieh9w46HArluvSjaAen596f8go0Z/play
-Al_Jazeera,http://iptv.852851.xyz/l/9vk4Reg6IwiRBVAXbbMJyV850VHM31_GPouQBS04eAbA-vXKtqeqV62l0TJ4CbjH/play
-CNN,http://iptv.852851.xyz/l/NVfF9xB5GSl8gVt6T2PCap7BhyPyMVa1NOfaHWErhJmFToZcilxK3HnABw2KdTvS/play
-CNN backup,http://iptv.852851.xyz/l/yj9414ynY0rCAJwH6QpvC7XA8Wf57J4WGI6wsWJauF27BnR9X3ldOhBoXG8kxsEA/play
-BBC World News,http://iptv.852851.xyz/l/rzTa42hiABXvUAg1137FQPE4C3ExeIT3AsB7Xv3kclWioXJhq8kPlute_83fQMw3/play
-CNBC,http://iptv.852851.xyz/l/qKDMlvepzAQCq3mxFpQ8FwiDQ0kqMqdtn8qcmgLI9hi9JZsyNySnbPISpnQl9HkJ/play
-Bloomberg TV,http://iptv.852851.xyz/l/Wzp0gGfJ5iQGyVHqU9jP78HNxtQhehDUi4zSOOr3z4GOYkTuR8NAaJ1z1Rjw7OAi/play
-CNA,http://iptv.852851.xyz/l/AtjPd1WfJH5DFkr5qInht_4eXIZd6QFHKDSv4XDryDaRaKc6F0OIdQqTFMBqxrPK/play
-DW,http://iptv.852851.xyz/l/7Qcon75_E2qbY8vISH-RJ1vy1J60JRDv4QIxq5cESBXYfCIHd8xVxIBkcuRbKF1k/play
-France 24,http://iptv.852851.xyz/l/IGRtQKeelUrQnIIEsp5zaf5RN0M3orOQbASNu_VMJkRnQxsvnWv1PsORnpYMmbbp/play
-Skynews,http://iptv.852851.xyz/l/MsP-Ta3QoO_MArQbouYDnHGKITdI7LsuwEPqbJ3WL6glKWwfFK6h5_NdVYFg0KMr/play
-NHK Premium,http://iptv.852851.xyz/l/D3YRjKGxF4ET77wPvi7ZQ_ZQexGgIMYND6Le0VaCYnmWB6VC_i5Tf-bGOvBIW5SP/play
-Siar backup,http://iptv.852851.xyz/l/aotMbAR6s2lTq4pkwQg0SBl_1Qx2de4pf3O2lGLuQ6UFpRavWE_tHK60QlcO3ahN/play
-🇹🇼 台湾频道,#genre#
-愛爾達體育3台,http://iptv.852851.xyz/l/ub5934TRfX6wRDExPZqB7-1V8WWIUy_sLVUYI-EOu-rpsrpLPi2TbpWsBI7-CSsu/index.m3u8
-愛爾達體育2台,http://iptv.852851.xyz/l/E1QgWQLwZCgM606cW284Iw_b5zvRHdFTtnMJbABM1pETz4WCcGiZhhkeqPLuVm9H/index.m3u8
-愛爾達體育1台,http://iptv.852851.xyz/l/rhRtmrLcYUEdX9ShuLW9sVxDvbFkSG7ouIMGxKdjdnab0qFWA6LkGrvkYNfQAAxS/index.m3u8
-纬来日本台,http://iptv.852851.xyz/l/ny8S9r2kwWW9-XgFuid6HAsRUczZUX7uj-07ltjCa2_o76oA_5yFozANqM2feOcB/index.m3u8
-纬来电影台,http://iptv.852851.xyz/l/8Plp8yjzzievw6XwcH8je1nUD6Txyna1de9Da3il7gCkQ0rT-Oovs4KPW8zYT6Lb/index.m3u8
-龍華電影台,http://iptv.852851.xyz/l/XXZA5ypYXqmTCuMaAl7OuQ1NwPedxL_d7aZ3-9hbLX3eBLLQwPxCUE2Pz_shkbZG/index.m3u8
-龍華經典台,http://iptv.852851.xyz/l/6eUypNYu2YblSpUPnCtWar6KgX8Sgph-xRfpozemHBqb0Xufocj39BqNfmQJgG2Z/index.m3u8
-龍華偶像台,http://iptv.852851.xyz/l/f3xZXFoiKhren-ELehXJoELnZzPo9_qbX2H-1iej9g1-7nFzIf4scHLd-a0Y-fH6/index.m3u8
-龍華日韓台,http://iptv.852851.xyz/l/c3U_EAF37PNZmFEr2wUuc9eyHsGR04dSUSnHg4oZ2SZt5NJPmfR1FkkxEoMbD3aU/index.m3u8
-龍華戲劇台,http://iptv.852851.xyz/l/2WiZylUU73GaTUoXf46D1ahy4cdAJs2TO6Lg5phcH03kjLvNkpfqaoHvM5IjrFk0/index.m3u8
-龍華洋片台,http://iptv.852851.xyz/l/IWORhpp_fgwFH4qwDcYMH3265N6HdtIL-QDWcONdgjAn8dRlE87DTjB9OY5Sv4CX/index.m3u8
-龍華卡通台,http://iptv.852851.xyz/l/rLtQvxclO2wPgLZa8eWlU6mtV3XSai-n12-ezaw5VYS1uAza_ZGS38v-O-ORXNAx/index.m3u8
-年代新闻,http://iptv.852851.xyz/l/9bz5xzBj4G7z-ceB4nZLaj2C5vtUJXuilblpQHN0JCC-OFYfmqlc0f6Pn6J7lTiz/play
-纬来体育台,http://iptv.852851.xyz/l/z16nYDtf6PmdMX3WGGlZ47rRJ2MK_RaPmZcKEmQkV2gJDgSyV3w2_L7w7lM72lOt/index.m3u8
-龍祥時代,http://iptv.852851.xyz/l/XRlASWlsBnLfbaJyi6k49gM5ekLHtOETXSyySfSZX960HLxr3RJm_F0_wc5C7-Xo/index.m3u8
-愛爾達體育4台,http://iptv.852851.xyz/l/d6Jp9Lu3Msuq2pJhKjrppJ097hAL2ndNPrem0zyKGkZyr_Pk9SpYuCgDVDWgM0E6/index.m3u8
-纬来综合台,http://iptv.852851.xyz/l/TnrgXh6F_7ppVLW8Xir_z3FcBC-5vo7UIX8Iuk1258ZKk66-Ni6omngB6m_8b01e/index.m3u8
-民視綜藝台,http://iptv.852851.xyz/l/sOMuuGYqN7AAlYRUGTCy2MhhaYDpfIw17ynSrxv4MEFSGoCJ3J3PZJYau05s0Rgh/index.m3u8
-民視第一台,http://iptv.852851.xyz/l/kgBA89YBMn_3OReh4clY8A6QmfN1nu1T_4X-T2qC-vKFzvA2tWEVVNbsKvdT3Vv-/index.m3u8
-民視台灣台,http://iptv.852851.xyz/l/rmpc-LjsZD61lKJj0Wb1BEjwpQnPYQ1iXNvE-7Ufv5YDEk-bAZDrejBWiUsFdb8j/index.m3u8
-民視,http://iptv.852851.xyz/l/YcnRwr9zJimjYVzHVdjW8eVtlTcSMHDgjDG-Xv56oKqfYZ84JngtG635gIuTU1eD/index.m3u8
-大愛電視,http://iptv.852851.xyz/l/p-6JCOF7fql93Zxa-nEmXrqHEwV8bJMCRoJr0iMIn10PnO-q8zvVAAmI5v0Peyfx/index.m3u8
-中視,http://iptv.852851.xyz/l/9EfW1_-KPuves0aFbsnhnMJOLnuv4LW_3fVEYGOluARJrEEy23scY_A2hro17wxf/index.m3u8
-華視,http://iptv.852851.xyz/l/jOc1R1zO8N8ZZmgWtoqnXxpvj7-rMuEwaKRddP7dTYcd-ThqyllaRRTSQAstsRdg/index.m3u8
-三立綜合台,http://iptv.852851.xyz/l/EaCFjUH1Xga64b_jjPqE9RiDPIYVSWNGqy7DLmyywylcs__64EkNjDNKWi9-xvdn/index.m3u8
-客家電視台,http://iptv.852851.xyz/l/hl6v5fbTGNZoou7XCBtQYdGROtKPg-zIr_vY7sdq_WGT4cm2enqvUZkQyHoYPjsX/index.m3u8
-八大綜藝台,http://iptv.852851.xyz/l/nppCeYu27WdDQpwE2YVSl2Qrc2OEYRYZ_ElQaQ8T9RSAnfmCZBF0ieBo2xU4S0xi/index.m3u8
-TVBS精采台,http://iptv.852851.xyz/l/eRh9yunu97oH6MMSCfS9ROB8Mp4aUVfUHJ_RQdsV_xDTPSn8JB6wdaLJ68Tw80Wm/index.m3u8
-INULTRA,http://iptv.852851.xyz/l/xsDRsJlbw3zVJsTdhEJ_oGX6KXxTI9omY4p0P6FUQ7Ey33tjsmqnCgaAd6MRB7Mz/index.m3u8
-靖天綜合台,http://iptv.852851.xyz/l/GoyL4rnVsOQ6OyQ2jbgT_EACAovS4f5bl5MGGWj8pzZQEviG_Fwk3VcqrL0dMN2l/index.m3u8
-靖天日本台,http://iptv.852851.xyz/l/3RkeOrXxzSH4JXewTeOgb1kWuahFWbafPCZfChzMNpF33mRWDPtPuKMQ4c57LT4W/index.m3u8
-新唐人亞太台,http://iptv.852851.xyz/l/3rAFrN4HrJefLQrfUvEfN7Xxg8rbPkdR2xEHOP64Yjmm7NAJ2ufsftRTQxcZtsqK/index.m3u8
-ARIRANG阿里郎頻道,http://iptv.852851.xyz/l/UPm6l4ZX6vugV1Go9GlACtaPd6N8ErcwzMFpdgm30of5VV3mqd4uNd0GiCoggWCx/index.m3u8
-Global Trekker,http://iptv.852851.xyz/l/OLa_l32U-BQTBKK95gsVdJfe7yku70zQj1rj5NejKe2q1yxtLkU6qD2aGJIEIcBG/index.m3u8
-東森購物二台,http://iptv.852851.xyz/l/wDPSN4L5JRC6p55KpRL9j5C-307umE-LzCd9i02JsXOkrKJWFuyUkwIgE_2iWVVN/index.m3u8
-LiveABC互動英語頻道,http://iptv.852851.xyz/l/Q2svG4SoV4_1cgeOc2aI9uDncL2or7zFCIFUVVMcaXDAlRqYkh0KYK0CMLuXl9lu/index.m3u8
-達文西頻道,http://iptv.852851.xyz/l/FNQc5cDJLtg4VibQ4IOIZUwQMxHLWli4JkVwtn8cc7hk2gihEFqEaSPeA2T2yOMP/index.m3u8
-Nick Jr. 兒童頻道,http://iptv.852851.xyz/l/OC0z_c_tJsyd8zIafpHR_YaZqhyxmfm0PkYOlavYckoy1BJabfYAMbk_5fvy11ep/index.m3u8
-尼克兒童頻道,http://iptv.852851.xyz/l/C7a6QmWLtSZXfCjdQEDJ3qx1yEZ4aF7RsK5-Xfk4jfNseEpn2DW2G7z1S9fV0aAq/index.m3u8
-DreamWorks 夢工廠動畫,http://iptv.852851.xyz/l/rf7erwjSB_2hgYAnqrnzasRuzkFOCQr4ja-D1vEXz2cH8RLB-radBAc49BedAVc5/index.m3u8
-靖天卡通台,http://iptv.852851.xyz/l/GQymwa3l8KISIYdUsKvwVF2k4QL3DV87um4PPhfNkkCfK5RzHqG4VJTzrVYflXe-/index.m3u8
-靖洋卡通Nice Bingo,http://iptv.852851.xyz/l/4HCTL1aeG0vG812-MBh_YSh4rUKqQ7zO4VmroWVrI1fg7-8MUyqpmOJDNVIt38Qi/index.m3u8
-MOMO親子台,http://iptv.852851.xyz/l/otTx3K-L6FgZoOH8q_MCwJ7HqWWLc0jODpG9kdvHIbkwG6SWkGEETLYTRuJ8nLdm/index.m3u8
-東森購物一台,http://iptv.852851.xyz/l/LHlvAIzNEHIbGDS9Eh3HAT_KmGcpIEEN1o1IEarloDtdIGF26gAxhxylsuLUYwU_/index.m3u8
-鏡電視新聞台,http://iptv.852851.xyz/l/VKpNosIx2swgStZPRYGosOf8cue6BsqXwsnRYXRlylSokbEr_XvFkepimo-E4AGQ/index.m3u8
-東森新聞台,http://iptv.852851.xyz/l/hxwEnL7QwdO6HDFubVQyfNvOgjSEq-1AUpjFgIGUlSmQ8MqGuxMGFrpCo26aUCod/index.m3u8
-華視新聞,http://iptv.852851.xyz/l/hxM5Jwfxo4ppqlY9l7q_QOZj439bgpVcCEnjqu4G_gSr0Qu7TGMhXx5JVuEOow64/index.m3u8
-民視新聞台,http://iptv.852851.xyz/l/5NT49sF2NC33A79Q5nihYTieeON98tglSEhjOHXgpRapXNds8OsQmfQ3eNJps_hE/index.m3u8
-三立新聞iNEWS,http://iptv.852851.xyz/l/EB3GpbWTHMWTu2rCPtDHojvB6FASLqLi7dVr7ggdZUQ2rvp1uc3ldQsucPuCaN6-/index.m3u8
-東森財經新聞台,http://iptv.852851.xyz/l/Y_wswdcZvr-Hg4IRWNjXu1FHs8TYPOolH2cnkbElcrsT1gyouZWiFD8IofhgVrHa/index.m3u8
-中視新聞,http://iptv.852851.xyz/l/gYxFzrZZJtgqMmvFXihwvnvV06BLNJyS976CyVBJkqGDuJV4KKMUUVKw4hpoOkaa/index.m3u8
-Bloomberg TV,http://iptv.852851.xyz/l/_8oPqt9xqREjITUYsOjyoEMAO72exnAasUn8w0VnFtT660il-K4stkCKdsCvYP2-/index.m3u8
-寰宇新聞台,http://iptv.852851.xyz/l/uxQ8PDaRNaMnrc7xlyq3DHPTsQSK06cL67YP8h_2WQfNehoz6RBLyjf8s-ovKm05/index.m3u8
-寰宇新聞台灣台,http://iptv.852851.xyz/l/2hxFj98oqnsT6KMb659ipdhBKilPL61eDVyycl3NqJ3SuEbG9Tylk0PvbndzA-cB/index.m3u8
-SBN全球財經台,http://iptv.852851.xyz/l/tun-TUKaY8BkuA8shkkHVA4WzY-HOJE-eYUz9Za80PAYELs_e63Sg9OipxPM1kZU/index.m3u8
-東森購物四台,http://iptv.852851.xyz/l/RpsJ8kjS_uqtJtWHLRGpq0vemdZRHWo4ATum-0S6jzxJ7N-6g0plKS8zO_yOCstQ/index.m3u8
-豬哥亮歌廳秀,http://iptv.852851.xyz/l/HznTMsZCGZ5YjqWLfTT3kHk-hWqxBxMs-lenQxCw-rJcUyq4yxTANgw5PXXtiVzO/index.m3u8
-靖天育樂台,http://iptv.852851.xyz/l/LBMP2f3YDWOq3xwEKhJ5S9Xx7J6m9XEEEpWurPGWfTUcwVyS3AQ9Eirl3E6svudC/index.m3u8
-KLT-靖天國際台,http://iptv.852851.xyz/l/xzhsHTNnWKAhhMj6Ja_JIPOAYFFT2m07kU_wwNTOkAQjuA4tDzs94OKYAdet5Tiv/index.m3u8
-Nice TV 靖天歡樂台,http://iptv.852851.xyz/l/ef-OXUQTXwnItP9i7wynBqtGn-8_7oCujG6yVz9JuhxgEftefpHcVwPvHqHvKdvL/index.m3u8
-靖天資訊台,http://iptv.852851.xyz/l/p2TlfCwNFIjS4shdnmCSW7KM4F8qpKblP2sPuYsR7vqFNb-ZMbslrU_43kePGNwY/index.m3u8
-韓國娛樂台 KMTV,http://iptv.852851.xyz/l/B_lNnQxiYqpRTC9fNkywPlLdDpFL9j_kN0FUGiCz1CJ_JWfQPIuI3aFMdDCNZIPy/index.m3u8
-ROCK Entertainment,http://iptv.852851.xyz/l/Zrf9Csq4markT6ZC3Gtuqwp5DZavADL45pfjlM6gJYvg8xrNBLefSDmWM6y2qMqN/index.m3u8
-Lifetime 娛樂頻道,http://iptv.852851.xyz/l/aPj2UEjzIVwAQ3Qis7-TkgWGb6zuuavo4GNUz_3_Tp5WXpjZ0SVkSKtI0hBinDqM/index.m3u8
-電影原聲台CMusic,http://iptv.852851.xyz/l/_J299Xj0aNvWQduMtTz3ndMkW1_IGxSc2Hc4_2NmgR7GlCuJdqST2p7x9uHfwBya/index.m3u8
-TRACE Urban,http://iptv.852851.xyz/l/S0H8XEHjmDaI7_VHFGkRxJK7KlP8rLp6DyXCALUA0wA48b4mzAqILejLVd9w1wi6/index.m3u8
-Mezzo Live HD,http://iptv.852851.xyz/l/OBr7Z7yupqExsTVYWeYJmPlPd5kOrp7jSCw82MH9X0JEGJF-8Bdyr6zSLaXTXZJd/index.m3u8
-CLASSICA 古典樂,http://iptv.852851.xyz/l/7znUuoZG7cnbrY5jobOxc_LwgZF7l1crC133M-Ylt63zxdKpE8qAzx-OzNKMSBSN/index.m3u8
-東森購物三台,http://iptv.852851.xyz/l/acVQFDBtdIG04MClVhopyZnxZ2E9N_GhptFOqv8wBpnUVs2uqmcohU75Cym0mcp-/index.m3u8
-TRACE Sport Stars,http://iptv.852851.xyz/l/HAwvOjoyWuTNiNrOUwWQYaMMGpEV27voOsOTtdWxh08oPWtD67kUadpmDvM7Wnt2/index.m3u8
-智林體育台,http://iptv.852851.xyz/l/7p32CqFMRbvr5zGdX1IylwmKSYNdo60-JPMRgRUv33DvoXOC3BfG3YitxYrNVYb1/index.m3u8
-時尚運動X,http://iptv.852851.xyz/l/iHHtbjiJVP0OF1uUvz4fZaVLOPH3ACVKyIYXTopLgaarFDLfTGD-MBMHoX6H1T6M/index.m3u8
-車迷TV,http://iptv.852851.xyz/l/O3bTvp072tTyLof2pzgXZ53Fr7H3Jpo_PF4i0-aseHvhtmK18WeqyzhW_Q2W4NKb/index.m3u8
-GINX Esports TV,http://iptv.852851.xyz/l/9cZRXJ5ziBConBfWCTLCBsU82WtAY2sJO4kmv4QI722YJw2AgcoAtgvYj4Pt07XP/index.m3u8
-Pet Club TV,http://iptv.852851.xyz/l/r5rPeyluuJrVku7kP6dEOBMXLyJ5ZgMtgogYcjbUCLbFp73LMmRK8T7t39RT43Ci/index.m3u8
-民視旅遊台,http://iptv.852851.xyz/l/yESsp5U1Xta96nXI8kRiwrEgkFsWyGChk8_wX_C8VRgAj7PlsaV6i43Hw3VZPL7o/index.m3u8
-滾動力rollor,http://iptv.852851.xyz/l/Dmo5mMZ1NBvetVFpOPo-nNldYekjLFSaxpTZGasGjnSY4GTNmpMYs_mpbOtaG8fR/index.m3u8
-亞洲旅遊台,http://iptv.852851.xyz/l/3S-pCXodkfMvEPAjQyu9eSO72ayCP4QAgpwtdYSnHOSgS1cG1Ry4EunbpHLJnXj9/index.m3u8
-fun探索娛樂台,http://iptv.852851.xyz/l/A3jaTfZpdXmK7QrtJ2-FEczkCN1cMiY5rxbMP8sobcg3KgoCJ_y9IU8-EVqmi1OS/index.m3u8
-Love Nature,http://iptv.852851.xyz/l/zShRhvVOBz9sYhEGYs9NSGO3q-EicMKaSonpFce0GgrGmrniVjtEMbhDYZASoYOI/index.m3u8
-History 歷史頻道,http://iptv.852851.xyz/l/lZzqD9a3G6JzN9CEkGEuuZJLt43KkJfWzRBlfBAK1mLvQuxwp_DGRrDBmobL4fyL/index.m3u8
-愛爾達生活旅遊台,http://iptv.852851.xyz/l/fkqSTV5F4_o4x8AxBQQff8cWiYoP9kT3fh9P0UM0hweYtCSQlBeBz6dZ34KDipri/index.m3u8
-LUXE TV Channel,http://iptv.852851.xyz/l/fe2EkJDaloixeDACCTCel4qhpcRTwZmj-_MZAz1K3yWrLFsUquJOplD97q_kehkF/index.m3u8
-TV5MONDE STYLE HD 生活時尚,http://iptv.852851.xyz/l/2U0JVsovbXmMVoJgBKyQGoBxORgMdP4Lg7O-VJebiJ_pZS5Uyl0RxSvlYlc9fNSO/index.m3u8
-公視戲劇,http://iptv.852851.xyz/l/I-im41pSklDRmUm-175WygMtJ6aUyNhpneIDjwXZgn6ZXusCsNo9U8853iD5n2UB/index.m3u8
-民視影劇台,http://iptv.852851.xyz/l/hyCam367v-5-SyxqQqhkSsIi6asJnGSVGrAEVK6AmuZQbcGbTS43cdn7ucATDJl4/index.m3u8
-HITS頻道,http://iptv.852851.xyz/l/4mXBUCPT18I2CJBfQYuJh03M01044z9U5SlFQffZyLOl9_bTcY8zBLoWp865An8B/index.m3u8
-八大精彩台,http://iptv.852851.xyz/l/okrBayM4ucCKms3sfeYfn-8FRoeL8JkF9_5wCkqHerMWmRCbqJHy5N4tUn9fWLUv/index.m3u8
-靖天戲劇台,http://iptv.852851.xyz/l/P2eMLUjmwxlXP1RrTw-5cd8DcOCp2hX5IjF0DMgnCJAh15ws3KSSyZB-lOD0EKKb/index.m3u8
-靖洋戲劇台,http://iptv.852851.xyz/l/LXRHbvBJWQ8BiyIZBvAjEAQ1JwKNoSOt4lxw_Jc5tP_FHhvdm4-ZUCO1w6hnEZU5/index.m3u8
-CI 罪案偵查頻道,http://iptv.852851.xyz/l/PUDEPC-2D-B6zZ6l-U5PK8Ik1XyaBBy3C0Oh_luu3zpeXMFIT2kgChMqzwv7Ewft/index.m3u8
-視納華仁紀實頻道,http://iptv.852851.xyz/l/wSnTFyghb85LWPmWQPbRe-pBJt3eFHl8S-3VyD9EPcsTVNE78BX9TdkAibblFudh/index.m3u8
-影迷數位紀實台,http://iptv.852851.xyz/l/cHSOLV9ztD2uj_ECZQDp21NHMMqlxulXxK_oKPKLQSZhjqUpkhVeftcTWwxan2qI/index.m3u8
-金光布袋戲,http://iptv.852851.xyz/l/eK9d3ziYVaJkQ8zuA-u_Wu4-bCZZ7VrBUZIaazQ8OC-j2OeltQ4DEKTu7ey3ZU74/index.m3u8
-ROCK Action,http://iptv.852851.xyz/l/MirH38rvtK8xrVusdvIOrEk3KALJsTB2ByQN10H2Ha3yI6sK9guqCbr44HxqXN4H/index.m3u8
-采昌影劇台,http://iptv.852851.xyz/l/uRYsXlCFYhMFPuhlpBgZfCsNfXTQKvCMSp-UsRadkITKYapn_wh-0xXmtzUiYNVi/index.m3u8
-靖天映畫,http://iptv.852851.xyz/l/cVSXTFIq6MLajs6pi2q3R6IShtjX--BHPcESbnttEQzH4l3s1P4GtAHuyYJInz7v/index.m3u8
-靖天電影台,http://iptv.852851.xyz/l/ySmIskG-5d4QUCeOamllv-iIstgczD5MX8NJ9dGjIHjKmPLeKdpMxq5rm1odQFey/index.m3u8
-影迷數位電影台,http://iptv.852851.xyz/l/e-59MbCr3JLKDivfXcP53hDq1K61gGgpjVFSNVn2v00k4rfN-FyLuLec6A-Y2obG/index.m3u8
-amc電影台,http://iptv.852851.xyz/l/xeq2b-N-wXSNRqe8utBKE6wsvkCxl08Dxy8UTPdb__fS2cJADNhH67T6wE_2PYHQ/index.m3u8
-CinemaWorld,http://iptv.852851.xyz/l/VesNojWaObY4O_EHfh_AQhRW12MhYJOIpfCKl3HAbvaFjQntGMWZEwscxcfG5-u1/index.m3u8
-My Cinema Europe HD 我的歐洲電影,http://iptv.852851.xyz/l/GEmk65oJH7eH9wFnCWoxFp9R-l2Fsav9vahnnUwcG7olVwm19yUiBfaQK-XqP7eD/index.m3u8
-好消息,http://iptv.852851.xyz/l/dWFpn70_vuO5VrztzbyDhwuBEAnvisXIMg7etwK-SSlaprdUH6GbgVkfWzIayleR/index.m3u8
-好消息2台,http://iptv.852851.xyz/l/c7EBfadHAfSQ29_Y_QjJuT5CPIDTySLKzHCWIkwlCfWIPEVj6OfWNGr1LI6Q6qyW/index.m3u8
-大愛二台,http://iptv.852851.xyz/l/jNBEkGjuShSeBgi3fpYoJWxuf94bsmM9z9VzsD7CCK5xlS5oGNMqEMG8vdV19h0J/index.m3u8
-人間衛視,http://iptv.852851.xyz/l/RtrT49K6OY7W_CbdoWMUZVLUGu4JrpfS9kFly5kOzboePCZKNqaypHL9E7AzD_8J/index.m3u8
-NHK WORLD-JAPAN,http://iptv.852851.xyz/l/v47YL813Kua2YcaazQJV3UpR4SA1UOIXR5hrmaGHdJnFJFAsTHDDLlclCy03S1JC/index.m3u8
-FRANCE24 英文台,http://iptv.852851.xyz/l/FNNXgqfEepqoDVGLnasfP93GUxtn79rpSvK2v57FCe7nTRwEJ4ukIXM55TpRoOnd/index.m3u8
-半島國際新聞台,http://iptv.852851.xyz/l/fWRfVylMwwHqiKcM8fd4hOhkWF0OLffFVmPQjS5hNiglp0rVnx6j4et17DIT7l1a/index.m3u8
-CNBC Asia 財經台,http://iptv.852851.xyz/l/8B_ve3IuPfpmwtU-X6uGPUMUwq3GXh9nBO2TbcKf-G0gNqYXXT-s5LR1tFcRKNSe/index.m3u8
-DW德國之聲,http://iptv.852851.xyz/l/t8L9GEH8IWST-UyUjHFjcUq8bh2WleHj8wTnp9VmgheMbjrHRuFzi_czsbnRHQvg/index.m3u8
-國會頻道1,http://iptv.852851.xyz/l/wPpLzGkuWEvASCMLwC-JOnEt-AOWo_H0BCaPUIDiIAdpMEdFiPUivR_HMCBM4Fna/index.m3u8
-國會頻道2,http://iptv.852851.xyz/l/Ymn9TbuyeoC9YujOCkMpCewP257R6olNLffUo6w97GoM0bx2lw0d9t8j3xlKVqj2/index.m3u8
-經典電影台,http://iptv.852851.xyz/l/6JpAiKKNlfr4hof2khwzmBz3oX4OnzX2rVqmquDcqUPizCN9bGFCgEsoPueULurG/index.m3u8
-經典卡通台,http://iptv.852851.xyz/l/2BXsIYuZwZfUbWaL_JWndM9S33W1de20ocWt_Ym4LVY10ijy0WuH82aAu6r8w7kU/index.m3u8
-精選動漫台,http://iptv.852851.xyz/l/rgXndxMCem2-eO71_VXMWK5hIqgvp9XIYTqCQ4Q7lA5p5MPWgtuH_g7fVZ3GThdR/index.m3u8
-TVBS歡樂台,http://iptv.852851.xyz/l/G4pcKNlN0XGR4wzjgFgxTyx0Kp4T_avdNi6p2ncGuQMk_JXUjUYoVd7lqU3x_hIT/index.m3u8
-ROCK Xstream搖滾極限頻道,http://iptv.852851.xyz/l/RIT-nbUJXrii3XWjroSYZSFMm52Upa1RNeMZz3mwmCCCADcW4fX2tZl-DLNl6A2d/index.m3u8
-TVBS新聞,http://iptv.852851.xyz/l/yaeIOnCwMaMIeufD1aKlX9Fh7sETMxtVtmfMKo38O6V-eU01wShOmImNzqF_YadY/index.m3u8
-TVBS,http://iptv.852851.xyz/l/ITw1TYRQO3MCtX_WaPth8flunn7oMN-Rmme3wji5SufBxthQgaje2aeYdSj2ajgM/index.m3u8
-ELTV生活英語台,http://iptv.852851.xyz/l/l4rBXob-Fq5_gMAnVJqjFGlKwIiApT9hYaPN99n-I_2wKAP3SxbPbVeADk49Tw6x/index.m3u8
-原住民族電視台,http://iptv.852851.xyz/l/CVf64LQtODDPTGfDjOisF7tip_mwmZ--bBwqM-6VqkaMHQyRy265diVMAXYakxvw/index.m3u8
-博斯高球台,http://iptv.852851.xyz/l/dMSuOL3B8C3FW5C4Nw-ufH65jnRKxzbxjYs9biNyZb3MSQvDaHkMQZYvbvdwyRvX/index.m3u8
-博斯高球二台,http://iptv.852851.xyz/l/N4QJYIYwoq0qVfRYXc7MxAuob7NUFeAd8mFr1QCbsprquWcl_znxOis26hZOw0Vg/index.m3u8
-博斯運動一台,http://iptv.852851.xyz/l/25GTgMCrZ4tRtSZ7ixd0bdbUwcb2rghOguOw-j163qJLkTCI7HGjhk8s6iOV3p26/index.m3u8
-博斯無限台,http://iptv.852851.xyz/l/JjmTvuxfcit69QPtUGI_lrl8G8M8TBiynGoXOfMnH8DZBhf-vgPa-iORMbutVF5h/index.m3u8
-博斯網球台,http://iptv.852851.xyz/l/mg1EcW_ZNN1X0GY5UQcHx-Onzk-WiRzXcB5ITqQNLt8WACaWAYZkeDk8nyoE-Nx-/index.m3u8
-博斯運動二台,http://iptv.852851.xyz/l/m7RU7rBCR6S2gk2vlmDXS38w4zsR_hwSgT-lzjMw-ewb2DPcsT1EB0gGw0EQN4Cq/index.m3u8
-博斯魅力台,http://iptv.852851.xyz/l/dHf8M1jix5N4yi4N0jRoIllODH3Ou7RtoVP-26XnDMEwqDlnDUOxIQHdPCo_rKVK/index.m3u8
-博斯無限二台,http://iptv.852851.xyz/l/Bfu-pmRDSvtOCYrIZGlClMwutg5DYEO8fwFTgRZRtH2iadhibabRmlUkdvG3dsRD/index.m3u8
-幸福空間居家台,http://iptv.852851.xyz/l/6BQiEgVQ5d8eSpIXo-vYtlUswtGb49LEibyw6OE2xC9q5Oc2VRjiaSrSmbDOP5Vu/index.m3u8
-getwin sport運動台,http://iptv.852851.xyz/l/r-FoMUUn6xYQ2d18t2i1WihMgUoLeCIbbvnrgLATymux5ti967ndeuxK63hFG14Y/index.m3u8
-ABC Australia 澳洲公廣頻道,http://iptv.852851.xyz/l/qEaNpbZSfiTU4Qz1DvyN1Im9hd9FMK6ugaWcYKlgISVV1XffMh5pgpYzC2K07U4j/index.m3u8
-OUTtv,http://iptv.852851.xyz/l/rK3AutBjlvdBV3klUJu9tTx7UR4upd5SsRq6apJ2JfIPd6GqNDwrXCAaeBiulCtz/index.m3u8
-wedotv Movies,http://iptv.852851.xyz/l/Ux7wFnE7gHS_Rc88PsHXWyiizwSkz5Jj2OVhuGppwEpaFJe2B8AAJL63ifslp6dY/index.m3u8
-寰宇財經台,http://iptv.852851.xyz/l/P7aYNDUGm4oq5UChLTWzHaucpgMi5dN8iaCrDXnJcqG-fLCof3z_ik_-ZdqS1XGj/index.m3u8
-MagellanTV頻道 (麥哲倫頻道),http://iptv.852851.xyz/l/pHMEb770KxJcGF9SlRW20sIb8EGpx44MdtyUbeNPjxsr3xi4VD5WwNq9Atk7_Gcj/index.m3u8
-中天新闻台,http://iptv.852851.xyz/l/wzGFHFLRljHDiQGT3-GZ9DLOCrW4b5sYHJWy2nWLXDAJgAPxEqiY38-wysTTSetg/index.m3u8
-中天综合台,http://iptv.852851.xyz/l/kPU1eljySDZ3kRJCmAZ7kaEAHFRrR_qd66rPqYgGJVYNEn3yYkGku_x7oo3OUy1j/index.m3u8
-中天亚洲台,http://iptv.852851.xyz/l/r_QxmqwKNz9ffCt96KpyPkUBzre3p7cw0_2KGlrS6NDnvlSCXQavnU60Y00VDutO/index.m3u8
-🇭🇰 香港频道,#genre#
-Now爆谷星影台,http://iptv.852851.xyz/l/5gC9h6XtL1X3bJoC55t2qVlMPysmpR1MOrEigXzD1If0rc4moQDCzruuZ2JwV18A/index.m3u8
-Now 爆谷台,http://iptv.852851.xyz/l/xymz3CGYlMrfo9JW4yleXnZvlU8Q2uy0jRAohSOLl-N6DgSxzX4rvm6JAA14_eLl/index.m3u8
-Viu TV,http://iptv.852851.xyz/l/2CuGINktvqk_4XG9BuxFgXWuVrN8fKFcbSUT5MZIAvO8L2Y8Ur9c4m4AT4MKmyou/index.m3u8
-Now Sports 精選,http://iptv.852851.xyz/l/nHH7Te5FQyFcyw3N3vjqbtzHTiIlcQ2jVFvwpB1SX4iNKGAWp2eschwQBmk5ug5x/index.m3u8
-HOY资讯台,http://iptv.852851.xyz/l/rt5WF3dAGRxyNOGJOUL_eM76H6EOXTXyM52ktp_XLn6QFGcLftrqImvmICzso5uZ/index.m3u8
-HOYTV,http://iptv.852851.xyz/l/eiwmsSnpKws0f8yGd2YUKFx4BfXDfeS9UfqMF4a5FOCmZnrU_0yrAiCzIxVb-IF8/index.m3u8
-Now新闻台,http://iptv.852851.xyz/l/0uG2gp1-XJhCKanSZwj5agG_CQtb1OI_ddW2D8_QrWhuHxtLREWArEpO-KqhMdHD/index.m3u8
-ROCK Action,http://iptv.852851.xyz/l/gozBSilftLbSWN8a-CMUUowXVgOsMUBH81J8_ij_2PM6GqKGPriTKb05w7j-RdHb/index.m3u8
-Thrill,http://iptv.852851.xyz/l/-QYrPwrUHDKGeCDHTGwNIQQ1JF7eKfhkUhcQ56xm_AGxxNBom8vQUdzadJHZocOm/index.m3u8
-Nick Jr.,http://iptv.852851.xyz/l/ZHpIzBB4wbGl3N73qTYZcWzjVGze-lqGKBJaolFh9xvz40eKZQAZBbauVKSCJdpa/index.m3u8
-Nickelodeon,http://iptv.852851.xyz/l/SyFEgNW9Jttq1_oZMWLY35bZ0zJkcTAN4iosU1l1bmCmuVk6X2SHnWRaqGailjNJ/index.m3u8
-ZooMoo,http://iptv.852851.xyz/l/-l0aY3aZStVQ2Ly46-nJcC6SOooQmV0cI54gjhabYapfkKfL5blpTfddcBg3beNg/index.m3u8
-戲曲台,http://iptv.852851.xyz/l/LLVQ3YGXolmVVEtqkZAphHrgTwfwe19p7juQy_aU4-ENe0Z5NuxoB_w8dOSMQ_4t/index.m3u8
-娛樂新聞台,http://iptv.852851.xyz/l/K4dPJTbjj_ZuaYM8sM7Ddh8BhBuMQH0AVm9txgZpq0EXJwbCSS_x6uVV03TbbhX4/index.m3u8
-黃金華劇台,http://iptv.852851.xyz/l/eGccjTZgmV4rpE_44aXwHtpKombhziLnQ7m-IZ2L40fUe80p-yXQAux0KnpoNDD0/index.m3u8
-千禧經典台,http://iptv.852851.xyz/l/PUQzOPUGMhL-6h-I1keO_Dmnyv8jbDk955QRBEVS05iaWPeSUAL4_gU0uQiydBFj/index.m3u8
-TVB Plus,http://iptv.852851.xyz/l/muK_l6XAy1c5GhfulrzDoAitaIQqCYBLUzDGzox_7IR1jSIKuqqr-fhY2QJEoRC3/index.m3u8
-無綫新聞台,http://iptv.852851.xyz/l/uN5k9t2ezL3J_3LjmK3Fw1jWCGtBV8ZSZKrGpR7NlLJXJCX94sIYGrp_dethXGpc/index.m3u8
-PopC,http://iptv.852851.xyz/l/BRPHtvqL1V36KNTEY_f0Au5Ff4-YfZr6rDDu2oK9_gGTUhL3oeCR322L-nhDUZJn/index.m3u8
-美亞電影台,http://iptv.852851.xyz/l/UTMlAZsVfxBiX-NZ6KdIbdrNUJYAo7RlAWFyLTYo37MEhLk_opgmcCTEwHuGkXgA/index.m3u8
-功夫台,http://iptv.852851.xyz/l/xAXNkgs6kRkmu2tXK4Chb1At9mr5wPAY7lKANqGCVEfog_IUtLH13gyqcDn7xFha/index.m3u8
-星河頻道,http://iptv.852851.xyz/l/I1UYdzeEBK7jwvQygQnfgjbgusazUhci1N9ShrbZZHBPSozmtDir4zYzDNXwf-S5/index.m3u8
-翡翠台,http://iptv.852851.xyz/l/G7LxUct7vFy7jWNse298AlBncbM4KdL4liz2kehcgRoQeKJqNBuOTg1YdaHQirzr/index.m3u8
-Now Sports 618,http://iptv.852851.xyz/l/354o4Xg-GBvLvDNaZKi_kzt0NbnfJ5L3M_JiTP586x9QERTPrSysuV1M1DEoUhBh/index.m3u8
-Viu TV（地面波）,http://iptv.852851.xyz/l/Uej02G1Cz6EGWnNLhSNXgo9JPeNeo1TcmEz0yZoJDQXnrs780lMeAaeMnDRL_qXc/index.m3u8
-凤凰中文,http://iptv.852851.xyz/l/QsNpd7xGLD6bTK8_3qOHFjKSYd7B8NrgF7jmTSZLEL5EItzLj4zds6AeQlLdtfMY/index.m3u8
-凤凰资讯,http://iptv.852851.xyz/l/ocJdGFvvJh4y5a4QCWfPsnsdBbMXgQrWXEQekqSziQPi9Pumcq-PmKuwiRl28_fw/index.m3u8
-凤凰香港,http://iptv.852851.xyz/l/nLdqC7qjYeziZDJb1HApyvHmi634n9kp0RqI_LO1uqTx1xnQItjMDUWVCYWw5E2N/index.m3u8
-beIN Sports 1,http://iptv.852851.xyz/l/-FAHhJGS-8e9qZZyrxW9BQi-tFlRz5QrZbFPlobEAuXocsx-UDxEVS2yLXPn9N4k/index.m3u8
-Now Sports 英超1台,http://iptv.852851.xyz/l/vZww_wBUx0MqrQsoFkZTawMKjTFXVEE0t_GA7bvIb5GQcezvXdu_g9tziNM-uPRa/index.m3u8
-🇲🇴 澳门频道,#genre#
-澳视澳门,http://iptv.852851.xyz/l/7avRIGQ7EI2MEkrRg1sUqKU3ZL916dGj1DlVleEgY_rsocN1kArwB8tfoNWDM2bk/index.m3u8
-澳视卫星,http://iptv.852851.xyz/l/RiANBgtgn8HtpHqma0rk76EYHlQyQ0TKBMjS7Po3B2s_0eRyVHaDzP5EvOC6xbVI/index.m3u8
-澳门体育,http://iptv.852851.xyz/l/cs0XpZJ-u0WQT-Y-B_wBs_3pP_UUg9UrqdzhQvMjW2PJjJ1xNOKtFOHa_bNj-OtJ/index.m3u8
-澳门综艺,http://iptv.852851.xyz/l/cTeFp29IBMnbm_p2b4rDlXLHPtHPn64VfnwjVX4iLPqUNt31_GhKD5cWB2BW9w0d/index.m3u8
-澳门莲花,http://iptv.852851.xyz/l/mH5s3Z6ml6j2teCa351QaVywhyRJB9Gwc0bWEj0vjICQUb099t0oZtkwZCL7PtzN/index.m3u8
-🇨🇳 中国频道,#genre#
-CCTV17,http://iptv.852851.xyz/l/je_mXAcdeaz1QVqRZ5kdEo1FGbeRfkC0J-laqMsZWIO5hm1127a9v-kBg0NqS24G/play
-CCTV15,http://iptv.852851.xyz/l/3xG-Qxj3_NYJ9s3SmTj1KaaJAsIRbEZe5zPxjQLnNbSyxH-WpGiC704aGqeY4R4a/play
-CCTV14,http://iptv.852851.xyz/l/hZCOgaMOZ-tRua4DPz2bBuQD-T1dTyp9_HNMfczU59Lsmab_Q53wRIEE8y6RwZhk/play
-CCTV13,http://iptv.852851.xyz/l/MN3eHsygEOMmtgZivUlHRhLLYHCfP3I8mbdNEnaPLxrRbmvvdLp6LRyQuvuMH647/play
-CCTV12,http://iptv.852851.xyz/l/BkLA1pNSoiQKqRs2EFTkufZ1Bu5sP9G6pJ2RkqWju9saV9Du84PA2S51yBKN-_UT/play
-CCTV11,http://iptv.852851.xyz/l/VAdcCQQSWA7O-BgBGmwzsgWpqjVFMC5d8h4SIS80QKW0ubh7cTn3r4XCNUcKM9QW/play
-CCTV10,http://iptv.852851.xyz/l/oSRfukbeEcL6N5HBd5WFSNStsV_8s-ug-gg7gD7FvqEYtkFYk-t9lQdrj98z6WpB/play
-CCTV9,http://iptv.852851.xyz/l/cgWLMrM-W3KndoDLXaTH0Q92oBnP34VV5hAGBVEVzzI0LuTwBU0U-cf6ewEwoZN7/play
-CCTV8,http://iptv.852851.xyz/l/FGgJ2BSo6VX6twNuBfo53jF1VcIzszlQOZcvz8JiTcJEDY4gUwvEAMRATEUOp9IR/play
-CCTV7,http://iptv.852851.xyz/l/PDkkaNO0vHWHRteT8yPeuWGKYbJAPQnJooKppvDIhdL7IJJzu3mjZ7p2MSJMwxGC/play
-CCTV6,http://iptv.852851.xyz/l/HJ0HbV88Pu6rIbKLN9jwHRH6upZh0vK1m4bvK2lycZc2w0YnCDLKAUm4PW3wd0s7/play
-CCTV5,http://iptv.852851.xyz/l/Awty_lPiEy9alAeEkJaiynLSSFdjc2S9F6ZBA41Ike3_OVEnLx81uUk83M6Fu3G4/play
-CCTV4,http://iptv.852851.xyz/l/Pzs1m48BkplGGVK0BgqF7-EwtCcVFRMYOHV-_UnUgE3ozMCr0hK6k8bZjbiCpvYU/play
-CCTV3,http://iptv.852851.xyz/l/01Z_WzWGXNpN-j28fwGlekE9jl_3NPXoliRNwbskqbr-TFOaI72j4RwoZupEFRdt/play
-CCTV2,http://iptv.852851.xyz/l/X3T6O7IWV_UIfx35ZQjTIxz4uyDogeyuxUIZHshFGuUxfYs9xZmK2Lt2mUFiLNrq/play
-CCTV1,http://iptv.852851.xyz/l/5pDb4b8Bv5js0o5Pk0JTRZ6kW5llrtVqfV9U3yPlFGr6sltppensnjlcTrae_51O/play
-安徽卫视,http://iptv.852851.xyz/l/7sUp0r9W_80d1A3HTZ1wWXYMUMjYcC9VOQ_fBt1oMEIzUVwhZ6TvZYxv6-EOu0eI/play
-北京卫视,http://iptv.852851.xyz/l/FWDfKG10y6gpihvGVpZoFA0xDw4n-ffqCN6_GHiFb4CKgyBHPIZ29TdUjYruOQjs/play
-东方卫视,http://iptv.852851.xyz/l/RL7BcHiJU-BnSGWJYs6KBbKt3qSk8qpsAwqcPYpeIezP4WD9mJyKhQjsW6ngMRN0/play
-东南卫视,http://iptv.852851.xyz/l/qNQ5BDbZ21kDYtYI_cYTp1FTAQwrVjla1KXQZ9PihLjYzU5yTjkvBvH_ahgdNccN/play
-广东卫视,http://iptv.852851.xyz/l/DGMfG_iWnImnixfvMwkG30_PjDoLD7cs5MA1NRlcHOAHIl2EbpTeWwrvEW-bFABa/play
-湖南卫视,http://iptv.852851.xyz/l/47eLL2aI0sWG7-27-Qh5Q5ULUoYEhkfTDoP0h-wx32RXRhBpQjOssvia6pmCiOrP/play
-江苏卫视,http://iptv.852851.xyz/l/UBzQ1KXTvZJJXXI7oYubxB1MxKJHvkoojuKcwIeKJ0e_Eu6agxq3jQvKdkSab1BI/play
-江西卫视,http://iptv.852851.xyz/l/geZZf3yp_oVCx9TeoQE3JfFUApFBdzTgNSTNj3n-IHqwUzu305QY8X5r1vO0JXnm/play
-辽宁卫视,http://iptv.852851.xyz/l/RLiLPiZiGFyvVBFrpk_u844Bb3p0gKHHJioF2pFqnQXuEwQgjDef_XbyXnqLTJYh/play
-山东卫视,http://iptv.852851.xyz/l/Pjg6KwbWbXg3yrHCgg8WHGM2J0EIQct_2--hAVEoJ0kABB86eRfCXHXg-yNB2Ski/play
-深圳卫视,http://iptv.852851.xyz/l/m9eXCCj5rfi_uUIdj0rkBnJ2fvZ-szrJun3DaV5fWTrwL8pSK32NrP9hzINt413z/play
-天津卫视,http://iptv.852851.xyz/l/SBgXDDKGLdjtypqn7Y_7XDeqQ3Sjqrsu1snJMVNym5wKl1CwAnpXMf5LLP8OLsnu/play
-浙江卫视,http://iptv.852851.xyz/l/Q64cxy1njCqQFX-YE7lwPVjAtBxQ1sH1Jsja8H1H4u9tf3Lc1N_UqbR453909hQB/play
-西藏卫视,http://iptv.852851.xyz/l/tQg7T8JWd2zYxTW8_YCIYNZ3To_2DfhooGsB03Zsqg5aZ6diH55_cxEcHzBnMKhs/play
-新疆卫视,http://iptv.852851.xyz/l/ZhHV_TLf0VZGzPlo83kQbydP3YPMw8fyV2wWgjfDghjncEmgu-bcBs1zJzhmBJuN/play
-内蒙古卫视,http://iptv.852851.xyz/l/_eR809HP3RP5Bm22aOylVICu-tOqY6T3PvuaPpKPRlRFTXMNgoxifEdGLz4vo7ug/play
-甘肃卫视,http://iptv.852851.xyz/l/bo0mxA9yJY5Xdv90gfrRa5-auPt8MubTtaZwA997-0u-EVgCqtcIUAM4APyCt1Lb/play
-河北卫视,http://iptv.852851.xyz/l/MEEZx49zytYklxcSoqyh0fRLXWiqET77OucobrRqx6GMbicmQC4XZyXmf9tH1rYT/play
-四川卫视,http://iptv.852851.xyz/l/H6oFCWuYLQ7tYUTIIq2hUpxhbDEzPEsUIdVh6waTyhrPRaIJfTG5N6ZXpt0RQHPG/play
-陕西卫视,http://iptv.852851.xyz/l/eEnQAdHJqeH8JUk9esMlC5mXXEzlgyywNrIhtBZ0mGXmxZXsX-ND1KjdH65uAxEm/play
-云南卫视,http://iptv.852851.xyz/l/TwAeK5e0I89I-X33uAHinHLdI1SLuddJyla7jE-rCPCaPHfIBpKk9pyLBvPxpPjH/play
-广西卫视,http://iptv.852851.xyz/l/lKQkuDjwELNDFWKB7IvyLmMMut39PNFC--gGAhA9t2dqGBWqikXfeD-tpKPWJ0Y7/play
-重庆卫视,http://iptv.852851.xyz/l/k6xh8scXTw_v5y-m5dWIZoJYiZSjlv6vi3b4fpfViXgMs4Moit0zY5BYjokC4Fip/play
-贵州卫视,http://iptv.852851.xyz/l/-v3lx0xkY7nszn-BHugx4qjaAOgfB_mozllyDLCadnGeXk7TUxgrA1KETvcgEFHp/play
-湖北卫视,http://iptv.852851.xyz/l/dh2rv2IOeJk7Ebp6O8ZkPHQBFppqGH8L-MjiHlaJum28bDM5U4vlLUH_LZ_2n7q4/play
-河南卫视,http://iptv.852851.xyz/l/nKXC3Z0DwtJM1sSnzR9_fL_zF3L4qtiSTGIF2SPFoBpHaSaskS9MKD4OWdncQ3Kg/play
-吉林卫视,http://iptv.852851.xyz/l/Z8JwdRNPPwzHUx39lfrmaQrfdhG-AXSnOJehIILBMLyOrcaTvEOMjnC1uJGgdwxQ/play
-海南卫视,http://iptv.852851.xyz/l/hOjMEPFvCC06NdVLkAQSLlcIjp3gF0UbrQ3_JLKmh7Ngtp3RhLgHNFrH-E3Uc-Fk/play
-黑龙江卫视,http://iptv.852851.xyz/l/iDQ6xktipn4O54Rh2Ho-1KNZuVHdT1r7U-R8GvslnYN8dPyqUyXy-vw3oS4tkT0T/play
-山西卫视,http://iptv.852851.xyz/l/PcGvTshZ5RPWwoMIOETtNqPP1rNTB3hIdccko7vCl4pZ4X11aoi92DBOePBkgkpP/play
-青海卫视,http://iptv.852851.xyz/l/nzUWpVvJQEBcUO1Jky5Do04FrJk5UORaYwYIR4dTn8PoiSYDpIXA3eqxCkkNtnfT/play
-宁夏卫视,http://iptv.852851.xyz/l/Ifz6WkmgXUA5FffPo02obMPAHzkJj2kMoiAoAAt1bcFEUIupK8bECxB6Hk0KQlDf/play
-CCTV-兵器科技,http://iptv.852851.xyz/l/pFmuEAd9s_AlWWCT50mwCAoD7ERt1U7-azqp_RAixa2SJgTOos_hYp4CE3gV_e9b/play
-CCTV-女性时尚,http://iptv.852851.xyz/l/aR2gG67dqcTvMdRjRdIBhWFeWe9HpElxfv8RAplR4MHEqQCa9I04odkBX2FdAvHM/play
-CCTV-世界地理,http://iptv.852851.xyz/l/Vn8QCUJjQmI57eWIwZswVk9BOyPtzrg3f2hVAhzjxQ-Idj2F943GsWj0Pbg1nFjn/play
-CCTV-卫生健康,http://iptv.852851.xyz/l/U3wVSxTd-hRx-Yj428d7nNHasWZOK3p9jVg9A5tuLhHs5CwTMpchwXIR3QMYt0B7/play
-CCTV-央视文化精品,http://iptv.852851.xyz/l/yVAhU58NlSobX10A8GIGqW_1c6Inkzjtjh2t7GLXi5nK-LsulqPnaosuGcukzBc5/play
-CCTV-第一剧场,http://iptv.852851.xyz/l/V9KMgZ8pm6USFOvVV6ILR3alJtLMo2vhMjRBWrqi_Cq1XtftsHP1N1ZNp9BU65jR/play
-CCTV-怀旧剧场,http://iptv.852851.xyz/l/XwUUTOVaCm-dDQInSXBLGkXLg1bOkk5VQ5idPJgSpPhku6ZhcE49f9HGfQZ8uSYF/play
-CCTV-风云剧场,http://iptv.852851.xyz/l/bNTXVMMNp89r3A3LUj8rcTpC9XLOjNhPJ0BmtUfedxOQyZSnDKPkkPgGkU9EJvkb/play
-CCTV-风云足球,http://iptv.852851.xyz/l/PqGhFQT-SkITpcm7Hxhjts9SnpTbWGnyqvTT0txn_ix_Jqd7nAH3u2oYfJxpX4c6/play
-CCTV-风云音乐,http://iptv.852851.xyz/l/xWOg9dcnYQZNOXcojvEu6e4VZURW4J5i12XtUm817QBOEmcl7EvBUKXuE1T0fm1y/play
-CCTV-央视台球,http://iptv.852851.xyz/l/M6BheRylfoB2-a_FpjdLhSavmGeNVsow4W7fsiI8dFZU4NJpnk4sBqvlt9NLQi5s/play
-CCTV-高尔夫网球,http://iptv.852851.xyz/l/b9vIwLJKD_PpVRbiMq74JLQQailqI-kbN_Kc6zpVIgGM7p92fz7WaKTtIb8Gyf8K/play
-CCTV-16奥林匹克,http://iptv.852851.xyz/l/rVEt7BlZaqij23TnPGPhJ6nI7nzmV-P0ThKX_oJR2Bg0nkk-KVSEXSdo_N-qeEnJ/play
-CCTV-4K超高清,http://iptv.852851.xyz/l/xj7yndnCmAqp1SpMA8A6nw8qMJZEDIZ-HRPAfcH7705L6HjwEt2V9qQ0cf0p615r/play
-CCTV16-4K超高清,http://iptv.852851.xyz/l/Xidc2_Xvo45545fQiUCVgWMslsaqqjjJT342CafjeIFzEH4_0rvpkpIgkjRr8IcL/play
-湖南卫视4K,http://iptv.852851.xyz/l/DAKIRZDyL8JpY8VVJagtuazMuYsuXvsekkNZeMQJEDhjNiXuJrp2hBBFkYve_oEV/play
-深圳卫视4K,http://iptv.852851.xyz/l/FxX61VWqqTNXF7LQjIJZgVErZpmhiaVo8di5uICN3UsM4zFHHZOSETpWmWBDMnRI/play
-江苏卫视4K,http://iptv.852851.xyz/l/gpPwBTEYq3NHULqrFqBO-85KmK3SKFi9EiL3P5efdum5c0KhyxJyhlLM8I57-7pz/play
-浙江卫视4K,http://iptv.852851.xyz/l/fOT6bd6KME_suCm-w0H43C3A_U6cq0is8XCbp_yXaHzu7wKSBJ_IVbMF_WZlepFC/play
-四川卫视4K,http://iptv.852851.xyz/l/a199d1C4lJzRcrtaQEELCUaXdTzimN6_06l7PAtouGG1PO8VfckdA_FtByjgaqlQ/play
-山东卫视4K,http://iptv.852851.xyz/l/eJTU5Xahf50P_QkpIuSMtGkDmfli9GyCgSB0WkkOcmzgch66qKrlZNitj7c0Yc7W/play
-东方卫视4K,http://iptv.852851.xyz/l/E_ZjLxJxXlC5-_seW8YFpvYOR0ZHAGPK3XP5dZY9Xg3DgGqohZSFpQc15fMXgbyK/play
-广东卫视4K,http://iptv.852851.xyz/l/0O3oVMi1iq8pAgV0pB-0YetzlaYGJg4Ik7KP_4BSccKQ5a0pum9qRM44BhuN6HFB/play
-求索纪录,http://iptv.852851.xyz/l/c1YDfbRLmuQo3QtwiUDqgDkcQQZLWEXXK8TL_j3XvHn_F0Z9pAKe7UKfwn5yzBya/play
-求索动物,http://iptv.852851.xyz/l/AXRgR469wPOlVGl9GUr2_0VRXxnzmhsuUJrxA8p3m8ASwUrOW2ey1AEjWJGtWIbh/play
-求索海淘,http://iptv.852851.xyz/l/_Gk_TBz8_v4Dw9MPu4HZPQ1iXE1BakzFDpk3UiN31XeA2sc0KMMr-3PcKhPRZg_y/play
-求索生活,http://iptv.852851.xyz/l/JMMSxrdbMxz_7KtAPA_CvN3qMb8CUyg1uGC6dQ0Lf_a3bxqMHXbShAObIRRyU4li/play
-精彩影视,http://iptv.852851.xyz/l/X-Hhr8TOrmU8CBSRTgTWefqpbuwdZKZChAlMrTdzoFlShNlPqIx3oLWZyVdq2rld/play
-风尚音乐,http://iptv.852851.xyz/l/CT2n3hXkqLDK6F71Im_QMLGLMRJBczfJjH77FNOWew9Cr5wf9bi20EQFB91xNRXG/play
-精品剧场,http://iptv.852851.xyz/l/ivRLM283hCNU6uNNy2B48_ReAtrZTFP6hnvYzoncPcLhseCTPfETB-00f5crmoe0/play
-欧美影院,http://iptv.852851.xyz/l/rVtXGYR9eGo_e4tcdnqo-nsCzOB05dvxH5yBh4XYx59rvLkQfY3pNF8N8dZbishp/play
-少儿动漫,http://iptv.852851.xyz/l/LUMMIkdCzaxhb1nB6kklWz-rtl3BGWMfz1bSBD0QHGDf9DKDtWIHyQHx6o0HdhK9/play
-探索纪录,http://iptv.852851.xyz/l/F1mXeM6Pivte9K04IPomhWY3Cnec3ZMDWhUvjJPHNN0H4oKoBG5_UasvSC_wfibX/play
-亚洲影院,http://iptv.852851.xyz/l/dDpLe3Ht4PuZ3bqfKUzKKHq-LOM6JRB-RRSGgWyEIwtwdHK2ICAe8e5_NRcnU8ji/play
-IHOT爱院线,http://iptv.852851.xyz/l/iH_POMTL0bZTTugcacbeOh0kR-7tGXEkLrS3kVTyYU_yzhjUoOlcXL0DOfPdoEt_/play
-睛彩广场舞,http://iptv.852851.xyz/l/NPaAx_vTmTq1bxz3rDyBebJts7_Q3bp1TaQvR0M3d7Pf7nyI7E6FL9CUGAZOxcKQ/play
-睛彩竞技,http://iptv.852851.xyz/l/j4KaAhWa8yOMasKvKfPVSvkASLRfMEtauYM0jHIWnDVlbixk1jLYTOoR-ZJdz_5J/play
-睛彩青少,http://iptv.852851.xyz/l/J13gobz7ogAWHop39vrpQuGFTKOyXBX5hkIPIuNcH2sawOJ1wcdqt0KaKmY3HyBp/play
-睛彩篮球,http://iptv.852851.xyz/l/i53AdH_4KGYXNq9PYiNslqIQNi5bi1uM9NKXq5-RJw7BsWa8khELGvPEOQskpgjk/play
-湖南电影,http://iptv.852851.xyz/l/IG768sX4JFxjk8UsrqjcYYPWU6Ez7GEwOo27yfyk9OjTSl2-IZet9HSKbgU0aihS/play
-湖南电视剧,http://iptv.852851.xyz/l/T2N4bfaw9J9GJSs6FNAtOk_2LDIYQzVVnQo9zYgFwD3tlniK-pSDL_6iLuui4H1J/play
-湖南经视,http://iptv.852851.xyz/l/teuRhQcS_i8l4tm-Of-HUhP-D5c9_0Gb1rdhSwCZaHSuOZPbxGrwM1LWdq1XXepV/play
-湖南都市,http://iptv.852851.xyz/l/jTylXGSIwmbFnFydWAqQfXLwEZ4Nkpqj0qfklnXFOiTtyN0yjDZaWCaLGHXaquT4/play
-湖南爱晚,http://iptv.852851.xyz/l/ok0iqdLosRRSMOH-At33CRRYwfOxlHBZu3vBPF5NwikscKffCEtJGKap321KTLrQ/play
-湖南娱乐,http://iptv.852851.xyz/l/sJmeGrLjUc0p1y0Ud1-KbtsN4q48bx7AG6gkPrzeHyGT4DUGeo2a0NEZ2CwKcl-r/play
-湖南教育,http://iptv.852851.xyz/l/COwJ5QMkCzuGBo7kf-eRCjeJpoRePk77SR653BiE-pYiPhp3DspCeEjnSxohlg4k/play
-金鹰纪实,http://iptv.852851.xyz/l/2Eb-iduBcKbzEGJizZkcny8R1giAnF1cyyPgWFPaMmFEPp4GWFWLSHDeaxHJZWVK/play
-湖南国际,http://iptv.852851.xyz/l/v7Vc8boiWlMdKnhMQ7IaXtmLAFJFIZoz2cOmOSxDrRHzSiDiDjO-60FnRZptYDkW/play
-湖南导视,http://iptv.852851.xyz/l/O1RU6RGD5-vEyzRlmkDjbw87CLaBi221Eu3dP5MQF505B-EoZJuAFs8ShDT6wSS3/play
-CCTV5,http://iptv.852851.xyz/l/MK8pIoWGMB9vH5AXc8I4vyImVHBluTmCniPUk32RQU8iYDTIv3PxNSjjTKkvmuw2/index.m3u8
-CCTV16奧林匹克,http://iptv.852851.xyz/l/khqEevdLyoF6liPtVcH3Jew6j9xdhXQEGxqgk4FR-pbCvlx6Id9FJ8BrmIDIR7y9/index.m3u8
-🇯🇵 日本频道,#genre#
-日テレNEWS,http://iptv.852851.xyz/l/NFKpd-B-OM5S0zlH9yPZwcI8u-NWDZTPrs5YKwzAh_XaBM4W8CetoXkko4n52OD8/play
-FNNプライムオンライン,http://iptv.852851.xyz/l/B8wyAG4h1XRFNppeBpdlRefEqLE0yW7bNIL10IpJltSRFH5w7tw3HgJ1J8dLZUx5/play
-MBS ニュース,http://iptv.852851.xyz/l/_b_tknjK-TUunvAMWfN0Bhw2sPrLcot3AzHUHe64uxqJjktcaenwzHzxPliOoq8E/play
-ウェザーニュース LIVE,http://iptv.852851.xyz/l/lzWg9T6VZpE6PEsuXvrimQsRbVO6z3Vp0DH4DpREg0u7Dn8uG2xtmFDGIlb70vVN/play
-TOKYOMX チャンネル,http://iptv.852851.xyz/l/1B3kHCMz3zU_IwBuYv1Dwc45acEpcwiht_xGZoAT3hOXJ5wMdLVvpcYAMYofmsVr/play
-共同通信News,http://iptv.852851.xyz/l/f-HDN89UrXiovKZV8n2HbwqpLhxuW2s7s64kr4W8QXgxtGk-W9v-U4c0kr9XusSc/play
-日テレNEWSセレクト,http://iptv.852851.xyz/l/j0NVhIq8M4oLftbZSC-LgFb71EuDVDNnn35cfnjEjatjwZ847EHu1x7FR8XWxO5E/play
-オリコンニュース,http://iptv.852851.xyz/l/3tt2FNULR7Q8kQFCwXUggUuE9o07z4gG1yGw-Fatp3KepjVG5lvKnWD-ybMv4Px0/play
-Newsworld (Japan Sub),http://iptv.852851.xyz/l/WCmNJIPsD8qOXrufNgi61AdU0UCtPCUdEQSan8cf3ZA9Tn3NbBRTLuOd5k_HU7Gt/play
-Bloomberg TV+,http://iptv.852851.xyz/l/hhihpgWhM7HeLY1wCZWK1SKhctjMoqYureIOc3qNXmdECOA8c9uvrOsGh43MC6eg/play
-ユーロニュース,http://iptv.852851.xyz/l/hIasdR_SSUNfkd-Ygu7DmxGxUHdGSUd4UA_I3sXmqqHNdeW_pq5cleydh9QFrsBi/play
-Reuters 60°,http://iptv.852851.xyz/l/9cC7PkfJv5TgPvnHI9dVDBHPA85kw71jRjiDFRjPVxgOK9UfGuyNiHQvET-LdnW_/play
-QVC TV (Rチャンネル),http://iptv.852851.xyz/l/B9LrPOmCf1WZniVtRMaC5lnV0gPHYx70qCsXuw333BriIDxjexGbAKyZrGDVY6l0/play
-GSTV (Rチャンネル),http://iptv.852851.xyz/l/beQEocgkzOn298AYdScAeNqBOTxWiU2QS8o32eH5hiPrqRfiGblX999uE8AzPyC6/play
-TOP BARÇA,http://iptv.852851.xyz/l/ByANMbxCgcpGMVym7rtUOKx53FUvS5jMsIwINAn3ZhuZ5ox-55RT0Yze4-WfQeA_/play
-ゴルフ,http://iptv.852851.xyz/l/WLiP-dFAtoxYrwRtpk6hirzoXcJ25QSk7rLvuvU96bH32qfWuXqtyyJ5brxihMxR/play
-日ﾃﾚﾌﾟﾛﾚｽ ｱｰｶｲ部,http://iptv.852851.xyz/l/fTEyuhzz1zcEOn18Vxxrt5KHZjVN147Im6OOG85HTjHqTEcsuhbNrKqOk1vip_lE/play
-スカイ A - サプリ,http://iptv.852851.xyz/l/jHf_QewbgrioF-S-wbL2A6UHZpWzaezIkFaeqORBDPlKiClqaZr0VUl-XM4Vce3o/play
-GAORA ZERO,http://iptv.852851.xyz/l/VH_ysJ1tIk0KWw4Z5lHMIB1oRxgkJ4qbvtZ0P-cXcsiqpIDfdGgjz1U5o4RJfnmB/play
-FUELTV,http://iptv.852851.xyz/l/FoX5ym_TWdlluPtmBP5qdGtz9sVZVrKoeC0DkJ5X2mcqAuvu6YbLBUgYkn3lyLIw/play
-手塚プロダクションTV,http://iptv.852851.xyz/l/Q15Wb2JNUCfvHaZ-JyiCD-0qxl3fIR-73gtd-8eOoNRhWgN9q_xih4YMru1qZ_jn/play
-キッズ,http://iptv.852851.xyz/l/FC8wtBrwYCzUKGnWTQF8hZBEDSSiSwxQ_KA2xnwdv7WH-td-AAutdampvJisOEBA/play
-ムビドラTV,http://iptv.852851.xyz/l/OJlPO_yXVTBM9Kr5ceiJbZofu3Ph_ebufjrF6Cq_c294JjP7AcWccVgJFEz0OqYA/play
-HISTORY CHANNEL,http://iptv.852851.xyz/l/k1T37PM6GcWPNaI8wWDKNutW3Ia_pZa23YFRTWkEDFUUoLDXB1ArS7jNBBkeDilA/play
-鉄道・旅,http://iptv.852851.xyz/l/BFmSVyBGvZQw-vbFqrHRQ1aBoQYH293SaSzro2bXsFtO8uDdzYue6a2Zr3622Kto/play
-鉄道・旅 (B),http://iptv.852851.xyz/l/bzOUY7swc7tQxC_q1xRZlrcGqPKjp1_EqDiy8FkvYmgCQdTdc21oOu7UaIqszb-D/play
-ワンニャンチャンネル,http://iptv.852851.xyz/l/QKOWABS-C5LhapvmR9ZljNRVZdkuPA4jXxBWV7ZFqGArpIZ460_s9TY6P3NQEnW0/play
-- ぷれいば！～ゲーム専門チャンネル～,http://iptv.852851.xyz/l/Lk9Hh0A1CuIPl_MhwHMd2lSV_8G01TIXaVLImAckunF4sIY6WewIi_nGeR5xyx5r/play
-釣り,http://iptv.852851.xyz/l/_uOX6nN9KOaiRhqMpv01ASaTOTOFE1ozN5cpwisXTVrmc5qp6Cl_iRsnxe1FdFfJ/play
-囲碁・将棋ライト,http://iptv.852851.xyz/l/Dci6_wpRvZLV16QI0lH_lmE_0ESVwVPYF_lfXaBKXJ1_Bgbt9O94JFq2-M46QeKH/play
-将棋,http://iptv.852851.xyz/l/NotUyGHncJZ3Wfw4Kd88wdxecKkxXCkUctM-0bxxcKtUAoWdu0DBeDcrcV_DuUbt/play
-麻雀,http://iptv.852851.xyz/l/GfdtyFKNTPyvTfg7t29xwQZiUBzYJzw7j_Zwd4xrhPdhCyNS4iJVLifEbBzECHHB/play
-パチンコ・パチスロ,http://iptv.852851.xyz/l/jtsGiRLgvO-CzRwMhPjK1Abin_4hBftUgsnuFe6UC9JEsSwy--CHKuV0K0w2e4b0/play
-エンタメ～テレ DEEP,http://iptv.852851.xyz/l/w8SLLo758QUlWf0iDYQmv50hDGJkHB8Y0cmHkTmFtf9COYZ0z57g6muRGB59ow2o/play
-That's 70s,http://iptv.852851.xyz/l/mf1QjQGHmUYgdz37BjIquvYo6BwGpxIuAt_xlh0WGadakNUKpuP36NAds1DkFxAI/play
-That's 80s,http://iptv.852851.xyz/l/qMrlMTcgdXrkrfe-cjzk6XuLWBZDmFaHc7ugyU0d4d-05yW0CukTmfJ_ujYnBMcz/play
-That's 90s & 00s,http://iptv.852851.xyz/l/6_EfOstfUxyQM22H-_gCCVZ3buqBNu58pWvnGAzAN_2zCvyJfBzS7MTxFChVkQcX/play
-That's ROCK,http://iptv.852851.xyz/l/pViFe_Q7A6ZmoMhcAx_xOjh-KjAG0FCiMlWlTjs1utPS3V_1JXPJuhhVWxI_bo0Z/play
-演歌・歌謡,http://iptv.852851.xyz/l/Y6l8ikI6FJBXEjOSwyL6NcIpFMIdHew77S_hc_mKGuALMownh0Kuz5VLstgA4tVh/play
-セクシーエンタメチャンネル,http://iptv.852851.xyz/l/7zOJOj3Te-K13A80DSmVTuH-SarkG7SnIyKzhDBqHcQ5txb9ZQH9Iiw91vFUpBnL/play
-おとなの歓楽街 by MEN'S NECO,http://iptv.852851.xyz/l/7JRtny4T6griiKIxxiMAgqTe56uwe25ACe1IaLjN_2c_iWq58TOPUNdPiQfAGErf/play
-おとなの歓楽街 by MEN'S NECO (B),http://iptv.852851.xyz/l/fZLlg-HWVZS_onp1fA0iz14NWLDRvvanZHI-HynwWcfHrE_bgfl_oziWyQBvaxrs/play
-アイドル・グラビア,http://iptv.852851.xyz/l/a2zRbQd3GDLhFBcJrbKZxQ4JhYcIMjvdrlRLfN4A0KQ16na-0WW1c_5h06o05eAO/play
-アイドル・グラビア (B),http://iptv.852851.xyz/l/QLlhXkjWWL5va73Q1i48l4hY3u1H7VkvouRShBuRymKXRQvRuNij0a9fLJxhdWVB/play
-刺激ストロング,http://iptv.852851.xyz/l/5d2I-z_-e4EGIGD9_XjtGbRKQGUpX6uw2DmNmobFfuPzaeq0ST2giyCuUyL_IpD4/play
-刺激ストロング (B),http://iptv.852851.xyz/l/2XIq36G5c3X2d_G-WH-cysvI3nVVH8GL0kpUH0TeOlPjwRFFja62I1ebQEfkIuWb/play
-映画 (R15+),http://iptv.852851.xyz/l/qrQ6WvU1j55L9Hk5_9kRMJb4h4C67OoJvdoua4EE7z-THJctfi48nRKE7x7GypKc/play
-AbemaTV CM (VPN JP),http://iptv.852851.xyz/l/mwpGG8xCyQdp4JQ4uVs3mRV6N4949qwaZ695p_PcurwerJZzs_qCEtXLT-kvZ8ba/play
-AbemaTV NEWS (VPN JP),http://iptv.852851.xyz/l/7YbxlKbtEdTjFU6xy2lZ4lXb3mPcLs_hsn4bGNBpqdkIHzChcyZ0SUXlVPDavql8/play
-AbemaTV NEWSPLUS (VPN JP),http://iptv.852851.xyz/l/w2eXT1ECSTyFeosLwavNbVe_e9b4OGh1PXfF5ix6hB6VskR21CGAXNZ1SzOhla1p/play
-Anime 24/7 (ROKU),http://iptv.852851.xyz/l/gjLXQ9XCoysniWed4Vc5hzVvRVHe3GFR2PPi-T-ztEW5b2pST_IWQxLGgUEyNQ6O/play
-Anime Visión (Spain),http://iptv.852851.xyz/l/Fb6awOjn6lHSk3RoPWdGW7jiAmhWi_U26oAP_bYo55HtrjF8mgh-TkCkpuNdKcMG/play
-Anime Visión Classics (Spain),http://iptv.852851.xyz/l/owY9myyc7rpH-EGqpGxd3rEZyDoGh4Uusb8prNCoyyRPQmogTUCZsmibnGNtm_bc/play
-AnimeXHIDIVE (ROKU),http://iptv.852851.xyz/l/fNBjAUf7SqTN8G3suWkKNVeeonEIxCAdgdBKRpu0qkjvzUlBBicqHXMUy2i4CG2T/play
-BS Fuji 182 (ConvergeTV),http://iptv.852851.xyz/l/g9-2QMzEb0n_HjeU5D0e2Rf9nXlUvBOTvb1uOlQn58E3sniXckf7xh_OE-uc7fuQ/play
-BS4 Nittele Premium (ConvergeTV),http://iptv.852851.xyz/l/3PpV_YotkEor5Q9BxXb5r7rRPVpzYUkEHms8JHPZ5ePDGv4D_I6mxgxL2D6_nDOY/play
-BS10 Orange Channel (ConvergeTV),http://iptv.852851.xyz/l/oD-dtQ0D5IyMBulMa0gSJusms5N3mNuk9lqMOo3jnCxXuYOlatrQRUlbviEFNE1G/play
-CGNTV Japan (HD),http://iptv.852851.xyz/l/y-SnJSyPOYrr56GhUp-tJAU0IV77Rn0R95tb-pGW0rSmxuFQrlmQB03N2JARhvTV/play
-Crunchyroll TV (ROKU),http://iptv.852851.xyz/l/7UPp8XiU1ziNdCSpIoiKoyDOB5Vv0nmTpbWTxQQHiEtYSzrTrVyyD_KpCoXNjNAv/play
-CS523 - Shop Channel,http://iptv.852851.xyz/l/IzH7cs0kzFvVjrzAstU9zAcAABJnaPuKjOXbrbHRfwtqhkDXYQPTQj_aCn6957oJ/play
-CS525 - QVC TV JP,http://iptv.852851.xyz/l/ixP3Rypr25WIrQle97HYYAnqgYnnM61sdrv_b7NeFvUus1gKbGYT7rwvxh5bgkoo/play
-CS527 - GSTV Jewelry Channel,http://iptv.852851.xyz/l/cGIr4nLGbKjPc15TH5qwResmx2tn5-XI1BYSCOuDMJpZ0NklxK6GMwSRApJWGvhL/play
-FILMRISE Anime (TCL),http://iptv.852851.xyz/l/Xl97L7q-EKtwAeNzdp5_UQIx6dIzkB98WXg9gp1ME_kjB4A170faMZ9NeWpHng1X/play
-Fuji Terebi,http://iptv.852851.xyz/l/1wNWOMmPIIyISdc1bxg6yWasowxTipgGomCa2Qt3yezQDxIhw6_GJ-FBzHCPYvTl/play
-Fuji Terebi (MOV3),http://iptv.852851.xyz/l/FlTyBn3BkTppKAPMqSu--9Xbz1wX6vprYhsPeVeB6ffyVxroDfk_27quPXIdr5yM/play
-MEN'S NECO CHANNEL,http://iptv.852851.xyz/l/1609-3HWckGdhwdStW-mvhFM7HNPHRxht1-K_7J67d5bay7pVO-mBsiPYv-a0pfK/play
-NHK G Tokyo (AVG FHD),http://iptv.852851.xyz/l/l0hhtORXUfRMX9MlC6lewa0FRLTbhWy0Znsyq9j3S-p6tL1JNWERKlqXmJ_-u_Y0/play
-NHK G Tokyo (MOV3),http://iptv.852851.xyz/l/OOJDq89MAEkBptSUepfUlYDjBu1YpZmEAZN_1nSb9CS9vLY2H0_UgKWeMIq0Zg7R/play
-NHK G Yamagata (Test Transmission),http://iptv.852851.xyz/l/Nv3w2_kS0rs6WDDUm7Y6pdrIpPo7Wke7RwzFYlIhY98Sqs9q3nrInxN9dUSPwnoN/play
-NHK World Japan (Main Ch),http://iptv.852851.xyz/l/zjZ79ASBwmlaK6C_p5CYdPw52Rv3PyNSrP1ovMgaGVXu97w7rXbhbd-jymhn8Ikh/play
-NHK World Japan (Backup Ch),http://iptv.852851.xyz/l/C4dl0RsWXWa_P4YO5L1zHAjwlDjHS0Di_aqjQkKZ6_McFmM1Z0MOXiNDlrNgb-0g/play
-NHK World Japan (Comclark),http://iptv.852851.xyz/l/foVTO6acB8eKDY4G_GpL6bsBLlgzaGGlUG2PhiG_cfWHawGYFNdahrhsz_EfwaY1/play
-NHK World Japan (Full HD),http://iptv.852851.xyz/l/QE68We_0EabYRNHjjHvN9CmSmdlCeP_P4Iuy-4TAPdq64bjMSMrqzPcyxlVJwrXO/play
-NipponTV - NTV (MOV3),http://iptv.852851.xyz/l/cAGS0ppiGI0t5l06Y1y-hmcjDQ3G01SK2yPb--zr1tDixWMLMhQVRRHUxR18Dktr/play
-NHK World (Tokyo Landscape),http://iptv.852851.xyz/l/Q6EJhUmyjBC2MNs7h4l5jkAlgjZ_Grkh_hWOvuaiscKlo45u263JK9lpbUVnyrUF/play
-Shop Channel (JP),http://iptv.852851.xyz/l/glIb2lxSvDgkirvN4hi2e0OVa0Depl0dS4yMp_ABwr8XT_ZCT2eCPhFnz6BFhJ1o/play
-Stockvoice TV Japan,http://iptv.852851.xyz/l/JafOgHsqwVEFl1pUYqMP2WoUhPokRsHgFg2aiB1D5tr3IizWAyp5pHRHHrQlCAEz/play
-Stockvoice TV Live,http://iptv.852851.xyz/l/5g1oNE2bGUdq4wu5Pvv5CDKx4Nh9NMbr6yMaVGz3Dvz2oscO-gtfJDLR03Okn-20/play
-TBS Terebi (MOV3),http://iptv.852851.xyz/l/eDhgZEVyvpQ7GfgMDXsHNqzC-ORplKIGqHf4bhSWlBIEBcGzFGgyFy6lVRz-l-3g/play
-TCL Anime (TCL+),http://iptv.852851.xyz/l/z4EacVQdHYFA3QnZsQ4jp0egH6oj9CaBa9XKSGKyRBWIqcnsm1FH97mTW-gNgSoM/play
-TVAsahi,http://iptv.852851.xyz/l/MvjgcZr4NMsxg4moWADo-_qlMTBE75J5_2Nds9bqyjq2Kt1aKNZh1aAtkj6kvwAD/play
-TVAsahi (MOV3),http://iptv.852851.xyz/l/FPmlURF1R_s2x3Hfc_Riy0lyPKDIwd2cB8DYlHJKlgytI8fdGwVikPuyr7jjFO5H/play
-フジテレビ系 (TVerチャンネル),http://iptv.852851.xyz/l/9_DgRaEN0sooOf2__V5qM-0qI7fsEpfqHBSxPLeDpEOjrQc9A-m0MfACovE8WF0q/play
-日テレ系 (TVerチャンネル),http://iptv.852851.xyz/l/TBF0Dnhtd8nxVC-WYLZhEc820lK3ZR_LWhhPtX0J8kSDNnwdGOz7LJ3rzdF0XUtf/play
-TBS系 (TVerチャンネル),http://iptv.852851.xyz/l/FrC_p3mVg9zXpRPpXqHO2hZneeDijLSJOq6owPQKfOBc765up2eKdzEV1Yy1oBgo/play
-テレ朝系 (TVerチャンネル),http://iptv.852851.xyz/l/T5j7Iub_RMYZwcfd7gVxKGQeJ3xCkQr1VEc1qzZIhccbAUZ8tv4JO30k4pDhLbxw/play
-テレ東系 (TVerチャンネル),http://iptv.852851.xyz/l/lRAVFF0Cw-QtBReXJAhPd5071Nqyf9hvCiKNi58fImLWA6vBMq163zJiAnMGtJQz/play
-《09.30終》時代劇TV（Powered by 時代劇専門チャンネル）,http://iptv.852851.xyz/l/2exrJ-PhO6SFO7tB0Uet-JqA4gMOP2gq9dYn1hB6xq2g77WjsxpXhK4DZlkeZg_b/play
-《09.30終》ビジネス・プレミアムチャンネル,http://iptv.852851.xyz/l/1NcbN8lesjIZodqMPVJFGLi81C0-5qBb1aasa8AzCSApquJiUYE8ksC0ozEgWbgs/play
-《09.30終》丸ごと九州 チャンネル,http://iptv.852851.xyz/l/0A2EDtaSov2cCieBGibwd2fVr1rRZ-xZrDZ2S4RHfm3Q4t6tdale5ViOTupoattx/play
-《09.30終》ぴあ落語ざんまい,http://iptv.852851.xyz/l/gT8bdPYBEO0FFJvRf3BraAJjJFfZXS5OZNoFjQR0nZB2_-s0rd8mcNrYrInee1GX/play
-《09.30終》LEMINO TV,http://iptv.852851.xyz/l/HDdfi0WYnnY4Iv4K9Qeeoq2xLem2S68Oleh0V7zS3o9lwTpPW1eCOee4KFV7D4m4/play
-《09.30終》エンタメ・アジア (FREE),http://iptv.852851.xyz/l/hcvXQtBVxG6RAvofpVcKroQVJNkhan3UcPTAJBXkv_eSwJBiOxMtXpShoifnF3yB/play
-《09.30終》FASHIONPLUS (F+),http://iptv.852851.xyz/l/pgZaodVxTfPnskQPrn6ZYFb0vYkTtTTIYCZIm09nvrEvAYdFVjOHCfmjUm1DAgFC/play
-《09.30終》ペットTV,http://iptv.852851.xyz/l/i8jrgoSc9yVRq_kwvqfk-8dv_uwokpwtPfM3gGhH6NXeXkariZLhUv_H50sCX0kk/play
-《09.30終》囲碁・将棋ライト,http://iptv.852851.xyz/l/yRBatQBRXmPCjy5VA6ml9sloljN8rZTE3mNm4IKda79oO6HmHfKFQ30fujWWa8kZ/play
-《09.30終》キャンプ・アウトドアチャンネル (POWERED by ハピキャン),http://iptv.852851.xyz/l/ZS9zgLCjpzHl0__DL5XaP9LQ-nrRoDgHpLyUxWGonXhmbDgPuG1lr5RFk52s-qiD/play
-《09.30終》今日のごはんなに?,http://iptv.852851.xyz/l/k1CEVy4U0eXM6usDRiaI2z39coKZ63W2R4HcssuWhQakBfSIa1ljs5BYeAEEP_Ix/play
-《09.30終》GOLF LIFE HD,http://iptv.852851.xyz/l/i4zwBobKYaDhlaWIMz018qtwYvyggGp0PfK6s_NZVMLZZoYsuYODa5EYskl_cqtt/play
-《09.30終》丸ごと北海道 チャンネル,http://iptv.852851.xyz/l/YwWORi2KWVL_3SQQ1xE6M6fO-hzmzM-IN9PG7L4CVgA_4SVmJ-ufRcKDoXxzSe_p/play
-《09.30終》アニマックス FREE,http://iptv.852851.xyz/l/uQZzi7uJPan2vrEz5zE4mIpmxBvF2ttS4xNrXUFKVj0aj4eHV-u8AaOaQ1QmrUfb/index.m3u8
-《09.30終》韓流チャンネル,http://iptv.852851.xyz/l/IUiaZ70P3C85-aQhc-dHJP0e_rGT2_x5Xd_5YK3VR3e3oa3tv45nhOP6qWb44ltn/index.m3u8
-《09.30終》観るたび (PRODUCED by るるぶ),http://iptv.852851.xyz/l/jUyDaQ4rImP3yuLF8TFS6JWJ5A714HmpCZgWRx1FvbWvp_ueftdoPw91cY_apo0m/index.m3u8
-《09.30終》エンタメニュース (POWERED by ORICON NEWS),http://iptv.852851.xyz/l/fmkDzEvxpng2w251xBaJ1syUQ52qtgCFGLeSzAl-6Voe4jy2q6CyeNsHpBih3IpP/index.m3u8
-《09.30終》東海ロキポチャンネル,http://iptv.852851.xyz/l/wFCVG2ZrLhugn4KcZdzvoEjZO3i2wo0wqCVUYV3XznTEYumc2aVLnUv02yScxicL/index.m3u8
-《09.30終》FREETV ニュース • POWERED by 17LIVE,http://iptv.852851.xyz/l/bn3rG6ui4uN_NPXRgCiVOA_0qIKyZDG_Hbq0qBuQ-Jr8g-k4YmhNUnxcqbNt3FCR/index.m3u8
-🇸🇬 新加坡频道,#genre#
-Hub Ruyi,http://iptv.852851.xyz/l/Bw2xmiPF2ERoLxNoqAOL4SRSLGmhJgTCgz3NP5Eh_9hHrLOUJvpBcj9eYIzU0xgN/index.m3u8
-Preview Channel,http://iptv.852851.xyz/l/UpWRKYyMkwyXU-WlUj7FKpP6eetOza5VDiZTsimMvKudLwoupP6zyVnW0r9PV0Sw/index.m3u8
-Channel 5 HD,http://iptv.852851.xyz/l/DZamTMlu946vwy3fUZETkok2Z76PyCysJeR4FvOb70bG3fsHw0WCme7NgFmvsYPb/index.m3u8
-Channel 8 HD,http://iptv.852851.xyz/l/ZmZ9msELoXpuVhUpK7cif1OdmST0G0hSOYtUHLwfvL9PkjB4t4gMHhYmzsnoryvr/index.m3u8
-Suria HD,http://iptv.852851.xyz/l/GbPHsWvbkXjnMwSgONAu3TUeV0lRoy8QJaH1AwrAzGY2LphlezvTzMb7O5k84Eh9/index.m3u8
-Vasantham HD,http://iptv.852851.xyz/l/ZVuG78PRcklOc5tXZYbf1Z57V4PtYROa-p6_PgedonaSRNMiEGiQuCKLxUQ0NA43/index.m3u8
-Channel News Asia HD,http://iptv.852851.xyz/l/SSR0gbd1c0JxRGb2wtgf3pAZ4wemTcVe6zQf6s-Voh0Iz2RjByxywYFtbaplFDoZ/index.m3u8
-Channel U HD,http://iptv.852851.xyz/l/Xh18P8G7yEbkbtnPjyX2kc5HooTpYbJomoztWE8R6zHhvP-ez7nfaj8TJVvsVEHP/index.m3u8
-Hub E City HD,http://iptv.852851.xyz/l/Q0rueH3MrO_3ziL9lsmdaiCZx2X7bCNz0w1x0vtSK8O0hcoAmA3Od7D4WWbltILj/index.m3u8
-Citra Entertainment,http://iptv.852851.xyz/l/jT2KIXjJnLLUAOHkLTkGgj4G4FM_CjSMsLe46PW2V60Wo4ipYVKgBEigOipHMu5X/index.m3u8
-Karisma,http://iptv.852851.xyz/l/KsZtSxJSbbZfMmvfvJdZKJsZYGlHdqutsWezbvNOEZMlUQONNC2t8A6nyiVf-b9u/index.m3u8
-Astro Warna HD,http://iptv.852851.xyz/l/8Mf52hK-7nm3pg7LEIkhYBENBJXP4ev72zuCwJF_tE4lDU3BniLco9YWG_AdONrO/index.m3u8
-Astro Sensasi HD,http://iptv.852851.xyz/l/MVknfHB0jjuCEUh3oXkEqNwESD1cYdSRChmX9WQNWo4H4uninfGedbUcaZaYPd1V/index.m3u8
-ONE (Malay),http://iptv.852851.xyz/l/Ks6-dSqiwnOGbMh-UyYJD2FgaMG0lqyFm9O86n8Ze857x9eqROOZRTYdTbuV6Vi-/index.m3u8
-Zee TV,http://iptv.852851.xyz/l/hqEE90vTPdZ85v77Rt9O9-ADyir3LHfwW89P5bPZeUdnkqzfq6fGL5kaSh69HNYU/index.m3u8
-Sony Entertainment Television,http://iptv.852851.xyz/l/kcsy4TF1iqgMHJUwZpBEU8r3lqB1MYSdi2ciX71VL3rGj8DSzR2oi4hgXS795gVD/index.m3u8
-COLORS,http://iptv.852851.xyz/l/jr88AM2-fOd4WgGJSW54Y0lLVbacAK_UJPMgbVgawt0I-O4vu5aURgBE2mRItlS0/index.m3u8
-Zee Cinema,http://iptv.852851.xyz/l/kdYHuLhIEP_W_ZPiLCbj1pbbmTQ3ULGRAnXmMYfOC6KOHAoxyhkpkI5MoCPng57O/index.m3u8
-SONY MAX,http://iptv.852851.xyz/l/bzuw8kGdBwBeuqXjJAYUHV2XPWKqoV-BIrXPNfEfSWpyREr-y5FMtb2uLYcw_LDo/index.m3u8
-COLORS Tamil HD,http://iptv.852851.xyz/l/GX2o4em1Tb-rOPPgD-ETuSy5UZiAEajvBx2pP3C8PoB9_qyT35yKAnk8bEln10sX/index.m3u8
-Sun TV HD,http://iptv.852851.xyz/l/9nPfP35FMTPGtGzCHJygT8NYMmdz27U1ErvtrTh6_kP1QyV5opWrkSvEf5qKvBf6/index.m3u8
-Sun Music,http://iptv.852851.xyz/l/aRei1pxoN9xEP0x5mupD6pyHZoxOXxgpiO5b0YeytV4gPWLDJmR2TVWVP6cCEdCn/index.m3u8
-Vijay TV HD,http://iptv.852851.xyz/l/vbvcjlODqx2ONCkJDs5lLQkYobLkkgKtbc2qfpbSdhMd7qQ0Wql6ed6QVai3g-L0/index.m3u8
-Vannathirai,http://iptv.852851.xyz/l/sasrt2AR_6GYttQ2JA57_gIatSbBSXKcbWWpMXZVVyBgn_cneYmaiQeJEJp9CNVb/index.m3u8
-Zee Thirai,http://iptv.852851.xyz/l/iC1GjShZpSaginhlj9npMDw8mRZEQTBYHgZAiFpBDrhuYeAeYQsXSb7-G48TOd0m/index.m3u8
-Zee Tamil,http://iptv.852851.xyz/l/3wbjm2ISnKsSEzWk_LC7VgkwxWoPk13SCXdkvF8Y8RrpHZhOItTjoKT3jT9oU06F/index.m3u8
-Asianet,http://iptv.852851.xyz/l/UWJ4vtBVh7pqNCJXWIjGgnEBR1xFoPD4tCdrWi0lFMVuhRlBYUybw4MFoLAW5N4j/index.m3u8
-Asianet Movies,http://iptv.852851.xyz/l/T5UAeor6CC0KQ6nDpbUjsHEWtqqBUKm709o_ZTUaBlVxc5Pu0vDjvgkiyqUNeLkx/index.m3u8
-Kalaignar TV,http://iptv.852851.xyz/l/K2t0J9s7mHRb2ejE8ImY94jk70dJ2X08VlklH0lFFcw2BlHSQzqnw6CFkLCb89I2/index.m3u8
-ANC,http://iptv.852851.xyz/l/ta6Bmn2nWfu3cBQAfQOQhrtPunolQxfnUQy5dABjI4vqM7FY5AAlCfy8OX2aG9sK/index.m3u8
-The Filipino Channel HD,http://iptv.852851.xyz/l/xqnXtkDRRhlQh6rZchfhaVo09ClVzYpK8E_6jmv0_O152LXaLzcq_A4jaCqRO4U6/index.m3u8
-Cinema One Global,http://iptv.852851.xyz/l/2juil8ZWJegsR2tu2yeipD_r0ztUWUayrRujsyu4LTXm9CI5h1Yn5pULefgC3qvm/index.m3u8
-TV5MONDE HD,http://iptv.852851.xyz/l/x5jwK9QTp_WWsM3RF6MsLw582AptOmrhEWYt4FetkmrbIgQZd3nYn6Jsn_6J1n3S/index.m3u8
-DW English HD,http://iptv.852851.xyz/l/8zl2Ge3oAvdxhuVM1dXORS_dK0WDPWJqR3IrrmId5j-bznuuFABBBGR1KhJ1-M-i/index.m3u8
-ADITHYA TV,http://iptv.852851.xyz/l/oiBTxUlcFmg6sgy1R5iUl9a0uM2udDJ9RbS7zc50-9wsHXj9WnVGE5gsWjcTePgt/index.m3u8
-KTV HD,http://iptv.852851.xyz/l/NShdINyxrFU1waQIQoImMVP4X8SteMmtLJqD6woouCJBGA3NU5atupml4AiIA-7F/index.m3u8
-Hub Sports 1 HD,http://iptv.852851.xyz/l/v19R7MnH9TO-yRRBG99DWVMGNNWNBKgxM-lO_PseOZ7eJI4o3LOM0hWph5x8-AL0/index.m3u8
-Hub Sports 2 HD,http://iptv.852851.xyz/l/VxvSY4nZ-m6opAB4wFqMeGaS3-GFE6bdrGa6SkucNcwFipeN0TanTW0K3TD2EZPa/index.m3u8
-Hub Sports 3 HD,http://iptv.852851.xyz/l/fAqjCHhIIzkkvB6zWLMoCvS1sIoHO6p2l7XeGCv8QEyaxfCjGvqCQvPdMdKA_8LZ/index.m3u8
-Hub Sports 4 HD,http://iptv.852851.xyz/l/68APy2Ixu0SZ1J7bXs5FuPaTl7iXZupya7U1F-IbWEMspyQlOw8WI9zstrmbGXyz/index.m3u8
-Hub Sports 5 HD,http://iptv.852851.xyz/l/jYkVybaLQS7aSEjW6iaGazlOsJ5udEkgJFQsKXzCy_3DFXkQpdvnz7VdA1qCSzeX/index.m3u8
-Hub Sports 6,http://iptv.852851.xyz/l/cWHS1JFs0CRv3cAE29DN_44FYENsrkwvsyUalSQBkYuEv0SICK6qFnvUI2V-ptp9/index.m3u8
-Hub Sports 7,http://iptv.852851.xyz/l/PS7NlqyRj0FiItlxDJBO6txGJrLJrUcfHEOw3qTfq7Lc1BDDv285tUfcrp_i8I5M/index.m3u8
-Hub Sports 8,http://iptv.852851.xyz/l/OClINqOZo_3AA-w2JlmChd2Ne_fX08jUjJc9u2IrWwsNZUJZZpJaaIIr7ck6ky9w/index.m3u8
-SPOTV,http://iptv.852851.xyz/l/mTefqdrMBB6GOuiaSjNZNB3yVux_EZiwimr9T8jd6mebKgVettGiTdI3krjzfU1e/index.m3u8
-SPOTV2,http://iptv.852851.xyz/l/x2sRW329Ol0GAviCj39Pk8qOovxQPGq8iHW_cK1RD7haJxE-wXaS6FT2Odh_tIZo/index.m3u8
-beIN Sports 2 HD,http://iptv.852851.xyz/l/WssPFTeBTbRZRn2eF3V31A3R3pTZyQAbh_LTWJQ8pBdPB6S3ONCdmpJLqCQIHVV7/index.m3u8
-beIN Sports HD,http://iptv.852851.xyz/l/skTCNbxNsFKegtsz1Q4GUMgGvQ2fKHTWBpNMfQgfx38ocQlXAehGKA1ogvKyry5o/index.m3u8
-beIN Sports 3,http://iptv.852851.xyz/l/k1f6m5Hs6Ljfw3DpIXlbr_Wag8IBnk0fZOV0SFtP3VddI3jGC6TvnmfEteqI2wEd/index.m3u8
-beIN Sports 4,http://iptv.852851.xyz/l/iNYim8nizoel0KQoAzN0vV-AVpGa4Rs4nzXZjaUv9QUQ9r9FM5bVd00iCU3xmZuf/index.m3u8
-beIN Sports 5,http://iptv.852851.xyz/l/iOJDlk4F1ODyJc3iLzSgZXJW5PmDDHkEMeTROSbvYINmuRyqC8ZtsxyXPK29yhpb/index.m3u8
-Hub Premier 1,http://iptv.852851.xyz/l/sXS9-MuFjoGPGgpNfFZAv60F1AmWALXAb4R8I8ruGrbnmt201udxGqqS6IotIpry/index.m3u8
-Hub Premier 2 (HD),http://iptv.852851.xyz/l/eCaFHcTXl6jG9y4Mq5mWYnt86rcqfxBXwgnaXPjUaT4tAz4G6xm48mtKyPD5qbUJ/index.m3u8
-Hub Premier 3,http://iptv.852851.xyz/l/2PR9rJhOZLtbY2Lm8W7T8c_SITJOBn5Xuql1-e2iNXJ2lhTzCFLXa2T0_2Mf-K-6/index.m3u8
-Hub Premier 4,http://iptv.852851.xyz/l/zvXPvPKhtDMpBQDjcPqQyt6z6vbPg8a24NXssjqFjpz2qyeuYtrAtYmRgAXvWMsa/index.m3u8
-Hub Premier 5,http://iptv.852851.xyz/l/AJnQtEt2oLrssCftI0jCeWzIwhYXRxd8OhEUVIeMZTMfLsCnZEkwLADT1thHuJBL/index.m3u8
-Hub Premier 6,http://iptv.852851.xyz/l/_b9gLMSpC6shjUr4z2guDZMAvyZCDhVFNsqTTDzM9oxkMAIISesloW-Xiz-0tLWt/index.m3u8
-FIGHT SPORTS HD,http://iptv.852851.xyz/l/sbxM7260hLObJSV7N9I5RBqPpAwZfIQJj7auAvJ1-mT9IRsxdgm_xnxuL4sxhS9J/index.m3u8
-Cbeebies HD,http://iptv.852851.xyz/l/zrtElrjxm8CZB5-DzxMQfmEUU05B_PiDHdLCQRCeRBTIz4jp-BAIaBMMV3umafdC/index.m3u8
-Nick Jr,http://iptv.852851.xyz/l/cTNZqHvWIVXV_plcpnEbj0VbmcOIf7921JhZ4HGomNLWlNkp6zZMP2eump_SsVqm/index.m3u8
-DreamWorks Channel HD,http://iptv.852851.xyz/l/G0dElDVGmfrs2egrlI2LT2bRU1z9D9KD4NCAP5tsUjeMxbo58SUYj1bWNz7LKbDP/index.m3u8
-Nickelodeon Asia HD,http://iptv.852851.xyz/l/XwCzwUjB6CtvZ_Xd0A9LPdF5iFVr6VY2bOoxztROksYXj_6QmRhrnbwe5guvwbOH/index.m3u8
-Cartoon Network,http://iptv.852851.xyz/l/_FPso-GLzO5r0knHxHB-7Mfx0bfojgceb_Dn6c2oeVgvq2HRQFTxs6uJqSioiIVf/index.m3u8
-HISTORY HD,http://iptv.852851.xyz/l/et5NnoT-7nf8umQLSerZekQKZ_ufXJM-cGQ6KlZ_Hmdx1qHklQqI-M6JvtApiy7c/index.m3u8
-Crime + Investigation HD,http://iptv.852851.xyz/l/9uDbbllgWSy02O6BWJc1Gk0gP7ggVkGKlHs_wiKuw-iMCOXg8Cmbb67gaOu7FbuA/index.m3u8
-BBC Earth HD,http://iptv.852851.xyz/l/Y8EAlh8vzgIMH5wB21O75Rbh5KusSSF7SFN9ixKX2YyJJgcofuBuCU39D0VXQWea/index.m3u8
-Discovery HD,http://iptv.852851.xyz/l/SeTnGIoGk65--jlPcQ1h9H2WMjEsHh5B_kV-8_O230Avh0g5LDN4lefkj8JDxASP/index.m3u8
-Travelxp HD,http://iptv.852851.xyz/l/lLs2sXfZFY_YvztzCnHJyUmBe2k37yPQisrp2GXeA4Ks92UyUBCnd0SoYWZ-X009/index.m3u8
-BBC Lifestyle,http://iptv.852851.xyz/l/kTTCBsCI1Y7ZU9PiR3_sJr1J8X7aIB2Yl5ijEt04uzLio4EQBvhca2reZsFpDKut/index.m3u8
-HGTV,http://iptv.852851.xyz/l/lSGpIrHzHKBiv2DbVI4gEW-GU11xpCITMa-An9G6sZCP4_ms1KMxztqtOOMJjCEw/index.m3u8
-FashionTV HD,http://iptv.852851.xyz/l/8nDUxYXqhKvMZofgWsuRZE-Cq-7i5QjtBw4M_gtGtJN5nG1xdmL8QWdEIw_r-njL/index.m3u8
-ABC Australia HD,http://iptv.852851.xyz/l/nZrqQxzFnu14R3mUArusnX1L5NoG3Aj2yjggdUttS9UXZAPLK7KEGH7qWIf2RLQ3/index.m3u8
-Rock Entertainment,http://iptv.852851.xyz/l/gReT2mEh7mT8g5ce-fy9UoH1MagqaOjvN44TIjecaBrf7ieAVHlyka5DGjtZb0J_/index.m3u8
-AXN HD,http://iptv.852851.xyz/l/V5R1qUTaLRyKoMxq7ww3a2vYZVWYIoaX6P8l-Hw2Pf5ml94Uwd0u42GhmGQkcbHQ/index.m3u8
-HITS MOVIES HD,http://iptv.852851.xyz/l/4agG92zKHelcIr87BdYpCRubjMgct4JiATxq_MJnBjDz0i20KXgvvX_A6AepLVkr/index.m3u8
-Hits HD,http://iptv.852851.xyz/l/JnDuhpE6l-ndmZnqoiXAz0r600pbclSTpuxEJWZGBut3OMKckP_Dc6knQ8t5gGtV/index.m3u8
-Animax HD,http://iptv.852851.xyz/l/D-q9_Dyh5c4-g1OnG08w_rQYTYZPQeiCRq-Ryf84LyrikCOVlp6K54Pm4_V2J8k0/index.m3u8
-HBO HD,http://iptv.852851.xyz/l/Hlj4BEDCG-zDj5jYeLgkp_vJ7nD8pQYzkLKbqaubnVvG_DR-LwZT9G3aCUdZr8Wy/index.m3u8
-HBO Signature HD,http://iptv.852851.xyz/l/yYxqq0V-hU3MC7-cgn70BMhK0L0g1lYwhP9BV7AWNnoMmzbCdLl25hibWEscAy0x/index.m3u8
-HBO Family HD,http://iptv.852851.xyz/l/xHn8LzZ2NItEtUfPAZ6eKhZ02VOw8xWs8ZrwTdsfo_Tg-a62ZACbPGHFtST9J__p/index.m3u8
-HBO Hits HD,http://iptv.852851.xyz/l/ej33eOXLQIGOVyBJ9ZEgVP-NPYQXc1_pRx84HyVlUOQw82BZMHWoOeqU5U9KdM6A/index.m3u8
-Cinemax HD,http://iptv.852851.xyz/l/8M7_cO4B8Ax_a8tJ2BBeks1ngJnyvz6WVi2gQnoN0qDvdSoMrEcNN030Q1rPEINK/index.m3u8
-BBC World News HD,http://iptv.852851.xyz/l/BTVHIqeWkqTNw-AnapA1XY2Js8HcwJ6Zwe4ZbRm1GDfezhVw0g635r8Pj4w77gTj/index.m3u8
-Fox News Channel,http://iptv.852851.xyz/l/7W5pcdghaXMF9oDaeJ4gJd8LsJaw2nVTZJeU_wh7vxoa7XKYdimb7A-SS04pUTF9/index.m3u8
-Sky News HD,http://iptv.852851.xyz/l/jzHyM3GEYhhViN_XujFuEm2e4isXv298-szoyI7mFvW-8hf3caV17tp7AELAT_Um/index.m3u8
-Euronews HD,http://iptv.852851.xyz/l/p14OSCyIG09-EFSVDd-2pZM-m1Xo1VubUzO-YLtpg9BMgagCp-eBD1u4x4zPMhmZ/index.m3u8
-CNBC HD,http://iptv.852851.xyz/l/0nMgAZJhxiYSq7DX_5UTo6q7FTQ_q2_JnKH115Ue9M6GxUvgsTjztB9aMG-oN_yX/index.m3u8
-Bloomberg Television HD,http://iptv.852851.xyz/l/lJxQF-5q5wtmvs-9uGrWMikl8PtBBB-vkyw6N0Dhm88GFbEkU5ioEXHMErOz5swN/index.m3u8
-Bloomberg Originals,http://iptv.852851.xyz/l/PwkpZUtd2fbjs9ri_xPvC5RcaqzWFjxZLOyoHTh2wD4IFQdfcFMuMK1W7S1lorXH/index.m3u8
-CNN HD,http://iptv.852851.xyz/l/26ArAIlibrDkfDxLC0j0mZzf9oYtVIvlNP6xfWFF6xTzkc9w3ZWcKQZY9yxkDJIo/index.m3u8
-CGTN,http://iptv.852851.xyz/l/fv7ihBukr-8cCLvVJZ4cwYaAlnRWwx8NPmXo2X4iCxLdo1uFT_MwwDkDYSRlwd-G/index.m3u8
-France24,http://iptv.852851.xyz/l/j9VhiaKy89wP6YgUWrAW7wYxBDXl6_zBuPnucw8KAdCKZgfn_LLD6YF2CdsL3QXd/index.m3u8
-CCTV-4,http://iptv.852851.xyz/l/JyVPA3vwYaKaGkGjq-joEShGiEmuGmL_wKkTnkv2vHjZ-MxuWfo1FsfAjijWxIIv/index.m3u8
-Phoenix Chinese Channel HD,http://iptv.852851.xyz/l/YYzS3kLfPDldcz8H-o5hCQFVy-7o0quuuHVH0PUWhBwouvz0hVs_VkFc49bKM_Nw/index.m3u8
-Phoenix InfoNews Channel HD,http://iptv.852851.xyz/l/C65SatDfHmxLEMSSfsXLZRXWxzgDfvp6vHK1Mm6Rsp-BHNcDvsNDWn18xAz1qsK8/index.m3u8
-VBS-NEWS,http://iptv.852851.xyz/l/abkTHf7uZGKCKuspwsnZtPI9Wjg1fPUe4Cfy3HU60-4MqMPekxoOAD-_0lWTRuQm/index.m3u8
-NHK World Premium HD,http://iptv.852851.xyz/l/suZf5Usbc13KD-wAsWx5q1KjvupaHMW14s2B59tW9QshhRMlCoeN5lDT68A9q_go/index.m3u8
-NHK WORLD - JAPAN HD,http://iptv.852851.xyz/l/Z1knNoIrBDIqok4gkGBU1o2u3j1nwk5Gvo_Si5wUNgwvYKo3ovAfOuTJVF2Ha4Hl/index.m3u8
-KBS World HD,http://iptv.852851.xyz/l/iEruVlZZ10j9UE8FlWr6A8iGPSVEMz-aPLdsyVZTKEXgQ2rSufoTJV77xmBBZh-c/index.m3u8
-Arirang TV HD,http://iptv.852851.xyz/l/WMB_sthnKvt3ZAQ17h-k31zF0XqkTiYUEQ4uDTpv0nyiEUaNjC-aDVzrWQ47XZHn/index.m3u8
-ETTV ASIA HD,http://iptv.852851.xyz/l/Ei9imPDPoZBBmGP-SiDitrdnwb27e8-NZDwffLz1JmEkC64E4YjSZeoNm4XhE05M/index.m3u8
-ONE HD,http://iptv.852851.xyz/l/D60TDKl6qrPJD6U0xWUa6xdmusLppEw-g9GBcQ554eNzcU9nN1FnL0Z7RIJ3RCzS/index.m3u8
-Hub E City HD,http://iptv.852851.xyz/l/mEWC54QTlTotw_ZQY5eC0vexxu9RU7V7je8bqV7mufzUeb6YtVQbgKp18YK0CtCy/index.m3u8
-CTI TV HD,http://iptv.852851.xyz/l/G12pidDdKg1d1mRv0m0Ki8GfcqKTXOtkggwqoN7pK-Swpiw_W4RqavkbADr6NFK-/index.m3u8
-TVBS Asia,http://iptv.852851.xyz/l/8HGrRuSYaG0fq805DVb6TuN8ruoa4LiO7s68NYo3nV_fw8jAGTiFNrBGSY3tlkgi/index.m3u8
-Dragon TV,http://iptv.852851.xyz/l/QewqUb44oPNgMRrCSBJmNphj1y86dyuV9qtDFimfmcckU2YiilP5FOeM_OneTH5e/index.m3u8
-TVB Jade HD,http://iptv.852851.xyz/l/ryWtXy8oOOK61H6NLzkaF7G2XayAHQZTY7lpKAalERV4ms2p6hmF-FInlTQcxeGB/index.m3u8
-Hub VVDrama,http://iptv.852851.xyz/l/W2o4bCXy5q1ae3sV4Ynztnr0gK23rcJ33-X3N1RdjTiiWoFn-eAA-NVTNBVIOoqX/index.m3u8
-TVB Xing He,http://iptv.852851.xyz/l/IDqVsJJHtV0r6yLcYMJNTPryPi52yorRIQEXsWS77saS2p6r4RIVf_uD6xJD6idA/index.m3u8
-Celestial Movies HD,http://iptv.852851.xyz/l/BblB10jVLdXncK5dkW1jdvRFemMaSEUsSkvUFqZEUgvIhoy1PLsYttEqUgBP3E54/index.m3u8
-CCM,http://iptv.852851.xyz/l/wzPsfigmAHUbPpCp00uvVu0DIoq3TCxcvUKpfe7KebSqhDYXYos1Oonu1BSnrEDd/index.m3u8
-SEA Today,http://iptv.852851.xyz/l/p_Xark4UMxV2OFeUlN6P55FIVxOdVSnsVbktEC-tO_4mUBejoYGgpUpbkZEt9Wbc/index.m3u8
-Lifetime HD,http://iptv.852851.xyz/l/r0uLJj2riJIrrLRG4C7kq3yPaiKcAmbUyWYe3x_A4k3vE2zcz6j0HYd0CKyP5zn7/index.m3u8
-🇺🇸 美国体育,#genre#
-World Fishing Network,http://iptv.852851.xyz/l/gQaX2w05nNGf8tOgFZXXEaKHuFUa-KICmCsjnglBlvG-0HWPVvgoV2KfB4JAFBAg/play
-Strongman Champions League,http://iptv.852851.xyz/l/oq1lS7SrmfHR_URYFqOpAMEvRTbH336DgwzadulnNpDIWHyCnfIiw7VwzlhKhAwK/play
-PFL,http://iptv.852851.xyz/l/UJYfzwAK9ZzFwANq8f0mYL3BrN-FCzXZfXT2a1Hd_sVEJzqgpaeayPHrzO7eAbYg/play
-UFC,http://iptv.852851.xyz/l/5PFs6jA3qaqaWyVgpkGdsyA9QhxivGn97cQiczOT0FJh2Lw-BtjlXPuRrVQF6WXr/play
-Red Bull TV,http://iptv.852851.xyz/l/U_IAmaVnaguqEOfo5enJXcFgZZUtjveeCVaoAFx5Rdtyi1jJOrufPrAS2RZgMZWv/play
-MotoGP Channel,http://iptv.852851.xyz/l/IJxT-jZrp023WDP3H1MH0I95uQOnEhGI2kRLJl2G_c-PZFQ25_kCrEM3Z2pJyzMe/play
-NASCAR Channel,http://iptv.852851.xyz/l/02IWOdayB1kjlAZxQtFaOidkB69PPS0YlOAXRYO5DQ4fKlG0QhiCoMqemhJTYuxo/play
-Fubo Sports Network,http://iptv.852851.xyz/l/hi4PIIPzUiIbV0M8_0sscAIYTuFM-eIR7jlwN6Dv46KObcJyPuTSFvI84YFl7Iz8/play
-NBC Sports NOW,http://iptv.852851.xyz/l/xggRzX6C1HYxfmM40SNgUv9_D93wZlogskkAVkuQtMG01EGhQ3CruJ-sCKq6vEVp/play
-ESPN8: The Ocho,http://iptv.852851.xyz/l/94RPVIrqCnGKAFK-KS51FP3QOewnVWSSYDOr968KoKdYzrYMNHOQCkGQWtZo1zUD/play
-🇫🇷 法国频道,#genre#
-CANAL+ BOX OFFICE FR,http://iptv.852851.xyz/l/bBuK2cYOX2FJwZJajiaFYsXt_biz_LGZNtnVXA104vFSnNSxnJBJqjMkzGWTFmE3/play
-CANAL+ FR,http://iptv.852851.xyz/l/gIVB14xroUvIRXyvRTlKAKrnIbQEf7pDDbRRz6umJRLIjwq0AyJPgbEgNOtZCQ0Y/play
-RMC Sport 1 FR,http://iptv.852851.xyz/l/a-HGlyeoLjGD5WVgP9ZNiDzFbhqfwaxQ3gq55acKtJNEKsiVGUNa0jgGwxnKI7m9/play
-🇬🇧 英国频道,#genre#
-ITV QUiZ UK,http://iptv.852851.xyz/l/N6XJrgDkoE4k_fk-07Kr3TUzg_ciytDE48D4VqFgUUFoEAZwrCmagvX2PQKXFhVc/play
-Racing TV UK,http://iptv.852851.xyz/l/hr0KepvQLty-U5kJQeMhE7cJC_WNDMAcA5Bgzryp1Yb6sIRxAu0FjvOO4P0NAd2k/play
-MUTV UK,http://iptv.852851.xyz/l/ZmLVibXHVWXv99gJvlZZhZNj8dJqyylmCfMejY1efVh2J6GzBFPy2ZO1Gxp8dUBS/play
-QUEST UK,http://iptv.852851.xyz/l/mglsoYQX2RZ1cHdjGv6YqLBQgTV-QnXamYd0YVIzKGm0I3jYESVATsUw5YwSv4Aw/play
-Channel 5 UK,http://iptv.852851.xyz/l/FlNYpAldlaYvZetGVYCVRZjqOJw9BLN14S11QtF_OdaU8k6ZkbCodiIxSPimgD-A/play
-Film4 UK,http://iptv.852851.xyz/l/Na-xRO-VwO282B7cRSY-rr19vwnYuSoVWgKzXF4z--vhSmzEd0EfLhyKQ3NjHSTW/play
-More4 UK,http://iptv.852851.xyz/l/Y7xHXCgA7GAL8icByeQ0wAtZHmwPLebuVemGOmcCqFyc2Y1liqjWevLJx-oOlqYD/play
-E4 UK,http://iptv.852851.xyz/l/vEBuUU1ySsI6Ig3Ca796P1hyBWra-MPKXgr0VZ_6FJFo9pSDHh7qubSSTiEa0Iwc/play
-Channel 4 UK,http://iptv.852851.xyz/l/z0eEHn1JhS1FxG6YT_UZ7mQJtPLzwglKJmZhVeOzpQkR5jXwd--T3G35DvQsDiL6/play
-Sky Cinema Sci-Fi & Horror UK,http://iptv.852851.xyz/l/yHVQ8R1d7ANDeQ_fUqZkSSdRGbHg1KlehN2cYIQd30UEoQK8Keod-yFLhJIYNjvW/play
-Sky Cinema Drama UK,http://iptv.852851.xyz/l/7jNoUp7sFMtWFfr6JGjKIE7eVZ-zuNyGaqL-ku9YXDb80nBB6oks7tGX0UH5ljvy/play
-Sky Cinema Thriller UK,http://iptv.852851.xyz/l/llUHySxoJ7xQQKBJYEat2-6NeDYqhQtKEbmZCPXue9A9G8KA14LwWQy-s8hci8Kp/play
-Sky Cinema Comedy UK,http://iptv.852851.xyz/l/5FojRMRV_piOEWW84C6o2uHTNKhExqhePkZ85jN-4jpz_rBuon36sbKc-gv3iBCr/play
-Sky Cinema Action UK,http://iptv.852851.xyz/l/7n_ZX1wcWMiAL1GuoDMcl-AVuvOJ5bcwGrgjmGUdcTxbM_Ye4mUbB6fNmrInWqDJ/play
-Sky Cinema Family UK,http://iptv.852851.xyz/l/sttUY-FxCl3EfXmaJVp7fR8KbD-KxPJgchgeSf7gG3xGBgZEEdgFtBW_XPQNHO1A/play
-Sky Cinema Greats UK,http://iptv.852851.xyz/l/w1FLxpogMq6AwtLB6W9JLl4BsHW7iFNxAdIDMg5vBzEwjuafLlsIB11sLR5H0Edv/play
-Sky Cinema Hits UK,http://iptv.852851.xyz/l/0I_m2s4eHSnyrgD8gEcs039DpB_rA4GOLKbPAuYORxOBRzcPi8Jkg1YlJ13Lc6vF/play
-Sky Cinema Select UK,http://iptv.852851.xyz/l/yiL6XBK-c13dztjQXPiCYsTqnDgL5WJbYLSLYDqkQzg6LNUPtIfHLDaFdF9lXUKK/play
-Sky Cinema Premiere UK,http://iptv.852851.xyz/l/JxuwZZYmy8sfNlO6YY_iaNN3pWyhYVDgbUSXVBQb8vcWYjBd0iFPYPCzJnBMHfK1/play
-Sky History UK,http://iptv.852851.xyz/l/z2fZrN-HOMLF9S38M5mQMUY7FR7T6kXIeoirVQ7wYSqstaVGzm0y4DBqc2C1260M/play
-Sky Nature UK,http://iptv.852851.xyz/l/eAVWGpEWKJFCu7aclKFZm2rgwBVZ5sSAIPkYW_n-h3O9Aj_JuZdpyY8u2pcgdmoZ/play
-Sky Documentaries UK,http://iptv.852851.xyz/l/Gj-dUDsxOHnEnlYYsvAF3RrBr1MbV_9UDN-7lReQODSflkEBVEMGGtR3_wTFrXHt/play
-Sky Witness UK,http://iptv.852851.xyz/l/XPl6yHN6ithrjM3JtqsUfJ-5xhr5bIDZSUB66kGDkqpAZHY9EX5cXvJMeiEMAf9-/play
-Sky Crime UK,http://iptv.852851.xyz/l/qs-dTUKgNrjT6bGt9Zw0KarHG1WPBUg-81f_Y8tbhTUgYLXS_Id6HdI-pyEWhT_f/play
-Sky Arts UK,http://iptv.852851.xyz/l/otjU_X_uwzHYOtNNb2OoG_9fQkzEQhPMDyAABSnIZ-Ht2vdtJgExhI8-ykAH4QOB/play
-Sky Sci-Fi UK,http://iptv.852851.xyz/l/nLp9Q9TDWFxamyC8XLG-vmm70r98G7bcv2BVidVangVb2sKfD0bhCQp7neFK3bd4/play
-Sky Comedy UK,http://iptv.852851.xyz/l/-L-Bb73peGDfnoBzxawPuuRv38XzrJdFstzwog0cQ5JGICmGVJmUMgjaW3InY7p4/play
-Sky Atlantic UK,http://iptv.852851.xyz/l/j_vu_KXf_j5MG0zOoOx07u03GUo-tL9UEnVENI-OxuFkUy2Fzfa--0-iBBQVzzc8/play
-Sky One UK,http://iptv.852851.xyz/l/o4fCo17gnoF2mP3YY9FbLTjndxaqd7GB5FGYBhL5-4J1tLBxe0Us6x3KWW_DDdOt/play
-ITV4 UK,http://iptv.852851.xyz/l/ysA132hCqRNvfPfCbyc8I_3CNdC7WrEP-iQOQoRK-H_CRry6QV0g2pOaxcPnsav6/play
-ITV3 UK,http://iptv.852851.xyz/l/dTMOBMVP8kjzosrsJSgXeg3QT2mSyOec8ctUoz70ORdu6-QLd-ZQOEv7LYbfP2EB/play
-ITV2 UK,http://iptv.852851.xyz/l/Yt6SZ-ZWykpBl__ejl-kE7T5_5PnU2cc3tYN55Xad7qrx_7nuIhNHgZa1G2qd1dy/play
-ITV1 UK,http://iptv.852851.xyz/l/ght_bW2BNrQQHYAgtWUXIy3hrIQsqLRNxAZD9r8Qc2zecO6HKjgKfgzsZEyUZbfa/play
-S4C UK,http://iptv.852851.xyz/l/3Fs6dcE8PFQDreI5fuXtsnKbowQihTcPWlX09sEJjLCkFmsuQPYAQAGfOCeSMkJ1/play
-BBC SCOTLAND UK,http://iptv.852851.xyz/l/QyF70JsWci0ot6soJrVhCnDh1Oa7XPtMiBKwfQBPJ7Wj7o1zmUhs6_r7-FVRAdoo/play
-BBC FOUR UK,http://iptv.852851.xyz/l/jhWSwYMD-c45rYeXOXwRWWq63w86MpiJ2j9xzhyglXm7oJf7hwIe5lLcjBPn1Zt4/play
-BBC THREE UK,http://iptv.852851.xyz/l/1dYmYRbDjvyTSYjrft8kbOuPan6NBLzhzk1XFJgT83_szt0-pepBRf9oh6lYLyn_/play
-BBC TWO UK,http://iptv.852851.xyz/l/16HfxTt5oBju_6XwCda4zC-1XiH9mWcWWx_XLraNNID8Xz7sC0n0UEUwnKiaWRD_/play
-BBC ONE UK,http://iptv.852851.xyz/l/sNflfb64gN64YbG7jqDrKeLLH2RDPJs9GFkVf_6B4V9n1Q9Dw7LVuc_9FTNPB8GC/play
-Sky Kids UK,http://iptv.852851.xyz/l/wVfQXOC6ztnVOZQqyJfnGAZLrndKEJpwRmW8wxzyCs6--P2eG4WXojX923LwD-bh/play
-U&alibi UK,http://iptv.852851.xyz/l/I5-jEUbKAobKxm-GOQkdiibo5gEw19PlYpzjpGV3OE12w55anAHXu5akO-J-V8XC/play
-U&Dave UK,http://iptv.852851.xyz/l/sXHu7l2DPjDfcjSo7K83bD2G0rb1TEnsvNBZRzX6ECfFeVHy9KJQtRUIAH4Kn7av/play
-U&Gold UK,http://iptv.852851.xyz/l/Tq9rEGODPwxIbGDqpaamku1v49nNnMJhHkUu5Wo5NhpUvJrfxPhqIinekmpyIBey/play
-LFCTV UK,http://iptv.852851.xyz/l/pJyjePxkG7VloFXr4RmhPmPdn4lol-yNZMiVz0O8_nZ3rsiJ65QKLKamWCUKgl0C/play
-🇺🇸 美国频道,#genre#
-NASA TV,http://iptv.852851.xyz/l/a99uuNPGaUuL3YhZIqiJe9MBhYfd08glObjyqTsazsnkpr5AhII3Rdhv2RFhwATJ/play
-MeTV Toons,http://iptv.852851.xyz/l/HjvLcFY4bIJPTtZX9Egz2zwwbI2Ve5jLn0Vy--AqHHWkbJ6ErKQ2OpQ4eI5Y2Vmi/play
-MeTV+,http://iptv.852851.xyz/l/VGpYVwTwFWo7UcsD8bIVyODAOpJ1yoSM4lUdvW3VW_XngWuDBePI1IUjVecUoi9_/play
-Discovery Turbo,http://iptv.852851.xyz/l/amhpU_-3wZ27TZXc7akj6aFYrDRz7t7CW6pRM2yYPmPsvynkNEat6KkQZw4DgrOq/play
-Destination America,http://iptv.852851.xyz/l/HnBhHM4T4_0SkwwWYLNpr5tVmlOnZigwUWhbvs72gkx4VFdOMJyOuRaW6vtkjxdY/play
-American Heroes Channel,http://iptv.852851.xyz/l/JDud3QBckwJZhoZvyiGDxaWDmM5ugP-wFj9q3eDHRj142T5bu7ikDLwEC8aaEReV/play
-Sportsman Channel,http://iptv.852851.xyz/l/4GCFBu7jIxlOGMtlHm2R4QMtbWDCgfYSDoRtwYzFk29CSkvk4QegjH09ZxsjsUJd/play
-CLEO TV,http://iptv.852851.xyz/l/13aY1-k9VXgXYa9mxZ9TPBSY0rO2IBVVYfxjk_aIe50G9iFuLabsN_1l1xxfgoUi/play
-Discovery Life,http://iptv.852851.xyz/l/KEKE3xwZ6qbvHly2K6YG8zJ3sVlAbQ4STf_uyZ6bkI2kYJEjwqMOQqCkg2Imc9DT/play
-OWN,http://iptv.852851.xyz/l/EL1Cle1NJWZ4XVhYbmTVjAmu17dTXgf9EQvOltIkQuG6BW-jl0dXGDFQJPJihIwa/play
-TLC,http://iptv.852851.xyz/l/Mcv6JZlZ5gDiUK4TcjKDpRbVzaCIabJaOFugqxbU-bapT5VKC1R0dtZgZ_Rt1cMR/play
-Cooking Channel,http://iptv.852851.xyz/l/AwG1dsSfmc7dE-ezxiFh3kVetgdcjnZmcek9a7VDO6A4_5OrvRk2ztTM5Uv1hZK6/play
-Magnolia Network,http://iptv.852851.xyz/l/rntmc-QCleAloluNuBtFKgTIjxHauoZ7O3VhHW-YhEDCfUonaeNoUr8AIsmB7azf/play
-Food Network,http://iptv.852851.xyz/l/4o_TytFQEZu4uE7xhlie2s0q0LqrRNr5a3DLqDJOEUAamO-SR-l9feNORukFHlaI/play
-HGTV,http://iptv.852851.xyz/l/1Fpbtwla-BTDUJNZkbUfQNXQMK57H7s8fnIM_C4Wvt6jwp4VlUkyJbDqraPP5D0W/play
-The Weather Channel,http://iptv.852851.xyz/l/jasQcPxXycVJobt3qxyBFLr0oYGnhcCF1lzsha9vb7x5leCpZodcaSrPhAIUxZz-/play
-HLN,http://iptv.852851.xyz/l/oeTnDGat3vQjds5AWxhFTlJo5QidsVf20uC7hQGTONpOhvEYNEvsozv0m_oabF71/play
-Oxygen True Crime,http://iptv.852851.xyz/l/b4hq6ugxXQHqgxOTB9Md70nKvrN-Zsd7FoNzMDopZWTEA3jxW35OgBZn7arq7-qn/play
-Investigation Discovery,http://iptv.852851.xyz/l/WVzXiaX79Aj8a2KJOnFlLQflLnUpEz47mWLwZKmyWpxFv11t7AyVppnMp5RWpy74/play
-Smithsonian Channel,http://iptv.852851.xyz/l/S4Zfkv6BRepn8UfUlNvGy-sQAuDiftxXkz7woMCNkHh5mSejlEgTMM1LMtPWJYPh/play
-Animal Planet,http://iptv.852851.xyz/l/eVkTBO7z9BuDlsSF6hVPnhRHOBEInjFuSRz3Pim-0Gx9o0a7k_wzChSGKmyXYlBo/play
-Nat Geo Wild,http://iptv.852851.xyz/l/_-FCanpK3kXVRWOLmRdXgNhiat9CG_eslljXE7UtM7f-4fk3PZ3o7HDlG_dBBaRK/play
-National Geographic,http://iptv.852851.xyz/l/LHoyj5wIZvSnl1yPovxpTw829TCGf8eavzADT-vyGrT1hDyFE_sAHsr2Lq9VDMBx/play
-BBC America,http://iptv.852851.xyz/l/-VbHhFyyxvoN5sYVOnJOVSCnEWrGKxassl2zCaYnkdOh3FqkAryFIEjhNfu0R8RD/play
-HDNet Movies,http://iptv.852851.xyz/l/LyhPwlt7sFBRBV6krGHjczhg80FJsvrtM83wJpz33BGTCcIUZH1k48bdsSg_mkBd/play
-GRIT,http://iptv.852851.xyz/l/u83i0WqI7xeEsL_84IudL-JLgiMki2zZsZM0u9FKLZwSsPzJSr_MBvZ_0pr1h4TA/play
-COZI TV,http://iptv.852851.xyz/l/khaN38Q9H-c60DCmlY7qrMnqLSvDR2h1nY48ySn1U1il_zfLZ6iPTJA6-6WWzUB2/play
-MeTV,http://iptv.852851.xyz/l/ytDSZ1D6jDCcomJ0u_X-_b_LuT-n8NhIKy6k8MLvrcPnVYYn8FqlAHFyhlr6YVX3/play
-TV ONE,http://iptv.852851.xyz/l/e2TAJVq7y3aTittHwxWJazvYT0y5wAoyV8y19QRF_yiYosGjZyPTCtcDPFsHAHAp/play
-INSP,http://iptv.852851.xyz/l/kGGiIGFED00kouGiV9NOn0YfmCl9Fh6Q0Py29pwzwWo81kgNT0giffyeK22GMUER/play
-Freeform,http://iptv.852851.xyz/l/Uno0W6pCQV4fy74iDku4jMmRYpS9bzn0_7_XSYzyTI55S1RC35QsZgZePu3vp_o1/play
-IFC,http://iptv.852851.xyz/l/ddRq68NZ58BmMXMzwo8Eg1n0J2uJBia_2cXq7-eEPdjLub7wf133RjH9ClvRl8fE/play
-Paramount Network,http://iptv.852851.xyz/l/A9KCOzLP8rb57rIJa0ziAA3NARSIGMURI3E9CnZKP2HToMjDbwzA24JalIViNuIN/play
-AMC,http://iptv.852851.xyz/l/abxUGJV4SjaZLnYlS-QDM21_lIbA46QuOlc523z3IyhkdM4M6CpSX9U_7AZaPlLk/play
-Sony Movie Channel,http://iptv.852851.xyz/l/ly1OoO8OFRm_VRJu7cJwg5-H2NKmWgHQvibcMSdCO9Vv0iscvpT1Hb3Yq1WF3jmQ/play
-TV LAND,http://iptv.852851.xyz/l/Q2tfIkl5D4K70GfVmMuIdY3rRcF7CywczCb8yYdVXw3TlnYzZsG0JSLR8z3BkSHw/play
-SYFY,http://iptv.852851.xyz/l/G-PwFC36xI7avB2ACTsQgXy-dmKFQ20pgQJGXZ5s49a8e9BYE4BV-KLl1Q4XvRfA/play
-Lifetime,http://iptv.852851.xyz/l/NWu9hiocS3AdHIum7nir979cYVE9GtUyIdCPtKP89aT4J_l462-GKIe-k4HajLVg/play
-Hallmark Mystery,http://iptv.852851.xyz/l/f3wvJRR9QSvz-JiRNJvkTrj8m-xf83P65XDx9SYMClpvhnj88Ja3nWU-DRWJl0Qf/play
-Hallmark Family,http://iptv.852851.xyz/l/DPpFPpOEqpFia9pv7m0wWjcJLP0IRofZ-HLqEGFrbNvlLm5x1gQuUUcBYkQO64x3/play
-Hallmark Channel,http://iptv.852851.xyz/l/agm5gqVEjUSxT46cuYMITYOSC1E2PCIYSdRQUlkzMj0XtsP9gMRRGHZ754xlpRWv/play
-FXX,http://iptv.852851.xyz/l/MOvZ3efaZr7NSOo9PQpzS_o2m_CECgkaQMlq2-ucC8vdAEOiT_TZa5DbZjgb2f_W/play
-FX,http://iptv.852851.xyz/l/oKDLJEvHgnhgNth1y_JWqAuz2olyIjMYNvdEhdRJ5vSg5o2Sh4pk96hxrUaecldo/play
-CMT,http://iptv.852851.xyz/l/LYY1-rqXgEvQQ5uW51-TltJFtG8cGOrUP45s-2GnKJGYgP6rpbGQNvbOqPeHbqfQ/play
-VH1,http://iptv.852851.xyz/l/xRUFRTbZpmbKdZZeihFc_MIzGkxtjIzwP5Q3kqt7m2z74xl3atvH1_byK_NR1INm/play
-Game Show Network,http://iptv.852851.xyz/l/QMkTgv8wxTjK5fAVjzWtGNe0QM1Y029A-hZ7wn6wZaTSTIRnxTdDEyApEh4db9V0/play
-VICE,http://iptv.852851.xyz/l/un_xxTpGkRc2MMcouTMMfVPM9qkawF0rIqcAYZ4ExUF9Ss2lZzxKywnJIcUq7idC/play
-AXS TV,http://iptv.852851.xyz/l/j_x1rDwbhLm5xiJjCpSHlEMJbf5-memPYRZ48Yeh4ecKeQUxxvjfJdVME1BMfwy0/play
-Adult Swim,http://iptv.852851.xyz/l/Phlbv10lijQVrHBXjn5YhIPozspVrFqi1KxqtFv2ncVldxuufOA1d3hO8r3xNejo/play
-truTV,http://iptv.852851.xyz/l/Qz-yk_bFdQ7Bkq3bm75ZyOISjwO4Gv6fmPoCw5ywpBXgZcXWrSeR8lPsA-7pL1F-/play
-E!,http://iptv.852851.xyz/l/3Q7ayF2DWWKzcjwqb2RA3mARvQRZqC7Mxut_mCrIYEN93e2JaRV1CtugYTsb7i8o/play
-fuse,http://iptv.852851.xyz/l/_2aelJxlNwZXwwfRkaYeOH8u9c9bkFX8cV2a6TyrWqCK9kZnw6RcTqg2DIfzUcxU/play
-Pop,http://iptv.852851.xyz/l/myNVBs4hYGedhVtjsPMIUzrCZoxhUajfbi3CzTGtE6XV1-BJ9MeqWirdBV7PwF2I/play
-BET,http://iptv.852851.xyz/l/sCRveOvaEGINBEVLpOKAvrmhoII2KDQvHghFgagJ63Bwo7CMvv3KzPT5KngVlq__/play
-Bravo,http://iptv.852851.xyz/l/X0deEOzSS2_DJx8iOp5tCjGJqsa8B5wSLP3PMk5MV7-XCIU87vgv1tKenwEOp50l/play
-Comedy Central,http://iptv.852851.xyz/l/72BMC53Xr6m2dzLPJRtKBBoy7MUCTI5dAc7Wk-f3fFqjqKrHs4DiZDnBLcIysbRR/play
-MTV2,http://iptv.852851.xyz/l/2Xjz7k-KKHCqQExDCcdpfSVCuS_zY6M5hCeA1l1xzdYlEpiKVVF5UkF6okvMdJ65/play
-MTV,http://iptv.852851.xyz/l/o1QAIvzL6C2vYa1jYoTqmhpp-g76-cifB-azPTl5OBNxqMX8D4Yy2TLTFByDSFXu/play
-A&E,http://iptv.852851.xyz/l/MkJB86sQXDOm-sP6V_L8pb8U_PfNB4jJxYGwAXCZ8KYyVDF53TudXvFEeU_1yxd_/play
-TBS,http://iptv.852851.xyz/l/j41khmCAW91bHMm-fVAC5AmbxQio9k3IMSHXh2R_w6_zn9xwMTlyD1Z2iBQyU1fX/play
-TNT,http://iptv.852851.xyz/l/0Nup-5D3Bo-LC_149qeELAhWRxyegXXSbxDLUmuZQzDZvf-CZO6HfaD309nw6Ci1/play
-USA Network,http://iptv.852851.xyz/l/O-B0E5sOVLvLkbpFPBI8QHyJC3dSbWXFsWthycwjoyFulU5EQI0D_14bpOKCJqyI/play
-Crime & Investigation,http://iptv.852851.xyz/l/7srLlxbB1Mcx-whoKbggeULbrPe7Nj_NtqEA1QEL97Lt9wRGVs5MIExLGDH5jqgO/play
-WNBC NBC New York,http://iptv.852851.xyz/l/r8yJ_PMKWv4s-Hkr2fOsCZzKnfwlQpApg6JkW19ADd5WOTCgMKpCgRfoyAkSbWpx/play
-KNBC NBC Los Angeles,http://iptv.852851.xyz/l/KaTQttbLAvaLBSHBhAj2D6FKOlsq1G03M-f32m5gKVOGxH3JaI2aOA8gE9zLFO0b/play
-WCBS CBS New York,http://iptv.852851.xyz/l/BWqdpM0tMxt_dcNZ4X4XBhvs2n_sh49gsvFWSHYU2013NgyBJLA1Kl5ydbuvbg6e/play
-KCBS CBS Los Angeles,http://iptv.852851.xyz/l/c8EhIkiNK6xCbi8KlJnj8gr3Qsa8y2dhHwmEDUjh-f9HLKfmSgkSmX_FUm7BSGX7/play
-WABC ABC New York,http://iptv.852851.xyz/l/-g8BngnryrLvmJQcGFzQqd84u6rX8ODLNpprzmTUKe0U9wTqgF2dFrU_jfZ3jxmy/play
-KABC ABC Los Angeles,http://iptv.852851.xyz/l/5GeKGF-ZSvl9nTnjGHIXZEE8y1NDue9XrogOi2k5uLzGMGp61GWRjidz8bs40JcL/play
-WNYW FOX New York,http://iptv.852851.xyz/l/Qp-sAlyv2Z4v09aTrFlW7PA-U9jHG6LI4HSuDsOnNGpUW_KIkUgJqn4Up7vLyOkP/play
-KTTV FOX Los Angeles,http://iptv.852851.xyz/l/1bovnb9EPC-xB6u96yf1cNYQ5WJTGC9yjHMzYMVgPZaV9yHqjitBpMZ0gPCp8v77/play
-WPIX CW New York,http://iptv.852851.xyz/l/RuimfQk4kXpBKCzkql42kLAPoe6-848qz6BsFM-noAzaXTqmXdUxwN8VL8v5JJEI/play
-KTLA CW Los Angeles,http://iptv.852851.xyz/l/ZvUeQ0VfckufBMAB4mAw66dLl3OuHGD9EnSPltsUPGTyeVWKkE9XRvAg554-uRVZ/play
-WNET THIRTEEN PBS,http://iptv.852851.xyz/l/LZkWQmf454ab2E6L8bpy8FIWxuKq8VOSsgwoJwTZAQ__rSe-wPo-TvL7FcKy7NWK/play
-KOCE PBS SoCal,http://iptv.852851.xyz/l/5dcbgYtRvjq8w2zPd0bwg2WKs1xWlMiWpjsND26ZjuHBOWh3VkG19pHQ8r8mTXca/play
-WXTV Univision New York,http://iptv.852851.xyz/l/YepFfEvOx_gethn6iaYBczHxTjM77fn-ZvC-6kcSEURGOBqar2eyPmz3Eh-n8TJ5/play
-KMEX Univision Los Angeles,http://iptv.852851.xyz/l/cD-yTMDasEEwulyS8zSPAnaX8JTLpvi9xsmt7BdOFmEJ-T39UX6a6uo5ayu0Tckg/play
-WNJU Telemundo New York,http://iptv.852851.xyz/l/qUxgA_Ww_AQoDkSGkVzMaTC0M2FlYjCAuwkdCiBBMxwLttvfewBjF_dX-YXrYQo5/play
-KVEA Telemundo Los Angeles,http://iptv.852851.xyz/l/1e0HWCLr0t_BnVJdZ6EBWbDVWG1LNKNXFLSm-eTg7wVofzjQDK5D8oXroP7QoE8u/play
-Court TV,http://iptv.852851.xyz/l/NMr_oyQpMm9Bjhxc8R5OXXutAb34x4wSrkLthZ6wi3kxU32gz0kqWkBrbtx3rqXn/play
-mtvU,http://iptv.852851.xyz/l/GoYncPO55p6EoetBURyFwMP1qgkX6dJX5CFNq7lkCEZawYX1BAmj4hwh_deNFU74/play
-Outdoor Channel,http://iptv.852851.xyz/l/uSiifDjpql-reCdYkfy5fa2TQBt6wwS5xtWUJkcu0iZ9IJXjoj5bql0bdQQFwhkk/play
-WE TV,http://iptv.852851.xyz/l/omGpmNXupBY5gMxv3RO9SCsNmMYhRDz74K2AbFa8Nut19DjyULQWdJ3moNApwWdw/play
-WFUT UniMás Nueva York,http://iptv.852851.xyz/l/H-NJFhms4NZ4QKf_PWA2uIV9TMgkj1-gQcstlQ1zhIORRg7RvG2amt19UqZFElaA/play
-KFTR UniMás Los Ángeles,http://iptv.852851.xyz/l/TZO-qKqx4uXtjL8T6OxIWn0EcMJ9rQzU6XP4Td0zEN03u8Pp1MVpHJeF1sKxN8cp/play
-AccuWeather,http://iptv.852851.xyz/l/Z5Fl7UQSiGRFvq0RakL7_yeHYi9yNtIhDdH1b6u7vibowZAUDTmReYmRlE0XhUOk/play
-ASPiRE,http://iptv.852851.xyz/l/shdb17ze5Szu_XPDdbEpn67WSvZnZepxCrBEQjbhmZ0_JVv7rEeZi8-Fn2Lo6Ghp/play
-BounceTV,http://iptv.852851.xyz/l/eL_7VlM--2vUnyN8_l8pEIrRYLkoTF1nN1Q1PgAFojLD-T1fxhwIBF_UgKV1clls/play
-Circle Country,http://iptv.852851.xyz/l/8W_aNufUSLVL2_LlJE93_Mjinm4Ut8E2ulv3wjVAqOqwPieWpQ5dpthQOI6cBowJ/play
-Comedy.TV,http://iptv.852851.xyz/l/1TCh0yuuIAErwGrAZC_I68bqEnYBF8n1k29J0ImLeXqX70MhK0iusEA3HbpNiJKX/play
-FOX Soul,http://iptv.852851.xyz/l/b7jA56Iy4k87tzP6YbKJE1PPUOOnY3kak0J9vGu5PJ_irRhosCqZ0BYftYuYQNB8/play
-FOX Weather,http://iptv.852851.xyz/l/zExxvShzuLjdopBH5XZvp4afNhYzMhKyRfp2lb7AoMnjsTFFHTbbSlOygBjlbCdf/play
-Free Speech TV,http://iptv.852851.xyz/l/WJE8r6AWpNymoDPbgDxk2eF1-E-5Iwm5HHgDOIU4tvs_5DoELBMUm9JmNnl5a2X3/play
-GREAT,http://iptv.852851.xyz/l/_ztfNmlCR3FlwucctIajZaE-wC9uiPjS2Z9DoloXNW53kleZgs10ZII7k0-x14iU/play
-HSN,http://iptv.852851.xyz/l/0KyF6KrlWMbWiJ_Q9kkWOzzRE8N2WBNqS4EpJU_ZhH5K7iX8ST1CdnLmd647Il11/play
-Laff,http://iptv.852851.xyz/l/IpSEXH_NUY_5gtSiMUCx_RHgWEleMmnPe7AeJJZJ7DY1lgeC_Yavcrkty0ZomPzR/play
-Nosey,http://iptv.852851.xyz/l/-YYLFwac4c0Ff07T8ybLueaAyzOMV-jGkIGoq-_vFlS7RyVpBAj5LXimJSAfwm5F/play
-QVC,http://iptv.852851.xyz/l/rMIg9wl1gKbQe4mbsOGV_Ywy5rHXy5PHBcMCtmQeSoaORNCIpSxru7FscjTuVQab/play
-Revolt,http://iptv.852851.xyz/l/6fTVQNNyyidchNbuI8BFO0abYquGPJtLE21QBxOmjaRcxDKgZz093J7IIEs0TGos/play
-RFD TV,http://iptv.852851.xyz/l/dtqY0k09HeCjHUhPjM6MTbTofr7H1_8aZB2RSxPA-4GFLAKakEA85kw-dqHW40lP/play
-The Africa Channel,http://iptv.852851.xyz/l/kZX2SEuOsrhzUxxTlH3Jg2NYj-gk8drDVpf7Q5a9bsJrOnnlnQ4uEgj6ojTLdyWi/play
-The Grio,http://iptv.852851.xyz/l/WbP8PkAVTdINUsf61Drz9mQDsNikNRNmhHwlZz2GhfKJAgOAipKOavd841pbnQ9H/play
-Universo,http://iptv.852851.xyz/l/oO7--GA9XQ0tO8jUlTiqCzKKdr0_x6jNzMKDoLaFzJ9KVD3Fy8kvQRk_GTbOewUE/play
-UPtv,http://iptv.852851.xyz/l/BJLGY3aXj__oqKBgWSfQz0KhMHG6tHLXHV2ldJRJPB0BA0oFZM93-8KO3Pqb8T1Z/play
-WEST TV,http://iptv.852851.xyz/l/9r-k6xC0ZQZHdopXXRsUqmcOtHaj9E3Ag1FvXaCBJFtfl9-ziZZWPILTyUiGNEYr/play
-🔥 精选频道,#genre#
-Hollywood Suite 2010s+ CA,http://iptv.852851.xyz/l/UDoh4oP-y1R-QCOB7jdq5j0NOV5oLdYLE2iLg3evsIOhwy5hmeBxkJ4GZr0lRxz8/play
-Hollywood Suite 2000s CA,http://iptv.852851.xyz/l/ybrecA0j83o1BwmxjOIn6u6o2ywlfYY9oeKpiGY2tIxn2W9w5chou7F-t6yN8ON6/play
-Hollywood Suite 80s and 90s CA,http://iptv.852851.xyz/l/dLDhGYfOBSUqN584rll1hGlK5Q0Tg_7hp0bRDZbBgvOKJCleY7xSC7UyGp_U0Ahy/play
-Hollywood Suite 70s+ CA,http://iptv.852851.xyz/l/r_fGSa8ULf2KjOt6Nks8m8z_V0z-HQFDRva14YTr93iDpaFGIi0gJ6TYaDIJ32xy/play
-Starz Encore Español,http://iptv.852851.xyz/l/aXdQ1OkhAk6SQWzTHiR0HUUVgDJIHhPyvfbnnhl8mFaH1XFuPbzyBmXphc_s-8mD/play
-Ciné+ Classic FR,http://iptv.852851.xyz/l/AqNVYrLKjrqDWQt6X9SN0uvRMULpHBGhnpfVLR9OHBN25_KS1fiOjZPT-4dNzujt/play
-Ciné+ Festival FR,http://iptv.852851.xyz/l/37HVf9m0DxGfRTi5-WSOEgTATqmmcsPfpZop4QUDQnMd4qZe5q2mZSKl8nI8JShc/play
-Ciné+ Family FR,http://iptv.852851.xyz/l/XUt6Zil91yK-60XxmHBGs3NzXu1aqGpt5sDlD4-Wo1wxe7jEoIe2nDY7aX1xxItN/play
-Ciné+ Emotion FR,http://iptv.852851.xyz/l/tR_liGCh8idJBqkrIdYz5zg_tq23hyygIz087gyj-6F1xPQWGkwYp05CW6Yx6ju_/play
-Ciné+ Frisson FR,http://iptv.852851.xyz/l/xe71rx4OWKEfyb_f-kXLRTAamJ7T72cO37kb01Aop4JHogsgjengg47Um8iEQAwj/play
-Ciné+ OCS FR,http://iptv.852851.xyz/l/gaTmqqNr8rRV9AEJdU3PkqzAVNzpGjIcI3xargrKFxpkv9eFJYUKjg5o_J4O1aJt/play
-Crave 4 CA,http://iptv.852851.xyz/l/7zXk5NBG8AMsDFM-kSWSj256r8Vod6IpdwTGTNv9fWkUmsWp3w1h8eZ9k-yi8r__/play
-Crave 3 CA,http://iptv.852851.xyz/l/U_E2YmzSY9UVK_FDDIoLUzed0YZUEmYZYMhlAXheZSlS3PgeJRLQILyZufGbtFtt/play
-Crave 2 CA,http://iptv.852851.xyz/l/mSO-4kx-1tdUkjCeGJcpFcYhCCMfnwmk-axD4BWH3OK2AZHNXOvqp4ffhgwFrjeE/play
-Crave 1 CA,http://iptv.852851.xyz/l/HZ29mCEImd0T8ph337Pk8zoD5Zh5ZfHxmP7JnZMajC7ETOk42ttaWzCpbKomFv_i/play
-Flix,http://iptv.852851.xyz/l/iERzbVYzF6C7bgvOdTz-dJS5t3ixpDUmKAmWp9eYTcirPbfMUeTMwunWllIZzkBT/play
-The Movie Channel,http://iptv.852851.xyz/l/-vs4Jn05b173sBO-6S7-VK6eHwJQ-Ku-mUM8SfsyIHQlalZiCOmrabvEYGEXdY38/play
-TCM,http://iptv.852851.xyz/l/S_r_kW07i2ykA-z0cw3rHG9Vq35mQk_e9odrcvXR8tia4yuf6bew0IS61Zw659kO/play
-RetroPlex,http://iptv.852851.xyz/l/G-1LbgPsTmvTnUiKf6NPwpyi-siwdmcSd_yc3TMt22Q8iE0rkIjAzuctyPVrdyI-/play
-IndiePlex,http://iptv.852851.xyz/l/l8E3zcuO0hyLsRlbZmEsFAo2LqR6wNeOO7r2_FzDVcsONII4p970pRWIRMkz6NVV/play
-MoviePlex,http://iptv.852851.xyz/l/hKycXVNzsroW383YSuYJp6wbjneMfYQSvRTt-g6OMlzyMVwWTtNUvuOJRVxB6DJb/play
-ScreenPix Westerns,http://iptv.852851.xyz/l/WS34dy4EuwfFEy2Bw0Pt3v6VKwZ-7ZOYp2i_8nIzJHMpIbi8ZkGRiyriBayKjVay/play
-ScreenPix Voices,http://iptv.852851.xyz/l/ssFb40a-lll61T-Xvnxcy-CWn_n3V4dDLNXaVXzgsbuk-oUX3l-vgdVyc6qsSBb7/play
-ScreenPix Action,http://iptv.852851.xyz/l/6Q6T3ecXzRaFkmyPUpf3Um24YOYxErF5EO_8x3g_z4br1eisxo5GeHzJbp79hypv/play
-ScreenPix,http://iptv.852851.xyz/l/0du7hNLhbjeEZ66RnLbwQJesOing8co6OsaWCmdblnqAhopBexb46Gz1vzDMtnzZ/play
-MGM+ Drive-In,http://iptv.852851.xyz/l/zUmgfXW0FO9yIak5RIkME7qpkIBSOWd1jjR2TmZIrBB7Yuu4dfN-J5FfF6VjkFU0/play
-MGM+ Marquee,http://iptv.852851.xyz/l/k5Uq4w6-r1qYdc5lKZpkw9wVgFUCzw5hlTbyoeI2KL1tv-HFDfXnKns08qrCoI00/play
-MGM+ Hits,http://iptv.852851.xyz/l/1Lc73-yZIW4Q5JSmgImotrDDpB07JVRThdUPSJDxAFpcu1TNOEeGoo4YsUUFlZZ2/play
-MGM+,http://iptv.852851.xyz/l/QuFgxSUUcAFdp3mPUI-nsVzvh4k-dI9C5cO710pSpugWJHrVEDboBVka0PQI5_Xw/play
-Cinemáx,http://iptv.852851.xyz/l/hfNYz3pApEIdiCmyahgJVXQILztEr4NYIry3Pt723xUv2loPjK8ruZeIaoInGnKt/play
-Cinemax Classics,http://iptv.852851.xyz/l/jWEtjZ7mMuJPXuOsNeCk-uO_yM1xWdQZKtpC8Os4lIp7BKw1kGMt_K0IjMScKPQj/play
-Cinemax Action,http://iptv.852851.xyz/l/wX3ipHnVDFTjlIuNbelAu_IBZzu3sWHHhBxifsT1-yYNaTwbvIlAauWYbUuGr7q5/play
-Cinemax Hits,http://iptv.852851.xyz/l/yjQ29lyV-6Fzf1wgCtLU6Tp9OF4DIZY0oB3G6wJnqbeBEXPN-061OXN0efV9hqKe/play
-Cinemax,http://iptv.852851.xyz/l/896NGyArinEaNsrngaqv4Ikkx0oYSmKyC7MkDYJovku6hznL8vhve4UqhiqKxZyL/play
-Starz Encore Westerns,http://iptv.852851.xyz/l/m1Zslrdsmwut4G6HC1exISHoLNmPao89mifWv1aoneQJpptBG6sk4P6YqUgD2d5c/play
-Starz Encore Suspense,http://iptv.852851.xyz/l/YnPLWvzLRw_Sf-zRGBaHqw9a702gVsbFlwu6LolWvB_DZ9Kzf6FkBCvAM3XEgMe5/play
-Starz Encore Family,http://iptv.852851.xyz/l/v8_YChSSPscFmYSHBpvBIeofGiby_b5kWxG-Vem4N4fZ0-vD78PUxaDODu31PI2Q/play
-Starz Encore Black,http://iptv.852851.xyz/l/pJVwPYnODv5oBsmO4O0J0a8BXNis7LqVlUuotoXnjzTNBbMJsumxblbLdaXiCews/play
-Starz Encore Classic,http://iptv.852851.xyz/l/4ytnEPueVIid7tPfNJnoPGnoruWj2p-J0zeym5q0RGiSVs9EA1GGlZt4IqSP51jS/play
-Starz Encore Action,http://iptv.852851.xyz/l/e51iDYOwwjJM-WgkLmj-sbiQrejoHeW8Ea0zo5Y3XnbL_zY2cwoi0Xo_CPJDxaxw/play
-Starz Encore,http://iptv.852851.xyz/l/qKaeIRodmujDL-R0GIJjP6VYXaOpVgt8HoLFglEhLWu6MJPBCHzSIIR6-LSXqDtO/play
-Starz Kids & Family,http://iptv.852851.xyz/l/gfvsbVAmKuEFGRK0EPr51NGOC2ztriX5vK011BIJjwSA6cRtty0q9Le8zHaVmDaZ/play
-Starz Cinema,http://iptv.852851.xyz/l/pU4_IiVSZnAoZEabfSvmS87QhblRN633n6utlVF9NTPkNLyafVP5aN_K-dkWA8uN/play
-Starz Comedy,http://iptv.852851.xyz/l/RFqO_Ig9lxjBG1rEy5jRlcw8IQ7wyW_5WiWzNXcw0xMeEVec4A-hJXIky3gpjUHH/play
-Starz in Black,http://iptv.852851.xyz/l/j_Yc4Y_hlM-Ckb0iSiM7oHXGPkSNXQMFYABFSsI9tn3tkd5pvPIUxF-BXyeM8a4d/play
-Starz Edge,http://iptv.852851.xyz/l/C1naaQG1ccLMOkD1O1zwHUqFUFIvjkcpVEYDYM88A2mo1In13SgCyeAa-iTXtlSC/play
-Starz,http://iptv.852851.xyz/l/wonQ8Hm5UZPdiWGbInZWzYCD4der7_LN7_V1lC95zJfYbAIIINxPJtpby-mMFzy1/play
-Showtime Showcase,http://iptv.852851.xyz/l/ssicfBrONDAXt7Td-Ozpjfw2FhpGVQUHBQ2LNWrepA8BLACDxasnoppKaDzWuHYw/play
-Showtime Family Zone,http://iptv.852851.xyz/l/30LSGvNtuGfUnSCHJJABZE557wiu9zbMq-1W4hXP6kgQmZntRz0C3KMFPTbiXxqk/play
-Showtime Women,http://iptv.852851.xyz/l/uT2M6jlxMOazF9x1UkRd0Nq5TGpiL2oWS37_mUZZ_Ym3XTvSYZ-J6aLMOuEip9hJ/play
-SHOxBET,http://iptv.852851.xyz/l/1VkwCnUPy9CzHADt1VskgE3zb1fxu8WPq_ir0yzjgT1LNo_jz0IhtvrHdnY2NkpN/play
-Showtime Next,http://iptv.852851.xyz/l/ZVXf9Rc1Gzo_Ay2tve47lk9OmJnFGAXWxaSXZTLC58a165l8P-xqf32PMBjhnfw5/play
-Showtime Extreme,http://iptv.852851.xyz/l/jkoAiIGJ7-hrV3DZ_RXpiNuxEl170p2Uh7sp8Z21DMHr9JZIPyzTpz_bVgXMGqPg/play
-Showtime 2,http://iptv.852851.xyz/l/rFNFcu_dR6kUgfHP_rbung6tl_qCutClHDvg5mCbSRt0-FclsHFZCvuGHfGG61TI/play
-Paramount+ with Showtime,http://iptv.852851.xyz/l/7GVtk4hBmDbToZV3LLAPooWY3tRBRjIxTYlSAx_hrS16sTSabuHSMzKYk6DD0pk4/play
-HBO Movies,http://iptv.852851.xyz/l/5ivwOpOFw3D6n9uFlMWP_dYF_62y1C6aCorc3jTprCqtXXooY50j2o0XbJUox3KM/play
-HBO Comedy,http://iptv.852851.xyz/l/lkAKvdzDuVHZTIDUD4GY2V0HzysnxR5szaDmNwySbIoeZ0p_aP2TasgwQAiKJskT/play
-HBO Drama,http://iptv.852851.xyz/l/j_vvW8EYgS_sm6E9Xd2sEsgodip2BaUaMfMb9UQn3El2qfIUQA9p5n7aFBfusuID/play
-HBO Hits,http://iptv.852851.xyz/l/QlAtbLLA_J3duy6CbF7ZVs7HdS923RsP8Ul3_M3-VOCq0UmoyvDabg3539lTOQNR/play
-HBO Latino,http://iptv.852851.xyz/l/56UqQgDkk05UCE83fnUQT7Q23sL8G8nnSX-MmfcIqaf3Ra-2khCYCoMRRDITkF63/play
-HBO,http://iptv.852851.xyz/l/U0hQgZVIaweysVv9M4XzUXFnjjIS2knqpwny7U7hhpkF830RmlZMq9wcxUtXmW1z/play
-The Movie Channel Xtra,http://iptv.852851.xyz/l/G7wZH0Y67h5Dj0f8wQZoryrAEpZjqsAPcXMgccgoEXntC2sDrgzJrfkVgCwZbsYh/play
-Canal+ Cinéma(s) FR,http://iptv.852851.xyz/l/iFNsLNvGavgkKYhiBWJDnWuj5TFirxJhwubyjKNuR_BZs8zmtCoHIWpqUfzhQDYg/play
-Canal+ Grand Écran FR,http://iptv.852851.xyz/l/esAaZVb_hkdbKG5e3LmODIEcTc7LfbutUqPIxRlrYtvsjzi3Qln1NSv_6bNdI3l9/play
-Sky Cinema Premiere DE,http://iptv.852851.xyz/l/0HuRkM4ZfAQ6nXTXFiOQp25w6GhrNIQocPDOkIXsW1SPwUbDtk8SEneZw7xTF4QD/play
-Sky Cinema Blockbuster DE,http://iptv.852851.xyz/l/FCjc0KlQZyjfl3Oi_v1qB_TveEtt60nfv7lYgFp8mq-xjp3uj57eSn8VvwUynQIr/play
-Sky Cinema Feelgood DE,http://iptv.852851.xyz/l/tB6067BMzlny7itkqIbBt_zLn_4JKsjvUDAjuhgqhESpTFavnOoJbWtrFtWZIfw3/play
-Sky Cinema Action DE,http://iptv.852851.xyz/l/yc_KwM8Vo6ziWjo42taUwWVIJX3Czc1KVIMF3oCMOMIgsH8D80h2i60L-2oiihbT/play
-Sky Cinema Classics DE,http://iptv.852851.xyz/l/WY3kiJrJDO8GzWcH0vnAAMhmajF8dkn03gXat6HhExVNbLTan77CwrEht4-8U4d7/play
-Sky Cinema Uno IT,http://iptv.852851.xyz/l/5vkexzECNh6cCxWYQoMfrSfEtWW7VL_tCyd_bvhMfmRfOrR8-SgsQZVEFSDF0hI8/play
-Sky Cinema Stories IT,http://iptv.852851.xyz/l/5Tp6WIefbZABBg5ZEJvL-z39oo-xKQqqayFJc9yHH4vTPd5d4hg6FFiA5CXohca3/play
-Sky Cinema Collection IT,http://iptv.852851.xyz/l/P_GzgiL7GvE6pJuEXqFv8f1PNJ7m15X69wAqZ4kUdOojjGFnY3ABfdGdNOStBIMO/play
-Sky Cinema Family IT,http://iptv.852851.xyz/l/9PRysAFLybDbMzix0SOGVIm4vHW_b3yqFgKrJGl-HhyU1FX7WwjBprQzPb27NKFa/play
-Sky Cinema Action IT,http://iptv.852851.xyz/l/lDC1dH8YhaMRCRnRggMALeXAPTdetij-LAi_A5tzoT5O1csN9wn9zkwI6SeNTTPt/play
-Sky Cinema Suspense IT,http://iptv.852851.xyz/l/nEQz94JD8NBYxYC9HmwWBKrRxGCAigfiy_6xUqluivvllUC_4x5eVVRdZ-jgDFBn/play
-Sky Cinema Comedy IT,http://iptv.852851.xyz/l/FaY9fPmu33-rjKfUm3PWIr4kDyCnTmnxSdlr2BqaX-Gz43CwqagrOaMZTpG9WWjI/play
-Sky Cinema Romance IT,http://iptv.852851.xyz/l/ZpH3bP0aJyajFE5KeqCfx9B3_M7bY5JyXZOV_OscA7TtVEGcBq_USziuG-KPx-7r/play
-Sky Cinema Drama IT,http://iptv.852851.xyz/l/H5KErtJ832SVf7hKB8M6cYoNvH3kJI1blT8Dc0FTBiigkxeBKR5riHtlvAyKrjmK/play
-Catchy Comedy,http://iptv.852851.xyz/l/GF9xAQOnQ4Gvth41_0Md09S-Qduw-jJ-t3oqRcVlu72buXW7rLAVxXZRZVrzsSYX/play
-Charge!,http://iptv.852851.xyz/l/_U_BPAyJm-XXqSER0a3LsWWGCRLLKqJgjWvexBtEcvjj0IKbVkMU83G0_0czmsc-/play
-Comet,http://iptv.852851.xyz/l/AMnQ2Li8S6Euvr6Wi6rf_WOlzMNF1H-W5f6A_y9NvLvoh0QE_OuwTB_jz0PKAHZ9/play
-Family Movie Classics,http://iptv.852851.xyz/l/qmuYlLTpq__Gs4_m_yE_WffTaMKSx1ff8-3TeSvWpFyvksC8XneZssNQYELxtyW6/play
-Fetv,http://iptv.852851.xyz/l/5OYF-P8QyFBHZf11fzX8PNTKxsZQsZdFCwYKr4KTjIfJX3VkMfuqMJ9EVWW4rcjt/play
-FX Movie Channel,http://iptv.852851.xyz/l/U-Gw5SZVItZaIhuPHM8B6zCp6uu-ItHMDz82KuSMs93TkKUxFo9c3lZqI8VWwE8h/play
-Great American Faith & Living,http://iptv.852851.xyz/l/DE7VxSjZMaPSfH9eyn55FwFXAMZXkxIAF9O6sLJ_533G_CWXICr4mMI7u-XiUGwP/play
-Great American Family,http://iptv.852851.xyz/l/XBwHNPWdFX6gLhDbnNucBE8Grkg5BLTLak5UJxi7DejLVMw2p_F_rODE2TBOqQpr/play
-Heroes & Icons,http://iptv.852851.xyz/l/CSxMZavCz9iUSo24Jv2oY7obo38vBorlOxiydlLY7N-AYTmBoBnR9O7XbC_GJmMp/play
-ION Television,http://iptv.852851.xyz/l/aNHenHqdsjvJELgSSHF5Me_BK2j8RJ1GNm1eIikZjH4z3AFjGBs8ppK_9lfcsRK9/play
-LMN,http://iptv.852851.xyz/l/FCmX-CxAdM_HBJWSKMMD_2ZK-eWC4YxMRY5Yn0hFY_q08eYHdEHvwPmL8x7XJLRE/play
-Movies!,http://iptv.852851.xyz/l/MUgqf0Wp2ph5Yri6zNplVUQqz_X5wVqQ329jZpdkY6FoBijuChj6GcyC0zz9-iAK/play
-MovieSphere Gold,http://iptv.852851.xyz/l/ZsRwjhE9j8bZJYuSakcqRZkq9sYlsubu0lmV3VkzvW7N7t6Whh5UfLlsNEcftpmH/play
-PixL,http://iptv.852851.xyz/l/CRVY0rviURz228sHthage7vJ_Ba8T8Xcnn9OpoAH3R5JwTiJOLt451pbDSK_XdcK/play
-Start TV,http://iptv.852851.xyz/l/47D3AZfASdGteLYKn_A2_EIUgrr0lTyCHBNrPvsLrIJWTstGSqDW2LaynPxmzqP4/play
-Silver Screen Classics CA,http://iptv.852851.xyz/l/_X_oK2lDOfZglA24W8Db1mV0vdsnQjNIY4yeGkS-r2YETXtilH-dAxQTZPG6CJaB/play
-Classic Cinema,http://iptv.852851.xyz/l/NsnHrBWdXyPoxtafdfdJ-1zCObWIBWkNXYX6LrBt-4KQfmbS04Fn_59mN6RzYdxb/play
-Great American RomComs,http://iptv.852851.xyz/l/hTayOlwsr8y84UxUMy368TdaWjpar6TSxFWuUqt3DJSKMtDb5xafVIhn5wdJ2dBo/play
-Lone Star,http://iptv.852851.xyz/l/2QeweuGdzcJr-rC5U9I-aBjnQMNywDxV-odVlitt8xF7GoshBQUCALorszUoS_l4/play
-Shout! TV,http://iptv.852851.xyz/l/dq8g55uG-474jcEpuNoKZ0ogmIrANsffskyDIBb1oNu4latQunlmynuiT4KRqOw4/play
-Shout! Movies,http://iptv.852851.xyz/l/-gocDoLeYBywt91QWxQCTEdrMmlDWpRFln6sbEThjvpVRlzgnLpMhc_AYI9iE7rE/play
-TV Land Drama,http://iptv.852851.xyz/l/tUU7PiEs2-8CA10nX-y6QRBw9v5Y2EyC0e67Zodzlr2VVEfEFa9bIdLQapXGttRM/play
-TV Land Sitcoms,http://iptv.852851.xyz/l/iBW0QDMLQEeuz5Cku4Q9iw3nU66A6LYDFSl7XjCHuMvGPx-f6PQLoWgLUKwGOYjh/play
-CTV Movies,http://iptv.852851.xyz/l/v9xh_sCZVDXT9FKGShstjreE2JoUISwq9D_YF9UMONhMYhGyuM0xKWzIZgtiH9fO/play
-🔴 新闻直播,#genre#
-CGTN CN,http://iptv.852851.xyz/l/G392CnT30wmJAGm6bwmfJdZkjJ0-wZ-Guh44HX8YpCIRLmFoYmY8a32UtUk84fvu/play
-CNA SG,http://iptv.852851.xyz/l/v04-Gmtvz2d0sD0g1dtvNSxnSFEXZI8KwFR8c9-Y0AYc4cR0X_EwY1B6Eqt1Imze/play
-RT RU,http://iptv.852851.xyz/l/iIPQHbHR4Zy-Rrj-d9iGCMKH1NKRMCZDaCWgZl0ghzW9vcC7syUZk5g53e0u2RdG/play
-TRT World TR,http://iptv.852851.xyz/l/pYshK-lS6tYm5Y9psvPB_1yk9hkLL11npSXQ3NqkdZUzuZYp40e57V2t1Slkp9z4/play
-CTV News Channel CA,http://iptv.852851.xyz/l/ZY4mfPEDB6umAJp27xKQZTuYPlbT8iOay-jJ3Xqm3NPHCNrEdpnRScBXiHck_I_S/play
-CBC News Network CA,http://iptv.852851.xyz/l/XGFNOk-7Po4ovN3vjBxWfGSCeLRQtoxRcVTurz2RwxChFPmJAXTLv3hRdKrbgUvG/play
-Sky News International,http://iptv.852851.xyz/l/ru0Z-xUNt4YoCXJXz5tOa9p2yji-zUOQPP894j5xqzKZX0IsQ8lQWN7acTrh18D4/play
-Euronews FR,http://iptv.852851.xyz/l/osi9Rz1qCgUcUxLD7kjeAUNWXnYm36aAj79C-QWUd0OiAZFFcXyotNAssU1ih6N8/play
-BBC News International,http://iptv.852851.xyz/l/qwlx5iOU99bZ2VZEDSNVBm_O60kore8xtwt6t50XYaJAESIHr7XatmI9FITN9sgC/play
-BBC News UK,http://iptv.852851.xyz/l/O-Q9lQ3njnalnlxDsARG1brO1RFI2d5zZwJBNEtM38c2Y_GJNEl9Qd-LlzKWp1TU/play
-Yahoo Finance,http://iptv.852851.xyz/l/qGyAKCOceD-y-sBPr0SZ84pe4HspCXSwwN96JkcLYbOI-PEF2jDgX1og1EEilg_F/play
-Fox Business,http://iptv.852851.xyz/l/tBjtOU3e0QJLl0OH5z5vA9mbqVgezXjqfuoW3asdznaUkMhGIzpdKb3jfnWzLH6c/play
-CNBC,http://iptv.852851.xyz/l/HaMUuzRmMhDxObpmC4HAW19VNY3Btz1AW5EV9UGmQG2r8zWmL7lzb6mINI7utPJX/play
-NewsNation,http://iptv.852851.xyz/l/XbN4klBRL4Dvcu1z3yB-cZZSNEDXl0jb8cXdp1uij0NL5ywEe_g05gsCnTekAfSe/play
-Reuters,http://iptv.852851.xyz/l/I5m2hyPwRBbKpgUXTeOkCEA7__gBVFqXBLcvnTLCYkfbas_a3JlWy91NJP3ywXkX/play
-NEWSMAX,http://iptv.852851.xyz/l/Igz3hEV2cOxe2Lk13z0wMB_-g43_R88xk3C0mTU7J0t4UUYfz7EVHyg8lSzXY-cu/play
-LiveNOW from FOX,http://iptv.852851.xyz/l/bkbNZ31yRu4BQ7BcksWr4TF7Us95_F7w87mR58Airm3FZmRGcnleURChZDqtgZ2_/play
-ABC News Live,http://iptv.852851.xyz/l/hZxNf9iyFkJVc0xUVbRdR_y_T-o7JoQ8q9Zaqe-9cPKMJf_s60F4QVmUTb9eM-pb/play
-CBS News 24/7,http://iptv.852851.xyz/l/Rw-JHt672-i0MOuCxVwAiQrSwD9oPgk-2-GrMXyk2w3QF7KC7ldbxftxyBEUSWAj/play
-NBC News NOW,http://iptv.852851.xyz/l/JpqilXfeCfOBaT_BlrmckwmxTNCzmVgjLZLk6KymYzcPBLMDuie2PpWy3Ehs6a7l/play
-MS NOW,http://iptv.852851.xyz/l/hwH7lYbppTifcyMdjCvi2DJF5glJ3b3dIZU60Wd59RIMDWP8cmQDaMMHFycuGF9Q/play
-CNN International,http://iptv.852851.xyz/l/HnI5aji46NHpQRsYzTo2UYDg6ky7h92zfpBsOi1w-riEa5MGUZO1XbCBDevewfN1/play
-CNN,http://iptv.852851.xyz/l/wsRV3hepRY1eWeNVkcUgomtfmoRjQcMWhtkuLl8v-gwRrPIYXxfFLeA5pIuLpSoN/play
-Fox News Channel,http://iptv.852851.xyz/l/mJA9ozxZYJCDtysvnpVzygQ1sskmtsnnkEb0kA7Z02RISNXYld9bA4Hdt8b3-njj/play
-GB News UK,http://iptv.852851.xyz/l/U8UWfbQ4IzOX6t3QTGEJT1vzxkrhz5BRNuiehlzwvbzdRCl9We6VjtpVYB0F2ASS/play
-France 24 FR,http://iptv.852851.xyz/l/mxDlv7zbNrojnnqGDILThfLxkUjsh-EAH_VgeAvO3X3t6pvpcVbHma7kJdFAO4j5/play
-DW DE,http://iptv.852851.xyz/l/Gmw5KNBgV7vl_Uj15-1H1K4Wlyk70oHvLgiLDxaTERTQ1UeJLlW_Ahc8wreTQ16X/play
-Bloomberg TV 4K,http://iptv.852851.xyz/l/fgJX0LAO_lKFI2rxnUEV9ywfkH8x-EZDtSsaZknsgnB8TC4E4iVc-NGFdaaT9ZD0/play
-USA Today,http://iptv.852851.xyz/l/ORCDKIHlMgyhB7BWX94WlTKhc6ZKBwUVrw5MdVVnnhUl3J_pK4cokrJB1AC6D0NT/play
-ABC News AU,http://iptv.852851.xyz/l/RdFHtYNicZHuw6sGmRnhpR0-RfoCPcpv1FnTSdf1vUDrY4WGB1oywCZQPDh6oovE/play
-Al Jazeera QA,http://iptv.852851.xyz/l/Z7Wa7yeTidkVsQGKz6gzv0p-q0Pd9UBpkJiEhW_aw1Bl66A0ybSOsfWv7vIqoGrS/play
-NDTV 24x7 IN,http://iptv.852851.xyz/l/f00FrOfAsM5TWXfU8jW3RcK3uUvX4oRYU0WXnYX1H-PMa6AwpsQ5xtjb8vLo0Tlt/play
-CCTV13 CN,http://iptv.852851.xyz/l/z9De0VZiWllM0QMcCrR-NPTqzA5B6nI6pfkjJCecR_S_extLnLyz_6j2pojgX2WP/play
-🇨🇦 加拿大频道,#genre#
-Slice CA,http://iptv.852851.xyz/l/0W5ptSRnxe-6zB1EasJX0EZp_7SNcduhW4sJW-7NzHwN4Q4rcrWwhfFS7nAw2UMM/play
-OUTtv CA,http://iptv.852851.xyz/l/vBf3toQm3wrgnCP1XSG1cOHvjoy_hB6CYXIoHypNrnYZyg1ZjPNEOvlOysp0KvG8/play
-MUCH CA,http://iptv.852851.xyz/l/HiToQ5a1NZH3v7x-w6W807FxOxOYAxa8oVWRLMSyRanVqA69KRhC3FbI470NRbx_/play
-CityNews Vancouver CA,http://iptv.852851.xyz/l/gzN-YCkzqQEYgqz8JZfxk05-s9aq5N516NOpjvRMPTP8Vi3dB62_11PlksOruHcC/play
-CityNews Toronto CA,http://iptv.852851.xyz/l/Ut6QEC1KoYmn0lx6pCWBj7rMDqcouKe5OOUp3a3Kpl9gN1Uz8-RQpFlDsnjy-Bb2/play
-CHCH CA,http://iptv.852851.xyz/l/Qu2oob5VaF0hHPQ7G0o13-wHDbeKSS_4A6UpXVyQRliZH4KR_jZZajMIjZZAA_-Y/play
-BNN Bloomberg CA,http://iptv.852851.xyz/l/m9i7FqC8gumGoH7QZMV0LP71VLDqBfrNEkOEsO6nky94bL92nN2rYf8texb2haJt/play
-APTN CA,http://iptv.852851.xyz/l/xCCqJ94FOSCVSTnadHfmH1TK5xO4Cl_mQRX6V5wXAWLmkYWNTNgr4OIqmu4OxAR_/play
-AMI CA,http://iptv.852851.xyz/l/aYx0Hf4g5DqFWr69Ydv5quL3-BXNQweR8HMg5zNw1nBEIQ85MqvdV0AV0-H2Sgo4/play
-OMNI2 CA,http://iptv.852851.xyz/l/6pw6HlvsQUpJqUoPXbtpqfIMAix6ZHaU1OHRf9RewkqIWLAZS6-e17-90TSVjECH/play
-OMNI1 CA,http://iptv.852851.xyz/l/XYNbINvrDiPB_LM6xwgQYfCMzEhrBYXB0iPheQCdPpjODsGBG2IrfYO-a7tYwDHW/play
-CP24 CA,http://iptv.852851.xyz/l/p9mzcAQO5Du_KvYJKwUec1XhmmAeRhMUNI5EmrQuSgOZyd27Zc_bEgXNlyTslEQv/play
-W Network CA,http://iptv.852851.xyz/l/h9ErshwVcaogLDeFDmJVBRTcOMeSzCDJgeA_lcGnSSdOPAbWTfev2ln_kz_biHCb/play
-TVO CA,http://iptv.852851.xyz/l/6sgdDW4KTCFqk76Pt7kMUHLl9fvPYeNDk8JhkKLlmp-sIH7Mo1JAxmtcc6x9zUoe/play
-Makeful TV CA,http://iptv.852851.xyz/l/J9OFQJLNeMSkym7FQWcElneIZx5h7_ExeYpCM0k706ut8vL0wbbdfF1y385VV14P/play
-Showcase CA,http://iptv.852851.xyz/l/wr5KXXx6b9BB4uErRToDnjR-nHrhjdjtWIHIi3J7tJKFftj7n6HcRFIAUF40_P32/play
-MovieTime CA,http://iptv.852851.xyz/l/BQFQlnsiCSXLal9sIzL77-zJ8cy38VHbsuE6re86eusQkcSRwfm2fKtIRVL93Pk_/play
-Citytv Toronto CA,http://iptv.852851.xyz/l/h5Y_2ZLSIJTNrHLkIMX0atRn3vtVNNg9S0LC458Jx5AAUdiCWSWpWOX4z-aN89js/play
-CBC Vancouver CA,http://iptv.852851.xyz/l/NXAAfg3QUSdGwnAwOr857llxYIIQXepFxoiBjudsnmKVrnwOvq340eENxfwKbZRC/play
-CBC Toronto CA,http://iptv.852851.xyz/l/654NSsA7c4s1zjbK_VjSqBv13dQ6j0mPZaLSF0cACzyY9NU-mmtXyD039n1EXysT/play
-CTV Life Channel CA,http://iptv.852851.xyz/l/iqmCwUfVcGp23hxHeMvv3dTHqsNtWYlCi5ffWmW2wfnA6QoOXTeVUyRIdYfzp6bp/play
-CTV Sci-Fi Channel CA,http://iptv.852851.xyz/l/JsaCyy7owiUFn0ZhyhBztyaUzMsO9GN-ajnajbngugQ1vEpYgU-FnPDJQas-ReyC/play
-CTV Comedy Channel CA,http://iptv.852851.xyz/l/-GTRy6YEs8kqM2rVazANMMcUdGe9B1vpZ99z5bwEFLDKY1sqe6vnjVyS0l4t-2QS/play
-CTV Drama Channel CA,http://iptv.852851.xyz/l/6TkkoP7xzdG3TY1lOCRGjyLQdkGuR1R-rjDc0TH-TTjV8iv2UbWjPsBiC8MjZBsQ/play
-CTV Toronto CA,http://iptv.852851.xyz/l/Wd4a6AMDpeKSSiDjTDxbmV6xi1joMSbYU96_FtzCM4wQx0ERgRUcW2hE8Of_TsiF/play
-The Weather Network CA,http://iptv.852851.xyz/l/A3yuq9Wu97ANt6ckucXfKR94yzZH9ETuN4h2tnBhdK-4u8cKM2fvAiIof-vmmy2F/play
-CPAC CA,http://iptv.852851.xyz/l/pdXEvNtyzoaYTySLBRRBOfMMoY66tKchZZtYdmFCShkML0kfmWw7Nvbur9AMX_Qy/play
-CTV2 Barrie CA,http://iptv.852851.xyz/l/41nFtezoXI3gUlcQeAZxmsb8V9HyQIg7cMwcQCWlIp6OAfhqT5PcR96RaMBMfHuL/play
-🎵 音乐频道,#genre#
-Deluxe Summertime DE,http://iptv.852851.xyz/l/JODZHfoPh4MN5S8Y-0XgYqrVM3I3pbf4618Bw6vcBRfvphSD_jDVII9jUCJp-0yN/play
-Deluxe Lounge DE,http://iptv.852851.xyz/l/uZOUvQa7FIRZOIL_r6SSrxYNS8bhcHYsIL7YlB-GsDkgiJlJMvfiYmE9gJADOH6P/play
-Deluxe Deutschpop DE,http://iptv.852851.xyz/l/f6hDSS53LmN0kqj259Rtj_Sd5hZG7i_eLKzodEoig-UmjlHHcaeJ6_4J1X-7iIoQ/play
-Deluxe RAP DE,http://iptv.852851.xyz/l/c9HrjYhI3CtllV8RKzDL7ULCXNRwpZDyPCwgX49PybhdcuLdaLGmZUg1TTrDhFo3/play
-Deluxe Dance By Kontor DE,http://iptv.852851.xyz/l/Yp4wBy5rqs9tqPqJd7qIUcO2jz5fFfg3XEr8asIoAF1o7YXssOkn8lRmMrJ2FvRB/play
-Qello Concerts by Stingray,http://iptv.852851.xyz/l/xcxN-TcgD-j_O9nCv5s9uOKAvQdU6vQY0zzDoZqx6gT8gwb44_HWpSOnmWO6zYUW/play
-Stingray DJAZZ,http://iptv.852851.xyz/l/v5eBvRp2O-8OiC9jekIV7WRY9hHujLJcVABlfm4GiXv9qzpnPQtNPDb8fPu4InX-/play
-Stingray Classica,http://iptv.852851.xyz/l/4xgCP4YoEEA7QaSNugq4egqb5bZ2A8Pf8-wJ-u13dRLIMBHpwtHx08gSp4PnzA3h/play
-XITE Siempre Latino,http://iptv.852851.xyz/l/LFNlTZxq1Nugb7Nn9w_7XpsqC30FuhHmeVtswsS6iKKMwd6TXeq8_F_66S4zz_ju/play
-XITE Hits,http://iptv.852851.xyz/l/WYoLCbXyMTk2_DMIrPK7eSys6ux59NP8YYaXdW2IUlgmPsuOad19kM1qfM59lBZd/play
-XITE Just Chill,http://iptv.852851.xyz/l/r5fAicX_bYLfQTrlSQrQlDr0KeOGLuapI5om8Auhp1fhMDXd6ZTFG8-jaZ3CT9dG/play
-XITE Nuevo Latino,http://iptv.852851.xyz/l/W7lN5HGnIjyBmYHuyfQekkscICB1GMcCvoPi67KSg7aE3_7zuWINwInhvyRTfqlA/play
-XITE R&B Classic Jams,http://iptv.852851.xyz/l/9WLQ8WI_CSU8QRtyaQI47cxMGuRH9NhWWbqqje2-L8TXIVHuLl4nxtJaLJELYCG4/play
-XITE Reggae Vibes,http://iptv.852851.xyz/l/9Q6gCyRX8sqKZPzxQ34AryPX3Ze9s-cTIJqDUbkI-8LZvUFk7PHAwxwZs7KqxCfV/play
-XITE Rock x Metal,http://iptv.852851.xyz/l/3BkRi-lPodJKSa96I9pzJKZbVAbCGH2E-7nC6-1w0mFc1fdTsYmwp3gSpM6MTOw7/play
-XITE Country Today,http://iptv.852851.xyz/l/plLw33wVawpLFxjvWwMOuSgndCqqLg3Xkkc4i1alQvIRErKBrmRJPO5PBcvtksDe/play
-XITE Classic Country,http://iptv.852851.xyz/l/dYXTPYX-FOksiBiUxVRTayGk1bEXzReGL9LC61uCsivYA8vlmGiC4x7rDYWBEbjE/play
-XITE Christian Hits,http://iptv.852851.xyz/l/c0cTSRD_oK2RZtje4NnY50AcgyqrbW9LFoIOnivGQbVURDmAE5Mks7hJoixtfNO5/play
-XITE 90s Throwback,http://iptv.852851.xyz/l/vl9M5QjSuqECRwiifl0iOeousfXHE_hAC1or_NGeFU1bGgAunUYfgnlc93azFOso/play
-XITE 80s Flashback,http://iptv.852851.xyz/l/O5Lc319ySmxoOznfkGEd-Wl1BdC6zyYxcSyNdizr6a3J2hUmSqR6UP9S5ifIcZP3/play
-Vevo 2010s,http://iptv.852851.xyz/l/gqouRkRl0xvBqvBaHU-tuzJoblrTv4SK-CI2--jlwJtc6flL5BE8fbAOnx9UHH2g/play
-Vevo Rock,http://iptv.852851.xyz/l/HoZbqCR4VrhLHuPfZTPVFPgGqeWnyVq7JzmZSHj0eABb5eJFf5VZ-AYHPRqcagiw/play
-Vevo R&B,http://iptv.852851.xyz/l/2FRUF0_YaK7RuYJlfxM9cOoGi_WnUuy3k_DBMjhcGUxuTWhILgtQIIio2w3MLXaG/play
-Vevo Hip-Hop,http://iptv.852851.xyz/l/F1jcAouo1JqkUQX-CFt_RMx4qHHKN2ZifZuwu6z31o0ErJ8wpF3vZQbLMq1oFzUL/play
-Vevo Pop,http://iptv.852851.xyz/l/5GdkQKqp-v9kNpemJOusQUpITsmhKz52zAyYK_6vwVfyp0D8Wxxkmq7qxoyqTvhS/play
-Vevo Latino,http://iptv.852851.xyz/l/jUIZ0X7ci8iNH6qCwZlyApPILRkaPnfYFxJthTjrYjP_cijscWdmwkYNqtv62wMc/play
-Vevo Country,http://iptv.852851.xyz/l/WEK_MeBaWWmFJaMaecl-N0KQi09QV8IJ14hLWG9jUMeJWhynmAeGWa8TzVXq6mg-/play
-Vevo '70s,http://iptv.852851.xyz/l/J3BQPjgRDfsrUBy0wNt1t9DGfMAWkFl20p7Dwpmzo6df1rYcVoILreLW4CPdNphN/play
-Vevo '80s,http://iptv.852851.xyz/l/TndHWXh9CiuFpOCDc0Ynw8FH5ydzQ6Xryzz-M92eTBbWbR-i4tqzKRFga3Sj7zz3/play
-Vevo '90s,http://iptv.852851.xyz/l/mK8ah0v7cUyhlNlsDsfhgc6O8H5Wl5g1JOL9_AUkGPJsbLxrIjiDNfSG3Sq_6Ku5/play
-Vevo 2K,http://iptv.852851.xyz/l/s3EuYIIWkcT9_ZQ3b49qydA188unYB_RBCL14ZpUtLXDUuj_5dbymJDoEbruJEmR/play
-MTV Classic,http://iptv.852851.xyz/l/Xdppq7VnPWuwn0cLqRyIX7iFWohf674XL9NV96-cp26k-f4uwJu7B4eZR_7PW8u4/play
-MTV Live,http://iptv.852851.xyz/l/jZvdRZLV-9s-OKMSCNKue680_uw81DFlu63XeYXx0zL11WaskS9wVCHu-M814a8v/play
-Trace Urban UK,http://iptv.852851.xyz/l/RybvY0y31RVciTLLURvpq8mf4l8SP73Q6w-kasiKw2GyoBZkN3Wyx8er677DE774/play
-Trace Latina FR,http://iptv.852851.xyz/l/vC4GBVXTBYFJaUV5OzpIozCz8I47Du55-Sy987AHqKjdH6jmM7PbVFa1nP-A-2X9/play
-Vevo Country Rewind,http://iptv.852851.xyz/l/X7HFsZ74hwTdj4hCfMe6XNpfWjnfwt2pXYLrwwTPL1PJ0-VlBJtpQQ4J1yZpX5ii/play
-XITE Spring Vibes,http://iptv.852851.xyz/l/UpNne0z-eXZ78j7GQI8je9NB4FNsxANGTGtB5x_BxsJoVLpNCrF9t1uyFcSs22MI/play
-NOW 70s UK,http://iptv.852851.xyz/l/ssNirzIQoCZEbTnnFvAAYDla8HO8ferO3VBObv0b28ECRCHDFALtXAC6AlpYt09m/play
-NOW 80s UK,http://iptv.852851.xyz/l/kbOApCKFI2CS22dcHqFko5p2XUXAYzryAFlo50B499xF3jGGT_edsHSclcZzdr4w/play
-NOW 90s00s UK,http://iptv.852851.xyz/l/MBv3N4MLDuLffuVstwGhR0X5CkK3jVlyQeK0G_sGJnWszLjvHOLmQur7kwOrSWeP/play
-That's 70s UK,http://iptv.852851.xyz/l/fvO90OjEEGlfhZxvChiwILCx7g23PQNCK5MXkrTazjpezfBIRQwDkR7FrCWHq1Yg/play
-That's 80s UK,http://iptv.852851.xyz/l/z3ymoZGN6tlBTfd9yVsd6DDPO8OtxiQpzswuXZ4FpIk0auEBLufjquDl7ZNhsaTY/play
-That's 90s00s UK,http://iptv.852851.xyz/l/8kcTKmfidmaPy9408_H5n_rnffoSD6LWs-C0_an8BLu-jbEL64kBjT45WfgsiYGf/play
-That's ROCK UK,http://iptv.852851.xyz/l/OPJfXECoWEHQar330VA_hJoN06Kl_M712WEB3kM3WTBmgsik8442JRii9cQHhOLB/play
-Trace UK UK,http://iptv.852851.xyz/l/uoEby5rsJYEYbjuOf1IxMFXAFJMmCj688BzaN2rpoj3HyKJwwmX6JlU5PY0JVWH6/play
-🧒 少儿频道,#genre#
-The LEGO Channel,http://iptv.852851.xyz/l/ZEqJyGHkD1gjMXAOxX3bopohZck-yuFZP0lxlGMg9dasInza-Sl9JO_WknZjJOg3/play
-Naruto,http://iptv.852851.xyz/l/pvKC-uzSNw3PmEF2Nv3FoD5VGfNv_iWHTfqxF2jh_nmLh-sGCfXI0HZkdK5W6I-c/play
-Tom and Jerry,http://iptv.852851.xyz/l/oSSN1I_gRwjrFh4U4OLi7eZNxjmy5H_krSHi7RPhFp4301_6aZidOisjDsEXWav-/play
-Discovery Family Channel,http://iptv.852851.xyz/l/7zN8LBeLeTLcqnSaGWzKTvxMH-NXolGx-35F2kFLXmk5EtOC3sXMbm4a6-LhyIVL/play
-Boomerang,http://iptv.852851.xyz/l/Qr1Ct_NVbKu9IV45OhdvbIcbW6gNZfodAJdWFBU3zfY26Pnjhmfvex6lEYR5uGwW/play
-Cartoon Network,http://iptv.852851.xyz/l/qeMtjbP9T74CIlz56GDCFwPR1GaKNB1IBeGgxInGkHMsQB1vFKJyMM0thHvLuRA4/play
-Disney XD,http://iptv.852851.xyz/l/IgfN1kqg-uahmlQa5T0A6Vcib2vbtrhl4GA62rcMISMgILcaZsCkZg6xpN0RQ-XP/play
-Disney Channel,http://iptv.852851.xyz/l/zqXPP4toDdrL39X9GFsfWRJqIT-bQr2dPqKC2gnDAUKBehgcFifP2kRVu5UtIaAx/play
-Nick Jr.,http://iptv.852851.xyz/l/OiccqOZDd7JXNtstrVwZ8L5op8EQXcrtKT73Kv0zSBOxnkVCb4ad1bFDUgCKWnqy/play
-Nicktoons,http://iptv.852851.xyz/l/Jjii9cTnwQIsBDF0Hiqdb6xpHczqSB0Un3OlBZerBI0De2Hg38IkckN6jNM-MGYG/play
-Nickelodeon,http://iptv.852851.xyz/l/weyeA78jfpxYlOKoign_DD6BnuMwQF3FvCBXPYootrZZBa51TvCkmCUP5A8NogSW/play
-PBS Retro,http://iptv.852851.xyz/l/WYRn_Da3MVwp3_biUrlaE_mVXaWhMEYlhAbeklYjdgIUzRxhAsYjBKA6UsIb0hFh/play
-BabyFirst TV,http://iptv.852851.xyz/l/dc7rweZr-gj1qoR7d-yJNFRnHnfsE75scV-fqtoBeRfwgDzzmcBRvkdyqy-9-A8h/play
-Baby Shark TV,http://iptv.852851.xyz/l/wxlHDLBCsR6uhLS8HZKxYhm5mQPTUOs-8iIRQLcmLEaG_akgtdwOLKFj3oVkt-fJ/play
-Disney Junior,http://iptv.852851.xyz/l/wS49boLufbA6YlRykFiVuvGy5rESjG-N-Ga0kqLB0ICYEmQqvwqjINgdCR5kz27z/play
-PBS Kids,http://iptv.852851.xyz/l/5vlP-PbFnf1XApIIkl7x7PANedKKVdOsco5kFjZI0Gta4nGgfGk8Vjgfh44dkrBo/play
-Sensical Gaming,http://iptv.852851.xyz/l/lVNWEq_uRLB7A97P2wG4vLc3cRSd9bAcuNXTax_5_fOfBCaTgHiWsaBWz0xNHr-g/play
-Sensical Jr.,http://iptv.852851.xyz/l/Q9OUNW2nIXupohCKdoeCR03Md3un_lPhQhOm2OhYOwG5UN4LEEIX9GZrZZv3VNXg/play
-Sensical Makers,http://iptv.852851.xyz/l/fCfUu_dCtamPNDsnVsdhE83UbRj_9HaIlCckDRiq18DD_V4CV-bgBbxS9Oudrkh8/play
-TeenNick,http://iptv.852851.xyz/l/057N1ZTZRh5_-cT-g_LGz1WUeNmUW3S4OKqjahqELmxZB67BYGwGRNjt5U0aKGbm/play
-Télétoon CA,http://iptv.852851.xyz/l/jYTnQJc_rZ2Gm_4F0g9wRIMZBph9yMEwIaj9NCcdJxnRBdeKo6LEYOJHOoBkIR48/play
-Treehouse CA,http://iptv.852851.xyz/l/fuWZ_U_2LiBJzoOqWolOqmbzaYSL5xUUTYsaVJ4RXbvPF06xZN4r9gxer9BpbcJL/play
-YTV CA,http://iptv.852851.xyz/l/kvmiocX72lkqnpj0uoKcXWYb2kjmOoXlsedCytsZeDZwseyKrnurQZDwQhujPHMf/play
-🎬 电影频道,#genre#
-BritBox Mysteries UK,http://iptv.852851.xyz/l/_CzYxFKoT_U8kE5ds7DW5qxycb_l0qyPPJRKz6iOPAECwPHAGYWkZW7aYMpEBEbS/play
-Sony One FAVES UK,http://iptv.852851.xyz/l/n_JwOPZzgywSrwMEVkfuFa_TbGipWahjfkdYT_mgNehTV9ejfuV_WVBVgV72FZEm/play
-Sony One Thriller TV UK,http://iptv.852851.xyz/l/r9fNV5U-GjlAuM15_s8GUGVKB9Bo49g0ePU3nkmeUnMYGyW9sJjCeLwvdCHmDvsR/play
-Sony One Comedy TV UK,http://iptv.852851.xyz/l/NrFKq0p61h-r0xMVOUb3TpY_fAgCvtNDJXspqUPAkxO8Z47KDDpBiMFFjtq5s2kk/play
-Sony One Comedy HITS UK,http://iptv.852851.xyz/l/2x3gxQ2OV8NXqZe2Wz4ny2eYvaa509i4vdXnGbm2SaO0NL2TXh1tQkMNF_qDETPv/play
-Sony One Action HITS UK,http://iptv.852851.xyz/l/WhndWSrOJcBbfVOadISrJbOafwKll28drVsztYsIoGbQ915KL5SNRlN7tQK9u0ni/play
-BBC Comedy,http://iptv.852851.xyz/l/8wGwGZm9GEL2_r5vNFLXKKpUxcAh6xjQ6jTTUAwJYEtmNcc3Kwad2NZx7mGy68YD/play
-BBC Drama,http://iptv.852851.xyz/l/vMenHexkSSBhL2NGyKDLV1ONQEFfmjcIJRmRYveBaEZ6YXF5rbnrk-8siKfvz3av/play
-MGM Present Horror,http://iptv.852851.xyz/l/uGpJbSiIZLpKjy1-sDWhtqRMPLINvpplFQzDLT_5wCRqQU-GrHq3RR3cPSi0n9xN/play
-MGM Present Westerns,http://iptv.852851.xyz/l/nm3vVzTQaRb0pAblSqcMzphP2jbkjgSTWtOpEE1q375f8V2bFgQPRSUqiJRpsC9U/play
-MGM Present Action,http://iptv.852851.xyz/l/nRNb8nUpeQbl5hzHR29dT3K872fjpD4qxSDtVSAURs6LDnciuj9TJzinoC1UXDa8/play
-MGM Present,http://iptv.852851.xyz/l/gKHz3bigDUknO3RI3c99iltHVx1ijpa4pvp2nM3p7HQyOZCyig60tYV58Fwwoctr/play
-El Rey Rebel,http://iptv.852851.xyz/l/2K31MDIYIIv9LwpXK9o42sJe1exFu-NJXAESJenaw2m8XIuGoXe4BAngQUVLUscy/play
-CINEVAULT: Westerns,http://iptv.852851.xyz/l/qx3YV_-Qh2zyrQ8_pfqe1_DdO8ZZQGbWLC1P659QXBVwTo-PYSimX_P-An8U7P3X/play
-CINEVAULT: Classics,http://iptv.852851.xyz/l/NuqiwnMr3u2AObHi6Iz_2iQo6DyBT83Vj_g9Sniqr7QUd3h3xMvMSzzC6lixbCHc/play
-CINEVAULT,http://iptv.852851.xyz/l/RpvwhWKnTsOafPIg8T_4Ck5z9jKrqmYMMiMc1tzxefWjIejfL-AQqCBx-UPtZ8iG/play
-FilmRise Drama,http://iptv.852851.xyz/l/JznaqGZg7u53EtmhUCmwSeDyfjdf7Y6SaWQSRqaYeoWZaCn0GFxkFpNqSvKWUHoH/play
-FilmRise Comedy,http://iptv.852851.xyz/l/Pk1NVrh4vX6wxTQRwUtKoNJlQ7JHWzbPPs5bbl1kWjhdPdTIEVCrcrx_AOo5UZMa/play
-FilmRise Horror,http://iptv.852851.xyz/l/Bz3jzawWHCq4owkJl93IYkDzCgDQQstdLLPYu5nLL_T3UBaVwrTkhgSckS7dHezG/play
-FilmRise Sci-Fi,http://iptv.852851.xyz/l/0R-wKEI3Ssb2zrqhxnMIxne-Ev8lwL1vfOoiK_rQ7JkNjb-cmIUowUG8Oi4ZCPfc/play
-FilmRise Black TV,http://iptv.852851.xyz/l/DovKvSNa4-H-BLoJUI7g5xw1vFTS4sWssa7PlGhxm-MWhBCHZmO_UMe9X6yDxRMQ/play
-FilmRise British TV,http://iptv.852851.xyz/l/Nihih0g29VGSFacqAcZ3lfR-XfrJtmLC77-ZG4wz-7cv5NeooFAZGpY0_B4Lgcr3/play
-FilmRise Classic TV,http://iptv.852851.xyz/l/Cz8y6Ro4Vxfi0uVKaKDwGZOkT30B4tjle6rlC1o2cx4rlFNs8zBObftC9VVG3y6O/play
-FilmRise Western,http://iptv.852851.xyz/l/DaAMqPUFZp8RWZAQBGYlRG--10-s7r7T3864oHqxrg4oDl2ynmrRrTmUHJZO--Ft/play
-FilmRise Free Movies,http://iptv.852851.xyz/l/JhJMM9HKK9twzbKAz4Pry0mk6XVTS9vu0JTN46NdxAuHPId4ZwNULXRgsfdWW5EK/play
-FilmRise Action,http://iptv.852851.xyz/l/GrFzEHdsZ9oBeSr_hOgAFcBc1GAEX1KFWbVB2TS3O6us3lJi7FX7RQtbgSzcoYun/play
-Universal Crime,http://iptv.852851.xyz/l/hvwdyaH0wB8-Jn5Okt-6kNVrQEUsj582lUJ3kz3sYpikesGbXRWZHv6bvP9W8bY1/play
-Universal Monsters,http://iptv.852851.xyz/l/wjZruGZLSjY9xR1AEuZaCT3pUIS0KolGsxa1s3f19MMu8DP3Dd25lpvNRIDOqSgP/play
-Universal Western,http://iptv.852851.xyz/l/1lQCydye_1sJSRHmwip_PuXHms-9_YvZbIBSvqBAPOcFptzX3cLjHEIa6npjOfnX/play
-Universal Action,http://iptv.852851.xyz/l/tee8ABtzQelby3DZQ2wb5hXT9VQKQNOLbUW0uHFbmhVTMdGT67UlM7wDz0LBEsD1/play
-Universal Movies,http://iptv.852851.xyz/l/u1dujWg6cJnhVrjhol-PBIopK1EgpzeFvmEsFS0MFl0Rk6tvaBhB1LQfrPAsW2B7/play
-OuterSphere by Lionsgate,http://iptv.852851.xyz/l/GT2CxWpk68zODv3yYssYWQAPW8UwiNC362XSbUudmf5AObC34l_hmzOcT9ptuNUH/play
-Ebony TV by Lionsgate,http://iptv.852851.xyz/l/-oZsEGW6oaVmBuERZkuz-94_Lgg2_YYYRc2YnD4KrCjYfEhgVSYrXndo9z9CH9kY/play
-MovieSphere by Lionsgate,http://iptv.852851.xyz/l/SFegPIk0LlxC41Nb12jzDwYCEZzrhXAkaxk3sTNZUpsBYWWH2zzjv3qnJ_qrZ0hl/play
-At the Movies,http://iptv.852851.xyz/l/WNTP0oOmj2njXJi-BtKCWJztzXfRgKTsSpCDJlu-pjGHZUu9mW4_sjUNelqhhdZZ/play
-DOVE Channel,http://iptv.852851.xyz/l/wvuCIzm29NPeQzzr_8kHLJB4ayK0MQDQiV1sD5Fg08sE7DzDU8KoGAgkLtjVbZJW/play
-NBC Comedy Vault,http://iptv.852851.xyz/l/Lcxg7yB-E8CqYi0soD4B4QW90KvLRurYgFCwmIh6h369h0Q8M5RU-DM-BDRLWXjG/play
-BET x Tyler Perry Drama,http://iptv.852851.xyz/l/UOKhgfBN1MNHXOjPlMNwBXh8Gkgh3IHhH_SXrRZ5XYfpGJliecm7hficONWVNsq8/play
-BET x Tyler Perry Comedy,http://iptv.852851.xyz/l/lkJMv8X_v5r-X23DHRwfjsHWQWBhD9G7NzUX0liWQkavd2VRpvQpSKOVTEmZVAF9/play
-GRIT Xtra,http://iptv.852851.xyz/l/wx4HfnBdrcSRJ07AkQl8DhCOr_2l-jDz-k2LINB65CeeI0s5y3ZOvzQcgheax8LJ/play
-ion Plus,http://iptv.852851.xyz/l/e8ZG4wK5WRWH2-CS40VVYST1a-7FD1h0NhEL3lvRHZbt_yDyS3UZFyujf2KEg-Qh/play
-ion Mystery,http://iptv.852851.xyz/l/Bqs9DG_bdrrGUSYv7VP6bsqXw5ookx8FZnXynPyIRVSP3TcR7axWhjdEh78p8LbI/play
-Lifetime Movies Love & Drama,http://iptv.852851.xyz/l/kX0Lkx6Pk4eGHlO3bQEGlTJwxZ3cppkIMELZj1v0VAWkkZJllBFj6gQD-A9aZ6c3/play
-Hallmark Movies & More,http://iptv.852851.xyz/l/c3sob2HJ6YpVHTkhYiDG0xHz_dG1DCrwcA4m6bw1L4DgQF7Lbwa-3pV9bmp0uAA5/play
-BOUNCE XL,http://iptv.852851.xyz/l/BltmI97msm_2d_XSFSoGlJWpVMY6dPJzD8DfxLKNjlz4iqUspHBM1C4rukzFJ2qq/play
-CINELIFE,http://iptv.852851.xyz/l/8m6IUDKZVfExExOT8MgRzbpqv29VWZvBj9oHzDKw-SzHkh_SvagjGPEtlK1s-6qV/play
-CW Gold,http://iptv.852851.xyz/l/apoPg5T4U6sbvy9AGPKs_AWbuW-U-Clh9p_d1v8fHKxYKE-0oPHBE_clf94HGEGm/play
-CW Forever,http://iptv.852851.xyz/l/E_rhSvBx_Jx_AlWuWnPxqLknViFChwj_cZ5OhFR3MOD2cmabqjMCKtJgrv1ayiXF/play
-Stories by AMC,http://iptv.852851.xyz/l/QT6tZQjWX3BLlLTuuM_Ts_J6WpX4jb6n1RV_xU_iJp5q-wwkbKu_y_jv43fMe-mO/play
-AMC Thrillers,http://iptv.852851.xyz/l/D_hbVuoxiJO5nYtshaoBTjGizEo4Ifo8Ai9uD2U5OrKhHGhYKNJRkpB4aTAf9R1w/play
-HerSphere by Lionsgate,http://iptv.852851.xyz/l/2v-dgx1IQqpuaNWE8ijw_ldbZydAvqqs1Vy-5pkhEnijNA-CGeeHB8iPvA7-YVZ3/play
-Lifetime Movie Favorites,http://iptv.852851.xyz/l/nc06a2ieHFAvWPM0NJp8K1OqsTJIt3huPFJmYzX9-neuYAn-NukkmckrlGMYTGcD/play
-Great! Movies UK,http://iptv.852851.xyz/l/7vfOd4OGDRtbks6WdP6H6kGuT4lDV-3q55Wa20D-hbcphoWdkKX0p9UgGPu-Ntem/play
-Great! Romance UK,http://iptv.852851.xyz/l/2qVwXg7wI2GJfwpfX60k0NpSDn4tt-aM49Xeos2fLHe9nUCJxr0QYnJtOnCfqis2/play
-Lifetime Movies UK,http://iptv.852851.xyz/l/_lSBQzgF1HNwhNsQgxmxIiToDJ9d5YUKCYwSjQUzqXUIOzgGNRmJMFFxFivlv2f5/play
-BBC Series FR,http://iptv.852851.xyz/l/qTDYcyxuErBibnBO2RO5YCyVr_A_g96F7Stv_kXbCxf2MiVTkRZApcnpzkbLk9vD/play
-🌿 生活频道,#genre#
-FashionTV FR,http://iptv.852851.xyz/l/DOcV7ARNljMUV0EKplnqw2nsQsJx0gzKGt-_VPnmIv8dRYagIkYzgnSb3QnzkAWm/play
-CTV @ Home CA,http://iptv.852851.xyz/l/5G8ybYwhKDaA2QFCopKvdqExMCcHd_4eB2brEKzCEx6O2C6IUMDizWPFD73x7N5x/play
-NBC LX Home,http://iptv.852851.xyz/l/VvkuyUEgIbegFDVIfS-mxK5jsYriddfumkt760G8dz-0jPf7Le-xmEY3juE8qyCV/play
-BBC Home & Garden,http://iptv.852851.xyz/l/c51iRs4w9c89r6o7UYL_6H8QgqTj9drch3lwmLIHuJQt3wXVd2Lqw-XB-2v_9TgV/play
-BBC Food,http://iptv.852851.xyz/l/dv4qOjSNDwqgauTU6ORiplJfA0z99ja3U517ZWmfUx1d2ZWZ_Zh7URqAvHFnAMOK/play
-PBS Antiques Roadshow,http://iptv.852851.xyz/l/ZcwNlTSWxmZFyeUkr5Z041m_izLjCjNN-QW8uf69bGwBwofjp8DIV-AXghFGUfpF/play
-PBS Travel,http://iptv.852851.xyz/l/ivJOH28I0LdJC1TzrOmgx9ZW93WJjCRAkXsJG39Nh30YMruI5JGOBqPIHxtdyZF9/play
-PBS Food,http://iptv.852851.xyz/l/sB1CeCktsuglxH62CqdzSxoHHT0vNFz2MXkc1XMWeofDD8p4nVR0TKpasMR4Iw1A/play
-Tastemade Travel,http://iptv.852851.xyz/l/kbu3bsUPN3JmKDzqeb9K3mix4JQGblFGlooZVfO84RpPu3x10WwyTCWtODCglOd5/play
-Tastemade Home,http://iptv.852851.xyz/l/HtbWQFsbM02WRq_iT1iUPXU2UW7XnSycPTJI3MtCDGmjxkwcdfxp9Wahh2eOuLuw/play
-Tastemade,http://iptv.852851.xyz/l/wC2u2Ka8vubuG0Xsq6_S_5v8qPaVWL5-o3s9ED7aahMILLe4oZm64aQsHcDY8-m0/play
-Discovery Turbo TV,http://iptv.852851.xyz/l/W7GG_iob3Zn00lkRxYQUybTQsM6_AdZ_dyGhR8cnsHDMGVbDccXY79SHoZRX1Iy4/play
-Sweet Escapes,http://iptv.852851.xyz/l/VbeKZcSigSJGyxEpk_VAxFtTdz7fkleukPU_6qsgSldcYRZXzzThoe2tdW4j6Ut8/play
-Dabl,http://iptv.852851.xyz/l/J76ZULeMcqo0LHeuAmS_nb-eQh21B4_iHMnyNAOsJdHfKSrg67W4t507u_F9RLGu/play
-FYI,http://iptv.852851.xyz/l/xTiVPs6SMkl3fJrEqDSGKzfaMAQolR-A10PYpRgIc86_JwzuU6oXdBFhP-sq5sx5/play
-CTV Speed Channel CA,http://iptv.852851.xyz/l/9iFdzpoxianL0YHCkzNWfTGjbbV-N7CmTyYly0ZY95k27IAGcH_s7zAQuUmu9jZ2/play
-Home Network CA,http://iptv.852851.xyz/l/P342CmDHSxZK0NSZpTeMx14RVzYggLue435oJiirU40EC9PZybJ0-xCP4Ds4ddjz/play
-BBC Travel DE,http://iptv.852851.xyz/l/q3l67i01tEorfcrUDAWSsKSYDG25eQSUWbfTrfwn3STEmf8Id_YvpL_riR7rAK_J/play
-Power Nation,http://iptv.852851.xyz/l/Vm2zKXAM84xdfwe_KwU6vfeEVqOTaaAUK7jzvzTtDIblh6qagme5b48TUsIPAHq0/play
-📚 纪录片频道,#genre#
-CTV Gridlock CA,http://iptv.852851.xyz/l/CoEh6MkX4_POHMnJx3TbSOLKtbQ7U9RdJQ7zWaZpeKJBk5UHLAHCoFc-XwDOTnpS/play
-A&E Crime 360 CA,http://iptv.852851.xyz/l/r7rgEh4jx7ifxrFikn1A4xxiG8erQeCLjrlbBktj5POskzv1B8TBY6so7N8TrLiM/play
-BBC Earth,http://iptv.852851.xyz/l/ArBZ_Hd1C3Dig3faWQm1seGm4NBrwJqRcasuCUNhw2T7E3jfJKAn8XSTn_7hcvDj/play
-Documentary+,http://iptv.852851.xyz/l/qhxMyoSFPiJH5EkuNwJAjmUweGy0pmifeeU6cTaMGJVwB_TGUEKJKqDyPcy-bnMr/play
-Haunt TV,http://iptv.852851.xyz/l/ynQqK1DZpcj6wuFNL_8nb8rzu09Jud2sSPhgxRsCLxj_-hOHmlgWmKQciVEN4o8S/play
-FilmRise Forensic Files,http://iptv.852851.xyz/l/xoayBkTAzRvv0ScDbqg2T712TrH_f7CiC5pauxcIdntSaLB_hdPblH_XZ3L4dYKk/play
-FilmRise Mysteries,http://iptv.852851.xyz/l/LMhTcEHxO7uy1XPJwXIrkV28WKp2xjp9421Jag6wlauwy0JLlJAPENQS0xq3vvnr/play
-FilmRise True Crime,http://iptv.852851.xyz/l/TY-P-_d1P1dBAu3aq9mLqvtBa6aFqxzNJ9Hftexg1PJTb8nBhJIs-aHfKndelTia/play
-MagellanTV Wildest,http://iptv.852851.xyz/l/rzK1wbkZo0jtHMcwAaeq4HO38SNg1q1gXBI116ixCWuXHwNz8ElMGhfXUajLkskg/play
-How To,http://iptv.852851.xyz/l/61tXAcIATJmzD5f9qwMW3QorPoKzI-7HorgLlEj1yN2gAb9pOR4gW8Xe75KQdKYG/play
-Bloomberg Originals,http://iptv.852851.xyz/l/vZbbdNVX_hUXheysIEZqnRl4i2dp-zeJ9Kj4uOsOpI4K6shc5Ukpo3LRnJI64c-z/play
-CNN Originals,http://iptv.852851.xyz/l/2B2blcsLCadBFWHOdLJElnWmix5mbdinx2sg9c08WD0NX4YWg6URYG10oXJypedJ/play
-Nature Moments,http://iptv.852851.xyz/l/-hIzYYrpeVKEP-7u1qvKUJIPKTCO42gXhJOJTRKhbthjCdesJqf8n0M_bgAYb80e/play
-PBS Genealogy,http://iptv.852851.xyz/l/syvXT8ech68FNtXpR3u_vGmWMBzvRG24KXe9TeAjI0zAU5yQ73_zqs4wXQiBiRC0/play
-PBS Nature,http://iptv.852851.xyz/l/4g2zouLtRKdtGIRdWyM2EUfhAX8vdFVaIcAxMKMwNLSfpzt0xDXaeKdHLpwG0O-o/play
-REELZ Famous & Infamous,http://iptv.852851.xyz/l/Dz9e2sZWraeAbwiGuwrJ2yfCcDAZH1jXEqMbx3CIST2Sw395sRx5QZE3z1qyqlyn/play
-Smithsonian Channel Selects,http://iptv.852851.xyz/l/I0IRIJ1LuJPGED6souSE43hVtv1Fpa_EbE7aNlcYFaoMS9OcCiPYn6_Qb7K-167l/play
-Military Heroes,http://iptv.852851.xyz/l/YQOQo4IsisBIJXwSk8JHytwyc2N-3pfElXr3oaxIy6BglWPfTwg_png_mLV8jHpd/play
-Mountain Men,http://iptv.852851.xyz/l/jgTvJTs3Wgh50rAjuGJoZrTmfId7TkmbXPv5P2ZgDbIXTe41b3KkUM9TbW2lY1C5/play
-Swamp People,http://iptv.852851.xyz/l/Pz36M_fO5N-ZXXZlcUoJ5J262vyt1NkvXKBb24r6lNSDVEN6GogRa4ugTXwyEh7x/play
-Mysterious Worlds,http://iptv.852851.xyz/l/AQFFm7mKGs_SmMkQrEwb450lpP5KVcQ_YW9-UoxUC0RwDOTZgnHcy7vU-Rf8ldXP/play
-PBS History,http://iptv.852851.xyz/l/-OandQe_y_HjTaSQSQUocmB47hbBwN5ILAvAqBkXS4v4uieCfMsJYLpX-a6dbJAK/play
-PBS Science,http://iptv.852851.xyz/l/M5np1uh35vbXj9Fvb5GWUEUVbFLm9MHgjUFo5S-E_4btxATbuj2UxTPNWuVbSdrm/play
-Space & Beyond,http://iptv.852851.xyz/l/K6pA5Y8OC4J_HJIiAdDfS8owdIX9XdS7SJXw_oKV7xJIU80IQVjV_KAHicrC9Zg8/play
-Welcome Home,http://iptv.852851.xyz/l/GNnQDvFbO_thIkoV5h-LEBMlL9AIg3uVlXd1umeXCoL77dzvIIrbUqslTuiTBLQ2/play
-BBC History DE,http://iptv.852851.xyz/l/fyPLlL6d4ApfqSNSuCrGQp0ZUeJdWMdjI48hV7wOEFLIz8iF0a98GkugVfEbLp3-/play
-Discovery,http://iptv.852851.xyz/l/x0WE2aNtlqZ8r5dTziWdymX1G2GUNxNuok9E4dNvtO3fUw73ZG7wxSOumk5xS5x7/play
-EarthX,http://iptv.852851.xyz/l/PoKFge6Afj1OLpsWFAAg9wYOzVN0tbfCAc1iBLhkHKcv_bEf2nQ9z-_UVTSX6stj/play
-History,http://iptv.852851.xyz/l/G823spvyzf5PICv-Rzme7e9gwG_YCM43qZfWcXBiDReeaUv1vBjLEhlYRWUivnmv/play
-Science,http://iptv.852851.xyz/l/RvjJMeRvYoNkh1NJgDXeNHtuoKbkVQF0irW_vAnwJkg7VmpI4a0vyg25zWsbjgbA/play
-CTV Nature Channel CA,http://iptv.852851.xyz/l/9n2meSmLf_EyP8bzUYLf6qZy6k7EGQMUnDApyW_Fi3Red6qFf-XVcMkKqvNWojnZ/play
-CTV Wild Channel CA,http://iptv.852851.xyz/l/YZ18zvu6IyewNFn8ipcapjDBhCWvPLPBhJDO3ShuLyWnZcx4IBhe_0cEkt3Xy9xl/play
-CCTV9 CN,http://iptv.852851.xyz/l/DMKRPzJB6dP5Ymd8A6OJUWAU63AlUnmiyzMD8rfBLqtm1-16Dlsw2mAKO9w5txqf/play
-CCTV10 CN,http://iptv.852851.xyz/l/ndg3Rkr923dvpO5Yna0H0Z1Z_oAz3LIVs_n6Ntba5nYzLKbzmA2dlnp-bFbLO4eC/play
-CGTN Documentary CN,http://iptv.852851.xyz/l/tMi4MJv-bNklt4nOkb0DWzCvPriTW2fD48YszcnmAN8Z4ZII5jpS96_crixk4kEH/play
-Curiosity Now,http://iptv.852851.xyz/l/KQzzqUwof60Q-91blbNeMWvLjsbjxqDZvjNQ5lZUKmo1AKB_ER1zJOt4jBS_eYOw/play
-Modern Marvels,http://iptv.852851.xyz/l/8ZDwME6ExbV_ADlgrxYNXsXGNJ2jz4wdxcJ91PUhX90DWX4-cCjTiftV3sYcQ02Q/play
-The Judge Judy Channel,http://iptv.852851.xyz/l/0i29gGOu_GpSw-1TuvhYNJ2hzALf2FyM-x8m_dEE7TPLbcnauNtxCfCDARvh6sI4/play
-The Wicked Tuna Channel,http://iptv.852851.xyz/l/I-d_9F-bL-Cr_KKLmpjbkVlXmUvPLTP1wPk3OsQgkD_6x4hfMNP1Jqs1SPvlBUj6/play
-CTV Crime CA,http://iptv.852851.xyz/l/ie09m9MYOEI7A1z27mqGDjpPg9_Sv-RSbjy_rlR5LqTl-bvBsd4SoYTQFt4F7GQC/play
-BBC Antiques Roadshow UK,http://iptv.852851.xyz/l/Xb_XWYb1iLGrKZc4j7NPmuH6Tb8qcfaGF2weEDuG0GCsH0ed4iWlER3BZXCcilrD/play
-Nature Time UK,http://iptv.852851.xyz/l/zGEyr1BVZnaDTcINh-QoBNnlFCkoQ8Pa8ZUTa28xca09Ryk4YpQ4masX2CCPrp7B/play
-CGTN China Travel CN,http://iptv.852851.xyz/l/sRjDwC5TcKMEI-h9pIdUCbdIwJ1ikUiUQJAmC0br1IitHrk65cW_armS84fS6DSr/play
-CGTN Discovering China CN,http://iptv.852851.xyz/l/P-fsU69Tx3rpFK2VKsgwMivLvPHJipJ-Em8odr039gLq8aZGJ1EcPijhrUrudg68/play
+香港,#genre#
+翡翠台,tvbus://34VSfgDWU6Mz8MaWiszUAeemSUMzdwEbdrXdopgjHfYih8krWk
+翡翠台,tvbus://4JfzT21e6tzrD7jwEuQ1hFREVddwhJtFTpBzZn4R2TRowhKL8a
+翡翠台-线路二,tvbus://3pVLUQ1C7xvDzyZ96AYeGiwBWBzHWm4DZBPz4cHxZsMLJtqAc2
+TVB星河,tvbus://3PJbyWZZr8vdrLGynQz3tHaytiiCzqBQaMWRVrabXzgQsegnD6
+VIUTV,tvbus://411yGwJUgVzPuUm38rf9GwKbHyd5MYs9qe8vXvsT5LircRM9Zy
+明珠台,tvbus://3gX9mnsuUWqcxV1gF5h9E8WyxuxMJGtcsDSBwY1YYuEJhFG2zx
+tvb无线新闻,tvbus://4kC7CYqiV1DdaBvxjjospck3iCovNJr7z58KavR9pv1oYL4Ysm
+tvb无线新闻-线路二,tvbus://3J9eoU8qgTMxM8eREGzaiCEHjk47ywtsMzFsLv2udPk5XnFqS8
+TVB_Plus,tvbus://4Dcns4qm4EnfEb6iumtt1SKc98hjRNRQpCbpCxTVmgYjgfngLm
+凤凰中文HD,tvbus://4B5eYHoUDdhHiDL1ETHqQuTnCp1PEiaLDqKRhDHyr1wGGnWogf
+凤凰资讯HD,tvbus://4nQGrMo6DcRRx2pDaBwLFARRVudEv5fJXdT8DcVdwP155PakyX
+凤凰香港HD,tvbus://4QdszXen9B8BkN8hw1sKAApTW6bmLjderk4n7RTFkDU9fAVJ7P
+NOW新闻,tvbus://4P1KiyGmSnSGggggip1vkv4P9FbtiKToDSRTsJuzPJEyrpPXXc
+NOW直播,tvbus://3kQ3h8EtLYeAU7uc6f2nn7gR8SJAwNgvXLVQwUkm4FTRXWxPaK
+澳门莲花,tvbus://3gkSZPDqA8qZfsV2X2mVenPoVkRMezu2M4iucqcTG5Dub1iGSQ
+VIUTV-Six,tvbus://4kZcGX55Yp7zcnFeaycgh7TCzn872D51RNagvZBp9JoXYnW7Rr
+HKIBC,tvbus://3FJjfNyWnSwg2y9GAMoWfoo4Gf2FkFK9cG9hR9X9yTaJVxTYmq
+澳门卫星电视,tvbus://3GgNN5Q3TEyURy6VJUZ7DP7BXCGf7FHjGGL3Bdgrw8R2ExWVrH
+澳门卫视,tvbus://4rDjhBSKUPFZKRqPu6B7oD7yR57ZXT2sS5MnDRCsJ3pjMwyznU
+奥亚卫视,tvbus://3UbLiSvEsJSkE5LfL6jAUtbLqkWFtYoPN6CrPd5aUayAUSM4r6
+阳光卫视,tvbus://42FCCd3N22pyDokmCsQ533Rpk5N3TwzJ5uLjNux9K3nbAdDQ3P
+凤凰电影,tvbus://3t1Z219Fcs3Z26kDjAsgHnBEmDSqjXXNA9KDCooLqB6TeGsjVU
+RTHK31,tvbus://4b2mP5Xy34wBGa2DJMiDCg2LHTn7yfFmhKk2mc6iNRbu8NK9z3
+RTHK32,tvbus://35vN7BZhSebXC6LFvue2Nb9qTLLeypFNd45R9PizQxLo7vw6K6
+开电视资讯台,tvbus://3xyMorhStiU2Cxn79fK8v2xnFjKn9Cw57JwRagcUrwD144f3x1
+HOYTV,tvbus://48s4P1gvLH3y4kVe7qywLmXtrGf8NkGTfiATfehq3YQtUyg6wp
+有线18台,tvbus://3mCf5v7Wbxo4yZxf8ipGxnLqfD1geW6Av1bqxhPrkHimT9opa9
+爆谷台boo,tvbus://366kUaEhmD1GozhHKnzdjePRqokSLaXeVQ1hTCsqt9aNbzeQH3
+香港衛視,tvbus://35Avh6bcaiw23ewv2xhHvKzTVknQTVc2G7hjynuyhwPeYrbAUH
+奇妙电视,tvbus://3xMpBz3RQqbTeSSj5Gore8FLPpXprT5gMU8kcBQiP2wdyLPfJa
+TVB娱乐新闻,tvbus://4onAViTcugydEiZ2p2p11mK3P9cRsUWEMZapVpoSvjLPNt5aAT
+TVB经典,tvbus://3r3Vov8kzULcmmprwDLpGsdbS4DTeb9fh6VYD9rHdv4vrHBpND
+
+大陆,#genre#
+CCTV1,tvbus://4FHMfzCnTrZ2ZDw2ghz4WYU18tKLjwDrQXjcfd7gMonsNvmHxd
+CCTV2,tvbus://39FWMR3TEfsD3YXV8dFgnFXS6YP7GjAfoTPu7V5sfXZe9HWoBq
+CCTV3,tvbus://3fnp92A1bFuQ79Ub3Pu16VpopQiChF1EKnD8PoWGsU7bZ43mXt
+CCTV4,tvbus://3fCh7aabrqcWhcRAqU6Cwy6hPsVGsJXuDLZG3V2qpT9PrXC2Ms
+CCTV5,tvbus://3k56en9VsJ1HDADJcwhP3tNwa8MaMxghsQh1WCHtgGGc8aD4E6
+CCTV5+,tvbus://4XkpT4LspK6hkPmseh6a235Y59xixt5LTg6dADjxmAsS1DFGQ1
+CCTV6,tvbus://4fTcJawCihr6xKPjufSTYTPkkkYFWHZFU8Q9KcyUyihRVQCC4u
+CCTV7,tvbus://3re1HjxuHJTsaCLWrkYKWxd3UsQLPv8JC7xRFE65HYBE25fMnV
+CCTV8,tvbus://31H25YXHz7PJCR2Nb5VcFpf4VsYc98oPkpguKjgga8ScM9KerL
+CCTV9,tvbus://3ZLq1hiYMVxNyeyx2ycE89sKdmu9pyV7xY2pM3EKyXPmzdLWhf
+CCTV10,tvbus://39YLj7uupStajy4mKSLFL3F9nLQi4E6jm8Kzzcz8LqDWsqmvRc
+CCTV11,tvbus://3bqtCe3b1wpurEQJC13SnG8aYbqBr3jcvBuAQqQgs85wM3qBsi
+CCTV12,tvbus://3hkYwgrZTMRNuTTajT8VsjW5ePgzAMCbXmD5RNPfr43pcMHVRw
+CCTV13,tvbus://4Bd6HMD96bhABXokkP1GjS8pXkheE5Kxx3aX6rNVdAip12dfQq
+CCTV14,tvbus://3a293AKfiPNTrNCm6MgpiTjpHniRyho7R3Ebr6VwdVshHLoXAf
+Cctv15,tvbus://4tS8BXRw93KWbbF3WoR8T42xLUBFu8hFNb4keBwLTdEbe9BXAF
+CCTV16,tvbus://3u2rrqQgpJF5tuSoJz8xY4qoAX19AwWqJhqtGaxk1qUdwgZ5iX
+CCTV17,tvbus://4A5xozfXA3PsZvhNfQh3mT5gpvbStZzKKS8wCTDYvRqXUAPVaC
+安徽卫视,tvbus://4HLJGFDY2D9KkhFbEBy2aWgHcALUnjnMGppGEXR4Hmbmvp4SwD
+北京卫视,tvbus://4hX9jcUWodAM1jGn6vWgZyLZuAMw9b9fGM5jbGzeVB3HuGupqb
+重庆卫视,tvbus://3g1y8ioMJq5YASnsMNNnbZjUybuBokVQf7ukYwexsfbiPZL1kY
+福建卫视,tvbus://4Ks72UMhjAJ68ZJifGR4XuvbT7863kD2D1QU1z9wtwjQ3sxZgi
+贵州卫视,tvbus://3HyEHHdLN3Xmv7B6Nh54cfj7haPuijJ5T2Hv668xSNvYWg42En
+旅游卫视,tvbus://4DSSzdh2B2hX837P6VeJL8HSVK9nTxnmM8fpTvAXXiwSTq1dRx
+黑龙江卫视,tvbus://4mQV5UnE4eLxQ49j9aHRbqEfittqRKtTv4VYqDZ2bc5gSzgFPG
+广东卫视,tvbus://4HY5GB9pWBR2Gg44q22KmDKzCNGw2BSFN7QCMdTETWTgbirvHn
+广东影视HD,tvbus://3XQ8e6GGSXZwhruxBsqmtoB1yWg9dd1ftaB577C8ogg23bydr4
+广东新闻,tvbus://42yQYvxspu6Su4AczcnjMoThY3ERigwsbSCJNjdcGWeStUYL7c
+广东体育HD,tvbus://4By17M5a9VXJwj2Ya4jXmioCtJFVQPga7H4o3xzNSsg4rVsqfN
+湖南卫视,tvbus://49UP8QjaEZP9KvEihcbNpP7EbK8WahffqMXm9ty1PFPc4fTf7v
+湖南纪实,tvbus://38zTHsdX8iJ1Ln1kVr7Aid1qcKDb9GgnWy1526M5JgTA3wrigj
+江苏卫视,tvbus://3j7vtfGaigshWVwCosyLBkcRW2W2Xe3LQxYtwcgECGFggSZo9s
+辽宁卫视,tvbus://3kFWXD9VuWTkSfZP58HzeGcRUMFLF4NQ63ZwoPBD3JudpTo3yV
+山东卫视,tvbus://3h3h4zno3Aah1BkLFVoYBm1UMWA7artRFbwhufmSP3DEpxKrHd
+上海东方,tvbus://4KTDMrpaXXoVgTA623eWbVEF1Wd78piKgTcNRmK73Rje3jU1tz
+上海纪实,tvbus://3KAk5pZXp2LLSf9rT9Kh57cQgU2kSPzt1J1kNKZtkucF9zhD7U
+上海都市,tvbus://34C1WQx8qsc53yptYnjF13QJHHq9cyU4gtYKDMZuMaVEK8MrjR
+上海新闻综合,tvbus://3MAe8dN2zDWSjTHJaLDgr4tXKDqRr5M4U1bEG5DvC8vfkUWwnb
+深圳卫视,tvbus://4MmheqKZ2Mysy2sEMmYi8TVb8339C9i8sFPM5Mr5GBouBM7kvJ
+深圳电视剧HD,tvbus://33ANRnAxeKDax5tHnRbxB4rAQcT2rJScpL5rPQy4gJNHyKQgsb
+深圳都市HD,tvbus://4UxtzAgYXF4PtP9TyUrym3PFHkZvsNUYtF1eaUGcgQ5z33C1uQ
+广州新闻HD,tvbus://3YgGhaDpLd1wq5E1SyQAZkepo3ethgvUaUNVeRYqGsMDDfwu5L
+广州综合HD,tvbus://3Y4eLYNnGbSMcoxao5QYymYTpH72ufhh7W3cjmBH5Yf9AvUCZ1
+大亚湾卫视,tvbus://48wuMS91EQvyTP66Z16bGgY3YLs91zyz4fSR2rHBUNRAcHwK7e
+四川卫视,tvbus://3jXmZMrrTPbczKR6rirhmLcbUGFQzzXi4Z1fo8cBuZpoET5rvg
+天津卫视,tvbus://3fEb9mqkuk4A7L6b1DrEwmJDnXEqjfjizsDFARBCgzNL3YijzR
+浙江卫视,tvbus://485GAbCtk7kYGNAVnRtjqvoyb96nTkZrRPyju2fEawSDJqUZXJ
+河南卫视,tvbus://4goh89YcyUQ4wSFzinbbAX8fRtg5SwWyi3C3PuVrpVzqPcQQae
+湖北卫视,tvbus://3F1dYLL8nj3WKZq5HGWta5MVnMTwVX5FHCK5JYF4s4iZsyTpSp
+江西卫视,tvbus://32YBoBMHxdVByMVFuUABjGNEf1DjsdAb9qEGhUnUrUPqfYW9Fi
+吉林卫视,tvbus://37tPU5wCyg9vftCdBjzkxZQSMGSqZvN8fQJPzbTr7x7wkaRRyF
+广西卫视,tvbus://32DZgoQB62jww1DgrUkMxT7fH47v6Wvp3JLtQTRGzutwZrufhv
+河北卫视,tvbus://3JYL34XuFrxL8dX51PpnVstNtoM97D8qePzeojnpifQzwCh4TP
+山西卫视,tvbus://4XBdZzzEgHSJ2tRpKYdF5Ay5ZuTm1cJ1neALQCq6Kv4NHynVmo
+云南卫视,tvbus://4KxhktotCX1YRL1SMG5e2WqnyP1yzjD324oc7JES6PKJmUMkUN
+金鹰卡通,tvbus://3pqZqJY2csxaqxGQe9f9Zjx22f1tceRXjEkrEPbdUo36BEa1a7
+厦门卫视,tvbus://4NfaQ59z7CqAtWjpZk61UQR1UzonRB9kuukBMkiwoYqkzQDD5b
+五星体育,tvbus://4NSx8cEWVqgwgNSdN5XALxZhrK25HnMrgQTPSAoYMrFS3bXKBo
+星空卫视,tvbus://4qwWzJ5bYWeFBuevunR7nJnGcTGakCuVtvK134SKkbGnsKFhoW
+CHC电影,tvbus://46G6UJGsNNUZ9eKhF44k6V5zgheqgGS7z7C79FSRo7K4wL4bCj
+CHC动作电影,tvbus://3baZBbu6i2zaWQbzgAy3HnVug3C7ZYCkuhnMY6MD3QGfkvMW2H
+CHC家庭影院,tvbus://3ec2cWoPePavcUwFdLY6kiNLeMaYQu3ac8hhGqiS2BKe7WSbD9
+CCTV4K,tvbus://4pEBaicWSKoKUdKsFnFZZ7J8FptSfu4mJHwr3xXWHMWcC6vNme
+新视觉HD,tvbus://4NrD4RbouPdg1R26D2Af2AyEYDZtk73soYU98Bo9yDhfSdLdZg
+高尔夫,tvbus://3FHZJPNVozajzEg5CcK1MK2hqzAUBxaZbTskEMWkNjVDfvVYhL
+风云足球,tvbus://494VWu4k2wLrRzmtfzfdfarcN932QAikNaPepxgTnmsAGNGgKH
+海南HD,tvbus://2xq3SrWMhcPjfgJjB4MBqCGZLeCWmNBrsXsCwZjZps5vzwJjyq
+珠江HD,tvbus://3mc8SBEo7nXWBiCPCy9LmQAdb94XGZZaATDzEwHD4j3qHvtzGy
+高尔夫网球HD,tvbus://2ycicY1pGqD7SrFe8H5x9fUoHjSHXmpcQwKwphqrAUro1jto5R
+兵器科技HD,tvbus://31Smq7RBDR3pC3Vso9PmJJNNa3CqqLsrQ9zCMvYzk9BvcpgtwW
+都市剧场,tvbus://45JaRB6eSbfKYhuMvToPFmFnasJUnwBqDdKCjpYCtzyQfNoikc
+求索记录HD,tvbus://3pJbhKqDzWMKq5CmxEMTKDgZMXRrt6HMUpHTJkYPBBDMMJZhPh
+第一财经HD,tvbus://4R5qAa99W5dFwZeypHtMSxW9zLNWyLZNbyMNcjK92k7S1wHWk6
+汕头综合HD,tvbus://43HqjUJbVHbVcnRyuCnKkFNB1J8PqAqvVj4CMCWEJnwbjrSBJH
+汕尾-1台,tvbus://4Y9joHVq5pkKFABJjg3wwyqHLRf7DR8NdA4DmGcwk9s25EYxbL
+梨园,tvbus://3jJMzJ6qf2mcuVXtZ6EvzaC1FxkyDaQZ6Kzi3ASF2gUHFhQJoM
+文物宝库,tvbus://3RhKsRz4jmnnwK8osGLqE8j6Ykk5j49U7JmNZsBGubWbPEpjW3
+武术世界,tvbus://3H1AgCFAHKD4ocCiPGaq6gE2cknHo1BGp5ttGzUKtXrYKyuDke
+早期教育,tvbus://2x7fVbcXdQNyKMNtypcWsiTx3PeZGkRhxhKkmTya94C7UMbYeK
+先锋乒羽,tvbus://4qVtQB7qd8wS5PCw133Jy1WPPrqP84KXaMoPY6vop23R942bb6
+风云剧场,tvbus://4bPoPxJ2HA6SNGpjv1zQd7FgSRiH4XkNZyYTRmr5Y8Q6w3gY3L
+风云音乐,tvbus://4VhQBY2uNxjjpjoEhhrDxu9EBerQcV7E2xatGycLjrxDfQv51q
+世界地理,tvbus://3cPdqn8zysFR4jh7dDYDRek1zbK7vrnWJJrmNMqHXWgeFQfttz
+央视文化精品,tvbus://32QqFWYtaVWBehVzWVZYZCB5vZ6KQF5bZZPVAVQbWdsZypwTvv
+乐游HD,tvbus://4THiD3WEr6ZSrLMXgAW1aqcTTNEoGiqGX8Hr3v8y1vdFxMWuhs
+茶频道,tvbus://4nz3Xe9GvtXtbneCwWkQzVC7g9Vh8hdKeggQj7EAFYg1gqAsJS
+快乐垂钓HD,tvbus://3R4PUKtESWh2euWN83UNh1y971hYjQU4puZYBkjsJ9jWDLyupA
+怀旧剧场HD,tvbus://4or4ZBW8QYwwf4QfsxATpxXVFoufj7r4nQ7YQnJkeSFF1vG1kz
+第一剧场HD,tvbus://35EwMtDpMu3yr4E9S1Gecw9jpKdjyRBTZHQd7yQcfPxQu25JFY
+劲爆体育HD,tvbus://3BAn6pnik9H8ECVVGEtQYHTbyJzQGHAALvB5HciSn5xNiDoLKb
+欢笑剧场HD,tvbus://43iTZPnZtjKxLtk5KTdYbeLmUcz9AYj7nqhZ3PBwJRY4d8TMZQ
+魅力足球HD,tvbus://3Pv432tovXNJNq78bYW3uRS3syCoBdNhDKf8w7mBpGvCS5qdew
+岭南戏曲,tvbus://3btHnsrmxYaHNdgDEeSdAPKQv8D9dZtaVkiuBHF6ki7xQxtBsh
+江门综合HD,tvbus://4km8R9WwkqR6PxwpGSCoL5ZSx6uCahBXQwWVuumcoLBshEricM
+湛江综合HD,tvbus://4HRCPH2V9XuvuFCaNxLGearUMM2KtpqqogE8vznygxdytp3jZx
+佛山综合HD,tvbus://32NBmGh28koELGH4Lo5ZBkN77K71wuNM2dXAqHZ4EAdy6RZdvJ
+珠海-1台,tvbus://4AwBZwCVxojMUvWT18FHPsyAwsxWP9FhnN6jPkf8rcBe5h1mTZ
+茂名综合HD,tvbus://3as7yyYGEArnZbWcYt2gCXS69Z7wyqfnPUWaYKyATvZSzYNfSe
+
+台湾,#genre#
+AXN台湾,tvbus://4WMgzmArMkM5vNf4uu2RHkKv4dJRD3Vkp9YPiyXhSmsgYt5ybe
+华纳,tvbus://3uKNPRcc7mygQUHDXohVY8wEU89dtoHzk51XxZ4TWokNWVtzfQ
+动物星球,tvbus://4PrbRaMSfvef9YMu5kxb6p9D9NvcH1LZRoPfpXFSwrZKkPR7up
+DMAX,tvbus://2yX84LFYWaH7EMGArZ7T6r3uqQVHgg7dvawx9HvzaLqGEj2Swx
+CN卡通台湾,tvbus://3iK84F5MNBjQ8iX93cHqGUk5kcdqjARnZ6sbqLFLtiXYeGfm3Y
+好莱坞电影,tvbus://37fj49XTfsVatDHTZ26wBKyQ7Bai7G2DpdwM3F9Mh5KtoPLMc8
+Eleven_Sports_1_HD,tvbus://4doYNtW5FdtwNxXyQPs6GBFzP23iQs9cpR2rLedDFuSTLToWEq
+Eleven_Sports_2_HD,tvbus://3KiEH7yhTm4WNeRCDGLY9qVGkix298VbVGy2KLQFK3GUk8MJYV
+高点综合,tvbus://37H4N5RNePpZKnxrLacSf8GhjZj5xseA328PYeezQULZe33wHf
+大爱,tvbus://4eCe1wVAeNsB79RDgMFVUuzS1Gzv3rKzZ82rTHaXeMB5Ljvdxa
+TVBS新闻HD,tvbus://3Ux2J4rEMvshwRoHJh82XirBrfeSKP1brEtuPKJATNipC8EVAd
+TVBS欢乐台,tvbus://2wyAx3tyEjkCvvZZNhXsSE1M7SLKhUqt8QbPG73WF1JSgXxigX
+TVBS_HD,tvbus://3b4zhayhGGDjCrkKvT8PjpWsRQSaFizPpemaCdvXCeEZWnQBtT
+纬来电影HD,tvbus://4tKCb3ZKeM41FW1a2eZnt1EhugFk36m8EdkY9nyrHHVK51kr2G
+纬来日本HD,tvbus://47dKq434PpSNPRxMbD76QreSXoMyTCmx8bbBsPUcC2a7bMn6K8
+纬来戏剧HD,tvbus://4eqgM472uxFHxrHMu8ozXUozhMaS6z1DXzgUuYerVEvuur9u9X
+纬来综合HD,tvbus://3ArgRrBeu7FeETu4dT15rwYXKik91PYWDR7GYjrnepCgw4WkTJ
+纬来体育HD,tvbus://3aWvwzFKS64VGoFi4qNgpA5FzzHQeF5wGxhqh3Y7RCmEgYGruk
+纬来育乐HD,tvbus://3XM57ed6iE3k7LXcziTG8bDj9LCqPXJ5j1e2q4eWz8PMTukUhP
+霹雳台湾台,tvbus://4c9oeKK2SrBwqD4KrnF51VnYhMmdMd7xmeiRL63HdCviTJQkpA
+年代新闻台,tvbus://32GHqXBVWJEq4R8CoUizspQx2UVuKK51NakeK6Fh7xETAmFZSK
+非凡新闻台,tvbus://3cFv95NZyvE1qMuxkXUKN2Mce8wxHLi2SJ621KDYC9wKAFXaEM
+三立都会台,tvbus://4SSk5EHgKoiDhiG5L9fUaS1oj8eDTZSDukLTLQQMezvCQHVbNJ
+三立财经新闻,tvbus://396nRRCmyTQiBiXyU2fxr6vSbyH5WsxAeQJkBB8kq2qV2ygW6g
+三立台湾台,tvbus://3w2JccaJvktSd2brEuFsDqdMv61AFqGDMxYN5CcSht5fjXMRrS
+三立新闻台HD,tvbus://3DWZXzfcWRJsFGhLNwcQSQGX4kgextD6fRu9EX2X8ChLNvziPw
+Boomerang,tvbus://4GPpNjAxxuDf1BzaNZyd8X9WGaFiqjhZPGwqrdWvi5KEYR3NBu
+天映频道,tvbus://3oG8ty21jUVNADDFMu82x7ypD7ST8hfkKe5CjJLV8aH5Zd6jup
+BBC_Earth_HD,tvbus://458BUH5vz6GCR8Rhq1gtsygtH5AmTSuWDWvgKzZSfK5RXkSd4y
+BBC_CBeebies_HD,tvbus://3W6wjLVEQ5K3txXNbNbjnX6b4xNaD8ot7fvLCtr653sW8HCEPK
+BBC_Lifestyle_HD,tvbus://32d4L3m8hA259aw872iRc5vuFj5f2y2M4SHk8n1JWtrJMa1q4n
+非凡商业,tvbus://3MbomfhMySStmTke5e8FzGxPMT3SnCKmsMavwANLEdiRu4FSRU
+佛卫慈悲台,tvbus://2ww3i41rACihL5U17hqNvHzBMMftbhmzjmejostRJBaayPj6W5
+唯心电视HD,tvbus://4EbJMsDVcGtQLiove8Sgp6eVYN8C2bvBE8PtpEHV9xebKcLJ7o
+东森洋片HD,tvbus://43LCyCbiNwAQLnD1jFJKa6eX1CKS7WngpjxT8rb8QEKyBf91CG
+东森综合HD,xxxx
+东森超视HD,tvbus://4ikXbi3UWGyGt7qXUX4A1TgEfXdC1FkffQbZj7FW7YkfySY8on
+东森电影HD,tvbus://3JvqUSTHVWZGXDFeSLBdiU8wG5j6QxG5MoAw7tXtuoMtcAxtLN
+东森呦呦HD,tvbus://3MXgBu3NiYxmzd4pAvfaXAHooBraezm9yAE4K6VRYK5v1udDD2
+东森戏剧HD,tvbus://3J8nYAwZv3iMU1vEm5QNmiYpUmmJFGGqGx8zKej4pYYVJvV295
+东森亚洲HD,tvbus://2zo1T1PccU5yHYg5XctKjD8gqp5MFPiB9wfpCFwGLXrTzJPExa
+东森新闻HD,tvbus://3sJkgs3bHGZ82iFHBM1TDVJqMrDsvE3QAkj8j4xfwn5xMsv7gd
+东森财经新闻HD,tvbus://4D9jD2RA5EUqnudiLoLvAtd93GkYmANPu85j8nU4YjsQMWSjQ1
+探索频道HD,tvbus://3LN6mokWLnDeCQCEkSBdqhh1rUhtvRZGFvVqt4UEdLVFQRtJKZ
+探索亚洲HD,tvbus://36ea6HLTtVqvHvjri9C5RLCuDJSxNf8BcAChkmUJHmaME6SQfm
+探索科学HD,tvbus://3BWDXSaNJx7fquw27yffBFYdaxGDddiNSWP5g4yD13aPUGJ672
+八大娱乐HD,tvbus://3xD7hGvkHZNaWsDTyHpYv3qJZf2PDGeYrcm2hxRL1BpQHJiHGt
+八大第一HD,tvbus://32Zg34CSoK31GVbyUZqsJgKZqGeDYaeAVVAM2ZqdzV7GgkMRR9
+八大综合HD,tvbus://2yttxjJ22C1EJ6i7SjdVxEMRnFi8ey3bBDs5oivPLuy8BxwE5x
+八大戏剧HD,tvbus://4UbPh4kWfRCKSEgPqEJxA8KSR6F9yKq8P5kmQ14VuaDmsBz6KD
+TCL_HD/TLC,tvbus://3m9LxWahygtPEyvVrgTmQRy5TeTmXnHN5twvDTeEZiA4akQukz
+民视HD,tvbus://33LQn6AWdyTUaWHPJ8iZzdG9VvJdw6zeASTseHeEDFa3rkuUvL
+中视HD,tvbus://3m1fGwwrM2hp4YSAQEkxuUfyXc7f5WQ2iJQJ8sY5wJnPxdMt8k
+华视HD,tvbus://43CKuJhMS9vV93rDe74zH77WaVwAtnJP1K4PkpyXpMguUx9F2G
+台视HD,tvbus://4M9CYUN8mc37JtwgPXwweQLVaJZKivs7bbjgmVRya2x7dDayyX
+公视HD,tvbus://4ZrVDHAdGyKWEoXYthQv3TK395WT5s1iipWFpp6KnnnMrgYvR9
+龙翔电影HD,tvbus://3VDfZrunV55UpGMK241a5Qnu2ZriRgiZ6Be1DNLTQ6F4JGxmE4
+寰宇新闻SD,tvbus://4rjYNr3ZJWssfXfjdrumeC2o4p65wj9j9SkpmydCjMVJRnTsA6
+韩国娱乐HD/韓國娛樂KMTV,tvbus://3hpLxEBRS3YEhtA2K4ix3H1vVZAyZAZMH6op5CYyRF1cdJEANz
+MTVHD,tvbus://3AT3GRdT6ZGZcky4ThmJhnUZSA82pMWKgEYjdSenQMyatpXpbj
+中天新闻HD,tvbus://3pxTsunU5NJpVUCL2AN77seTkbLfBTNFTU8CHCHPCXopq6QWET
+中天亚洲HD,tvbus://4TFf4qhDc645RootnQBgHAPyrGMA7d84oKwq4chrjRQSqVFPFS
+中天综合HD,tvbus://3JX4SiCnYxmP1H7AMHU55A8iW3XDXEKmczBuRqNMZrt2DG3vpX
+中天娱乐HD,tvbus://4UrNeH36CuwtT67BVpsGXPAbmLB96ro4CqM8iG6mPJ76utgVam
+壹新闻,tvbus://4PofdtPYy8281d8qtyRJuGN1DYKKTTZTWeDooLHWd15zfPN135
+Z频道,tvbus://4nHwM8nwCew5yLz1Tdt8TGNdGAMwJyUctzx7uLSydWe8r67TG2
+国兴频道,tvbus://4RhyRoMKbV79JES5fWisbSDVPVBVciSwth8r5tYy2sfzT9WFLR
+Al_Jazeera_English_HD,tvbus://46nse3ZYVaW11mgQyFyABR3ssfMW5E9FoNRMo1ij4zbmsQxE1r
+Fashion_HD,tvbus://4GTU6MUHcAkMo9d3GVL9Z93Dmhphg5XJWiqGHwEPfS4UfhRMva
+HBO_HD,tvbus://4tAtGf6qP2comtC1z4KqgFz8wrhSL9xyGXRE53qkEJJfpGaiAT
+Trill恐怖电影_SD,xxxx
+Kix_SD,tvbus://3m9iRPYBtVjeCa1WW6fhQMbBzMuboXTdqJSACoxFHaSdVo5Y8s
+KBS_HD,tvbus://3GnBpFUCjmPAnNwPPc5CjXcGuWxNJkyZWurHYATi2yfCBEs78F
+CNN,tvbus://4HwG8D4AaVz8y3juPRV2CNcQ8aJ1o5Bt8YKnSF277xTui1BdAD
+国家地理野生,tvbus://4bCT3en6kN599mY6moyryAdNWS8NEECDGwwWmQr86qGDDnwPXL
+Hits,tvbus://3Xj6bKmbAYVsAinujoZ3SnAq63epXuK8ufeq54dtrwGW1hQtRC
+Animax_HD,tvbus://3BZxr2xxaFpZ2o7CaWwqJjkV7v3fPAaYLoF8TjngwZNZpyvhBt
+TVE_HD,tvbus://48KpZiRPogYHYzxWKPdMnSpzeGtSNyj24vQdARDFnAjFCqmb6r
+Outdoor_HD,xxxx
+尼克动画SD,xxxxx
+尼克少儿SD,tvbus://4DPdF98QX6hvqafsZnZJNP6bxLEUw4xPPu7e4DhUAp25wsqyNJ
+EVEHD,tvbus://3LsSJPzw8JQ22yHYq5kC3hL8uXjNv37LASnXvWsGXBeybznJfV
+欧洲新闻,tvbus://4HBnFBwyXkbTuPX53AP29QvUX5hjfvVStfRjfv5BXtCYSQaNHm
+Skynet_Sports_HD,tvbus://4mfwd1qz6e3ZYmng7xpxQ3ZUdebpuf6M4xNAXBfH6Q9AU9EH1M
+MTV_Live,tvbus://4jrinpk1DwsxJ7TMTFR9cYrukMVP1oWAaN6Re5qKfgPkhdaWRo
+Fight_HD,tvbus://3Y92rXUBPqvA2FJBfULnXADBEpTp9MHv23YLw36iW4c37QD1a7
+SkyNet_Sports5,tvbus://3L7tF5LDytLsA7sV1SSEBiHcoCCBEJzBCNE9mJAv39o9tH8Yqj
+SkyNet_Sports6,tvbus://3rXAcxeqx6euVW9TYbawXkPrxrZgUTPUx4Z1gTuo3js2dHY18M
+SkyNet_Sports2,tvbus://2zrZ359QYyiSui98AdkZ9reMSfaKDJ3ydSGBbFWi6AasY3pJ8n
+CN卡通国际HD_EN,tvbus://3Zv1aBFExeyVJ7cQrZDkqZnqCWmR8RsTjRrBRThxob57QR5jom
+HGTV,tvbus://3vVbHBdopraVB89UUksJ1MLtEZT6jw5B9EJQx1DEsSdTc1XpgZ
+Travel,tvbus://4XAD7zPVMVz8KyKkSbQmK1tuzkeqrXtK544NLpuFnmU791U8JQ
+Food_Network,tvbus://3Rxtzh8ysR6L9Bf6E14Fu6S5CDNAScfJR7L2QGPx3Am6gVP9TG
+CNBC,tvbus://4GYW7VeEug3aQp4V9Vouc7HgjA6kKDG2H1oJVydLyz6Yq5gVwr
+BBC_TW,tvbus://3H12umE6DqmF954WLokb9R4uDcFz8qEkM8BUPDq33pFkQHDE6t
+欧洲体育,xxx
+国家地理,xx
+迪士尼XD,xxx
+AXN亚洲HD,tvbus://4ioWHMaZgBbg8j6nCYQBxFbK8rDWwQJBDqFgZJLHi5L7t14EhT
+龍華電影,tvbus://4SkWRZWh4TcTV1bcQProTGsXvdfockYduP3i6KSv4CrtStHQWh
+龍華日韓台,tvbus://4HnsrPbFnVeJcuFbR7y3Skvnzti1xi98dyh1GoVUHJgRBhr9Lu
+龍華戲劇台,tvbus://4YH7vLMp3pbYSPH6WRapJdQg6ZfFGa9UKno6c77GhNTKVBzrVp
+MOMO親子台,tvbus://32rmvP8cEGDzsajCCtbjrEHFGHtjVmaPEugymo9tpm8PCAn2Js
+历史频道1,tvbus://4ri7nUnLvFyS7w8snMseLNgPnSVYuNoNithUakx1WvC7WhVhwb
+历史频道2,tvbus://46jNPmPrTrXGsYQJdsFgMiCha8SkWqbpnxQ7PQzmJFryTNnjx1
+tvbs精彩,tvbus://31sxwrtMoGVKYyfuwYY8qPq8xtS6kTiNTVhBk3DvHHgj2TDtz5
+东森亚洲新闻,tvbus://3JTHPJd6uzzokBozTMkfFBQzXyDtE2MWbC39EoE9aHqgxQaz7e
+东森亚洲呦呦,tvbus://4HTh7gttzduCVbjJ1rePwrPTgAGufBDkDosfv4Nen6TnorBiXC
+TVNHD,tvbus://4h3zH9GqivmKJej9pWZ8Q22Gv9Av1ZSrnqsqPsxQQc4Gem3zm7
+one,xxxx
+gem,xxxx
+博斯運動壹臺,tvbus://4TmLiQfiV6e19dhyUwqwdUER1ddohvGJa6haq3RcVLURPpHM4t
+博斯運動二臺,tvbus://3JHttb7JmX7RU1K7eK1hN3whDL2jqYf2hLZ1Trae3f6M9fG5RV
+博斯高球壹臺,tvbus://38ToAAyD7v7XUm5pNBe9SJn1pHhmaNZkNKfSBt6ZD9o7g37wbm
+博斯高球二臺,tvbus://37hqs48Y3MVHRgFnTYqnPaa1YB9jxCiHxqVft5nob56KSPgUtE
+博斯無限壹臺,tvbus://3gL4n4RJmxqRxsYABenLxQPL8BqhhjCKBYhXD8u9h3ALKspbGp
+博斯無限二臺,tvbus://39YSt9C6yJopievCbt77ctWQmzGYgzCrFNaDKAHahiGagjHU2h
+博斯魅力,tvbus://3HHzqgDHcFDKaCv1pHV8Ls83ZHK43UUjMbqraMkjHv4QcsSyR8
+博斯網球,tvbus://4Uu9QHWAKA8joX9z4tiJ1sozVU2XuLUEpx6fqgt9bn6Do5QtWN
+靖天電影台,tvbus://4nSsUtBt8TvwVqxFaumNbo1PMQdK1LQ9GKNsG5xfbh87TCxHDa
+靖天映畫台,tvbus://4bYt4fnYx1YZN3rwVovfmhyodGJRsJu4tPfeH7ECCvs7AGJPdi
+靖天戲劇台,tvbus://3YDdG15bmnMUeNrvU8AdwKvw6c9irX8q1SsJPbEuxC9u3EhwpJ
+靖天資訊台,tvbus://4LhQZytsS9pp7ZUDpfBGW3pD5pAoi29Vb4jc93umgDtiWnZwYh
+靖天歡樂台,tvbus://4eQMx3WCUsKwaAixJ8MzrsSLUmHv4SE4fRDKbpnVRf35azPdAR
+靖天國際台,tvbus://4r4ozL7D3RRfDttAWMuGWB7iBxHfSztq1bbX7hhSSTSGH1rumr
+靖天育樂台,tvbus://3pqaWdPR2r7VpvhiwHwTzswgEnkGdX8MQwKgfTJNLHjJXYfBL8
+靖天卡通台,tvbus://3HpiSCWYQYgrGw3r7UkvL1h2nTeVy124yhWuKRx1KS94dgnobw
+靖天日本台,tvbus://4Mbr5eWD4idg1nbsTzzMJScUJhYyY92dsEBKAueRghV3ZHwUaC
+靖天綜合台,tvbus://3T53j5k4oEqNfH9Tuq27CjnUszKETxny7L8vXnKRxLc32SeAy8
+美食星球,tvbus://4QndvDK3MuTsSNjKm5JjMUEVsYc7Kdfh1w8PXKvR2Xa32m7uKD
+好消息2台,tvbus://45vSvbusUXe5KLW8mdyLL8hmMbKwmJYKJCZE8diMQzqXVjU4DQ
+寰宇新闻2,tvbus://3Q2dGRDZKraMzXavvJQfcankChqfgffM5sxRNM7vEF92QcCBMh
+罪案侦缉,tvbus://4cwUYUx7p1s6iiRgAvD5NXFTS2Updd7YWLcYriYXDuvja1zh5X
+公视3,tvbus://3jNY3SThQBcmd4unZvsmrJ1j87kYKyyZHXNvNvxBkpoCRtxLJz
+FOXHD,xxxx
+星卫电影,xxxx
+人间卫视,tvbus://4FgFU4JQTHUVSMRCW2Qn5joTgHqjjxokC4LQqUY7A8AM5xGHmb
+大爱2,tvbus://3N28ThZutwuuQ38eKedsvRZXcH8De6pHQoWQ9uPpozm3ZEtMTW
+亚洲旅游,tvbus://4RDs37JECg5yPSxX8E2KrLdLUPvLPmxw9yXif6WDP7b3aoTcN9
+爱尔达体育1,tvbus://4K7e2SGe6pg8uWZMWeBT4Ni1DDtR7yz6us7iMKECfwBcM1BZYc
+爱尔达体育2,tvbus://4UQtkKPVFGCPZ4wxLn7myzeUTLyGYZ8H3GipCXSDfaontX81oy
+爱尔达体育3,tvbus://3QTsnG2xcqULpchzVBNnKNx82iFohwD4LL6uF1xGFEkvgUxEpV
+美亚电影国语,tvbus://3xHsT3vaturEYKad4BkZgsmrgzfE2iT272nDC4sN69tvLR7Z58
+卫视电影,xxxx
+国家地理people,tvbus://34rQQTkdC7u1Y46ejowySHPFyhE37Cv8c9yTLnhFNvpe6akBvs
+壹电影,tvbus://47PuCmJesEYcFoXZtVbYPELJLirjSMYrGBieZ58aQQVyhropAS
+壹综合,tvbus://32D5BWBEBhHFEFsGWNxR96RMTqv38aSZoczUbCNGBoYgYx87Hw
+ElevenSportsPlus,tvbus://3erzdzyFPKhDq4JgVjatwPXCrg86ENUyDBEydCTf1AyCgNxkfR
+cinemax_TW,tvbus://4EDt3ZCTQDsaUohs67v89vmZLyXZzSeNnPhKjkSWPEA4EmRLRD
+卫视洋片,tvbus://3z6B6kTDttGjZg4mehreYy8jrtTD9XB87FL4SsNF46GYbV2Src
+公视2,tvbus://3iHZaRKYDmqvwSR9m9t7mnBPVrwPWzLCZftiPSF514SVD7QGA5
+美亚电影粤语,tvbus://3kq95RuFA4yWzhPC5vSXZGYdjFzN8VRskSDu8fJy2vBfJuUWgm
+CatchPlay電影台,tvbus://45Cte2J3uDsEacQ55o6pVJHukE2xRDH5euCyKky7TXcLm651rm
+好消息1,tvbus://3DosaMpTBooyiNsLYqQJQpHZ9iN5Uv1M7GL2t43HjDtAkkrdkW
+愛爾達娛樂台,tvbus://4BtjfK5eJKQtRocWGY1sZ8e2hHupYgoNedD3ghQHqPcWaracFC
+EYE_TV戲劇台,tvbus://39HUjWYquHXEnn47dirtP413LZxo3hozNmKsewkWB414aJTeVK
+EYE_TV旅游台,tvbus://3aiSBjNzZFZjo5h1UH2VWcvGfDbLrEWRLaovrfvvBzoDe3zEZ4
+HBO原創鉅獻_Signature_HD,tvbus://4ZgdEo9YrTWekiA3z5r85JJsEh7woMtrt4YQXDLQ7HbfvmLs3F
+HBO強檔鉅獻_Hits_HD,tvbus://39bJmW3kRx4qs4YqpNwzpD81utNCKs1wojjHFrQfwKTPT2sGsW
+愛爾達綜合台,tvbus://3yo4oUWP7AA9peSdKeRTD1Q9SJKCupDrwpmqvvi1pnvrU6ZEzL
+愛爾達影劇台,tvbus://3Kuhy6JjNuYfsecZXVJR7aA9LNYbPZsuzd5KHeCrrn7nniNbW8
+三立戲劇台,tvbus://37DyrTvvxyckSFcJXLWA4e7xMcK5YQd22MBaeVZVCTdAnRGmLo
+三立綜合台,tvbus://4N9FzVgcCS7sD57B2aJV6qfx2nYd3VaJxyhmLz6JT8jUerZUdY
+龍華動畫,tvbus://4GiC7akFRjBqiFEjDbzfGe3XsGPCySatBCNggKCTLbejFVyTZf
+龍華洋片,tvbus://4i3JBuAEra6waGawdM6jdNrK6W1iazqVehiN1g1p7xR4ECpiL5
+豬哥亮歌廳秀,tvbus://4AdbmVNArWZaAeu31Tkoz3CC35Kva4ifUw6uoaCb3gP976Cy4n
+金光布袋戲,tvbus://4fAdwWWj3ozRqnu9dkvbscpV9t7pPJD4zuFsjR6B51ezGqBWSE
+尼克兒童頻道台湾,xxxxx
+幸福空間居家,tvbus://3ekjeNiAbL4L9bQE7TCxvso11d9RrK2TgQGqEqVeL6WdRNQFz4
+HBO溫馨家庭,tvbus://3aE4KoPS5LfXhsmVVPP1UJ21cB9Z6wzT7nN8Dbv7XM2JniQRqz
+亞洲美食頻道,tvbus://4VZgZFDhjWHVdaZxaG84EP9GFuGFYQ6hBWfDPzMsNmqYtsct2J
+TLC旅游生活,tvbus://33XfLC2x2swmsWMmiwXdpYaY1rSXTydkNDeiQ2MTegKpWoa9jr
+ARIRANG阿里郎,tvbus://3aJMqvMCq6c9t8zUEd1gPSmY6bsKWaEzbX2f95htRdwfqH7cAz
+TRACE-Sport-Stars,tvbus://35x5gLJzY4At7Akb7jeT9EKcyB6muK1CN8T39zYZsmTKSSyam5
+My-Cinema-Europe-HD,tvbus://3FgsbEaSYebAsi92pRmgXm7q2QDP1ifUD1AQ6JwknxaBdgNcst
+TV5MONDE-STYLE-HD,tvbus://3zjp2rHjoPAxTCuhKk1o8hiqbkNS8kuzNT7fH5n4NEQLbxj37n
+Pet-Club-TV,tvbus://42PXfc5LvEouXYeJ4xfacKyJscgjL6rvdvjLmJPLsH3Bt9q8Kr
+采昌影劇台,tvbus://4eJ9HRsRpgPxC4RWVRv8Uw7RPMcor7qaj7GGXhYX7uL1nZ4uqj
+Mezzo-Live-HD,tvbus://3AxxtCst8e93xpKK8vbKHPBdv8CgAURCixBq4ZrTEattngkt6R
+i-Fun動漫台3,xxxxx
+ifun動漫台1,tvbus://3wqzuqSWFzm5qWnFmvuSVqU7MgZQbN6do8DQ3xKxaefMgvnZ3L
+Dreamworks,tvbus://4hXECong4xuQ5tUsqzK8hbutbyJUGDmxbw7fuECi9CHYCQLyGE
+LUXE-TV-Channel,tvbus://4QgdrDBzrxfAUDtRBAJUxduTtKtmmVLsAf7kHny5eXUGtY4pLv
+Smithsonian,xxxxx
+影迷數位電影台,tvbus://4WtxwFPqi8pLL3TCmpLnA3qepG1h5s22VV6BcAu2ihq5yK3JgF
+衛視中文,tvbus://3WJytick3LbxeyKTv8yhU3JcBUEuVKDEGaP4dFobP8nnSymFbe
+華藏衛視,tvbus://3BcuujRMtMPeeMZuxAH27vWjLyKanH2aemCEq4FjdTSXHvn4SU
+原住民族電視台,tvbus://3Jpehkgna6fgdQeuHMdFWzNV6kegW5Pe6Jxi4VCxhcSzSWDcEY
+MOMO亲子,tvbus://3jNsryCMeZjkvoC11N2s3ZcPdYSk1hBsVTRCUFPyxTGYyeDy4f
+公視2台_PTS2,tvbus://3ACKD6Z1FeX1stHwDtmFaknJDuBPnafz3c35fbDY3fs5SXVXaf
+公視_PTS,tvbus://3K8mtAND4bDaSY3bxSjUSimmPgwesji6JkYYuKqKSyCS1dZCrf
+民視台灣台,tvbus://48GnKK5JJrsMLT9qw3oqxkNBdRV47fUfnDrUTdEXxYS9BuARZS
+民視第一台,tvbus://3bwsoBWKpQCvKUUrC8dx49TYiVYbNL4PCqMRXLRmEkKXAHMGWJ
+民視,tvbus://48zGexSZzgbXFvWVwvPygj2xzcrptpDZYdfu6tkgTVEpc1R8F6
+民視新聞台,tvbus://4a9wiejHS34hJ4WeZtkF6wKo8HCukTaTgWwd7RWZvE7HwBGzjJ
+公視3台,tvbus://3a9sKyXRL4PYh7fQ3jWBPCchDtgBDqDAWoDVzPE8bMEVtk7U2H
+客家電視,tvbus://4joMwwyHKnaxoDEFUgfWFNTV5EzjKnJzHBE39aPqScD3r8cF87
+台灣電視台/台視,tvbus://4jGHVACGGhaqicF1EHb117KccimTxv7QG31JtSj7YUAoTsQNam
+台視財經台,tvbus://4tEVJGSwcx9r4S3vhHgL47zkGaY4d9Xyyrbmf5hZ3xrus7f7em
+台視新聞台,xxxxx
+台視綜合台,tvbus://4LniRU4kxqoMghSakrmSKX2gShYbipnsP4VY2mMwkZsKuNFmoj
+華視新聞資訊台,tvbus://4JHYMa7hn2JafUmbQmQmPcEQ2LQavo4NDfzfJuTnonG3oEnxWY
+國會頻道2,xxxxx
+華視教育體育文化台,tvbus://3ACjtDtMtsMeyhfcTFqGS1yW617Eh5nJULBkUo8DUkUgLwYrUv
+國會頻道1,xxxxx
+華視CTS,tvbus://31BLUTBJ93kZMi1VYpsu4wDTe18fHDyhyywCosdX9sUvQShg27
+中視新聞台,tvbus://4M8hVKKx9tkzbVrBeyfdNkCuZ6h6mBaLN5ycCZr43orNQU3b9X
+中視,tvbus://3DJTzviynzxtPDL2CQMhP7DLZwxp9Dw3PP8mRvA3qkPXC43QtL
+中視菁采台,tvbus://3SD9ozSaDffd1fiyaZoj91ehrdU2u2woZw2gyF8qY2eMA717MY
+中視經典台,tvbus://4gb3iBjeWChuipRaRQmvtLjVv638sTNKLbL4FqUYQMkAmFskSK
+爱尔达体育MAX-1,tvbus://4VwaXE6dJetpVbZ8prg5DWhmGWQTCQqt7CAR214p57QeyQpZkp
+爱尔达体育MAX-2,tvbus://4212qGk1Aby6is29yF21QBnuzjPGHCg7amV2H9uYS1QoZycazx
+爱尔达体育MAX-3,tvbus://4cRdWqy1xaFdPsYtMAY9B6iZj4wk15wtLtuFNS1Fs1joMk5325
+爱尔达体育MAX-4,tvbus://4C3ciahMgSohyD4c1pe9ECfYVC3CTT5yL65m1fx2tYDLLkDZ1K
+爱尔达奥运一台,tvbus://3Utj7oZ7hG8gZ7FBeDM5FZk93YA99iNsdPF8StDmJD3EyLea3r
+
+韩国,#genre#
+KBS1,tvbus://3jxKv5q9qCauoNBptsexAQVQS916CNKRccXDBDPZMWL5qL1PAt
+KBS2,tvbus://3Lpd1azCRLfqD2diK6pPvPpVYeyQHEMQTxd7KtNmKZhH1Qudkd
+MBC,tvbus://3jvzVXb8wDP5u7rTi9pitpS5oVQA8V3vRXc6mJRA16wSfrhcuU
+SBS,tvbus://3WxAN2qQCQM6KfMkuBkX2TfSt9Q1AtQenLhhEridsYsfdngvXi
+JTBC,tvbus://3p6jp2UEsB86mGeEMV23fzD7qHzogc9XRfSpCujLpx3M1dBY5o
+tvN,tvbus://3udCBBudRibnZeoV3SnoTgjF7jKcgk1GQL5ggpdEr71ovHFX1a
+YTN,tvbus://3oR3mxSdztGbAMm6r5B2vFypRWfYyiMxwGXsq9qBzVZA3aJgek
+TV조선,tvbus://3XkLxGb11DooGKa78idRUYuiHKgUtujJzeZ7Zz83Wtim2Dt8iw
+MBN,tvbus://3pSoaNb42xxbUYqAY6QyBb681nRGnsDQce9eC1MmvLdifTH3td
+채널A,tvbus://4QejhCCoZfgTjxs95mQ5pVuQ99GYKAxinUUmRoJYzuGR9Xjrvr
+연합뉴스TV,tvbus://3x2NJ15zN96YGK25eUncHhvXL6jiHQa6ZkGSYRGYrJBgEDDQdu
+KBS드라마,tvbus://4BPuQA8HbuKxt2JikNt6N9aiZt74qcpUUiBAZuXAScLT6967kH
+MBC드라마,tvbus://3a4zTVYnisEwmToJEkPAVQuqAhTvEuKZsJuCN4EgEDFBDDsY7v
+SBS플러스,tvbus://4WVYwLoMfoDkVVQVK5P9kGWbMFM8vDD4GeFWrfm6V2WkdjCSMw
+투니버즈,tvbus://4LKd52TYAH5epqYbY9pjPum2m2gE5bqabVRTmEHebtC22wWq1s
+JTBC골프,tvbus://2xcBu2reJ5D3UbjtCTpMsPmLiTMimyNv9R4wNfyEKQdh6Jzbad
+SBS골프,tvbus://3DZpYhgaUbY5oogMvteAP8LANVS4RhB2pX4LNaYYH6NzoqGpJh
+OCN,tvbus://3DFBiKuMKYp4phGFoSPYw6XhVJmr2Wm4tae79h92GqdQNrEjR6
+iNet,tvbus://3psAqXsU7c9gie3LMqaGocTmwsMKkRk4GWJdCaxSTEu4iZCp45
+FTV,tvbus://3quR1p46ZaRCb1xtc7QeVAhHME6kZGLRVbAPuYykBcGW5mVxaL
+SPOTV,tvbus://3dQb18ru7F5TnqyyrWdpZLntyMvSnBEe5u6XbfNh4qgCZfDkpf
+SPOTV2,tvbus://3NqKRyieimzvATkR988V7pUJbi3znLKL7pEZ8g5b1pdkYYoxCn
+SPOTV_PRIME,tvbus://3tNr7pqXVS2B3S5ckupqkXNixsrjrXHTVnDU7wGHiXQxQ3Setb
+SPOTV_PRIME1,tvbus://43LSFvVVB6gvLR24nUueipXErkkHKU2Wdeq5RtTj3pdmQKUvFf
+SPOTV_PRIME2,tvbus://4b3MgFkqAkS8vy4TpEEqziBrAcF51Xsastcv8ikMshTAgrBFHB
+SPOTV_Golf,tvbus://3ajcwBMWqkg6UWxVqownnu3NupDPzDRbKwBNitEZTdkSU6ebQH
+바둑TV,tvbus://3RVUuoDHLrycVH9JQmLawqKpuDM4T7PQfSdbCCVPKkw9aw6Gkj
+Mnet,tvbus://3F28JmQ5rDcR5EqizWn78MP1FfETeNwzLpom4XvsGRXKDM8T4o
+KBS키즈,tvbus://4nTEuui2bo97NZbrEqyw4GTCN7QPUNfMHvaySYpg8BKddsAta7
+EBS1,tvbus://3m4hhXmGV6h5nJr2cB67KtjiaM7whaTHd7KxRqk2k2BxBzBaeg
+EBS2,tvbus://3PMyh5ehaYR7jMv4DNLYfFo2RMUmgPpKkCJKAU4SGGUCrdFhkF
+KBSN스포츠,tvbus://4WfzxCg8giw1rYdCe4xd9eHx2nyk6GpnjWrfSnkazDzAZGZpmr
+MBC스포츠,tvbus://4DHgZzz1sKfQeSsYfYxpHAYso4TnNWJH3UCjPkC8admsumvHRC
+SBS스포츠,tvbus://393DuECAw2pBKdtMQjdmMMZRbPmNpg6XUF3Y6VNeWDNL7RyPRv
+skySports,tvbus://4VfKGqEHoYk2usXwEjQ6tfttuijsk2frfgw4yPJsGVYJ3EvvJf
+KBSJoy,tvbus://3FnV1xA5VVgSbxEph8SeXSmL3ES7sYcttqhJsMEmQMuZwP3xP5
+JTBC3,tvbus://3AY3qqJAe9FYdk342s6r5o3i7mbTs2nTwttQnReijHVkz4bwvh
+BBC,tvbus://4Urvcm4xuXggAAXKB9aypJzCytiCVf9KqVddJLGmbzDVnPUPVw
+뽀요TV,tvbus://36sKRNwMD3Gy7HGjPemhJPrC3MoGga2W3McRZpYrHPYAjhgBxf
+TVN_STORY,tvbus://3SfCB8Cs4YC7SHzLbTJow9E5EJGz4EuoFezRCDVfBEPCxGAxdr
+TV조선2,tvbus://37mdktWB9tH5bsWY4sq6drLEB3Gzo2UxhQk15vgEDqHzt4Qc35
+OCN_movie,tvbus://3oB1tZdA2Wf9Sndyz6FVJBEhWfHvFEmM5Ld83Z3kcp3QRh9gVf
+SBS_Golf2,tvbus://4mJvFUftQHPzHE4hJxKK66C9eGSkdk54iYHyG7WzVRY63sG3fx
+스크린,tvbus://3eCY8pQbzw7TDrbrubzqzhp8n77sVu7naaeeVU9N5iy6RzUEEP
+CNTV,tvbus://4Zx6neS8DguP4pXorKfRqWvv2bL7ksSAaRSPYT4R3g2jZ1ssNa
+BilliardsTV,tvbus://4FPAbJoKCcdh2VxXjFqVZCd1hyeGjkpYUykAMujYBDbbGNWLLq
+TVNsports,tvbus://2wvWuyJYty7RFmvzfwXBEswXLSYVCzVQaLvUWC3nynhHAuvP59
+PBA,tvbus://3t42vHWarvc3b9R2QGgtMWKJAMiRpMZnwaDWiBDf2eqyx5uHbe
+IB_스포츠,tvbus://33Lw4RJwS3gyG4MhihKx6oL7eWUjg6AsGeBVDNHzyi4gpVP9c3
+부메랑TV,tvbus://3NJSm85SoMvTaZXNWygsBiYsQvAkCxamPbFDowfp6XDhMWmc81
+히스토리,tvbus://37f2aAboaHDyUaj1bGbqEHDUf7Y26dA1Mt4rLp5u41TGVFxLNM
+디스커버리,tvbus://4kyWCZT5jfDKoN7X6fuZq7CJZQm2fMPiDPtFxdzdweBVXvCvG3
+BTN,tvbus://45kHYwHc1pd1Kv2pceJ1v1LTmk5XuwerFqTRPkwfLQUsiQdxZQ
+브레인,tvbus://36YxBxanKPTQsKc2HSmZ1HLyQYfD1j1zYYJh3jjcYBkyX6agrw
+CPBC평화방송,tvbus://3uSzJPy5zwqVfooUZYrw54fswvVuAEE1Qf5j4ha1YKiN77JxTF
+CBS,tvbus://4bzuvzgsS7pBNmZ4SJ3DQBmtE1ERcDd3CStVkRUHaXfQx8Fmxm
+CGNTV,tvbus://3at8rAK8XBhsLKcoNGy4agX56d7ZgGDM7wYnZCcgkkRpnu2DUf
+북한TV,tvbus://4nhmoK1ko1D8286hiDmPtxhFarQp6jauB2pBke49qTWfx4A36d
+CTS,tvbus://3H264PihPmiJif9CfEDFWZUQTit4p6qqx16jgK78VyzbFAPbeN
+어린이_만화동산,tvbus://2yy8hT9NKebzKLaoWuHGc199sdgYuZqWBzi8Bwh3NAWUGJCfpY
+KBSN_Life,tvbus://4YYLoRNZnWLBz9ewkxMmjayEnkVnjEExoye8sDCM4nH5MzM23z
+KBSN스토리,tvbus://37EqUusMiuu1LEE7AZjeYtmxBxfBuspApzGHvf6JWg5XJ4cgYd
+KBS_World,tvbus://3HbrGNzDrPcYQtGRgoW1X2ikzMnhQLCS4hqADLUjFY6TznebY5
+
+日本,#genre#
+MBS毎日放送,tvbus://3pEv3LfBxHCg9s6iAw9bmc4QnSfAmkvDpbmmZ3FNoHL69jymhu
+関西テレビ,tvbus://3A4ssg8xoHg9d6tBT3TgxxxPnzjgSPRKAq9P8ipkepY5YwhFX6
+ABC朝日放送,tvbus://4F913rCUHQLY2Goxc15Mp1fokMn9LHE796WPmhEaQAT4j2nUZx
+テレビ大阪,tvbus://3KUpYikLDDqTD9vKXzKNzBd5JT4sjwR61MUKQiSCuCh7HCA4Aw
+NHKBS1,tvbus://3y9yZQsZRwcYxe3Hn9d6W5MHj6HGsjTaGgiJvoZgVM5wumkNCv
+NHKBSプレミアム,tvbus://3kSHzRnoxgChyk16JJFywJxhAFtGa6dVSgrDmNFTLwToYFVupt
+BS日テレ,tvbus://3tN6MCayiVPysjVV4T9i4F3QoqT4HMgikFsokAYMva14p8YVZu
+BS朝日,tvbus://3PMXfzGrFDiUvXvkYS5P8ixzXMzPdFJyX7hTcKJo4Q728jRk3k
+BS-TBS,tvbus://3kc2gcTrsvQRMr1k6eRxfNcqwy1DqnDhPrhZhc9kw2qshHskBW
+ＢＳテレ東(BSジャパン),tvbus://4b8333MAPtigC1V2DNNgg4Xp5bFiAgP6yRMb98ZEw2HGogXtWg
+BSフジ,tvbus://3B15bXu9ZQWve6XuG2mfeaU3qYYUecowyXdfHxBTC5dyBUKPcc
+WOWOWプライム,tvbus://3YYi6N2dvjnxp9rYw7uJnXoHbCn8ZS4xjQLsApGenaYDH4LYdB
+WOWOWライブ,tvbus://3juTyHAT3UmnZfm3EHRih6F4GFzjUGJAkauDBUkby1DJSw8UaU
+WOWOWシネマ,tvbus://4t832NfCMfTuMpdQWX7YGc5H9HGXc9rQqFmiy1f4YpBNKgKcyk
+放送大学-,tvbus://42mMZVM8HbQtAH2YgATdp9gU2c7fBUDqwctiRJx3ksnKdH6f6e
+フジテレビ,tvbus://4csVo6YEGfbb7K9afvUwPmPzVrXEmsBFWA1uhT9w5WKcL9V8Kr
+TOKYOMX,tvbus://49AufKh6e8jnixCbmGoHXMCACiCKkDfzwkLUyhMviSVc4QBiHZ
+スカイA,tvbus://3GCKvGhzk8xogN9EHEVtcH6savf3QunNZqXhMNVD9BMkA8V6Zo
+ゴルフネットHD,tvbus://4aTCnFGKvoknMmVktxQ2JDs8mLiWVVR62EgqVB1PPCL7ox1Yb2
+时代剧専门chHD,tvbus://337ZSccKwttVkVuHbzn5r6QkbPmsNDZ4BwBmjnUo7mxDWTqB4a
+ホームドラマCH,tvbus://3dkNZpW3gj6jD4SGWBsd9AfTjXbYWH7rUwg94xxQHbu1PERg6A
+ミュージックジャパンTV,tvbus://3bAstNJBMLcj5in9or9TvFFsGyecG9fiVWZ5keLx9JpefKPkEr
+グリーンチャネル,tvbus://47jbaeheuuXDS5BiH3WJroTvEXaYEYMat5CHt8Dv9Y1mT6UvDG
+BSアニマックス,tvbus://2x6R8uSsZkossLAF7fyE4NcS8w1KHANSj42MjpYQs1QYMR1meK
+JSPORTS1,tvbus://4oZn41ZiVJJMBn64BtyjWxNTUhuWgRNhg3RAve8xNxP2tGQCiq
+JSPORTS2,tvbus://3txTASS6eqLYngRiFHTmDmdmZr1jS62WvZEdTsMKJs1B1BHwbJ
+JSPORTS3,tvbus://3SzT8fVZmBWFmQqNwzjQDGxC46XyZi68Dtj33GvA4xKxvYjpvA
+JSPORTS4,tvbus://38HwgueLGdE6sxSL8kTJVopCcWLKe1K3tjnBYXwnCtZ41TpDqw
+BS日本映画専门ch,tvbus://4eoFkAXNxznW6BuytVcjVgrf3FSvnnRZqX6UsxUEpBdp21AazP
+ディズニーチャンネルHD,tvbus://3FGXMcF6sNZvAncVkZHRDutsguc93Bb68D3etyH8CRBsVgwSAh
+NHK総合-东京,tvbus://3Fjk6Y6wcrXxhdCSRtVV2MwNkWoEFURWowhMuNYoCM12XhRJJD
+NHKEテレ东京,tvbus://4Ctp1E9tzEy9TnQVuCYuJ1BhAZQzaZV3QwWrbJZn4vmwbjtyzc
+日テレ,tvbus://39VyNC9sxh7gFKrJhSx7hXkuHGKsUgbBMjSdBNds6gRyLLJCya
+テレビ朝日,tvbus://332uQwFFHsSMMp17v56zPoYap12UNgyitbMefJm6DSSSqXBpQa
+TBS,tvbus://3Ggi5mRTymHk33d2dyUjJZEMvJMCyboEsWiUVeLeUxoGDAre4Y
+テレビ东京,tvbus://36iJrRXnkfMz2mUBEFSBtD9rCRrMpipwbfW7hAWXQ7oof623tT
+NHK総合-大阪,tvbus://3nZNzqUDo5tabKAg6cxtx5P8RMF4bFNmG9gSJUFL79aPMd4TfS
+読売テレビ,tvbus://4VoRgxX7xU8MTjUZwXwr5XWVELeiYnVh1Wpqb7jJbTieY8mrpC
+TOKYOMX1,tvbus://3AdDKSACFhjWVjpQUgVU4s6dwMCEht2ZgWqbCCvSUF4XyVR8oZ
+TOKYOMX2,tvbus://4LPq5a29dSg3cHR9Pd8XXBGxL5bt7m5tD1FFELAj5xf5EpprZa
+NHK総合·京都(大阪),tvbus://4tLZFos9yVHP9yhR2vHXB3fTRaThf6pH7e7YVnbZa39HB9MxQs
+Eテレ·大阪,tvbus://4XTTprJ5z6c4945XVhQ2SKqLSCwfvv7sqUu8fjk8fTWMU4eJys
+KBS京都,tvbus://4L7FLGiJpYp8q4upQKw4HdtowTyfcnGMVQycSNwMw3DGBAytqp
+ABCテレビ,tvbus://4AruydAqkZhsqGYQUFMX6V6HB8yo3W1D6pG8QdC12PF1d8Nahh
+よみうろテレビ(読売テレビ),tvbus://4Pze7kwdZ2jtxKnwiqZWQNJNf9zKC351t3GRY96ab1aDuNjm4D
+BS11イレブン,tvbus://3FAXmKoCwfgtC9gkqzVBeHoKuiLame4BEQM89izpiaa7XgwoE7
+BS12トゥエルビ,tvbus://4NyKwE2svydjTPkJWLosGMWgsq2Yr9NjiHA1EiVcWU7rhXBzke
+WOWOWプラス,tvbus://2z4tVE3g2oQ45Sqt9JGMLevwbYd4Pp2kBqZDGQYtbEminT7dnz
+東映チャンネルHD,tvbus://4CFBPrHH5yEbBundmZejkGNWjPxBCja6MkXj2MKgvJYX3ZE4pz
+映画･チャンネルNECO-HD,tvbus://37VRKp3KbMrShm2T8XMdbqZwVXkVvn6ahPphezmQRPqw9Ssmbt
+TBSチャンネル1,tvbus://3rD2ZAjKk3LH75ajC17LtGfFGnyhHco5da2tCiZn5BJ7PEnGGW
+TBSチャンネル2,tvbus://4gCG67hqtz2Lz8JAu2D5GPj9GZZJ7NQDJV4RQvLoiV7b6qRGNk
+テレ朝チャンネル2,tvbus://4GGmyPvsT7V9pH8uAiQCnJargZqqs3oeSqZy9fMT2XJUYFSbuM
+日テレプラス,tvbus://4JaG3n3genTY3sQmv5Xnuo4T5QBa6EJvRZU3NGbVqJK17SjH6X
+チャンネル銀河,tvbus://3RHnyKw76Qkuft49Q9AnAXzwkwV6hneMVa8N3iFvKpdQ7YU5Fk
+フシテレビONE,tvbus://3HH3rv5BMU6rok7FgyuFBTeHGYGV9kuptaNpnZuCNKZHb8useH
+フシテレビTWO,tvbus://4TrhLxhuETTQyyzJTxJ27sadAs44SErb2hTR1Zekn3ntPdeptK
+スペースシャワーTV,tvbus://3b4rtUPnB5QQrhXcH41pe7SaJMTtPjVTi5ZoeVjZA3aSFHPzLE
+アニメシアターX（AT-X）,tvbus://4B73nn6F4kpWq1VvkNUUwN6GntKMPL7cQsnPE
+
+
+
+
+🚒38境外源,#genre#
+中旺电视,http://38.64.72.148/hls/modn/list/4010/chunklist1.m3u8
+美国城市,http://38.64.72.148/hls/modn/list/4028/chunklist1.m3u8
+美国城市,http://38.64.72.148:80/hls/modn/list/4028/chunklist1.m3u8
+东森中国,http://38.64.72.148/hls/modn/list/2003/chunklist1.m3u8
+东森超视,http://38.64.72.148/hls/modn/list/2013/chunklist1.m3u8
+东森美洲,http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8
+汉天卫视,http://38.64.72.148/hls/modn/list/4025/chunklist1.m3u8
+东森AMERICA,http://38.64.72.148:80/hls/modn/list/2015/playlist.m3u8
+洛杉磯三藩市,http://38.64.72.148:80/hls/modn/list/4026/chunklist1.m3u8
+東森美洲衛視1,http://udnhls.skilldns.com:80/dsmz.m3u8
+
+美洲衛視1,http://udnhls.skilldns.com/dsmz.m3u8
+港台Mt,#genre#
+环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
+香港卫视HKS,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港国际卫视,http://player4.juyun.tv/camera/158562106.m3u8
+Y+剧场,http://hms3659nc3747353871.live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/1.m3u8?tenantId=8601&accountinfo=~~V2.0~SSxnh2gPZaV_9wZMz86ofwc38bf04ecfc078f584095a9c6e91b9e1~3twbaBwUaqzfkJ5qW9C0gp1C11OJXhanim-P8XrfoHFX-jV3R0FL2wbo-VR8pOhzd5938d01ed8f640cebb709a281e7b1d3~ExtInfo9W1qynAo8QtSBzK-JlHBbQ3bb1f3410d135b117fdf58086980a86d:20240603131532:UTC,c864060416ccf5986b3e5940417477879245774,117.148.130.144,20240603131532,4444444684,c864060416ccf5986b3e5940417477879245774,-1,0,1,,,2,1000000201,,,2,23,0,241,9ec0a2dcdcfd4259318d50a38cde552c,,,1,1,140151867,END&fbl=
+唐人卫视,https://ntd02.akamaized.net/HD-NY/tracks-v3a1/mono.m3u8
+华文-1,http://oh.eztv.vip/live/eztv1.m3u8
+凤凰咨询,http://feilong123.vip/409990236/hktv.php?id=1
+凤凰香港,http://feilong123.vip/409990236/hktv.php?id=2
+凤凰中文,http://feilong123.vip/409990236/hktv.php?id=3
+鳳凰中文,http://j.s.bkpcp.top/js/fhzw
+鳳凰資訊,http://j.s.bkpcp.top/js/fhzx
+鳳凰香港,http://j.s.bkpcp.top/js/fhxg
+TVBS新闻,http://jnzq.ohoyee.com:9080/live/xingjiaoge-tvbsxw.m3u8
+寰宇新闻,http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
+民視新聞,http://211.72.174.95:8117/0.ts
+台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
+明珠,http://mytv.cdn.loc.cc/o12.php?id=mzt
+翡翠台(字幕),https://mytv.cdn.loc.cc/o12.php?id=fct
+NOW新闻,http://rihou.cc:555/tv/[Cx]Now新闻
+镜新闻,http://rihou.cc:555/tv/[Hk]闽镜新闻
+明珠台,http://zwg6818.vicp.net:28000/bysid/2
+TVB Plus,http://zwg6818.vicp.net:28000/bysid/82
+無綫新聞台,http://zwg6818.vicp.net:28000/bysid/83
+鳳凰衛視香港台,http://zwg6818.vicp.net:28000/bysid/85
+中天新闻,http://dbmlasvgas.sylu.cc:8880/stream/fc083553-b5ac-4889-b44c-eeff668130c1/playlist.m3u8
+中天新闻,rtmp://vip.huahong.pro/live/xingjiaoge-ztxw2
+中天新闻,rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
+中天新闻,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
+TVB1,https://6.cdn.loc.cc/163189.php?id=tvb1
+翡翠剧集台,https://6.cdn.loc.cc/163189.php?id=tvbd
+翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
+北京重温经典,http://oray.com.ogrehq.com:20146/udp/239.3.1.25:8001
+北京重温经典,http://ccj.gohome.link:55556/udp/239.3.1.25:8001
+北京重温经典,http://ogrehq.com:20146/udp/239.3.1.25:8001
+凤凰中文,https://a3f1b2.kylintv.tv/live/pxna_iphone.m3u8
+凤凰资讯,https://a3f1b2.kylintv.tv/live/pxinhd_iphone.m3u8
+凤凰香港,https://a3f1b2.kylintv.tv/live/pxhkus_iphone.m3u8
+凤凰美洲,https://a3f1b2.kylintv.tv/live/pxnaus_iphone.m3u8
+TVBS新闻,http://rihou.cc:555/tv/[FY]tvbS新闻
+民视新闻,http://rihou.cc:555/tv/民视新闻
+镜新闻,http://rihou.cc:555/tv/镜新闻
+镜新闻,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
+中視新聞HD,http://165.154.226.214:50007/of-4gtv-4gtv040/index.m3u8?proxy=true
+华视,http://165.154.226.214:50007/of-4gtv-4gtv041/index.m3u8?proxy=true
+越南-CTV,http://tv.ctvcamau.vn/live/tv/tv.m3u8
+越南ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+塞浦路斯中文,https://cdn.istoikona.com/ccnrtv/live/playlist.m3u8
+Plus综合Pdtv,http://rihou.cc:555/tv/[Pd]Plus综合
+凤凰中文Pdtv,http://rihou.cc:555/tv/[Pd]凤凰中文
+凤凰资讯Pdtv,http://rihou.cc:555/tv/[Pd]凤凰资讯
+凤凰香港Pdtv,http://rihou.cc:555/tv/[Pd]凤凰香港
+有线新闻Pdtv,http://rihou.cc:555/tv/[Pd]有线新闻
+有线综合Pdtv,http://rihou.cc:555/tv/[Pd]有线综合
+有线亚剧Pdtv,http://rihou.cc:555/tv/[Pd]有线亚剧
+无线新闻Pdtv,http://rihou.cc:555/tv/[Pd]无线新闻
+无线翡翠Pdtv,http://rihou.cc:555/tv/[Pd]无线翡翠
+无线翡翠4Ktv,http://rihou.cc:555/tv/[Pd]无线翡4K
+无线华丽Pdtv,http://rihou.cc:555/tv/[Pd]无线华丽
+无线明珠Pdtv,http://rihou.cc:555/tv/[Pd]无线明珠
+无线星河Pdtv,http://rihou.cc:555/tv/[Pd]无线星河
+无线功夫Pdtv,http://rihou.cc:555/tv/[Pd]无线功夫
+澳视澳门Pdtv,http://rihou.cc:555/tv/[Pd]澳视澳门
+澳视卫星Pdtv,http://rihou.cc:555/tv/[Pd]澳视卫星
+澳门体育Pdtv,http://rihou.cc:555/tv/[Pd]澳门体育
+澳门综艺Pdtv,http://rihou.cc:555/tv/[Pd]澳门综艺
+澳门莲花Pdtv,http://rihou.cc:555/tv/[Pd]澳门莲花
+央视综合Pdtv,http://rihou.cc:555/tv/[Pd]央视综合
+重温经典Pdtv,http://rihou.cc:555/tv/[Pd]重温经典
+龙华电影Pdtv,http://rihou.cc:555/tv/[Pd]龙华电影
+龙华经典Pdtv,http://rihou.cc:555/tv/[Pd]龙华经典
+龙华偶像Pdtv,http://rihou.cc:555/tv/[Pd]龙华偶像
+龙华日韩Pdtv,http://rihou.cc:555/tv/[Pd]龙华日韩
+龙华戏剧Pdtv,http://rihou.cc:555/tv/[Pd]龙华戏剧
+CHU综合Pdtv,http://rihou.cc:555/tv/[Pd]CHU综合
+CH5综合Pdtv,http://rihou.cc:555/tv/[Pd]CH5综合
+CH8综合Pdtv,http://rihou.cc:555/tv/[Pd]CH8综合
+八度空间Pdtv,http://rihou.cc:555/tv/[Pd]八度空间
+中天新闻 http://173.208.234.146/live/ctinews.m3u8
+求索纪录,https://hls.9kds.com/20260909/qsjl.m3u8
+求索动物,https://hls.9kds.com/20260909/qsdw.m3u8
+求索海淘,https://hls.9kds.com/20260909/qskx.m3u8
+求索生活,https://hls.9kds.com/20260909/qssh.m3u8
+精彩影视,https://hls.9kds.com/20260909/jcys.m3u8
+风尚音乐,https://hls.9kds.com/20260909/fsyy.m3u8
+精品剧场,https://hls.9kds.com/20260909/jpjc.m3u8
+欧美影院,https://hls.9kds.com/20260909/omyy.m3u8
+
+E! (1080p),http://23.237.104.106:8080/USA_E/index.m3u8
+
+电影 ,https://cdn.vvvip-plays33.cc/20260906/19166_7cb3c7c2/index.m3u8
+
+亚洲卫视https://hls.9kds.com/20260909/yzws.m3u8
+中国电影频道https://hls.9kds.com/20260909/zgdy.m3u8
+星河频道https://hls.9kds.com/20260909/tvbstar.m3u8
+高清,#genre#
+
+CCTV-4K超高清,http://192.187.124.34:81/live/cctv4ka.m3u8
+CCTV16-4K超高清,http://192.187.124.34:81/live/cctv164k.m3u8
+湖南卫视4K,http://192.187.124.34:81/live/hnws4k.m3u8
+深圳卫视4K,http://192.187.124.34:81/live/szws4k.m3u8
+江苏卫视4K,http://192.187.124.34:81/live/jsws4k.m3u8
+浙江卫视4K,http://192.187.124.34:81/live/zjws4k.m3u8
+四川卫视4K,http://192.187.124.34:81/live/scws4k.m3u8
+山东卫视4K,http://192.187.124.34:81/live/sdws4k.m3u8
+东方卫视4K,http://192.187.124.34:81/live/dfws4k.m3u8
+广东卫视4K,http://192.187.124.34:81/live/gdws4k.m3u8
+求索纪录,http://192.187.124.34:81/live/qsjl.m3u8
+求索动物,http://192.187.124.34:81/live/qsdw.m3u8
+求索海淘,http://192.187.124.34:81/live/qskx.m3u8
+求索生活,http://192.187.124.34:81/live/qssh.m3u8
+精彩影视,http://192.187.124.34:81/live/hsjcys.m3u8
+风尚音乐,http://192.187.124.34:81/live/hsfsyy.m3u8
+精品剧场,http://192.187.124.34:81/live/hsjpjc.m3u8
+欧美影院,http://192.187.124.34:81/live/hsomyy.m3u8
+少儿动漫,http://192.187.124.34:81/live/hssedm.m3u8
+探索纪录,http://192.187.124.34:81/live/hstsjl.m3u8
+亚洲影院,http://192.187.124.34:81/live/hsyzyy.m3u8
+IHOT爱院线,http://192.187.124.34:81/live/ihotayx.m3u8
+睛彩广场舞,http://192.187.124.34:81/live/jcgcw.m3u8
+睛彩竞技,http://192.187.124.34:81/live/jcjj.m3u8
+睛彩青少,http://192.187.124.34:81/live/jcqs.m3u8
+睛彩篮球,http://192.187.124.34:81/live/jclq.m3u8
+湖南电影,http://192.187.124.34:81/live/hndya.m3u8
+湖南电视剧,http://192.187.124.34:81/live/hndsja.m3u8
+湖南经视,http://192.187.124.34:81/live/hnjsa.m3u8
+湖南都市,http://192.187.124.34:81/live/hndsa.m3u8
+湖南爱晚,http://192.187.124.34:81/live/hngga.m3u8
+湖南娱乐,http://192.187.124.34:81/live/hnyla.m3u8
+湖南教育,http://192.187.124.34:81/live/hndjy.m3u8
+金鹰纪实,http://192.187.124.34:81/live/hnjyjsa.m3u8
+湖南国际,http://192.187.124.34:81/live/hngj.m3u8
+湖南导视,http://192.187.124.34:81/live/hnda.m3u8
+深圳卫视4K,http://192.187.124.34:81/live/szws4k.m3u8
