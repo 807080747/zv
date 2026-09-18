@@ -38,9 +38,6 @@
 
 
 
-
-
-
 秒播央视,#genre#
 
 CCTV1綜合,http://74.91.26.218:82/live/cctv1hd.m3u8
@@ -76,8 +73,6 @@ Channel 8,http://vip.login.in.th:1935/ch8/ch8/playlist.m3u8
 翡翠剧集台(北美),https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbdrama-tvbanywhereus/playlist.m3u8
 TVB Vietnam(越南台),https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
 红牛运动,http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_1660.m3u8
-
-
 
 📺央卫高清1,#genre#
 CCTV-1HD,http://192.151.150.154/live/cctv1hd.m3u8
