@@ -1903,6 +1903,82 @@ HOY资讯台,http://play.wenxiang.cn/live/cf4526f51988d0ed065b5c3fa4bc925d.flv
 
 
 
+
+
+
+TVB Plus,http://r.jdshipin.com/ndGgS
+TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
+TVB Plus,https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbp
+TVB Plus,https://smt.1678520.xyz/163189/tvbp
+Now新聞台,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=TkL6PN&tk=SLK5QjnsRiya
+ROCK Action,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=RhYj3n&tk=SLK5QjnsRiya
+TVB J1,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153396&extension=ts&play_token=ICdnbP1fWe
+TVB J1,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153401&extension=ts&play_token=zUkGQ70Vue
+华丽翡翠台,http://r.jdshipin.com/thuYX
+华丽翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
+华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
+华丽翡翠台,http://o11.163189.xyz/stream/live/jade/
+华丽翡翠台,http://o11.163189.xyz/stream/live/hlt/
+华丽翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=Wlt
+华丽翡翠台,https://o11.163189.xyz/stream/live/jade/
+黃金華劇台,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=Y9kdAm&tk=SLK5QjnsRiya
+黃金華劇台,https://cdn10.163189.xyz/163189/hjhjt/
+娛樂新聞台,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=OwCNvU&tk=SLK5QjnsRiya
+娛樂新聞台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153398&extension=ts&play_token=TPIp3m3TjC
+娛樂新聞台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571188&extension=ts&play_token=p582OSpABb
+星河台,http://183.237.240.235:808/hls/121/index.m3u8
+星河台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153506&extension=ts&play_token=miEIuxsBcN
+星河台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571186&extension=ts&play_token=HnxccIWiNo
+星河台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941620&extension=ts&play_token=TBgeJuh42H
+星河台,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=5rfJoq&tk=SLK5QjnsRiya
+星河台,http://r.jdshipin.com/sXuuD
+星河台,https://o11.163189.xyz/stream/live/tvbxh/
+ViuTV,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+寰宇新聞台,http://jnzq.ohoyee.com:9080/live/332123-hyxw.m3u8
+寰宇新聞台,http://222.128.55.152:9080/live/hy.m3u8
+寰宇新聞台,http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=a5BrR5&tk=4U04NDOE13ra
+龙华戏剧,https://cdn8.163189.xyz/163189/lhxj
+天映频道,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941618&extension=ts&play_token=kr082FQvzN
+天映频道,https://o11.163189.xyz/stream/live/typd/
+星空卫视,http://111.221.137.234:44330/tsfile/live/0112_2.m3u8?key=txiptv&playlive=0&authid=0
+星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+星空卫视,http://xhyx.gz.cn:1698/hls/35/index.m3u8
+耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/hd110_h.live/playlist.m3u8
+有线新闻,http://61.10.2.141:80/live_freedirect/freehd209_h.live/chunklist.m3u8
+有线新闻,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
+有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+有线新闻,http://61.10.2.140/live_freedirect/opentvhd002_h.live/playlist.m3u8
+有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u
+有线新闻,http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8
+有线新闻,http://cm61-10-2-140.hkcable.com.hk/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
+有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
+有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/chunklist_w1949275579.m3u8
+有线新闻,http://61.10.2.134:80/live_freedirect/freehd209_h.live/chunklist.m3u8
+有线新闻,http://61.10.2.146/live_freedirect/freehd209_h.live/playlist.m3u8
+有线新闻,http://61.10.2.151:80/live_freedirect/freehd209_h.live/chunklist_w1201085709.m3u8
+环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
+半岛新闻「阿拉伯」,http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
+KCTV_광주,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+半·新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+俄·IGITV蓝光,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+法·24台,http://tv.balkanweb.com/news24/livestream/playlist.m3u8
+泰·THAIPBS,http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
+泰·公共三台,http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
+泰国 ASTV News 1,http://news1.live14.com/stream/news1_hi.m3u8
+朝鲜中央台,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+新加坡国际,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+新加坡CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+
+
+
 台湾频道,#genre#
 三立新闻,https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
 中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
