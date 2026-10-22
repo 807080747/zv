@@ -14,11 +14,6 @@
 { "name": "易发TV直播","type": 1,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"},
 {"name": "潇雨萌萌TV直播","type":0,"url": "https://ds65.tv1288.xyz","playerType":1"}],
   
-
-{
-  "spider": "https://file.icve.com.cn/file_doc/305/994/4C4F8A2CE645A5539405DEFE99D17FA3.png;md5;4c4f8a2ce645a5539405defe99d17fa3",
-  "logo": "https://codeberg.org/dongyang/DY/raw/branch/main/YS.png/1.png",
-  "wallpaper": "http://127.0.0.1:9978/proxy?do=AowuWapper&mode=2",
   "sites": [
     {
       "name": "东阳🏝影视",
