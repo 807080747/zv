@@ -15,17 +15,7 @@
 {"name": "潇雨萌萌TV直播","type":0,"url": "https://ds65.tv1288.xyz","playerType":1"}],
   
   "sites": [
-    {
-      "name": "东阳🏝影视",
-      "key": "Douban",
-      "type": 3,
-      "api": "csp_DoubanAmns",
-      "indexs": 1,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 1,
-      "ext": "Douban"
-    },
+  
     {
       "name": "东阳🏝专线1",
       "key": "Woshinidie",
