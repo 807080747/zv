@@ -193,6 +193,7 @@ CBS,tvbus://3suqRHHLfmwuKxh4eCkbnCwjivotidwsc9Us1PeWB4cCEv1ZyP#tvbus://3suqRHHLf
 CBS HD-US,tvbus://3RjDC826E9TgbLyPVC14UEoDRB2Kfe6y81hMsnVNaF9pnjjKMz#tvbus://3RjDC826E9TgbLyPVNQC9QFLgYAzQ45SmnupjwpdbXA24NEEfG
 CBS SPORTS NETWORK,tvbus://4BTSiyCZgj2KKwjAUbZ163DvYSRxADq9NTjHkRaLgu7WeQk4Dr#tvbus://4BTSiyCZgj2KKwjAUfounywPqMtftvGUqZReikCMtRUYCPR5vL
 CBS SPORTS NETWORK HD,tvbus://4BTSiyCZgj2KKwjAUbZ163DvYSRxADq9NTjHkRaLgu7WeQk4Dr#tvbus://4BTSiyCZgj2KKwjAUfounywPqMtftvGUqZReikCMtRUYCPR5vL
+cctv大陆,#genre#
 CCTV13新聞,tvbus://4eiuNG3fJHjhk8q1RHfMnKEwhyvszTkfYF5ThkMCYjgbrXSKaJ#tvbus://4eiuNG3fJHjhk8q1R97uZQHUoepBg2phwkAZn9sAoCyfxcbuqS
 CCTV14少兒,tvbus://4CLWQ8nnKztBcTpJoGafTw1Y7pMnHFZ1CtDPGNd2t14aS2TXUq#tvbus://4V8Yoww3pDgAijwecwPanBHC4YNJXX7yrvEoi6kpsz6iuYn92T
 CCTV15音樂,tvbus://3BcKCaFfDfmfKfB71NSixJ6CQW4FaBYhzrBU3AAt9Y2hC5NNqH#tvbus://3BcKCaFfDfmfKfB71K3RqoziuY2Xh6ErFni8h8MVvVZ967aPFf
@@ -300,6 +301,7 @@ ELTA MAX5,tvbus://424JGd2o5xWmJY5XfG2f1y3TG9JJpbXx1ZxD8dRixp4x5nSjTP#tvbus://424
 ELTA MAX6,tvbus://4adEjpmfTULS8VNY1BxZRmavvQn1SCMBNCcL54tihaoraK3T6V#tvbus://4adEjpmfTULS8VNY1KCnjkfqoExUtWtSXzWa1cSawsN2fYkYtm
 ELTA MAX7,tvbus://4mMqwK8G6wxbqs53FuVMKoS6Y9oHZz11FSaEuUiGpwSDy9i9t5#tvbus://4mMqwK8G6wxbqs53GDdmoQUuotY4ChxeKs6krP5oXZaFM8hSWy
 ELTA MAX8,tvbus://4CZSVTG4gANxeicXtEYAgwQuf34udixv2eRryW6CYhGkeTJQQ8#tvbus://4CZSVTG4gANxeicXswv1NQD1ftH3T9JPSuVpZXxg27TZmVDEgp
+弯弯,#genre#
 ELTA影劇臺,tvbus://2xJL34zgjJwG4C1on8fWNYDnSwUZP14T2V9TPHFwiheSf6WthH#tvbus://2xJL34zgjJwG4C1omwb8qLuCuiGidGULXkHrfUtef4fWkgj3MV
 ELTA綜合,tvbus://4Y3sck6GkwFstUcdqRrXG6R91rLkuuFqjRMPDxDCpvciNdogpp#tvbus://4Y3sck6GkwFstUcdqJUfg2TPQRUtAbqAamTuRyvj9WfJQzCMzp
 ELTV英語學習臺,tvbus://4gRxAXsdyputkuJ4wph8jhr7kq6mX4KLR11K3gbDT6xvPPkpmm#tvbus://4gRxAXsdyputkuJ4wnDSgJMYk6m9iPiAvx96FWajuYqCtKhWvx
@@ -434,6 +436,7 @@ NBC US 1,tvbus://4BAS6LKWGFzjB8HyNzTz5D392SpF7iYvbM2fenjV3eFnpM3HYA#tvbus://4BAS
 NBC-US,tvbus://4BAS6LKWGFzjB8HyNzTz5D392SpF7iYvbM2fenjV3eFnpM3HYA#tvbus://4BAS6LKWGFzjB8HyNhYjDFciHJ34UYBUZ86XZP9a2NUwD7Dv3r
 NBC2 NEWS,tvbus://3zHCtuGUjnDrgXZ5Qf8pPCqdmEz58hgsyqxgSB9gE3jgE3FdMm#tvbus://3zHCtuGUjnDrgXZ5Qwqi7RaVwrMxT9utALYVL7RmtG2casAaTd
 NBS골프,tvbus://3VkCBT7ubD9H9y7VYfJxVThykGGxpJxh1EcVZLCQrS9z9sWt4a#tvbus://3VkCBT7ubD9H9y7VYnf5nTtemKZp1oLvNicKaS1UaM7G4Uiv1K
+国外,#genre#
 NEWS 7 TAMIL,tvbus://4XycECZrqEqeCKuaVgmByR8XsQAvEpD8Hh4irsm3saRAH2wp6W#tvbus://4XycECZrqEqeCKuaVsjnQrSnXV2x2ZoL3Dpvbs8Qxwif5WHgJC
 NFL NETWORK FHD -US,tvbus://4MLUyAG7VJkmBR7bSQFNF8ojfd3rC1kbaMviSn9kSn1xrJkmxo#tvbus://4MLUyAG7VJkmBR7bSBt4FH4FooJgxnrHxHL5MC9HVtsYisWAai
 NHK Eテレ,tvbus://3aef1PPNdzEsJhr34YDZcTUvdoDfLNjLzmjKyFFB4ZUZQowqZ2#tvbus://3aef1PPNdzEsJhr34WpKseDi27CdwqvX5P1dmLyLa6jzrCmyev
@@ -559,6 +562,7 @@ TTD 1,tvbus://4guDYdWcz9HgMXsagwqG1aPjknhw9kHmV1icKMm84EE5qroQR2#tvbus://4guDYdW
 TV LAND,tvbus://3W5tJ5LwRQKGBSQ7yt8uAEV8nUroLJ6U2JfmtA29KcuFQAddSw#tvbus://3W5tJ5LwRQKGBSQ7ymFKEcqQ4vFcZ9KnwC9WDm6kSggNfinps7
 TV5,tvbus://4RsFNGQRsDFnAeHccfuzUMjkHdhTmyp3rU4V8KS9JkAQb6CeBb#tvbus://4RsFNGQRsDFnAeHccb2cRzJmXB81umV2YScACDFwvRQBMhVTV6
 TV5 TV,tvbus://3nJ3xSy2ETqFmumfTNZfoG2j7p63RsTk9t1WsFpWLTW6jSdPmd#tvbus://3nJ3xSy2ETqFmumfTRiW3jJEBy3XAxKaffNeVSLxBazviP4Xiw
+TVBv,#genre#
 TVB J1,tvbus://4oR14F8bsLdPpAbDRS63VJ2bUWFmjf6c3eZJ86tW7gyf8mXfGA#tvbus://4oR14F8bsLdPpAbDRU2CDn9WJicZBaMqLq2gJL9AFo2R8v6u2g
 TVB PLUS,tvbus://4qi7bQoxzBMEY7JfggBvQWVm56FWKh5t6MmZX2eqB4vHxDUvXM#tvbus://4qi7bQoxzBMEY7Jfgg6WHDW4CA79bbsqWtcv5SbHG2pYKcAnyy
 TVB TH,tvbus://4mz9KuY4Biw4jKTLkacXzefsLpt6JsBXToGTdephdajixiDwxA#tvbus://4mz9KuY4Biw4jKTLkLYGmiXGz2mKJD6pYcVdgsJZxUd9f4qKua
@@ -631,6 +635,7 @@ Z頻道,tvbus://3CJQ6QyfFMzwpUD5cg8ze52w5HnZGBevargqLCs8GkCN5GqJeB#tvbus://3CJQ6
 テレビ東京,tvbus://2wsYmeZStEo5ayPXaVe3ymJ7qTbUZcb5WkX7wjAW87Ux4BPUqt#tvbus://3XwNrqo3TFAWcYU992BFpJV9FSUv5SnYQHAe97m1mpEkN2LFpd
 フジテレビ,tvbus://36tpDZ7J5iVZ7crc3zso3zLRriaMWdp92MfCdH9wiMXkASjXHJ#tvbus://4TfgQv2wjHBqVLNYNqoGspvkXTWBP4P6LKZZDivDDbodeQQfUG
 ムービープラス,tvbus://3jkVVBfx6aAJJA5fiLGxYRRtNik59XMmjucFwLJHuusbHA9nL4#tvbus://3jkVVBfx6aAJJA5fiAGvPLQhQ8B1wgiSh3e4qD41F26rB4Evv9
+大台湾,#genre#
 三立 INEWS,tvbus://4KGmvuU7JmBmquRGJdyEXjLkM9NLo2yUwhS2LYfxi1RwFw4N4b#tvbus://4KGmvuU7JmBmquRGJqMTeKJRjj7iiKEGesyZVxEPVZf671SKtw
 三立INEWS,tvbus://4KGmvuU7JmBmquRGJdyEXjLkM9NLo2yUwhS2LYfxi1RwFw4N4b#tvbus://4KGmvuU7JmBmquRGJqMTeKJRjj7iiKEGesyZVxEPVZf671SKtw
 三立戲劇臺,tvbus://3vspt8zPM2AH7Yi5bg2ZkhNMKE6AoMTZU1J9UTCdH7NqRMBya9#tvbus://3vspt8zPM2AH7Yi5bVDLCuU3ekgHJqyT6XR9Pggi4HH9AJrvuW
@@ -708,6 +713,7 @@ Z頻道,tvbus://3CJQ6QyfFMzwpUD5cg8ze52w5HnZGBevargqLCs8GkCN5GqJeB#tvbus://3CJQ6
 年代新聞臺,tvbus://3Arpeg23RPcvxdD4sXAH2WZkkJ2VYURxhBJDskGTEVuKzDNnuk#tvbus://3Arpeg23RPcvxdD4sVbnJk2KPcuLSTWc5AswVNWKFVXJGtsgkF
 年代新聞臺 1,tvbus://3Arpeg23RPcvxdD4sXAH2WZkkJ2VYURxhBJDskGTEVuKzDNnuk#tvbus://3Arpeg23RPcvxdD4sVbnJk2KPcuLSTWc5AswVNWKFVXJGtsgkF
 幸福空間居家,tvbus://4cbPyhPAEG6LW25xn4r5UYsJkWWBu4ezPXyhjDo1WGcJ8GusF8#tvbus://4cbPyhPAEG6LW25xn2H97Cxa5eDpAy1bSizwyAsUjvFv1t8r2f
+广东,#genre#
 廣東民生,tvbus://3sf6ki9dvAfRJc5Mby4PNhMfNVLy2siKHhsmjmwB4XmyyxzzF8#tvbus://3sf6ki9dvAfRJc5MbwjDFp27qV9qqHVTyRnHHKQY3z5XdqYbiV
 廣東珠江,tvbus://47pvp81KFjdAT4oBsvZCGFBxU9QZgMeSV6Z2Atmd8u2CSQQsCr#tvbus://47pvp81KFjdAT4oBsexb88aLqrASkvgRPYSb3NSvrK7fEzXeya
 廣東衛視,tvbus://4UZXfyz5GFUMiku2HxGZikYDWT993hDDk7Zjo5hqmPxjT31v9v#tvbus://4UZXfyz5GFUMiku2JK1peTJXiZq4EYhLzZfD92qMxmgsDHd3UD
@@ -727,6 +733,7 @@ Z頻道,tvbus://3CJQ6QyfFMzwpUD5cg8ze52w5HnZGBevargqLCs8GkCN5GqJeB#tvbus://3CJQ6
 日テレ NEWS24,tvbus://3MPexsQg2XcQvc9zZ4384vazVEM97Brpfr947KyyMQ5o6pskK9#tvbus://3MPexsQg2XcQvc9zYyrMbEBmJTqhi5zdm1nW3a5ivRVwg3NqzE
 日テレ ジータス,tvbus://3k67owatEYq7ZYfxsp2ykKCKr65vcXe9BLFXhKGUb1VZNWTpRi#tvbus://3k67owatEYq7ZYfxsrDnb9VsUaUoQVGSRXTBEjE3cEc6CmZgkV
 映画・チャンネルNECO,tvbus://4aStKJYcZNBqupg8TYuVmNRBQWhBfQqG6enVMEFF1joWNPqNtm
+对岸4g,#genre#
 時代劇専門,tvbus://4Sod7TuDsckoLyN1MHi49duoJpXrM6ES3cbWqVwdZnPWxp3jS1#tvbus://4Sod7TuDsckoLyN1MRQVw8VK7L2aZQw45nAkcDtUrdczxLFVXQ
 智林體育臺,tvbus://3dzx4MTaCnTovu6epA3cmZEJ1Mggmu8McwGu8Bpk7AXPYzRYcf#tvbus://3dzx4MTaCnTovu6ep6GPXHNaSBe5oYBosPsSnNbg1eEPVbkJee
 智林體育臺 1,tvbus://3dzx4MTaCnTovu6epA3cmZEJ1Mggmu8McwGu8Bpk7AXPYzRYcf#tvbus://3dzx4MTaCnTovu6ep6GPXHNaSBe5oYBosPsSnNbg1eEPVbkJee
