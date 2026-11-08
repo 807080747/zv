@@ -147,8 +147,8 @@ CCTV1綜合,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV2財經,http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV3綜藝,http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV4中文國際,http://74.91.26.218:82/live/cctv4hd.m3u8
-CCTV5體育,http://74.91.26.218:82/live/cctv5hd.m3u8
-CCTV5+体育赛事,http://74.91.26.218:82/live/cctv5+hd.m3u8
+CCTV5體育,http://120.198.84.146:9901/tsfile/live/1027_1.m3u8
+CCTV5+体育赛事,http://120.198.84.146:9901/tsfile/live/1005_1.m3u8
 CCTV6電影,http://74.91.26.218:82/live/cctv6hd.m3u8
 CCTV7國防軍事,http://74.91.26.218:82/live/cctv7hd.m3u8
 CCTV8電視劇,http://74.91.26.218:82/live/cctv8hd.m3u8
@@ -169,18 +169,7 @@ CGTN-英語新聞頻道,https://0472.org/hls/cgtna.m3u8
 CGTN西语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 CGTN记录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 CGTN阿语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
-兵器科技,https://live.264788.xyz/channel/bingqikeji?streamid=6fc55a0966bdad1e1cdf39a4d37dd776&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-熊猫直播,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
-风云剧场,https://live.264788.xyz/channel/fengyunjuchang?streamid=31e7b5b7032d25dd215a4069cdee1a48&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
-
-泉州新闻,http://woc.iiiya.cn:18888/rtp/239.61.5.98:1025
-
-Channel 8,http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
-Channel 8,http://vip.login.in.th:1935/ch8/ch8/playlist.m3u8
-明珠剧集台(北美),https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbpearldrama-tvbanywhereus/playlist.m3u8
-翡翠剧集台(北美),https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbdrama-tvbanywhereus/playlist.m3u8
-TVB Vietnam(越南台),https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
 红牛运动,http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 
@@ -196,6 +185,34 @@ TVB Vietnam(越南台),https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.
 凤凰卫视台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 厦门卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.2.11:8060
 四川卫视,http://219.159.147.195:9901/tsfile/live/1033_1.m3u8?key=txiptv
+天津卫视,http://120.198.84.146:9901/tsfile/live/1022_1.m3u8
+湖南卫视,http://120.198.84.146:9901/tsfile/live/1039_1.m3u8
+贵州卫视高清,http://120.198.84.146:9901/tsfile/live/1041_1.m3u8
+东南卫视高清,http://120.198.84.146:9901/tsfile/live/1042_1.m3u8
+湖北卫视高清,http://120.198.84.146:9901/tsfile/live/1043_1.m3u8
+广西卫视,http://120.198.84.146:9901/tsfile/live/1044_1.m3u8
+云南卫视,http://120.198.84.146:9901/tsfile/live/1045_1.m3u8
+河南卫视,http://120.198.84.146:9901/tsfile/live/1046_1.m3u8
+浙江卫视高清,http://120.198.84.146:9901/tsfile/live/1047_1.m3u8
+江西卫视高清,http://120.198.84.146:9901/tsfile/live/1048_1.m3u8
+四川卫视高清,http://120.198.84.146:9901/tsfile/live/1049_1.m3u8
+江苏卫视高清,http://120.198.84.146:9901/tsfile/live/1051_1.m3u8
+深圳卫视高清,http://120.198.84.146:9901/tsfile/live/1052_1.m3u8
+辽宁卫视,http://120.198.84.146:9901/tsfile/live/1055_1.m3u8
+宁夏卫视,http://120.198.84.146:9901/tsfile/live/1056_1.m3u8
+青海卫视,http://120.198.84.146:9901/tsfile/live/1057_1.m3u8
+安徽卫视高清,http://120.198.84.146:9901/tsfile/live/1060_1.m3u8
+山东卫视高清,http://120.198.84.146:9901/tsfile/live/1061_1.m3u8
+北京卫视高清,http://120.198.84.146:9901/tsfile/live/1063_1.m3u8
+陕西卫视,http://120.198.84.146:9901/tsfile/live/1064_1.m3u8
+东方卫视,http://120.198.84.146:9901/tsfile/live/1066_1.m3u8
+黑龙江卫视,http://120.198.84.146:9901/tsfile/live/1073_1.m3u8
+兵团卫视,http://120.198.84.146:9901/tsfile/live/1071_1.m3u8
+河北卫视高清,http://120.198.84.146:9901/tsfile/live/1083_1.m3u8
+山西卫视,http://120.198.84.146:9901/tsfile/live/1088_1.m3u8
+吉林卫视高清,http://120.198.84.146:9901/tsfile/live/1090_1.m3u8
+重庆卫视高清,http://120.198.84.146:9901/tsfile/live/1058_1.m3u8
+
 大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
 天津卫视,http://219.159.147.195:9901/tsfile/live/1037_1.m3u8?key=txiptv
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=e1236348f815c36a0429357e5b5c5f10&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -203,7 +220,8 @@ TVB Vietnam(越南台),https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.
 山东卫视,http://219.159.147.195:9901/tsfile/live/1029_1.m3u8?key=txiptv
 山东教育,https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 山西卫视,http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
-广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
+广东卫视,http://120.198.84.146:9901/tsfile/live/1000_1.m3u8
+广东南方卫视,http://120.198.84.146:9901/tsfile/live/1009_1.m3u8
 延边卫视,http://120.76.248.139/live/bfgd/4200000117.m3u8
 新疆卫视,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
 江苏卫视,http://219.159.147.195:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -223,28 +241,6 @@ TVB Vietnam(越南台),https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.
 辽宁卫视,http://219.159.147.195:9901/tsfile/live/1017_1.m3u8?key=txiptv
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi?streamid=9dc887dba8ecb4e4143baf4f2373800c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 其他频道,#genre#
-1987年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
-1988年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
-1989年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8
-1993年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
-1994年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4
-1995年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
-1996年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
-2000年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4
-2001年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMDFfMF8z_b_B70592cb7c4054e9cabb675e849bbf4bd.mp4
-2002年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4
-2003年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/14/23/BMjAyMzAxMTQyMzQxNDdfNDAzMDAxOTlfOTM2MTU0MTk1NDFfMF8z_b_B182749d2cd2ea9323639254af385f24b.mp4
-2004年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxOTVfMF8z_b_B86c4430b82ff5a7f4e8132f6ee558536.mp4
-2005年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4
-2006年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyNzlfMF8z_b_Bbc3703fc331dc994c50859c19aad28ff.mp4
-2007年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzMjNfMF8z_b_B00b069c7899976459ceeaa99353dfefe.mp4
-2009年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4
-2010年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4
-2013年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4
-2014年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
-2018年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
-2019年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
-2024年春晚,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 ABC News Live,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
 Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
@@ -746,17 +742,7 @@ RT News（英语国际）,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u
 甘南县综合,https://stream.hrbtv.net/zxpd/sd/live.m3u8
 黑龙江少儿,https://ls.qingting.fm/live/4972/64k.m3u8
 黑龙江新闻,https://ls.qingting.fm/live/4974/64k.m3u8
-山东频道,#genre#
-山东新闻,http://ls.qingting.fm/live/60180.m3u8
-山东生活,http://ls.qingting.fm/live/60260.m3u8
-泰山主峰,https://gcalic.v.myalicdn.com/gc/taishan01_1/index.m3u8
-泰山十八盘,https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8
-泰山望人松,https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8
-泰山玉皇顶,https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8
-泰山碧霞祠,https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8
-浙江舟山东极岛,https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8
-青岛崂山八水河,https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
-青岛崂山双福,https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
+
 新疆频道,#genre#
 伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8
 伊犁经济法制,http://110.153.180.106:55555/out_4/index.m3u8
