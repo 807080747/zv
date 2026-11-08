@@ -448,7 +448,7 @@ WionNews,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 
 备用线路,#genre#
 CCTV5 备用,http://207.56.13.146:81/cdnlive/cctv5.m3u8
-CCTV5 备用,http://74.91.26.218:82/live/cctv5hd.m3u8
+
 CCTV5 备用,http://107.150.60.122/live/cctv5hd.m3u8
 CCTV6 备用,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv6hd
 
