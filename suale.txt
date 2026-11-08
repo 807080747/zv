@@ -498,6 +498,25 @@ CETV1高清,http://120.198.84.146:9901/tsfile/live/1038_1.m3u8
 中华小当家「动漫」,http://tv.zimtv.cn/tv/player/api/huya.php?id=11342413
 
 
+
+黑龙江地区,#genre#
+哈尔滨新闻综合,https://stream.hrbtv.net/xwzh/sd/live.m3u8
+哈尔滨新闻综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8
+哈尔滨生活,https://stream.hrbtv.net/shpd/sd/live.m3u8
+哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8
+哈尔滨资讯,https://stream.hrbtv.net/zxpd/sd/live.m3u8
+哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8
+哈尔滨影视,https://stream.hrbtv.net/yspd/sd/live.m3u8
+哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8
+
+
+辽宁卫视,http://101.wifi98.com:9001/rtp/232.0.0.126:1234 
+辽宁影视剧,http://101.wifi98.com:9001/rtp/232.0.0.25:1234 
+辽宁体育,http://101.wifi98.com:9001/rtp/232.0.0.164:1234 
+辽宁生活,http://101.wifi98.com:9001/rtp/232.0.0.150:1234 
+辽宁教育青少,http://101.wifi98.com:9001/rtp/232.0.0.241:1234 
+辽宁公共,http://101.wifi98.com:9001/rtp/232.0.0.168:1234 
+辽宁经济,http://101.wifi98.com:9001/rtp/232.0.0.156:1234
 浙江地区,#genre#
 浙江少儿,http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
 浙江少儿,http://ali-xwl.cztv.com/live/channel08720Plxw.m3u8
