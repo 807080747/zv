@@ -3009,7 +3009,7 @@ ZillarBarta News,https://server.zillarbarta.com/zillarbarta/index.m3u8
 
 
 
-Общие,#genre#
+Общие（挂梯才可播放）,#genre#
 Первый канал FHD,http://93.113.203.152/iptv/ZBE628EP2BYBP5/2402/manifest.m3u8
 Первый канал HD orig,http://93.113.203.152/iptv/ZBE628EP2BYBP5/7253/manifest.m3u8
 Первый канал HD,http://93.113.203.152/iptv/ZBE628EP2BYBP5/204/manifest.m3u8
@@ -3132,7 +3132,7 @@ RTVi,http://93.113.203.152/iptv/ZBE628EP2BYBP5/2086/manifest.m3u8
 Вместе-РФ,http://93.113.203.152/iptv/ZBE628EP2BYBP5/2073/manifest.m3u8
 Вместе-РФ orig,http://93.113.203.152/iptv/ZBE628EP2BYBP5/9124/manifest.m3u8
 Setanta Sports 2 HD KZ,http://93.113.203.152/iptv/ZBE628EP2BYBP5/16025/manifest.m3u8
-Кино,#genre#
+Кино（挂梯才可播放）,#genre#
 Кинопремьера HD,http://93.113.203.152/iptv/ZBE628EP2BYBP5/224/manifest.m3u8
 Кинопремьера HD orig,http://93.113.203.152/iptv/ZBE628EP2BYBP5/9020/manifest.m3u8
 Кинохит HD,http://93.113.203.152/iptv/ZBE628EP2BYBP5/7250/manifest.m3u8
@@ -3342,7 +3342,7 @@ Liberty Индия 4K,http://93.113.203.152/iptv/ZBE628EP2BYBP5/18160/manifest.m
 Индия orig,http://93.113.203.152/iptv/ZBE628EP2BYBP5/9149/manifest.m3u8
 DetectiveJam HD,http://93.113.203.152/iptv/ZBE628EP2BYBP5/20209/manifest.m3u8
 Кион Хит HD,http://93.113.203.152/iptv/ZBE628EP2BYBP5/20211/manifest.m3u8
-Кинозалы,#genre#
+Кинозалы（挂梯才可播放）,#genre#
 CineMan,http://93.113.203.152/iptv/ZBE628EP2BYBP5/11004/manifest.m3u8
 CineMan Top,http://93.113.203.152/iptv/ZBE628EP2BYBP5/11005/manifest.m3u8
 CineMan Premium,http://93.113.203.152/iptv/ZBE628EP2BYBP5/20112/manifest.m3u8
