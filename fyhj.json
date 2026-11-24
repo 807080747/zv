@@ -1,7 +1,7 @@
 {
   "urls": [
     {
-      "url": "https://cnb.cool/wuyueshimao/tvbox-src2/-/git/raw/main/tvbox.json",
+      "url": "https://cnb.cool/wolf2025/tvbox/-/git/raw/main/%E7%88%B1%E4%BC%98%E8%85%BE/%E7%88%B1%E4%BC%98%E8%85%BE.json",
       "name": "锋云科技线路"
     },
     {
@@ -13,8 +13,8 @@
       "name": "魔盒线路"
     },
     {
-      "url": "",
-      "name": "线路"
+      "url": "https://cnb.cool/wuyueshimao/tvbox-src2/-/git/raw/main/tvbox.json",
+      "name": "src2线路"
     },
     {
       "url": "",
