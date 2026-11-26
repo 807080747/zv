@@ -1,0 +1,387 @@
+#EXTM3U x-tvg-url="epg.xml" url-tvg="epg.xml"
+#EXTINF:-1 tvg-id="3683" tvg-name="TV1" tvg-logo="logos/TV1_1667.png" group-title="马来西亚",TV1
+http://50.7.233.114:8278/TV1/playlist.m3u8
+#EXTINF:-1 tvg-id="3711" tvg-name="TV2" tvg-logo="logos/TV2_3.png" group-title="马来西亚",TV2
+http://50.7.233.114:8278/TV2/playlist.m3u8
+#EXTINF:-1 tvg-id="1072" tvg-name="TV3" tvg-logo="logos/TV3_1652.png" group-title="马来西亚",TV3
+http://50.7.233.114:8278/TV3_mega/playlist.m3u8
+#EXTINF:-1 tvg-id="1584" tvg-name="Al-Hijrah" tvg-logo="logos/Al_Hijrah_25.png" group-title="马来西亚",Al-Hijrah
+http://50.7.233.114:8278/Alhijrah/playlist.m3u8
+#EXTINF:-1 tvg-name="Quran" tvg-logo="logos/Quran_2843.jpeg" group-title="马来西亚",Quran
+http://50.7.233.114:8278/quran_mido/playlist.m3u8
+#EXTINF:-1 tvg-id="1835" tvg-name="Bernama" tvg-logo="logos/Bernama_27.png" group-title="马来西亚",Bernama
+http://50.7.233.114:8278/Bernama/playlist.m3u8
+#EXTINF:-1 tvg-id="3145" tvg-name="Oasis" tvg-logo="logos/Oasis_1465.png" group-title="马来西亚",Oasis
+http://50.7.233.114:8278/Oasis/playlist.m3u8
+#EXTINF:-1 tvg-id="2636" tvg-name="Boo" tvg-logo="logos/Boo_2253.jpg" group-title="马来西亚",Boo
+http://50.7.233.114:8278/Boo/playlist.m3u8
+#EXTINF:-1 tvg-id="2384" tvg-name="Ria" tvg-logo="logos/Ria_2621.png" group-title="马来西亚",Ria
+http://50.7.233.114:8278/Ria-0/playlist.m3u8
+#EXTINF:-1 tvg-name="Ria-3" tvg-logo="logos/Ria_3_2773.png" group-title="马来西亚",Ria-3
+http://50.7.233.114:8278/Ria_backup/playlist.m3u8
+#EXTINF:-1 tvg-id="3784" tvg-name="Rania" tvg-logo="logos/Rania_2687.png" group-title="马来西亚",Rania
+http://50.7.233.114:8278/Rania/playlist.m3u8
+#EXTINF:-1 tvg-name="WION" tvg-logo="logos/WION_2837.jpeg" group-title="马来西亚",WION
+http://50.7.233.114:8278/Wion/playlist.m3u8
+#EXTINF:-1 tvg-name="Astro MTV" tvg-logo="logos/Astro_MTV_2775.png" group-title="马来西亚",Astro MTV
+http://50.7.233.114:8278/AstroMTV/playlist.m3u8
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="logos/HBO_Family_2711.png" group-title="马来西亚",HBO Family
+http://50.7.233.114:8278/Hbofamily/playlist.m3u8
+#EXTINF:-1 tvg-id="3234" tvg-name="TLC" tvg-logo="logos/TLC_1595.png" group-title="马来西亚",TLC
+http://50.7.233.114:8278/Tlc/playlist.m3u8
+#EXTINF:-1 tvg-id="997" tvg-name="Foodnetwork Hd" tvg-logo="logos/Foodnetwork_Hd_2615.png" group-title="马来西亚",Foodnetwork Hd
+http://50.7.233.114:8278/Foodnetwork/playlist.m3u8
+#EXTINF:-1 tvg-id="1205" tvg-name="Axn HD" tvg-logo="logos/Axn_HD_1023.png" group-title="马来西亚",Axn HD
+http://50.7.233.114:8278/Axn/playlist.m3u8
+#EXTINF:-1 tvg-name="HBO HD" tvg-logo="logos/HBO_HD_1015.png" group-title="马来西亚",HBO HD
+http://50.7.233.114:8278/Hbo/playlist.m3u8
+#EXTINF:-1 tvg-id="2208" tvg-name="HBO Hits" tvg-logo="logos/HBO_Hits_2782.png" group-title="马来西亚",HBO Hits
+http://50.7.233.114:8278/hbohits_twn/playlist.m3u8
+#EXTINF:-1 tvg-name="Dreamworks" tvg-logo="logos/Dreamworks_2785.png" group-title="马来西亚",Dreamworks
+http://50.7.233.114:8278/Dreamworks/playlist.m3u8
+#EXTINF:-1 tvg-id="3403" tvg-name="Cartoon Network" tvg-logo="logos/Cartoon_Network_959.png" group-title="马来西亚",Cartoon Network
+http://50.7.233.114:8278/Cn/playlist.m3u8
+#EXTINF:-1 tvg-name="Animal Planet (Eng)" tvg-logo="logos/Animal_Planet_Eng_2011.png" group-title="马来西亚",Animal Planet (Eng)
+http://50.7.233.114:8278/AnimalPlanet/playlist.m3u8
+#EXTINF:-1 tvg-id="2323" tvg-name="TvN" tvg-logo="logos/TvN_2123.png" group-title="马来西亚",TvN
+http://50.7.233.114:8278/TVN/playlist.m3u8
+#EXTINF:-1 tvg-id="1889" tvg-name="KBS World" tvg-logo="logos/KBS_World_2629.png" group-title="马来西亚",KBS World
+http://50.7.233.114:8278/KBS/playlist.m3u8
+#EXTINF:-1 tvg-id="2652" tvg-name="Astrol Kplus" tvg-logo="logos/Astrol_Kplus_2697.png" group-title="马来西亚",Astrol Kplus
+http://50.7.233.114:8278/Kplus/playlist.m3u8
+#EXTINF:-1 tvg-name="华丽台 HD (Wah Lai Toi)" tvg-logo="logos/HD_Wah_Lai_Toi_1077.png" group-title="马来西亚",华丽台 HD (Wah Lai Toi)
+http://50.7.233.114:8278/Wlt/playlist.m3u8
+#EXTINF:-1 tvg-id="399519" tvg-name="Astro QJ" tvg-logo="logos/Astro_QJ_1623.jpg" group-title="马来西亚",Astro QJ
+http://50.7.233.114:8278/Quanjia/playlist.m3u8
+#EXTINF:-1 tvg-id="3290" tvg-name="爱奇艺 iQiyi" tvg-logo="logos/iQiyi_1889.jpg" group-title="马来西亚",爱奇艺 iQiyi
+http://50.7.233.114:8278/Qiyi/playlist.m3u8
+#EXTINF:-1 tvg-name="Dmax" tvg-logo="logos/Dmax_2889.jpeg" group-title="马来西亚",Dmax
+http://50.7.233.114:8278/Dmax/playlist.m3u8
+#EXTINF:-1 tvg-id="397400" tvg-name="Astro Badminton 2" tvg-logo="logos/Astro_Badminton_2_2833.webp" group-title="马来西亚",Astro Badminton 2
+http://50.7.233.114:8278/go_badminton2/playlist.m3u8
+#EXTINF:-1 tvg-id="3509" tvg-name="TVB Asia" tvg-logo="logos/TVB_Asia_2729.png" group-title="马来西亚",TVB Asia
+http://50.7.233.114:8278/Tvbasia/playlist.m3u8
+#EXTINF:-1 tvg-id="3895" tvg-name="TVB Classic" tvg-logo="logos/TVB_Classic_2731.png" group-title="马来西亚",TVB Classic
+http://50.7.233.114:8278/Tvbclassic/playlist.m3u8
+#EXTINF:-1 tvg-id="2280" tvg-name="Celestial Classic" tvg-logo="logos/Celestial_Classic_1587.jpg" group-title="马来西亚",Celestial Classic
+http://50.7.233.114:8278/Celestial2/playlist.m3u8
+#EXTINF:-1 tvg-id="1298" tvg-name="Celestial Movies HD" tvg-logo="logos/Celestial_Movies_HD_1941.png" group-title="马来西亚",Celestial Movies HD
+http://50.7.233.114:8278/Celestial/playlist.m3u8
+#EXTINF:-1 tvg-id="517640" tvg-name="Rock Actions" tvg-logo="logos/Rock_Actions_2713.jpg" group-title="马来西亚",Rock Actions
+http://50.7.233.114:8278/Rockaction/playlist.m3u8
+#EXTINF:-1 tvg-name="Bollyone" tvg-logo="logos/Bollyone_2693.png" group-title="马来西亚",Bollyone
+http://50.7.233.114:8278/Bollyone/playlist.m3u8
+#EXTINF:-1 tvg-id="2181" tvg-name="Thangathirai" tvg-logo="logos/Thangathirai_2841.jpeg" group-title="马来西亚",Thangathirai
+http://50.7.233.114:8278/Thangathirai/playlist.m3u8
+#EXTINF:-1 tvg-id="2552" tvg-name="Arena" tvg-logo="logos/Arena_2651.png" group-title="马来西亚",Arena
+http://50.7.233.114:8278/Arena/playlist.m3u8
+#EXTINF:-1 tvg-name="Arena Bola 1" tvg-logo="logos/Arena_Bola_1_2691.png" group-title="马来西亚",Arena Bola 1
+http://50.7.233.114:8278/Bolaarena1/playlist.m3u8
+#EXTINF:-1 tvg-name="Astro LOL" tvg-logo="logos/Astro_LOL_2835.png" group-title="马来西亚",Astro LOL
+http://50.7.233.114:8278/Astro_lol/playlist.m3u8
+#EXTINF:-1 tvg-id="3416" tvg-name="Al_Jazeera" tvg-logo="logos/Al_Jazeera_2893.png" group-title="马来西亚",Al_Jazeera
+http://50.7.233.114:8278/Aljazeera/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC World News" tvg-logo="logos/BBC_World_News_2113.png" group-title="马来西亚",BBC World News
+http://50.7.233.114:8278/Bbcnews/playlist.m3u8
+#EXTINF:-1 tvg-id="3873" tvg-name="CNBC" tvg-logo="logos/CNBC_265.png" group-title="马来西亚",CNBC
+http://50.7.233.114:8278/Cnbc/playlist.m3u8
+#EXTINF:-1 tvg-id="399518" tvg-name="RTM Sports HD" tvg-logo="logos/RTM_Sports_HD_1745.jpg" group-title="马来西亚",RTM Sports HD
+http://50.7.233.114:8278/Rtmsport/playlist.m3u8
+#EXTINF:-1 tvg-id="2781" tvg-name="France 24" tvg-logo="logos/France_24_2887.png" group-title="马来西亚",France 24
+http://50.7.233.114:8278/France24/playlist.m3u8
+#EXTINF:-1 tvg-name="Skynews" tvg-logo="logos/Skynews_2891.png" group-title="马来西亚",Skynews
+http://50.7.233.114:8278/Skynews/playlist.m3u8
+#EXTINF:-1 tvg-id="569649" tvg-name="Mango TV" tvg-logo="logos/Mango_TV_2945.webp" group-title="马来西亚",Mango TV
+http://50.7.233.114:8278/Mangotv/playlist.m3u8
+#EXTINF:-1 tvg-id="456557" tvg-name="TVBS HD" tvg-logo="logos/TVBS_HD_735.png" group-title="台湾",TVBS HD
+http://50.7.233.114:8278/tvbs/playlist.m3u8
+#EXTINF:-1 tvg-id="456539" tvg-name="中天娱乐 CTI Entertaiment" tvg-logo="logos/CTI_Entertaiment_529.png" group-title="台湾",中天娱乐 CTI Entertaiment
+http://50.7.233.114:8278/ctient/playlist.m3u8
+#EXTINF:-1 tvg-id="456536" tvg-name="中天综合 CTI Metro" tvg-logo="logos/CTI_Metro_741.png" group-title="台湾",中天综合 CTI Metro
+http://50.7.233.114:8278/ctizhonghe/playlist.m3u8
+#EXTINF:-1 tvg-name="中天亚洲台" tvg-logo="logos/_1967.png" group-title="台湾",中天亚洲台
+http://50.7.233.114:8278/ctiasia_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="456647" tvg-name="台视综合台" tvg-logo="logos/_745.png" group-title="台湾",台视综合台
+http://50.7.233.114:8278/ttvzhonghe/playlist.m3u8
+#EXTINF:-1 tvg-id="370139" tvg-name="民视 HD" tvg-logo="logos/HD_2479.png" group-title="台湾",民视 HD
+http://50.7.233.114:8278/ftvhd_taiwan/playlist.m3u8
+#EXTINF:-1 tvg-id="370138" tvg-name="民视台湾台" tvg-logo="logos/_2033.png" group-title="台湾",民视台湾台
+http://50.7.233.114:8278/ftvtaiwan_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="456542" tvg-name="八大戏剧 GTV Drama" tvg-logo="logos/GTV_Drama_753.png" group-title="台湾",八大戏剧 GTV Drama
+http://50.7.233.114:8278/badadrama/playlist.m3u8
+#EXTINF:-1 tvg-id="456529" tvg-name="三立台湾 Sanli Taiwan" tvg-logo="logos/Sanli_Taiwan_543.png" group-title="台湾",三立台湾 Sanli Taiwan
+http://50.7.233.114:8278/sanlitaiwan/playlist.m3u8
+#EXTINF:-1 tvg-id="457313" tvg-name="龙华戏剧 Lunghua Drama" tvg-logo="logos/Lunghua_Drama_811.png" group-title="台湾",龙华戏剧 Lunghua Drama
+http://50.7.233.114:8278/lunghuaxiju_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="456551" tvg-name="年代新闻" tvg-logo="logos/_825.png" group-title="台湾",年代新闻
+http://50.7.233.114:8278/niandainews_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="370245" tvg-name="纬来电影台" tvg-logo="logos/_2049.jpg" group-title="台湾",纬来电影台
+http://50.7.233.114:8278/videolandmovie/playlist.m3u8
+#EXTINF:-1 tvg-name="纬来体育台" tvg-logo="logos/_2051.png" group-title="台湾",纬来体育台
+http://50.7.233.114:8278/videolandsport/playlist.m3u8
+#EXTINF:-1 tvg-id="456546" tvg-name="纬来综合台" tvg-logo="logos/_2053.jpg" group-title="台湾",纬来综合台
+http://50.7.233.114:8278/videolandzonghe/playlist.m3u8
+#EXTINF:-1 tvg-id="370249" tvg-name="好消息 2" tvg-logo="logos/2_2023.png" group-title="台湾",好消息 2
+http://50.7.233.114:8278/good2_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="457281" tvg-name="亚洲美食" tvg-logo="logos/_2035.jpg" group-title="台湾",亚洲美食
+http://50.7.233.114:8278/afc_twn/playlist.m3u8
+#EXTINF:-1 tvg-name="亚洲旅游 TLC Asia" tvg-logo="logos/TLC_Asia_2055.jpg" group-title="台湾",亚洲旅游 TLC Asia
+http://50.7.233.114:8278/tlc_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="456812" tvg-name="博斯运动 1" tvg-logo="logos/1_2083.png" group-title="台湾",博斯运动 1
+http://50.7.233.114:8278/bosisport1_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="456568" tvg-name="东森洋片 ETTV Western" tvg-logo="logos/ETTV_Western_763.jpg" group-title="台湾",东森洋片 ETTV Western
+http://50.7.233.114:8278/ettvwestern/playlist.m3u8
+#EXTINF:-1 tvg-name="博斯无限" tvg-logo="logos/_2087.png" group-title="台湾",博斯无限
+http://50.7.233.114:8278/bosiunlimited_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="370163" tvg-name="靖天卡通台" tvg-logo="logos/_1585.png" group-title="台湾",靖天卡通台
+http://50.7.233.114:8278/jingtiancartoon_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="457284" tvg-name="EYETV 戏剧" tvg-logo="logos/EYETV_2101.jpg" group-title="台湾",EYETV 戏剧
+http://50.7.233.114:8278/eyetvxiju_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="456525" tvg-name="东森幼幼 Yoyo TV" tvg-logo="logos/Yoyo_TV_969.png" group-title="台湾",东森幼幼 Yoyo TV
+http://50.7.233.114:8278/yoyo_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="457360" tvg-name="美亚电影" tvg-logo="logos/_2099.png" group-title="台湾",美亚电影
+http://50.7.233.114:8278/meiyamovie_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="457319" tvg-name="爱尔达戏剧台" tvg-logo="logos/_2043.jpeg" group-title="台湾",爱尔达戏剧台
+http://50.7.233.114:8278/eltadrama_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="370175" tvg-name="東森財經新聞 ETTV Business" tvg-logo="logos/ETTV_Business_761.png" group-title="台湾",東森財經新聞 ETTV Business
+http://50.7.233.114:8278/ettvcaijing_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="370173" tvg-name="中天新聞 CTI News" tvg-logo="logos/CTI_News_1923.jpg" group-title="台湾",中天新聞 CTI News
+http://50.7.233.114:8278/ctinews/playlist.m3u8
+#EXTINF:-1 tvg-id="456560" tvg-name="非凡新聞台" tvg-logo="logos/_575.png" group-title="台湾",非凡新聞台
+http://50.7.233.114:8278/feifannews_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="370208" tvg-name="Elta体育1台" tvg-logo="logos/Elta_1_2871.png" group-title="台湾",Elta体育1台
+http://50.7.233.114:8278/eltasport1_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="370208" tvg-name="Elta體育2台" tvg-logo="logos/Elta_2_1541.png" group-title="台湾",Elta體育2台
+http://50.7.233.114:8278/eltasport2_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="457234" tvg-name="博斯高球2 HD" tvg-logo="logos/2_HD_2085.png" group-title="台湾",博斯高球2 HD
+http://50.7.233.114:8278/bosigolf2_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="370179" tvg-name="寰宇新聞台" tvg-logo="logos/_2501.png" group-title="台湾",寰宇新聞台
+http://50.7.233.114:8278/huanyuxinwen_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="456644" tvg-name="中視新聞台" tvg-logo="logos/_1989.png" group-title="台湾",中視新聞台
+http://50.7.233.114:8278/zhongshinews_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="456576" tvg-name="DAZN 1" tvg-logo="logos/DAZN_1_2869.png" group-title="台湾",DAZN 1
+http://50.7.233.114:8278/dazn1_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="456521" tvg-name="动物星球" tvg-logo="logos/_2937.png" group-title="台湾",动物星球
+http://50.7.233.114:8278/animalplanet_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="524025" tvg-name="RCTI" tvg-logo="logos/RCTI_47.png" group-title="印度尼西亚",RCTI
+http://50.7.233.114:8278/Rcti/playlist.m3u8
+#EXTINF:-1 tvg-id="524091" tvg-name="Kompass TV" tvg-logo="logos/Kompass_TV_43.png" group-title="印度尼西亚",Kompass TV
+http://50.7.233.114:8278/Kompass/playlist.m3u8
+#EXTINF:-1 tvg-id="524179" tvg-name="AnTV" tvg-logo="logos/AnTV_2064.png" group-title="印度尼西亚",AnTV
+http://50.7.233.114:8278/vtn_antv/playlist.m3u8
+#EXTINF:-1 tvg-id="524016" tvg-name="MNC TV" tvg-logo="logos/MNC_TV_1887.png" group-title="印度尼西亚",MNC TV
+http://50.7.233.114:8278/Mnctv/playlist.m3u8
+#EXTINF:-1 tvg-name="Trans 7" tvg-logo="logos/Trans_7_2065.png" group-title="印度尼西亚",Trans 7
+http://50.7.233.114:8278/Trans7_eko/playlist.m3u8
+#EXTINF:-1 tvg-id="524150" tvg-name="Transtv" tvg-logo="logos/Transtv_2005.png" group-title="印度尼西亚",Transtv
+http://50.7.233.114:8278/Transtv/playlist.m3u8
+#EXTINF:-1 tvg-name="JTV" tvg-logo="logos/JTV_2069.png" group-title="印度尼西亚",JTV
+http://50.7.233.114:8278/JTV_eko/playlist.m3u8
+#EXTINF:-1 tvg-name="TVMU" tvg-logo="logos/TVMU_2061.png" group-title="印度尼西亚",TVMU
+http://50.7.233.114:8278/TVMU_eko/playlist.m3u8
+#EXTINF:-1 tvg-id="524008" tvg-name="GTV" tvg-logo="logos/GTV_2263.png" group-title="印度尼西亚",GTV
+http://50.7.233.114:8278/Gtv/playlist.m3u8
+#EXTINF:-1 tvg-id="523989" tvg-name="iNews TV" tvg-logo="logos/iNews_TV_2265.png" group-title="印度尼西亚",iNews TV
+http://50.7.233.114:8278/Inewstv/playlist.m3u8
+#EXTINF:-1 tvg-id="524039" tvg-name="Net TV" tvg-logo="logos/Net_TV_2267.png" group-title="印度尼西亚",Net TV
+http://50.7.233.114:8278/NetTV/playlist.m3u8
+#EXTINF:-1 tvg-id="524073" tvg-name="Animax" tvg-logo="logos/Animax_2291.png" group-title="印度尼西亚",Animax
+http://50.7.233.114:8278/Animax/playlist.m3u8
+#EXTINF:-1 tvg-id="524138" tvg-name="Tawaf TV" tvg-logo="logos/Tawaf_TV_2271.png" group-title="印度尼西亚",Tawaf TV
+http://50.7.233.114:8278/TawafTV/playlist.m3u8
+#EXTINF:-1 tvg-id="524096" tvg-name="Muslim TV" tvg-logo="logos/Muslim_TV_2273.png" group-title="印度尼西亚",Muslim TV
+http://50.7.233.114:8278/MuslimTV/playlist.m3u8
+#EXTINF:-1 tvg-id="524110" tvg-name="Music TV" tvg-logo="logos/Music_TV_2275.png" group-title="印度尼西亚",Music TV
+http://50.7.233.114:8278/MusicTV/playlist.m3u8
+#EXTINF:-1 tvg-name="Warner TV" tvg-logo="logos/Warner_TV_2293.png" group-title="印度尼西亚",Warner TV
+http://50.7.233.114:8278/WarnerTV/playlist.m3u8
+#EXTINF:-1 tvg-name="SCM" tvg-logo="logos/SCM_2295.png" group-title="印度尼西亚",SCM
+http://50.7.233.114:8278/Weishimovie/playlist.m3u8
+#EXTINF:-1 tvg-id="524001" tvg-name="Thrill" tvg-logo="logos/Thrill_2297.png" group-title="印度尼西亚",Thrill
+http://50.7.233.114:8278/Thrill/playlist.m3u8
+#EXTINF:-1 tvg-id="524115" tvg-name="Hits Movie" tvg-logo="logos/Hits_Movie_2299.png" group-title="印度尼西亚",Hits Movie
+http://50.7.233.114:8278/Hitsmovie/playlist.m3u8
+#EXTINF:-1 tvg-id="524004" tvg-name="天映頻道Celestial Movies" tvg-logo="logos/Celestial_Movies_2427.webp" group-title="印度尼西亚",天映頻道Celestial Movies
+http://50.7.233.114:8278/Celestialindo/playlist.m3u8
+#EXTINF:-1 tvg-id="545933" tvg-name="CCTV-2 財經" tvg-logo="logos/CCTV_2_711.png" group-title="中国大陆",CCTV-2 財經
+http://50.7.233.114:8278/cctv2/playlist.m3u8
+#EXTINF:-1 tvg-id="583634" tvg-name="CCTV-4 中文國際 (備:1)" tvg-logo="logos/CCTV_4_1_1515.png" group-title="中国大陆",CCTV-4 中文國際 (備:1)
+http://50.7.233.114:8278/cctv4/playlist.m3u8
+#EXTINF:-1 tvg-id="545938" tvg-name="CCTV-6 電影" tvg-logo="logos/CCTV_6_501.png" group-title="中国大陆",CCTV-6 電影
+http://50.7.233.114:8278/cctv6/playlist.m3u8
+#EXTINF:-1 tvg-id="583638" tvg-name="CCTV-7 軍事農業" tvg-logo="logos/CCTV_7_717.png" group-title="中国大陆",CCTV-7 軍事農業
+http://50.7.233.114:8278/cctv7/playlist.m3u8
+#EXTINF:-1 tvg-id="545941" tvg-name="CCTV-9 紀錄" tvg-logo="logos/CCTV_9_719.png" group-title="中国大陆",CCTV-9 紀錄
+http://50.7.233.114:8278/cctv9hd/playlist.m3u8
+#EXTINF:-1 tvg-id="545943" tvg-name="CCTV-11 戲曲" tvg-logo="logos/CCTV_11_721.png" group-title="中国大陆",CCTV-11 戲曲
+http://50.7.233.114:8278/cctv11/playlist.m3u8
+#EXTINF:-1 tvg-id="545946" tvg-name="CCTV-14 少兒" tvg-logo="logos/CCTV_14_2013.png" group-title="中国大陆",CCTV-14 少兒
+http://50.7.233.114:8278/cctv14/playlist.m3u8
+#EXTINF:-1 tvg-id="539700" tvg-name="浙江卫视" tvg-logo="logos/_693.png" group-title="中国大陆",浙江卫视
+http://50.7.233.114:8278/zhejiang_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="539834" tvg-name="江苏卫视" tvg-logo="logos/_691.png" group-title="中国大陆",江苏卫视
+http://50.7.233.114:8278/jiangsu_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="583644" tvg-name="CCTV-13 新聞與頻道" tvg-logo="logos/CCTV_13_723.png" group-title="中国大陆",CCTV-13 新聞與頻道
+http://50.7.233.114:8278/cctv13/playlist.m3u8
+#EXTINF:-1 tvg-id="539717" tvg-name="福建东南卫视" tvg-logo="logos/_697.png" group-title="中国大陆",福建东南卫视
+http://50.7.233.114:8278/fujian/playlist.m3u8
+#EXTINF:-1 tvg-id="539677" tvg-name="广东南方卫视" tvg-logo="logos/_601.jpg" group-title="中国大陆",广东南方卫视
+http://50.7.233.114:8278/nanfang_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="539712" tvg-name="广东卫视" tvg-logo="logos/_2057.png" group-title="中国大陆",广东卫视
+http://50.7.233.114:8278/guangdongweishi_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="539726" tvg-name="北京卫视" tvg-logo="logos/_605.png" group-title="中国大陆",北京卫视
+http://50.7.233.114:8278/beijing/playlist.m3u8
+#EXTINF:-1 tvg-name="珠江台" tvg-logo="logos/_609.png" group-title="中国大陆",珠江台
+http://50.7.233.114:8278/zhujiang/playlist.m3u8
+#EXTINF:-1 tvg-id="539826" tvg-name="四川卫视" tvg-logo="logos/_701.png" group-title="中国大陆",四川卫视
+http://50.7.233.114:8278/sichuan_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="539699" tvg-name="东方卫视" tvg-logo="logos/_2229.png" group-title="中国大陆",东方卫视
+http://50.7.233.114:8278/dongfangweishi_twn/playlist.m3u8
+#EXTINF:-1 tvg-name="鳳凰資訊" tvg-logo="logos/_61.png" group-title="中国大陆",鳳凰資訊
+http://50.7.233.114:8278/phoenixinfo_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="545936" tvg-name="CCTV-5 體育" tvg-logo="logos/CCTV_5_1631.png" group-title="中国大陆",CCTV-5 體育
+http://50.7.233.114:8278/cctv5/playlist.m3u8
+#EXTINF:-1 tvg-id="577151" tvg-name="Sun TV HD" tvg-logo="logos/Sun_TV_HD_127.png" group-title="印度",Sun TV HD
+http://50.7.233.114:8278/Suntv/playlist.m3u8
+#EXTINF:-1 tvg-id="576960" tvg-name="Sun Music" tvg-logo="logos/Sun_Music_2127.jpg" group-title="印度",Sun Music
+http://50.7.233.114:8278/Sunmusic/playlist.m3u8
+#EXTINF:-1 tvg-id="576983" tvg-name="Astro Sunlife" tvg-logo="logos/Astro_Sunlife_2763.jpeg" group-title="印度",Astro Sunlife
+http://50.7.233.114:8278/Sunlife/playlist.m3u8
+#EXTINF:-1 tvg-name="Astro Vaanavil" tvg-logo="logos/Astro_Vaanavil_2749.jpg" group-title="印度",Astro Vaanavil
+http://50.7.233.114:8278/Vaanavil/playlist.m3u8
+#EXTINF:-1 tvg-id="577246" tvg-name="Zee Business" tvg-logo="logos/Zee_Business_1593.jpg" group-title="印度",Zee Business
+http://50.7.233.114:8278/Zeebusiness/playlist.m3u8
+#EXTINF:-1 tvg-id="577169" tvg-name="Adithya" tvg-logo="logos/Adithya_2665.jpg" group-title="印度",Adithya
+http://50.7.233.114:8278/Adithya/playlist.m3u8
+#EXTINF:-1 tvg-id="577172" tvg-name="Zee Action" tvg-logo="logos/Zee_Action_131.png" group-title="印度",Zee Action
+http://50.7.233.114:8278/Zeeaction/playlist.m3u8
+#EXTINF:-1 tvg-id="577011" tvg-name="Zee Cinema HD" tvg-logo="logos/Zee_Cinema_HD_365.png" group-title="印度",Zee Cinema HD
+http://50.7.233.114:8278/Zeecinemahd/playlist.m3u8
+#EXTINF:-1 tvg-id="577021" tvg-name="Starplus HD" tvg-logo="logos/Starplus_HD_2771.png" group-title="印度",Starplus HD
+http://50.7.233.114:8278/Starplushd/playlist.m3u8
+#EXTINF:-1 tvg-id="577024" tvg-name="Picture HD" tvg-logo="logos/Picture_HD_367.png" group-title="印度",Picture HD
+http://50.7.233.114:8278/Npicture/playlist.m3u8
+#EXTINF:-1 tvg-id="576979" tvg-name="Natgeo Wild Tamil" tvg-logo="logos/Natgeo_Wild_Tamil_1839.jpg" group-title="印度",Natgeo Wild Tamil
+http://50.7.233.114:8278/natgeowildtamil_raj/playlist.m3u8
+#EXTINF:-1 tvg-id="577413" tvg-name="Discovery Kids Tamil" tvg-logo="logos/Discovery_Kids_Tamil_1841.png" group-title="印度",Discovery Kids Tamil
+http://50.7.233.114:8278/discoverykidtamil_raj/playlist.m3u8
+#EXTINF:-1 tvg-id="577245" tvg-name="Sony Yay Tamil" tvg-logo="logos/Sony_Yay_Tamil_1927.jpg" group-title="印度",Sony Yay Tamil
+http://50.7.233.114:8278/sonyyaytam_raj/playlist.m3u8
+#EXTINF:-1 tvg-id="577175" tvg-name="Starmaa HD" tvg-logo="logos/Starmaa_HD_2463.jpeg" group-title="印度",Starmaa HD
+http://50.7.233.114:8278/starmaa_raj/playlist.m3u8
+#EXTINF:-1 tvg-name="Astro PL 2" tvg-logo="logos/Astro_PL_2_2821.png" group-title="体育",Astro PL 2
+http://50.7.233.114:8278/go_assp2/playlist.m3u8
+#EXTINF:-1 tvg-id="365941" tvg-name="Supersports 2" tvg-logo="logos/Supersports_2_1789.jpg" group-title="体育",Supersports 2
+http://50.7.233.114:8278/Assp2/playlist.m3u8
+#EXTINF:-1 tvg-id="397399" tvg-name="Astro Football" tvg-logo="logos/Astro_Football_2823.png" group-title="体育",Astro Football
+http://50.7.233.114:8278/Assp4/playlist.m3u8
+#EXTINF:-1 tvg-id="410417" tvg-name="Astro Cricket" tvg-logo="logos/Astro_Cricket_2653.png" group-title="体育",Astro Cricket
+http://50.7.233.114:8278/Acricket/playlist.m3u8
+#EXTINF:-1 tvg-id="575769" tvg-name="Astro Golf" tvg-logo="logos/Astro_Golf_2611.png" group-title="体育",Astro Golf
+http://50.7.233.114:8278/Agolf/playlist.m3u8
+#EXTINF:-1 tvg-id="3683" tvg-name="SPOTV 1 HD" tvg-logo="logos/SPOTV_1_HD_2709.png" group-title="体育",SPOTV 1 HD
+http://50.7.233.114:8278/go_spotv/playlist.m3u8
+#EXTINF:-1 tvg-id="399482" tvg-name="Astro Beinsports 1" tvg-logo="logos/Astro_Beinsports_1_2825.jpeg" group-title="体育",Astro Beinsports 1
+http://50.7.233.114:8278/Astrobein1/playlist.m3u8
+#EXTINF:-1 tvg-id="3118" tvg-name="Astro Beinsports 3" tvg-logo="logos/Astro_Beinsports_3_2827.jpeg" group-title="体育",Astro Beinsports 3
+http://50.7.233.114:8278/Astrobein3/playlist.m3u8
+#EXTINF:-1 tvg-id="397400" tvg-name="Astro Badminton 1" tvg-logo="logos/Astro_Badminton_1_2935.jpeg" group-title="体育",Astro Badminton 1
+http://50.7.233.114:8278/Pak_badminton1/playlist.m3u8
+#EXTINF:-1 tvg-id="365941" tvg-name="TNT Sports 2" tvg-logo="logos/TNT_Sports_2_2765.png" group-title="体育",TNT Sports 2
+http://50.7.233.114:8278/tntsport2/playlist.m3u8
+#EXTINF:-1 tvg-id="365943" tvg-name="TNT Sports 4" tvg-logo="logos/TNT_Sports_4_2767.png" group-title="体育",TNT Sports 4
+http://50.7.233.114:8278/tntsport4/playlist.m3u8
+#EXTINF:-1 tvg-name="Rugby Pass TV" tvg-logo="logos/Rugby_Pass_TV_2695.png" group-title="体育",Rugby Pass TV
+http://50.7.233.114:8278/Rugbypasstv/playlist.m3u8
+#EXTINF:-1 tvg-name="Skysports Cricket" tvg-logo="logos/Skysports_Cricket_2861.png" group-title="体育",Skysports Cricket
+http://50.7.233.114:8278/tiankongcricket/playlist.m3u8
+#EXTINF:-1 tvg-name="Skysports F1" tvg-logo="logos/Skysports_F1_2863.png" group-title="体育",Skysports F1
+http://50.7.233.114:8278/tiankongf1/playlist.m3u8
+#EXTINF:-1 tvg-name="Skysports Main Event" tvg-logo="logos/Skysports_Main_Event_2865.png" group-title="体育",Skysports Main Event
+http://50.7.233.114:8278/tiankongmain/playlist.m3u8
+#EXTINF:-1 tvg-name="Skysports Racing" tvg-logo="logos/Skysports_Racing_2867.png" group-title="体育",Skysports Racing
+http://50.7.233.114:8278/tiankongracing/playlist.m3u8
+#EXTINF:-1 tvg-id="450289" tvg-name="Skysports Football" tvg-logo="logos/Skysports_Football_2931.png" group-title="体育",Skysports Football
+http://50.7.233.114:8278/tiankongfootball/playlist.m3u8
+#EXTINF:-1 tvg-name="Skysports Arena" tvg-logo="logos/Skysports_Arena_2933.png" group-title="体育",Skysports Arena
+http://50.7.233.114:8278/tiankongarena/playlist.m3u8
+#EXTINF:-1 tvg-name="Channel 5 Thailand" tvg-logo="logos/Channel_5_Thailand_459.png" group-title="泰国",Channel 5 Thailand
+http://50.7.233.114:8278/ch5_pat/playlist.m3u8
+#EXTINF:-1 tvg-name="PPTV Thailand1" tvg-logo="logos/PPTV_Thailand1_1001.png" group-title="泰国",PPTV Thailand1
+http://50.7.233.114:8278/pptv_pat/playlist.m3u8
+#EXTINF:-1 tvg-name="Amarin" tvg-logo="logos/Amarin_2239.jpg" group-title="泰国",Amarin
+http://50.7.233.114:8278/amarin_pat/playlist.m3u8
+#EXTINF:-1 tvg-name="GmmOne" tvg-logo="logos/GmmOne_2241.jpg" group-title="泰国",GmmOne
+http://50.7.233.114:8278/gmmone_pat/playlist.m3u8
+#EXTINF:-1 tvg-name="Thairath" tvg-logo="logos/Thairath_2243.jpg" group-title="泰国",Thairath
+http://50.7.233.114:8278/thairath_pat/playlist.m3u8
+#EXTINF:-1 tvg-name="Workpoint" tvg-logo="logos/Workpoint_2245.jpg" group-title="泰国",Workpoint
+http://50.7.233.114:8278/workpoint_pat/playlist.m3u8
+#EXTINF:-1 tvg-name="Nation" tvg-logo="logos/Nation_2247.png" group-title="泰国",Nation
+http://50.7.233.114:8278/nation_pat/playlist.m3u8
+#EXTINF:-1 tvg-name="Nbt" tvg-logo="logos/Nbt_2249.jpg" group-title="泰国",Nbt
+http://50.7.233.114:8278/nbt_pat/playlist.m3u8
+#EXTINF:-1 tvg-name="TPTV" tvg-logo="logos/TPTV_2251.jpg" group-title="泰国",TPTV
+http://50.7.233.114:8278/tptv_pat/playlist.m3u8
+#EXTINF:-1 tvg-name="True 4U" tvg-logo="logos/True_4U_2949.png" group-title="泰国",True 4U
+http://50.7.233.114:8278/true4u_pat/playlist.m3u8
+#EXTINF:-1 tvg-name="Arirang HD" tvg-logo="logos/Arirang_HD_2421.png" group-title="韩国",Arirang HD
+http://50.7.233.114:8278/arirang_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="368366" tvg-name="翡翠台" tvg-logo="logos/_1939.webp" group-title="香港",翡翠台
+http://50.7.233.114:8278/Jade_xue/playlist.m3u8
+#EXTINF:-1 tvg-id="410344" tvg-name="iNews 互動新聞台" tvg-logo="logos/iNews_1619.png" group-title="香港",iNews 互動新聞台
+http://50.7.233.114:8278/inews_twn/playlist.m3u8
+#EXTINF:-1 tvg-name="J 2" tvg-logo="logos/J_2_1615.jpg" group-title="香港",J 2
+http://50.7.233.114:8278/j2_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="368369" tvg-name="珍珠台" tvg-logo="logos/_1617.png" group-title="香港",珍珠台
+http://50.7.233.114:8278/pearl_twn/playlist.m3u8
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="logos/_1345.png" group-title="香港",凤凰香港
+http://50.7.233.114:8278/hkphoenix_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="368550" tvg-name="RHK 31" tvg-logo="logos/RHK_31_1823.png" group-title="香港",RHK 31
+http://50.7.233.114:8278/rhk31_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="565569" tvg-name="VIUTV1" tvg-logo="logos/VIUTV1_1825.jpg" group-title="香港",VIUTV1
+http://50.7.233.114:8278/viu1_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="565551" tvg-name="Viu6" tvg-logo="logos/Viu6_2469.png" group-title="香港",Viu6
+http://50.7.233.114:8278/viusix_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="575869" tvg-name="VTV 3" tvg-logo="logos/VTV_3_2753.png" group-title="越南",VTV 3
+http://50.7.233.114:8278/vtn_vtv3/playlist.m3u8
+#EXTINF:-1 tvg-name="VTV 6" tvg-logo="logos/VTV_6_2873.png" group-title="越南",VTV 6
+http://50.7.233.114:8278/vtn_vtv6/playlist.m3u8
+#EXTINF:-1 tvg-name="TBKTV" tvg-logo="logos/TBKTV_2875.png" group-title="越南",TBKTV
+http://50.7.233.114:8278/vtn_tbktv/playlist.m3u8
+#EXTINF:-1 tvg-name="CTV HD" tvg-logo="logos/CTV_HD_2877.png" group-title="越南",CTV HD
+http://50.7.233.114:8278/vtn_ctvhd/playlist.m3u8
+#EXTINF:-1 tvg-name="CI" tvg-logo="logos/CI_1243.png" group-title="纪录",CI
+http://50.7.233.114:8278/ci_twn/playlist.m3u8
+#EXTINF:-1 tvg-name="Asia Travel" tvg-logo="logos/Asia_Travel_479.png" group-title="纪录",Asia Travel
+http://50.7.233.114:8278/asiatravel_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="576979" tvg-name="NatGeo HD" tvg-logo="logos/NatGeo_HD_2235.png" group-title="纪录",NatGeo HD
+http://50.7.233.114:8278/Natgeo/playlist.m3u8
+#EXTINF:-1 tvg-id="457286" tvg-name="Fashion TV" tvg-logo="logos/Fashion_TV_2117.jpg" group-title="纪录",Fashion TV
+http://50.7.233.114:8278/fashiontv_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="4030" tvg-name="BBC Earth HD" tvg-logo="logos/BBC_Earth_HD_2037.jpg" group-title="纪录",BBC Earth HD
+http://50.7.233.114:8278/bbcearth_twn/playlist.m3u8
+#EXTINF:-1 tvg-name="CBSN HD" tvg-logo="logos/CBSN_HD_1769.jpg" group-title="新闻",CBSN HD
+http://50.7.233.114:8278/cbsn_glo/playlist.m3u8
+#EXTINF:-1 tvg-id="369713" tvg-name="Fox News" tvg-logo="logos/Fox_News_2535.png" group-title="新闻",Fox News
+http://50.7.233.114:8278/foxnews_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="3416" tvg-name="Al-Jazeera" tvg-logo="logos/Al_Jazeera_1089.png" group-title="新闻",Al-Jazeera
+http://50.7.233.114:8278/aljazeera_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="457348" tvg-name="Bloomberg News" tvg-logo="logos/Bloomberg_News_267.png" group-title="新闻",Bloomberg News
+http://50.7.233.114:8278/bloomberg_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="492816" tvg-name="Channel 5" tvg-logo="logos/Channel_5_1601.jpg" group-title="新加坡",Channel 5
+http://50.7.233.114:8278/Channel5HD/playlist.m3u8
+#EXTINF:-1 tvg-id="492894" tvg-name="Channel 8" tvg-logo="logos/Channel_8_1602.jpg" group-title="新加坡",Channel 8
+http://50.7.233.114:8278/Mewatch_ch8/playlist.m3u8
+#EXTINF:-1 tvg-id="492901" tvg-name="Suria" tvg-logo="logos/Suria_284.png" group-title="新加坡",Suria
+http://50.7.233.114:8278/Mewatch_Suria/playlist.m3u8
+#EXTINF:-1 tvg-id="492817" tvg-name="Vasantham" tvg-logo="logos/Vasantham_287.jpg" group-title="新加坡",Vasantham
+http://50.7.233.114:8278/Vasantham/playlist.m3u8
+#EXTINF:-1 tvg-id="492874" tvg-name="CNA" tvg-logo="logos/CNA_2793.png" group-title="新加坡",CNA
+http://50.7.233.114:8278/Mewatch_cna/playlist.m3u8
+#EXTINF:-1 tvg-id="524098" tvg-name="Kids TV" tvg-logo="logos/Kids_TV_2281.png" group-title="儿童",Kids TV
+http://50.7.233.114:8278/KidsTV/playlist.m3u8
+#EXTINF:-1 tvg-id="370167" tvg-name="Momo TV" tvg-logo="logos/Momo_TV_241.png" group-title="儿童",Momo TV
+http://50.7.233.114:8278/momo1_twn/playlist.m3u8
+#EXTINF:-1 tvg-name="MiaoMi" tvg-logo="logos/MiaoMi_2283.png" group-title="儿童",MiaoMi
+http://50.7.233.114:8278/MiaoMi/playlist.m3u8
